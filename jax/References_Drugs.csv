@@ -1,0 +1,2639 @@
+,References_id
+0,ASP3026,6849,['ASP3026'],11
+0,Methylnaltrexone,4809,"['Methylnaltrexone', 'Relistor', 'MNTX']",36
+0,Sapitinib,7016,"['Sapitinib', 'AZD8931', 'AZD89311']",42
+0,CUDC-101,7124,['CUDC-101'],43
+0,JNJ-26483327,7143,['JNJ-26483327'],45
+0,ENMD-2076,6903,['ENMD-2076'],47
+0,Cabozantinib,7115,"['Cabozantinib', 'Cometriq', 'Cabometyx', 'Cabozantinib-s-malate', 'XL184']",54
+0,MVAp53,7157,"['MVAp53', 'p53MVA']",56
+0,RAF265,6999,['RAF265'],61
+0,ENMD-2076,6903,['ENMD-2076'],68
+0,ABT-348,7082,"['ABT-348', 'ilorasertib']",70
+0,LY2801653,7147,"['LY2801653', 'Merestinib']",92
+0,Doxorubicin,986,"['Doxorubicin', 'Adriamycin', 'ADR', 'Adria']",96
+1,Epirubicin,437,"['Epirubicin', 'Ellence']",96
+0,BKM120,6875,"['BKM120', 'BKM-120', 'Buparlisib']",156
+0,Safingol,7167,"['Safingol', 'Kynacyte', 'Sphinganine']",159
+0,Riluzole,7165,"['Riluzole', 'Rilutek']",160
+0,Itraconazole,1154,"['Itraconazole', 'Hyphanox', 'ITC']",166
+0,Antroquinonol,7098,"['Antroquinonol', 'Hocena', 'Hocena']",168
+0,GDC-0623,6910,['GDC-0623'],187
+0,Copanlisib,7112,"['Copanlisib', 'Aliqopa', 'BAY80-6946']",188
+0,CO1686,7122,"['CO1686', 'Rociletinib']",194
+0,AB0023,8511,['AB0023'],202
+0,RXDX-105,7121,"['RXDX-105', 'AC013773', 'CEP-32496']",203
+0,AT13148,8189,['AT13148'],204
+0,AR-42 ,7101,"['AR-42 ', 'HDAC42']",205
+0,GDC-0032 ,7133,"['GDC-0032 ', 'RG7606', 'Taselisib']",206
+0,PD0166285,7070,['PD0166285'],209
+0,Gedatolisib,7159,"['Gedatolisib', 'PF-05212384', 'PKI-587']",220
+0,A66,7056,['A66'],223
+0,PF-04691502,6986,['PF-04691502'],226
+0,Alpelisib,6882,"['Alpelisib', 'BYL719']",236
+0,ABBV-181,8786,['ABBV-181'],275
+1,ABBV-368,8693,['ABBV-368'],275
+2,ABBV-428,8601,['ABBV-428'],275
+3,ABBV-621,8777,['ABBV-621'],275
+4,ABBV-927,8619,['ABBV-927'],275
+5,AK-01,8774,['AK-01'],275
+6,ALKS 4230,8403,['ALKS 4230'],275
+7,ALX148,8635,['ALX148'],275
+8,AMG 596,8957,['AMG 596'],275
+9,ARQ 751,8420,['ARQ 751'],275
+10,AZD4635,8381,['AZD4635'],275
+11,BI 754091,8747,['BI 754091'],275
+12,BI 754111,8745,['BI 754111'],275
+13,BI 891065,8958,['BI 891065'],275
+14,BMS-986156,8136,['BMS-986156'],275
+15,BMS-986178,8330,['BMS-986178'],275
+16,BMS-986179,8375,['BMS-986179'],275
+17,BMS-986183,8729,['BMS-986183'],275
+18,BMS-986205,8143,['BMS-986205'],275
+19,BMS-986207 ,8568,['BMS-986207 '],275
+20,BMS-986218,8716,['BMS-986218'],275
+21,BMS-986226,8922,['BMS-986226'],275
+22,BPI-9016M,8255,['BPI-9016M'],275
+23,CBT-101,8873,['CBT-101'],275
+24,CV301,8644,"['CV301', 'CV-301']",275
+25,CX-072,8634,['CX-072'],275
+26,CX-2009,8759,['CX-2009'],275
+27,FAZ053,8589,['FAZ053'],275
+28,FT-2102,8424,['FT-2102'],275
+29,GDC-0077,8627,"['GDC-0077', 'RO7113755']",275
+30,HER2-pulsed DC1 vaccine,8639,"['HER2-pulsed DC1 vaccine', 'HER2-pulsed type-1 polarized autologous dendritic cell vaccine']",275
+31,HLX07,8303,['HLX07'],275
+32,HMPL-453,8200,['HMPL-453'],275
+33,HMPL-689,8199,['HMPL-689'],275
+34,HS-110,7537,"['HS-110', 'Viagenpumatucel-L', 'AD100-gp96-Ig-HLA A1']",275
+35,IGF-1R/AS ODN,8415,['IGF-1R/AS ODN'],275
+36,INCB057643 ,8410,['INCB057643 '],275
+37,INCB062079,8825,['INCB062079'],275
+38,Intuvax,8678,['Intuvax'],275
+39,JNJ-61610588 ,8173,['JNJ-61610588 '],275
+40,KITE-718,8801,['KITE-718'],275
+41,KITE-796,8800,['KITE-796'],275
+42,LHC165,8966,['LHC165'],275
+43,LSZ 102,8455,['LSZ 102'],275
+44,LY2880070,8406,['LY2880070'],275
+45,LY3127804 ,8139,['LY3127804 '],275
+46,LY3214996,8491,['LY3214996'],275
+47,LY3300054,8435,['LY3300054'],275
+48,LY3321367,8717,['LY3321367'],275
+49,LZM009,8962,['LZM009'],275
+50,M3541,8903,['M3541'],275
+51,MBG453,8137,['MBG453'],275
+52,MEDI0457,8798,['MEDI0457'],275
+53,MEDI3726,8637,['MEDI3726'],275
+54,MEDI5083,8724,['MEDI5083'],275
+55,MEDI7247,8783,['MEDI7247'],275
+56,MEDI9090 ,8533,['MEDI9090 '],275
+57,MGA012,8808,['MGA012'],275
+58,MK-1308,8898,['MK-1308'],275
+59,MK-1454,8670,['MK-1454'],275
+60,MK-2118,8921,['MK-2118'],275
+61,MK-4280,8379,['MK-4280'],275
+62,MK-7684,8638,['MK-7684'],275
+63,MTIG7192A ,8394,"['MTIG7192A ', 'RO7092284']",275
+64,NEO-PV-01,8534,['NEO-PV-01'],275
+65,NIZ985,8897,['NIZ985'],275
+66,Narnatumab,7990,['Narnatumab'],275
+67,Navicixizumab,8792,['Navicixizumab'],275
+68,PAN-301-1,8755,['PAN-301-1'],275
+69,PF-06688992,8757,['PF-06688992'],275
+70,PF-06755990,8141,['PF-06755990'],275
+71,PF-06755992 ,8140,['PF-06755992 '],275
+72,PLX73086,8421,['PLX73086'],275
+73,PT 2977,8814,"['PT 2977', 'PT2977']",275
+74,RK22446,8867,['RK22446'],275
+75,RNA CART-cMET,8816,['RNA CART-cMET'],275
+76,RNA CART19 cells,8888,['RNA CART19 cells'],275
+77,RO6874813,8419,['RO6874813'],275
+78,RO7082859,8785,['RO7082859'],275
+79,RO7198457,8948,"['RO7198457', 'PCV']",275
+80,RP4010,8782,['RP4010'],275
+81,SAR439459,8865,['SAR439459'],275
+82,SC-006,8769,['SC-006'],275
+83,SDX-7320,8416,['SDX-7320'],275
+84,SPL-108,8784,['SPL-108'],275
+85,SX-682,8797,['SX-682'],275
+86,SYM015,8413,['SYM015'],275
+87,TPIV 200,8374,['TPIV 200'],275
+88,TRK-950,8827,['TRK-950'],275
+89,TRPH 011 ,8363,['TRPH 011 '],275
+90,Theliatinib,8198,"['Theliatinib', 'HMPL-309']",275
+91,X4P-001,8144,['X4P-001'],275
+92,ZEN003694,8331,['ZEN003694'],275
+0,Trigriluzole,8900,['Trigriluzole'],285
+0,Abemaciclib,6942,"['Abemaciclib', 'Verzenio', 'LY2835219']",286
+1,Afatinib,6823,"['Afatinib', 'Gilotrif', 'BIBW 2992']",286
+2,Aflibercept,6795,"['Aflibercept', 'Zaltrap', 'AVE 0005', 'Eylea']",286
+3,Alectinib,6885,"['Alectinib', 'Alecensa', 'CH5424802', 'RO5424802']",286
+4,Arsenic trioxide,1156,"['Arsenic trioxide', 'Trisenox', 'ATO']",286
+5,Asparaginase Erwinia chrysanthemi,8857,"['Asparaginase Erwinia chrysanthemi', 'Erwinaze', 'crisantaspase']",286
+6,Atezolizumab,7221,"['Atezolizumab', 'Tecentriq', 'MPDL3280A', 'RG7446']",286
+7,Avelumab,7952,"['Avelumab', 'Bavencio', 'MSB0010718C']",286
+8,Axitinib,4739,"['Axitinib', 'Inlyta', 'AG-013736']",286
+9,BCG solution,8459,"['BCG solution', 'TICE BCG solution', 'Bacillus Calmette-Guerin solution']",286
+10,Balsalazide,1003,"['Balsalazide', 'Carbadox', 'Balsalazida [Spanish]']",286
+11,Belinostat,7194,"['Belinostat', 'Beleodaq', 'NSC726630', 'PX-105684', 'PXD101']",286
+12,Bevacizumab,107,"['Bevacizumab', 'Avastin']",286
+13,Bevacizumab-awwb,7438,"['Bevacizumab-awwb', 'Mvasi', 'ABP 215']",286
+14,Bicalutamide,1115,"['Bicalutamide', 'Casodex']",286
+15,Blinatumomab ,7355,"['Blinatumomab ', 'Blincyto', 'anti-CD19/anti-CD3 recombinant bispecific', 'MEDI-538', 'monoclonal antibody MT103']",286
+16,Bortezomib,181,"['Bortezomib', 'Velcade']",286
+17,Bosutinib,4738,"['Bosutinib', 'Bosulif', 'SKI-606']",286
+18,Brigatinib,6840,"['Brigatinib', 'Alunbrig', 'AP26113']",286
+19,Cabozantinib,7115,"['Cabozantinib', 'Cometriq', 'Cabometyx', 'Cabozantinib-s-malate', 'XL184']",286
+20,Carfilzomib,7299,"['Carfilzomib', 'Kyprolis', 'PR-171']",286
+21,Celecoxib,474,"['Celecoxib', 'Celebra']",286
+22,Ceritinib,6932,"['Ceritinib', 'Zykadia', 'LDK378']",286
+23,Cetuximab,2,"['Cetuximab', 'Erbitux']",286
+24,Cobimetinib,7123,"['Cobimetinib', 'Cotellic', 'GDC-0973']",286
+25,Copanlisib,7112,"['Copanlisib', 'Aliqopa', 'BAY80-6946']",286
+26,Crizotinib,6890,"['Crizotinib', 'Xalkori', 'PF-02341066']",286
+27,Cyclophosphamide,521,"['Cyclophosphamide', 'Cytoxan', 'CPM']",286
+28,Dabrafenib,6819,"['Dabrafenib', 'Tafinlar', 'GSK2118436']",286
+29,Dacarbazine,841,"['Dacarbazine', 'Deticene', 'Biocarbazine R']",286
+30,Daratumumab,7302,"['Daratumumab', 'Darzalex', 'anti-CD38 monoclonal antibody']",286
+31,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",286
+32,Daunorubicin,684,"['Daunorubicin', 'Cerubidine', 'Acetyladriamycin', 'daunomycin hydrochloride', 'Rubidomycin', 'rubomycin C']",286
+33,Daunoxome,7125,"['Daunoxome', 'liposomal daunorubicin citrate']",286
+34,Denosumab,7220,"['Denosumab', 'Xgeva', 'AMG 162', 'AMG-162', 'AMG162', 'Prolia']",286
+35,Dinutuximab  ,7480,"['Dinutuximab  ', 'Unituxin', 'MOAB Ch14.18']",286
+36,Doxorubicin,986,"['Doxorubicin', 'Adriamycin', 'ADR', 'Adria']",286
+37,Durvalumab,7245,"['Durvalumab', 'Imfinzi', 'MEDI4736']",286
+38,Elotuzumab,8048,"['Elotuzumab', 'Empliciti']",286
+39,Enasidenib,7889,"['Enasidenib', 'Idhifa', 'AG-221']",286
+40,Enzalutamide,7230,"['Enzalutamide', 'XTANDI', 'MDV3100']",286
+41,Epirubicin,437,"['Epirubicin', 'Ellence']",286
+42,Erlotinib,520,"['Erlotinib', 'Tarceva', 'CP358774']",286
+43,Everolimus,1530,"['Everolimus', 'Afinitor', 'RAD001', 'Zortress']",286
+44,Fingolimod,6778,"['Fingolimod', 'Gilenya', 'FTY720']",286
+45,Fluorouracil,534,"['Fluorouracil', 'Adrucil', '5-FU']",286
+46,Fulvestrant,936,"['Fulvestrant', 'Faslodex', 'ICI 182,780']",286
+47,Gefitinib,310,"['Gefitinib', 'Iressa', 'ZD1839']",286
+48,Gemtuzumab ozogamicin,6915,"['Gemtuzumab ozogamicin', 'Mylotarg', 'CDP-771', 'CMA-676', 'gemtuzumab', 'WAY-CMA-676']",286
+49,Goserelin,14,"['Goserelin', 'Zoladex', 'Goserelin acetate']",286
+50,Idarubicin,1164,"['Idarubicin', 'Idamycin', 'Idarubicin Hcl']",286
+51,Idelalisib ,7140,"['Idelalisib ', 'Zydelig', 'CAL-101', 'GS-1101']",286
+52,Imatinib mesylate,609,"['Imatinib mesylate', 'Gleevec', 'CGP-57148B', 'STI571']",286
+53,Ipilimumab,6926,"['Ipilimumab', 'Yervoy', 'BMS-734016']",286
+54,Lapatinib,1246,"['Lapatinib', 'Tykerb', 'FMM']",286
+55,Lenvatinib,6934,"['Lenvatinib', 'Lenvima', 'E7080']",286
+56,Letrozole,995,"['Letrozole', 'Femara', 'Letrozol']",286
+57,Melphalan,1030,"['Melphalan', 'Alkeran']",286
+58,Metformin,323,"['Metformin', 'Glucophage', 'Apo-Metformin']",286
+59,Methotrexate,553,"['Methotrexate', 'Abitrexate', 'Amethopterin']",286
+60,Midostaurin,6949,"['Midostaurin', 'Rydapt', 'CGP 41251', 'PKC412']",286
+61,Neratinib,6962,"['Neratinib', 'Nerlynx', 'HKI-272', 'PB272']",286
+62,Nilotinib,4655,"['Nilotinib', 'Tasigna', 'AMN-107']",286
+63,Nintedanib,6964,"['Nintedanib', 'Ofev', 'BIBF 1120', 'Vargatef']",286
+64,Niraparib,6965,"['Niraparib', 'Zejula', 'MK4827']",286
+65,Nivolumab,7235,"['Nivolumab', 'Opdivo', 'BMS-936558', 'MDX-1106']",286
+66,Obinutuzumab,7305,"['Obinutuzumab', 'Gazyva', 'afutuzumab', 'GA-101', 'GA101', 'R7159', 'RO 5072759']",286
+67,Ofatumumab,7203,"['Ofatumumab', 'Arzerra', 'HuMax-CD20']",286
+68,Olaparib,6971,"['Olaparib', 'Lynparza', 'AZD2281', 'KU-0059436']",286
+69,Olaratumab,8000,"['Olaratumab', 'Lartruvo', 'IMC-3G3']",286
+70,Osimertinib,7059,"['Osimertinib', 'Tagrisso', 'AZD9291']",286
+71,Oxaliplatin,516,"['Oxaliplatin', 'Eloxatin', 'Diaminocyclohexane Oxalatoplatinum']",286
+72,Palbociclib,6979,"['Palbociclib', 'Ibrance', 'PD0332991']",286
+73,Panobinostat,7196,"['Panobinostat', 'Farydak', 'LBH589']",286
+74,Pazopanib,4734,"['Pazopanib', 'Votrient', 'GW-786034']",286
+75,Pembrolizumab,7262,"['Pembrolizumab', 'Keytruda', 'MK-3475']",286
+76,Pertuzumab,4730,"['Pertuzumab', 'Perjeta', '2C4 Antibody']",286
+77,Ponatinib,6808,"['Ponatinib', 'Iclusig', 'AP24534']",286
+78,Ramucirumab,7001,"['Ramucirumab', 'Cyramza', 'LY3009806']",286
+79,Regorafenib,6803,"['Regorafenib', 'Stivarga', 'BAY 73-4506']",286
+80,Ribociclib,6826,"['Ribociclib', 'Kisqali', 'LEE011']",286
+81,Romidepsin ,7191,"['Romidepsin ', 'Istodax', 'depsipeptide', 'FK228', 'FR901228', 'NSC 630176']",286
+82,Rucaparib,7013,"['Rucaparib', 'Rubraca', 'AG014699', 'CO-388', 'PF-01367338']",286
+83,Ruxolitinib,6787,"['Ruxolitinib', 'Jakafi', 'INCB 18424', 'INCB018424', 'INCB18424']",286
+84,Sirolimus,867,"['Sirolimus', 'Rapamune', 'Rapamycin']",286
+85,Sorafenib,390,"['Sorafenib', 'Nexavar', 'BAY 43-9006']",286
+86,Sulindac,595,"['Sulindac', 'Clinoril']",286
+87,Sunitinib,1255,"['Sunitinib', 'Sutent', 'SU011248']",286
+88,Temsirolimus,4727,"['Temsirolimus', 'Torisel', 'CCI-779']",286
+89,Tisagenlecleucel,8879,"['Tisagenlecleucel', 'Kymriah', 'CTL019']",286
+90,Tocilizumab,4724,"['Tocilizumab', 'Actemra', 'Atlizumab']",286
+91,Tofacitinib,7035,"['Tofacitinib', 'XELJANZ', 'CP-690550', 'Tasocitinib']",286
+92,Trametinib,6818,"['Trametinib', 'Mekinist', 'GSK1120212']",286
+93,Trastuzumab,71,"['Trastuzumab', 'Herceptin', 'Anti HER2']",286
+94,Valproic acid,7192,"['Valproic acid', 'Depakene', 'Depacon']",286
+95,Valrubicin,7174,"['Valrubicin', 'Valstar', 'AD-32', 'Antibiotic Ad 32']",286
+96,Vandetanib,4691,"['Vandetanib', 'Caprelsa', 'ZD6474']",286
+97,Vemurafenib,6791,"['Vemurafenib', 'Zelboraf', 'PLX4032', 'RO5185426']",286
+98,Venetoclax,7284,"['Venetoclax', 'Venclexta ', 'ABT-199', 'GDC-0199', 'RG7601']",286
+99,Vinorelbine,353,"['Vinorelbine', 'Navelbine', 'Vinorelbin']",286
+100,Vismodegib,6764,"['Vismodegib', 'Erivedge', 'GDC-0449']",286
+101,Vorinostat,7193,"['Vorinostat', 'Zolinza', 'L-001079038', 'MSK390', 'SAHA']",286
+102,inotuzumab ozogamicin,7969,"['inotuzumab ozogamicin', 'Besponsa']",286
+103,pegylated liposomal-doxorubicin,7126,"['pegylated liposomal-doxorubicin', 'Doxil', 'ATI-0918', 'CAELYX']",286
+104,siltuximab,8096,"['siltuximab', 'Sylvant', 'CNTO 328', 'CNTO328']",286
+105,trastuzumab emtansine,7252,"['trastuzumab emtansine', 'Kadcyla', 'ado-trastuzumab emtansine', 'T-DM1']",286
+106,trifluridine/tipiracil hydrochloride,7528,"['trifluridine/tipiracil hydrochloride', 'Lonsurf', 'TAS-102']",286
+0, octreotide acetate  ,7240,"[' octreotide acetate  ', 'Sandostatin Lar Depot \t', 'SMS 201-995']",287
+1,131I-MIBG,7257,"['131I-MIBG', 'I131 Metaiodobenzylguanidine iodine', 'iobenguane I131']",287
+2,212Pb-TCMC-Trastuzumab,7188,['212Pb-TCMC-Trastuzumab'],287
+3,4SC-205,8362,['4SC-205'],287
+4,81C6,7431,"['81C6', 'Neuradiab', 'iodine I 131 monoclonal antibody 81C6']",287
+5,90Y basiliximab,7540,['90Y basiliximab'],287
+6,AB-16B5,8408,['AB-16B5'],287
+7,ABBV-085,8266,['ABBV-085'],287
+8,ABT-414,7085,['ABT-414'],287
+9,ABT-737,7337,['ABT-737'],287
+10,AC0010MA,7832,['AC0010MA'],287
+11,AC480,7086,"['AC480', 'BMS-599626']",287
+12,ACP-319,7997,['ACP-319'],287
+13,AEB071,6829,"['AEB071', 'Sotrastaurin']",287
+14,AG-120,7273,"['AG-120', 'Ivosidenib']",287
+15,AGEN1884,8750,['AGEN1884'],287
+16,AGS-16C3F,8380,['AGS-16C3F'],287
+17,AKN-028,7967,"['AKN-028', 'AKN028', 'BVT-II']",287
+18,AL-3818,7089,"['AL-3818', 'Anlotinib']",287
+19,ALRN-6924,7477,['ALRN-6924'],287
+20,AM0010,7615,['AM0010'],287
+21,AMG 337,7183,['AMG 337'],287
+22,AMG 900,7092,"['AMG 900', 'AMG-900', 'AMG900']",287
+23,AMG208,6836,['AMG208'],287
+24,AMP-224,8044,['AMP-224'],287
+25,APX005M,8262,"['APX005M', 'EPI-0050']",287
+26,ARGX-111,7449,['ARGX-111'],287
+27,ARQ 087,7823,['ARQ 087'],287
+28,ARQ092,6841,"['ARQ092', 'ARQ-092']",287
+29,ARRY-382,7778,['ARRY-382'],287
+30,ASN001,7559,['ASN001'],287
+31,ASP8273,7198,['ASP8273'],287
+32,ASTX727,7333,['ASTX727'],287
+33,AT-101,6850,"['AT-101', 'R-(-)-gossypol acetic acid\xa0']",287
+34,AV-412,7105,"['AV-412', 'MP-412']",287
+35,AVX901,7185,"['AVX901', 'DUKE-002-VRP', 'HER2 ECDTM VRP', 'HER2 VRP', 'VRP-HER2', 'VRP-neu']",287
+36,AZD0156,8135,['AZD0156'],287
+37,AZD0424,7565,['AZD0424'],287
+38,AZD3759,7835,['AZD3759'],287
+39,AZD8835,7382,['AZD8835'],287
+40,AZD9150 ,7733,"['AZD9150 ', 'ISIS-STAT3rx', 'ISIS 481464']",287
+41,AZD9496,7896,['AZD9496'],287
+42,Abexinostat,7197,"['Abexinostat', 'CRA-024781', 'PCI-24781', 'S-78454']",287
+43,Acalabrutinib,7296,"['Acalabrutinib', 'ACP-196']",287
+44,Ad-RTS-IL-12 plus AL,8388,"['Ad-RTS-IL-12 plus AL', 'adenovirus-mediated human interleukin-12 INXN-2001 plus veledimex']",287
+45,Ad.p53-DC vaccine,7087,"['Ad.p53-DC vaccine', 'INGN-225']",287
+46,Ad5CMV-p53 gene,7088,"['Ad5CMV-p53 gene', 'Advexin', 'Ad-p53', 'Adeno-p53', 'INGN-201', 'RPR/INGN-201']",287
+47,Afimoxifene,8616,"['Afimoxifene', '4-Hydroxy-Tamoxifen']",287
+48,Aflibercept,6795,"['Aflibercept', 'Zaltrap', 'AVE 0005', 'Eylea']",287
+49,Afuresertib,6831,"['Afuresertib', 'GSK2110183']",287
+50,Aldoxorubicin,7260,"['Aldoxorubicin', 'doxorubicin prodrug INNO-206', 'INNO-206']",287
+51,Alemtuzumab,83,"['Alemtuzumab', 'Campath']",287
+52,Alisertib,6832,"['Alisertib', 'MLN8237']",287
+53,Alpha 2 Interferon,7217,"['Alpha 2 Interferon', 'Roferon-A', 'Alferon', 'Interferon alfa 2a']",287
+54,Altiratinib,7310,"['Altiratinib', 'DCC-2701']",287
+55,Amuvatinib,6839,"['Amuvatinib', 'HPK56', 'MP470']",287
+56,Anastrozole,1204,"['Anastrozole', 'Arimidex', 'Anastrozol']",287
+57,Anti-VEGFR2 CAR CD8 lymphocytes,7096,['Anti-VEGFR2 CAR CD8 lymphocytes'],287
+58,Apalutamide,7369,"['Apalutamide', 'ARN-509', 'JNJ-56021927']",287
+59,Apatinib,7099,"['Apatinib', 'YN968D1']",287
+60,Asparaginase,23,"['Asparaginase', 'Elspar', 'ASP-1', 'L-asparaginase']",287
+61,Atezolizumab,7221,"['Atezolizumab', 'Tecentriq', 'MPDL3280A', 'RG7446']",287
+62,Atorvastatin,1063,"['Atorvastatin', 'Lipitor', 'Atogal']",287
+63,Autologous TGF beta resistant HER2 EBV CTLs,7253,['Autologous TGF beta resistant HER2 EBV CTLs'],287
+64,Avitinib,7840,['Avitinib'],287
+65,Axitinib,4739,"['Axitinib', 'Inlyta', 'AG-013736']",287
+66,Azacitidine,917,"['Azacitidine', 'Vidaza', '5-AC', '5-azacytidine', 'azacytidine', 'CC-486', 'U-18496']",287
+67,B-701,7852,['B-701'],287
+68,BAY1082439 ,7060,"['BAY1082439 ', 'BAY-1082439']",287
+69,BAY1125976,7111,['BAY1125976'],287
+70,BAY1161909,8076,"['BAY1161909', 'BAY 1161909']",287
+71,BAY1179470,7850,"['BAY1179470', 'BAY 1179470']",287
+72,BAY1187982,7849,"['BAY1187982', 'FGFR2-ADC']",287
+73,BAY1217389,8077,"['BAY1217389', 'BAY 1217389']",287
+74,BBI503,7367,['BBI503'],287
+75,BCG Tokyo-172 Strain Solution,8704,"['BCG Tokyo-172 Strain Solution', 'Bacillus Calmette-Guerin Tokyo-172 strain solution']",287
+76,BEZ235,6868,"['BEZ235', 'Dactolisib', 'NVP-BEZ235']",287
+77,BGB-3111,7573,['BGB-3111'],287
+78,BGB-A317,8841,['BGB-A317'],287
+79,BGJ398,6869,['BGJ398'],287
+80,BI-847325,7177,"['BI-847325', 'BI 847325', 'BI847325']",287
+81,BI2536,6871,['BI2536'],287
+82,BKM120,6875,"['BKM120', 'BKM-120', 'Buparlisib']",287
+83,BLU-667,8713,"['BLU-667', 'BLU667']",287
+84,BMS-833923,7520,"['BMS-833923', 'XL139']",287
+85,BMS-986012,8476,['BMS-986012'],287
+86,BMS-986016,8376,['BMS-986016'],287
+87,BMS-986148,8581,['BMS-986148'],287
+88,BMS753493,7989,['BMS753493'],287
+89,BMS986158,7758,['BMS986158'],287
+90,BMX-001,8822,['BMX-001'],287
+91,BPX-501,8899,['BPX-501'],287
+92,BPX-701,8881,['BPX-701'],287
+93,BVD-523,7114,"['BVD-523', 'Ulixertinib']",287
+94,Bendamustine,7225,"['Bendamustine', 'Treanda', 'Ribomustin', 'SDX-105', 'SyB L-0501']",287
+95,Bicalutamide,1115,"['Bicalutamide', 'Casodex']",287
+96,Brigatinib,6840,"['Brigatinib', 'Alunbrig', 'AP26113']",287
+97,Busulfan,997,"['Busulfan', 'Busulfex', 'Busulphan']",287
+98,CA-170,8844,['CA-170'],287
+99,CB-5083,7366,['CB-5083'],287
+100,CB-839,7312,['CB-839'],287
+101,CC-115 ,7119,['CC-115 '],287
+102,CC-90003,7807,['CC-90003'],287
+103,CD3/CD28 stimulated/primed autologous Ts,7224,"['CD3/CD28 stimulated/primed autologous Ts', 'ex vivo CD3/CD28-costimulated vaccine-primed peripheral blood autologous T cells']",287
+104,CDX-3379,7410,"['CDX-3379', 'CDX3379', 'KTN3379', 'MEDI3379']",287
+105,CEP-37440,7441,['CEP-37440'],287
+106,CFG920,7765,['CFG920'],287
+107,CK-101,8663,['CK-101'],287
+108,CLR457,7269,['CLR457'],287
+109,CM-24,8387,"['CM-24', 'MK-6018']",287
+110,CMB305,8409,['CMB305'],287
+111,CPI-1205,7688,['CPI-1205'],287
+112,Cabazitaxel,7288,"['Cabazitaxel', 'Jevtana', 'RPR-116258A', 'XRP6258']",287
+113,Capecitabine,1088,"['Capecitabine', 'Xeloda', 'R340']",287
+114,Capmatinib,7184,"['Capmatinib', 'INC280']",287
+115,Carboplatin,947,"['Carboplatin', 'Paraplatin', 'CBDCA']",287
+116,Carboxyamidotriazole Orotate ,7118,['Carboxyamidotriazole Orotate '],287
+117,Carfilzomib,7299,"['Carfilzomib', 'Kyprolis', 'PR-171']",287
+118,Carmustine,255,"['Carmustine', 'Becenun', 'BCNU']",287
+119,Cetuximab,2,"['Cetuximab', 'Erbitux']",287
+120,Cisplatin,505,"['Cisplatin', 'Platinol', 'CDDP']",287
+121,Cixutumumab,6887,"['Cixutumumab', 'IMC-A12']",287
+122,Cladribine,235,"['Cladribine', 'Leustatin', '2-CdA']",287
+123,Clofarabine,621,"['Clofarabine', 'Clolar', 'Clofarex']",287
+124,Conatumumab,7266,"['Conatumumab', 'AMG 655']",287
+125,Conjugated estrogens/bazedoxifene,8864,"['Conjugated estrogens/bazedoxifene', 'Duavee']",287
+126,Crenolanib,6889,"['Crenolanib', 'CP-868596']",287
+127,Crolibulin,7268,"['Crolibulin', 'EPC2407', 'microtubulin inhibitor EPC2407']",287
+128,Cyclophosphamide,521,"['Cyclophosphamide', 'Cytoxan', 'CPM']",287
+129,Cyproterone,4645,"['Cyproterone', 'Androcur', 'Cyproterone acetate']",287
+130,Cytarabine,976,"['Cytarabine', 'Cytosar-U', 'Ara-C']",287
+131,DCBCI0901,7383,['DCBCI0901'],287
+132,DCC-2618,8407,['DCC-2618'],287
+133,DCR-MYC,7950,['DCR-MYC'],287
+134,DCVax-L,8633,"['DCVax-L', 'DCVax-Lung']",287
+135,DEC-205-NY-ESO-1 fusion protein vaccine,7238,"['DEC-205-NY-ESO-1 fusion protein vaccine', 'CDX-1401']",287
+136,DMUC5754A,7349,"['DMUC5754A', 'MUC16-targeted antibody-drug conjugate DMUC5754A']",287
+137,DNX-2401,8443,['DNX-2401'],287
+138,DOTAP:chol-Fus1,7236,"['DOTAP:chol-Fus1', 'DOTAP:cholesterol-Fus1 liposome complex']",287
+139,DPX-Survivac,8385,['DPX-Survivac'],287
+140,DS-2248,7215,['DS-2248'],287
+141,DS-3032b,7417,['DS-3032b'],287
+142,DS-3201b,8746,"['DS-3201b', 'DS-3201']",287
+143,DS-7423,6898,['DS-7423'],287
+144,DS6051b,8428,"['DS6051b', 'DS-6051', 'DS-6051B']",287
+145,DSP-7888,8411,['DSP-7888'],287
+146,Dabrafenib,6819,"['Dabrafenib', 'Tafinlar', 'GSK2118436']",287
+147,Dacarbazine,841,"['Dacarbazine', 'Deticene', 'Biocarbazine R']",287
+148,Dacomitinib,6893,"['Dacomitinib', 'PF-00299804', 'PF299804']",287
+149,Dalantercept  ,7228,"['Dalantercept  ', 'ACE-041', 'ALK1-Fc']",287
+150,Daratumumab,7302,"['Daratumumab', 'Darzalex', 'anti-CD38 monoclonal antibody']",287
+151,Daunorubicin,684,"['Daunorubicin', 'Cerubidine', 'Acetyladriamycin', 'daunomycin hydrochloride', 'Rubidomycin', 'rubomycin C']",287
+152,Daunoxome,7125,"['Daunoxome', 'liposomal daunorubicin citrate']",287
+153,Debio 1347,7130,"['Debio 1347', 'CH5183284', 'FF284']",287
+154,Decitabine,1249,"['Decitabine', 'Dacogen', '5-aza-2-deoxycytidine']",287
+155,Demcizumab,7379,"['Demcizumab', 'anti-delta-like 4 monoclonal antibody OMP-21M18', 'OMP-21M18']",287
+156,Denosumab,7220,"['Denosumab', 'Xgeva', 'AMG 162', 'AMG-162', 'AMG162', 'Prolia']",287
+157,Dexamethasone intravitreal implant,7271,"['Dexamethasone intravitreal implant', 'Ozurdex']",287
+158,Dinaciclib,6896,"['Dinaciclib', 'SCH727965']",287
+159,Dinutuximab  ,7480,"['Dinutuximab  ', 'Unituxin', 'MOAB Ch14.18']",287
+160,Docetaxel,1235,"['Docetaxel', 'Taxotere', 'Docefrez', 'Docetaxel anhydrous']",287
+161,Dovitinib,6897,"['Dovitinib', 'CHIR-258', 'TKI258']",287
+162,Durvalumab,7245,"['Durvalumab', 'Imfinzi', 'MEDI4736']",287
+163,Duvelisib,7141,"['Duvelisib', 'INK1197', 'IPI-145']",287
+164,E7016,7569,['E7016'],287
+165,E7107,8583,['E7107'],287
+166,EC0225,7988,['EC0225'],287
+167,EC1456,7295,"['EC1456', 'folate receptor-targeting folate-tubulysin conjugate EC1456']",287
+168,EC17,7987,['EC17'],287
+169,EGF816,7234,"['EGF816', 'Nazartinib']",287
+170,EGFR Antisense DNA,7430,['EGFR Antisense DNA'],287
+171,EGFRBi-armed autologous activated T cells,7129,['EGFRBi-armed autologous activated T cells'],287
+172,EMD 1204831,6901,['EMD 1204831'],287
+173,EMD 1214063,6902,['EMD 1214063'],287
+174,Eflornithine,7618,"['Eflornithine', 'DFMO']",287
+175,Eltrombopag,4713,"['Eltrombopag', 'Promacta']",287
+176,Emepepimut-S  ,7439,"['Emepepimut-S  ', 'Stimuvax', 'BP1-7-KLH', 'L-BLP25', 'tecemotide']",287
+177,Emibetuzumab,6943,"['Emibetuzumab', 'LY2875358']",287
+178,Entinostat,7280,"['Entinostat', 'HDAC inhibitor SNDX-275', 'MS 275']",287
+179,Enzalutamide,7230,"['Enzalutamide', 'XTANDI', 'MDV3100']",287
+180,Enzastaurin,7316,"['Enzastaurin', 'LY317615']",287
+181,Ethinylestradiol,7636,['Ethinylestradiol'],287
+182,Etoposide,763,"['Etoposide', 'Vepesid', 'EPEG', 'Eposin']",287
+183,Everolimus,1530,"['Everolimus', 'Afinitor', 'RAD001', 'Zortress']",287
+184,Evofosfamide,7237,"['Evofosfamide', 'TH-302']",287
+185,Exemestane,979,"['Exemestane', 'Aromasin', 'Exemestano [INN-Spanish]']",287
+186,FF-21101(90Y),8261,['FF-21101(90Y)'],287
+187,FGF401,7397,['FGF401'],287
+188,FLX925  ,7560,"['FLX925  ', 'AMG925']",287
+189,Fenretinide,4681,"['Fenretinide', '4-HPR', 'fenretinimide', 'McN-R-1967']",287
+190,Filgrastim,95,"['Filgrastim', 'Neupogen', 'G-CSF']",287
+191,Fludarabine phosphate,1060,"['Fludarabine phosphate', 'Fludara', 'FAMP']",287
+192,Flumatinib,7966,"['Flumatinib', 'HH-GV678']",287
+193,Fluorouracil,534,"['Fluorouracil', 'Adrucil', '5-FU']",287
+194,Fluoxymesterone,1172,"['Fluoxymesterone', 'Halotestin', 'Androfluorene']",287
+195,Flutamide,491,"['Flutamide', 'Eulexin', 'Flutamide USP25']",287
+196,Fosbretabulin,7216,"['Fosbretabulin', 'Zybrestat']",287
+197,Fostamatinib,7277,"['Fostamatinib', 'Tavalisse', 'R788', 'R935788']",287
+198,Fulvestrant,936,"['Fulvestrant', 'Faslodex', 'ICI 182,780']",287
+199,GC1118,7836,['GC1118'],287
+200,GCS-100 ,7131,['GCS-100 '],287
+201,GD2Bi-a ATC,7407,"['GD2Bi-a ATC', 'anti-CD3 x hu3F8 bispecific antibody-armed ATC']",287
+202,GDC-0810,7443,"['GDC-0810', 'ARN-810']",287
+203,GDC-0980,6913,"['GDC-0980', 'Apitolisib']",287
+204,GI-4000,7135,['GI-4000'],287
+205,GPX-150,7403,['GPX-150'],287
+206,GRN1005,7409,"['GRN1005', 'ANG1005']",287
+207,GS-6634,7138,"['GS-6634', 'simtuzumab', 'AB0024', 'GS-6624']",287
+208,GSK2636771,6921,['GSK2636771'],287
+209,GSK2849330,7842,['GSK2849330'],287
+210,GSK3359609,8444,['GSK3359609'],287
+211,GWN 323,8462,['GWN 323'],287
+212,Ganetespib,6907,"['Ganetespib', 'STA-9090']",287
+213,Ganitumab,6908,"['Ganitumab', 'AMG-479']",287
+214,Gedatolisib,7159,"['Gedatolisib', 'PF-05212384', 'PKI-587']",287
+215,Gemcitabine,433,"['Gemcitabine', 'Gemzar', 'Difluorodeoxycytidine Hydrochlorothiazide']",287
+216,Genistein,1583,"['Genistein', 'CI 75610', 'Prunetol']",287
+217,Girentuximab,7429,"['Girentuximab', 'Rencarex', 'chimeric monoclonal antibody cG250', 'WX-G250']",287
+218,Golvatinib,7136,"['Golvatinib', 'E7050']",287
+219,Gonadorelin,634,"['Gonadorelin', 'AY-24031', 'Dirigestran', 'GnRH', 'LHRHA']",287
+220,Goserelin,14,"['Goserelin', 'Zoladex', 'Goserelin acetate']",287
+221,HDM201,7457,['HDM201'],287
+222,HER-2/neu intracellular domain protein ,7281,"['HER-2/neu intracellular domain protein ', 'HER-2 ICD Peptide', 'HER-2/neu ICD Protein']",287
+223,HF10,7375,"['HF10', 'herpes simplex virus type 1 HF10', 'HSV-1 HF10']",287
+224,HMPL-523,8654,['HMPL-523'],287
+225,Hemay022,8449,['Hemay022'],287
+226,Histrelin acetate,7405,"['Histrelin acetate', 'Vantas', 'Supprelin']",287
+227,Hu14.18K322A,7538,['Hu14.18K322A'],287
+228,Hydroxychloroquine,1550,"['Hydroxychloroquine', 'Plaquenil', 'HCQ']",287
+229,Hydroxyurea,994,"['Hydroxyurea', 'Droxia', 'Carbamohydroxamic Acid', 'Hydroxycarbamide']",287
+230,IBI308,8924,['IBI308'],287
+231,ID-LV305,8002,['ID-LV305'],287
+232,IDH305,7888,['IDH305'],287
+233,IFN-B,7961,"['IFN-B', 'Betaseron']",287
+234,IL-12 gene,7892,['IL-12 gene'],287
+235,IMA950,8557,['IMA950'],287
+236,IMC-3C5,7887,['IMC-3C5'],287
+237,INCAGN01876,8412,"['INCAGN01876', 'INCAGN1876']",287
+238,INCB028060,6924,['INCB028060'],287
+239,INCB040093,7387,['INCB040093'],287
+240,INCB047986,7704,['INCB047986'],287
+241,INCB050465,7933,['INCB050465'],287
+242,INCB052793,7699,['INCB052793'],287
+243,INCB053914,8211,['INCB053914'],287
+244,INCB054828,8373,['INCB054828'],287
+245,INO-1400,8803,['INO-1400'],287
+246,INO-3106,8829,['INO-3106'],287
+247,INO-9012,8804,['INO-9012'],287
+248,IPH2201,8060,['IPH2201'],287
+249,Idarubicin,1164,"['Idarubicin', 'Idamycin', 'Idarubicin Hcl']",287
+250,Idelalisib ,7140,"['Idelalisib ', 'Zydelig', 'CAL-101', 'GS-1101']",287
+251,Ifosfamide,1168,"['Ifosfamide', 'Cyfos', 'Z4942']",287
+252,Imalumab,7895,['Imalumab'],287
+253,Imatinib mesylate,609,"['Imatinib mesylate', 'Gleevec', 'CGP-57148B', 'STI571']",287
+254,Interleukin-12,8650,"['Interleukin-12', 'NM-IL-12', 'Ro 24-7472']",287
+255,Ipilimumab,6926,"['Ipilimumab', 'Yervoy', 'BMS-734016']",287
+256,Irinotecan,752,"['Irinotecan', 'Camptosar', 'CPT-11']",287
+257,JCAR014,8434,['JCAR014'],287
+258,JNJ 38877605,6929,['JNJ 38877605'],287
+259,JNJ-42756493,7144,"['JNJ-42756493', 'Erdafitinib']",287
+260,JNJ-64041809,8569,"['JNJ-64041809', 'JNJ-809']",287
+261,JNJ-64052781,8372,['JNJ-64052781'],287
+262,KD018,7320,"['KD018', 'PHY906']",287
+263,KITE-718,8801,['KITE-718'],287
+264,LAG525,7815,['LAG525'],287
+265,LEQ506,7521,['LEQ506'],287
+266,LGK974,7364,"['LGK974', 'WNT974']",287
+267,LMP744,8770,['LMP744'],287
+268,LOXO-101,7625,"['LOXO-101', 'Larotrectinib ', 'ARRY-470']",287
+269,LOXO-292,8754,['LOXO-292'],287
+270,LXH 254,8456,['LXH 254'],287
+271,LY2780301,6940,['LY2780301'],287
+272,LY3009120,7999,"['LY3009120', 'DP-4978']",287
+273,LY3022855,7376,"['LY3022855', 'anti-CSF-1R monoclonal antibody IMC-CS4', 'IMC-CS4']",287
+274,LY3076226,7964,['LY3076226'],287
+275,LY3164530,7371,['LY3164530'],287
+276,LYC-55716,8807,"['LYC-55716', 'LYC55716']",287
+277,Lapatinib,1246,"['Lapatinib', 'Tykerb', 'FMM']",287
+278,Lenalidomide,7212,"['Lenalidomide', 'Revlimid', 'IMiD-1']",287
+279,Letrozole,995,"['Letrozole', 'Femara', 'Letrozol']",287
+280,Leucovorin,640,"['Leucovorin', 'Wellcovorin', 'Calcium citrovorum factor', 'Calcium folinate']",287
+281,Leuprolide,7,"['Leuprolide', 'Lupron', 'Leuprorelin']",287
+282,Long peptide vaccine 7,7906,['Long peptide vaccine 7'],287
+283,Lucitanib ,7145,"['Lucitanib ', 'AL3810', 'E-3810']",287
+284,Lurbinectedin,7219,"['Lurbinectedin', 'PM01183']",287
+285,MEDI0562,8263,['MEDI0562'],287
+286,MEDI0680,7949,"['MEDI0680', 'AMP-514']",287
+287,MEDI6383,7948,['MEDI6383'],287
+288,MEDI6469,7308,['MEDI6469'],287
+289,MELITAC 12.1 Peptide Vaccine ,7912,['MELITAC 12.1 Peptide Vaccine '],287
+290,MG 98,8850,"['MG 98', 'MG98']",287
+291,MGAH22,6947,"['MGAH22', 'Margetuximab']",287
+292,MGCD265,6948,"['MGCD265', 'Glesatinib']",287
+293,MGCD516,7309,"['MGCD516', 'Sitravatinib']",287
+294,MGD007,7938,['MGD007'],287
+295,MIK665,8809,"['MIK665', 'MIK 665', 'MIK-665', 'S64315']",287
+296,MK-1775,7067,"['MK-1775', 'AZD1775']",287
+297,MK-1966,8463,['MK-1966'],287
+298,MK-8242,7959,['MK-8242'],287
+299,MK0752,6952,"['MK0752', 'MK-0752']",287
+300,MK2206,6953,"['MK2206', 'MK-2206']",287
+301,MLN1117 ,7149,"['MLN1117 ', 'INK1117', 'TAK-117']",287
+302,MLN1202,8377,"['MLN1202', 'plozalizumab', 'TAK-202']",287
+303,MLN2480,7152,"['MLN2480', 'BIIB-024', 'TAK-580']",287
+304,MM-141,7190,"['MM-141', 'Istiratumab']",287
+305,MM-151,6958,['MM-151'],287
+306,MM-302,7251,['MM-302'],287
+307,MPC-3100,7723,['MPC-3100'],287
+308,MRX34,7153,['MRX34'],287
+309,MSC2015103B,7154,"['MSC2015103B', 'AS703988']",287
+310,MSC2156119J,7249,"['MSC2156119J', 'Tepotinib']",287
+311,MSC2490484A ,8175,"['MSC2490484A ', 'M-3814', 'M3814']",287
+312,MVA-MUC1-IL2 vaccine,7231,"['MVA-MUC1-IL2 vaccine', 'TG4010']",287
+313,Medroxyprogesterone,593,"['Medroxyprogesterone', 'Depo-Provera', 'CBP-1011']",287
+314,Melan-A/MART-1 peptide vaccine,7909,['Melan-A/MART-1 peptide vaccine'],287
+315,Melphalan,1030,"['Melphalan', 'Alkeran']",287
+316,Metformin,323,"['Metformin', 'Glucophage', 'Apo-Metformin']",287
+317,Methotrexate,553,"['Methotrexate', 'Abitrexate', 'Amethopterin']",287
+318,Mitomycin C,7209,"['Mitomycin C', 'Mitozytrex']",287
+319,Mitoxantrone,1191,"['Mitoxantrone', 'Novantrone', 'CL 232315']",287
+320,Mycophenolate mofetil,7348,"['Mycophenolate mofetil', 'Cellcept']",287
+321,NC-4016,7259,"['NC-4016', 'DACH-platin micelle NC-4016', 'DACH-Pt/m NC-4016']",287
+322,NIS793,8730,['NIS793'],287
+323,NOX66,8942,['NOX66'],287
+324,NU-0129,8775,['NU-0129'],287
+325,Navitoclax,6961,"['Navitoclax', 'ABT-263']",287
+326,Nelipepimut-S Plus GM-CSF,8620,"['Nelipepimut-S Plus GM-CSF', 'E75 Plus GM-CSF', 'nelipepimut-S plus sargramostim', 'NeuVax Plus GM-CSF']",287
+327,NeoVax melanoma vaccine,7903,['NeoVax melanoma vaccine'],287
+328,Neratinib,6962,"['Neratinib', 'Nerlynx', 'HKI-272', 'PB272']",287
+329,Nilutamide,655,"['Nilutamide', 'Nilandron', 'Anandron']",287
+330,Nivolumab,7235,"['Nivolumab', 'Opdivo', 'BMS-936558', 'MDX-1106']",287
+331,ODM-201,6970,"['ODM-201', 'BAY1841788']",287
+332,OGX-427,7343,['OGX-427'],287
+333,OMP-305B83,7687,['OMP-305B83'],287
+334,ONT-10,7920,['ONT-10'],287
+335,OSE 2101 ,8417,"['OSE 2101 ', 'EP-2101', 'Tedopi']",287
+336,Obinutuzumab,7305,"['Obinutuzumab', 'Gazyva', 'afutuzumab', 'GA-101', 'GA101', 'R7159', 'RO 5072759']",287
+337,Oblimersen,6969,"['Oblimersen', 'Genasense', 'augmerosen', 'G3139']",287
+338,Olaratumab,8000,"['Olaratumab', 'Lartruvo', 'IMC-3G3']",287
+339,Onapristone,7357,"['Onapristone', 'ZK299']",287
+340,Oportuzumab monatox,8964,"['Oportuzumab monatox', 'Proxinium', 'VB4-845', 'Vicinium']",287
+341,Oregovomab,7218,"['Oregovomab', 'B43.13']",287
+342,Osimertinib,7059,"['Osimertinib', 'Tagrisso', 'AZD9291']",287
+343,Oxaliplatin,516,"['Oxaliplatin', 'Eloxatin', 'Diaminocyclohexane Oxalatoplatinum']",287
+344,PBF-509,8535,['PBF-509'],287
+345,PD 0360324,8811,"['PD 0360324', 'PD-0360324']",287
+346,PD-0325901,6977,"['PD-0325901', 'PD-901', 'PD0325901']",287
+347,PDR001,7634,['PDR001'],287
+348,PEGPH20,7437,['PEGPH20'],287
+349,PEPIDH1M vaccine,7304,"['PEPIDH1M vaccine', 'PEPIDH1M']",287
+350,PF-00562271,6982,['PF-00562271'],287
+351,PF-03084014,6983,['PF-03084014'],287
+352,PF-03446962,7395,['PF-03446962'],287
+353,PF-04217903,6985,['PF-04217903'],287
+354,PF-04518600,8422,['PF-04518600'],287
+355,PF-06647020,8446,"['PF-06647020', 'h6M24-vc0101', 'PTK7-targeted antibody-drug conjugate']",287
+356,PF-06747775  ,7558,['PF-06747775  '],287
+357,PGG beta-glucan,7412,"['PGG beta-glucan', 'Imprime PGG']",287
+358,PLX3397,6991,"['PLX3397', 'Pexidartinib']",287
+359,PLX7486,7626,['PLX7486'],287
+360,PLX8394,7160,['PLX8394'],287
+361,PLX9486,7599,['PLX9486'],287
+362,PM060184,7267,['PM060184'],287
+363,POL6326 ,7791,"['POL6326 ', 'Balixafortide']",287
+364,PQR309,7385,"['PQR309', 'PQR 309']",287
+365,PR610,7162,['PR610'],287
+366,PTC299,7855,['PTC299'],287
+367,PU-H71,7211,['PU-H71'],287
+368,PVX-410,8461,['PVX-410'],287
+369,PWT33597,6995,['PWT33597'],287
+370,Paclitaxel,1216,"['Paclitaxel', 'Taxol', '7-Epipaclitaxel']",287
+371,Panitumumab,1256,"['Panitumumab', 'Vectibix', 'ABX-EGF']",287
+372,Peg-interferon alfa-2a,8955,"['Peg-interferon alfa-2a', 'Pegasys', 'PEG-IFNA2a', 'peginterferon alfa-2a', 'pegylated interferon alfa-2a']",287
+373,Pegaspargase ,58,"['Pegaspargase ', 'Oncaspar', 'PEG-ASP', 'PEG-asparaginase']",287
+374,Pegfilgrastim,19,"['Pegfilgrastim', 'Neulasta', 'GCSF-SD01']",287
+375,Pelitinib,6980,"['Pelitinib', 'EKB-569']",287
+376,Pembrolizumab,7262,"['Pembrolizumab', 'Keytruda', 'MK-3475']",287
+377,Pemetrexed,632,"['Pemetrexed', 'Alimta', 'LY231514']",287
+378,Perifosine,6981,"['Perifosine', 'KRX-0401']",287
+379,Pertuzumab,4730,"['Pertuzumab', 'Perjeta', '2C4 Antibody']",287
+380,Pidilizumab,8045,['Pidilizumab'],287
+381,Pimasertib,6989,"['Pimasertib', 'AS703026', 'MSC1936369B']",287
+382,Pirotinib,7831,"['Pirotinib', 'KBP-5209', 'KBP5209']",287
+383,Plicamycin,4814,"['Plicamycin', 'Mithracin', 'Mithramycin']",287
+384,Pomalidomide,6817,"['Pomalidomide', 'Pomalyst', 'CC-4047']",287
+385,Poziotinib,7161,"['Poziotinib', 'HM781-36B', 'NOV120101']",287
+386,Pracinostat,7332,"['Pracinostat', 'SB939']",287
+387,Pralatrexate,7239,"['Pralatrexate', 'FOLOTYN']",287
+388,Prednisone,625,"['Prednisone', 'Adasone', 'Dehydrocortisone']",287
+389,Pri-724,7199,['Pri-724'],287
+390,Pyrotinib,7931,['Pyrotinib'],287
+391,Quinacrine,1090,"['Quinacrine', 'Acrichine', 'Quinacrine Dihydrochloride']",287
+392,RAF265,6999,['RAF265'],287
+393,REGN1400,7189,['REGN1400'],287
+394,REGN3767,8764,"['REGN3767', 'REGN 3767']",287
+395,RM-1929,7841,['RM-1929'],287
+396,RO4929097,7009,['RO4929097'],287
+397,RO5503781,7446,['RO5503781'],287
+398,RO6839921,7447,['RO6839921'],287
+399,RO6874281,8672,"['RO6874281', 'RG 7461']",287
+400,RO6958688 ,8066,['RO6958688 '],287
+401,RO7009789,7641,['RO7009789'],287
+402,Raloxifene,473,"['Raloxifene', 'Evista', 'LY-139481']",287
+403,Ramucirumab,7001,"['Ramucirumab', 'Cyramza', 'LY3009806']",287
+404,Ranibizumab,1257,"['Ranibizumab', 'Lucentis', 'rhuFab V2']",287
+405,Reolysin,7005,"['Reolysin', 'REOLYSIN', 'pelareorep']",287
+406,Retaspimycin,7006,"['Retaspimycin', 'IPI-504']",287
+407,Ricolinostat,7297,"['Ricolinostat', 'ACY-1215']",287
+408,Rigosertib,7164,"['Rigosertib', 'Estybon', 'ON 01910.Na', 'SyB L-1101']",287
+409,Rimiducid,8882,"['Rimiducid', 'AP1903']",287
+410,Rosmantuzumab,8440,"['Rosmantuzumab', 'OMP-131R10']",287
+411,Ruxolitinib,6787,"['Ruxolitinib', 'Jakafi', 'INCB 18424', 'INCB018424', 'INCB18424']",287
+412,SAR245409 ,7169,"['SAR245409 ', 'Voxtalisib', 'XL765']",287
+413,SAR428926,8326,['SAR428926'],287
+414,SD-101,7932,['SD-101'],287
+415,SGI-110,7370,"['SGI-110', 'DNMT inhibitor SGI-110', 'guadecitabine', 'S110']",287
+416,SGN-2FF,8851,['SGN-2FF'],287
+417,SL-401,7377,"['SL-401', 'DT(388)IL3 fusion protein', 'IL3R-targeting fusion protein SL-401']",287
+418,SL-701,7907,['SL-701'],287
+419,SYM004,7026,"['SYM004', 'Symphogen']",287
+420,SYN004,8664,['SYN004'],287
+421,Salirasib,7015,"['Salirasib', 'KD032']",287
+422,Saracatinib,7018,"['Saracatinib', 'AZD0530']",287
+423,Selinexor,7327,"['Selinexor', 'KPT-330']",287
+424,Selumetinib,7019,"['Selumetinib', 'ARRY-142886', 'AZD6244']",287
+425,Sirolimus,867,"['Sirolimus', 'Rapamune', 'Rapamycin']",287
+426,Sunitinib,1255,"['Sunitinib', 'Sutent', 'SU011248']",287
+427,TAK-701,7452,['TAK-701'],287
+428,TAK-733,7027,"['TAK-733', 'TAK733']",287
+429,TAS-119,7250,"['TAS-119', 'TAS-2104']",287
+430,TAS-120,7171,['TAS-120'],287
+431,TEW 7197,7908,"['TEW 7197', 'EW-7197', 'TEW-7197']",287
+432,TG-0054,7790,['TG-0054'],287
+433,TH-4000,7833,"['TH-4000', 'Hypoxin']",287
+434,TK216,8405,['TK216'],287
+435,TPI 287,7478,['TPI 287'],287
+436,TRC105,7227,['TRC105'],287
+437,TRC253,8789,"['TRC253', 'JNJ-63576253']",287
+438,TRX518,8172,['TRX518'],287
+439,Tacrolimus,854,"['Tacrolimus', 'Hecoria', 'Advagraf', 'FK-506', 'Prograf']",287
+440,Talazoparib,6876,"['Talazoparib', 'BMN673']",287
+441,Tamoxifen,665,"['Tamoxifen', 'Nolvadex', 'ICI-46474']",287
+442,Tandutinib,7028,"['Tandutinib', 'CT53518', 'MLN518']",287
+443,Telatinib,7030,"['Telatinib', 'BAY 57-9352']",287
+444,Temozolomide,843,"['Temozolomide', 'Temodar', 'Methazolastone']",287
+445,Temsirolimus,4727,"['Temsirolimus', 'Torisel', 'CCI-779']",287
+446,ThermoDox,7172,['ThermoDox'],287
+447,Tivantinib,6842,"['Tivantinib', 'ARQ197']",287
+448,Tivozanib,7173,"['Tivozanib', 'AV-951']",287
+449,Toca FC,7972,['Toca FC'],287
+450,Tofacitinib,7035,"['Tofacitinib', 'XELJANZ', 'CP-690550', 'Tasocitinib']",287
+451,Topotecan,1018,"['Topotecan', 'Hycamtin', 'Topotecan Hcl']",287
+452,Toremifene,529,"['Toremifene', 'Fareston', 'Acapodene']",287
+453,Trastuzumab,71,"['Trastuzumab', 'Herceptin', 'Anti HER2']",287
+454,Trebananib,7222,"['Trebananib', 'AMG 386']",287
+455,Tremelimumab,7307,"['Tremelimumab', 'CP-675,206']",287
+456,Tretinoin  ,7356,"['Tretinoin  ', 'Vesanoid', 'Aberel', 'Aknoten', 'all-trans retinoic acid', 'Avita', 'Renova', 'Retin-A', 'Vitamin A Acid']",287
+457,Triptorelin,7406,"['Triptorelin', 'AY-25650', 'CL-118,532', 'Decapeptyl']",287
+458,Tucatinib,6846,"['Tucatinib', 'ARRY-380', 'ONT-380']",287
+459,Ublituximab,7481,"['Ublituximab', 'LFB-R603', 'TG-1101']",287
+460,Uprosertib,6920,"['Uprosertib', 'GSK2141795']",287
+461,Urelumab,7411,"['Urelumab', 'anti-CD137 monoclonal antibody', 'BMS-663513']",287
+462,VAL-083,7844,['VAL-083'],287
+463,VEGFR2-169,7854,['VEGFR2-169'],287
+464,VS-4718,7361,['VS-4718'],287
+465,VS-5584,7079,"['VS-5584', 'SB-23430']",287
+466,VS-6063,7077,"['VS-6063', 'Defactinib']",287
+467,VT-464,7764,['VT-464'],287
+468,Valacyclovir,8625,"['Valacyclovir', 'Valtrex']",287
+469,Valproic acid,7192,"['Valproic acid', 'Depakene', 'Depacon']",287
+470,Valrubicin,7174,"['Valrubicin', 'Valstar', 'AD-32', 'Antibiotic Ad 32']",287
+471,Varlitinib,7175,"['Varlitinib', 'ARRY-334543', 'ARRY-543']",287
+472,Veliparib,7042,"['Veliparib', 'ABT-888']",287
+473,Venetoclax,7284,"['Venetoclax', 'Venclexta ', 'ABT-199', 'GDC-0199', 'RG7601']",287
+474,Vincristine,531,"['Vincristine', 'Oncovin', '22-Oxovincaleukoblastine']",287
+475,Vinorelbine,353,"['Vinorelbine', 'Navelbine', 'Vinorelbin']",287
+476,Vistusertib,7107,"['Vistusertib', 'AZD2014']",287
+477,Volasertib,7043,"['Volasertib', 'BI 6727']",287
+478,Vosaroxin,7335,"['Vosaroxin', 'voreloxin']",287
+479,WT1 sensitized T cells,7824,['WT1 sensitized T cells'],287
+480,WX-554,7176,['WX-554'],287
+481,X-82,7045,['X-82'],287
+482,XL147,7168,"['XL147', 'Pilaralisib', 'SAR245408']",287
+483,XL228,7047,['XL228'],287
+484,Xentuzumab,7839,"['Xentuzumab', 'BI 836845']",287
+485,anti-thymocyte globulin,7347,"['anti-thymocyte globulin', 'Thymoglobulin', 'ATGAM', 'lymphocyte immune globulin']",287
+486,c-myb antisense oligonucleotide G4460,7352,"['c-myb antisense oligonucleotide G4460', 'G4460', 'INX-3001', 'LR3001']",287
+487,cMet RNA CAR T cells,7456,"['cMet RNA CAR T cells', 'cMet CAR-mRNA electroporated autologous T lymphocytes']",287
+488,calcitriol,7817,"['calcitriol', 'Rocaltrol', 'CALTROL']",287
+489,galeterone,7274,"['galeterone', 'TOK-001']",287
+490,interferon gamma ,7323,"['interferon gamma ', 'Actimmune', 'gamma interferon', 'IFN-G', 'recombinant interferon gamma']",287
+491,liothyronine sodium  ,7642,"['liothyronine sodium  ', 'Triostat']",287
+492,motexafin gadolinium,7428,"['motexafin gadolinium', 'Xcytrin', 'gadolinium texaphyrin', 'PCI-0120']",287
+493,nab-paclitaxel,6828,"['nab-paclitaxel', 'Abraxane', 'ABI-007']",287
+494,omacetaxine mepesuccinate,7334,"['omacetaxine mepesuccinate', 'Synribo', 'CGX-635', 'homoharringtonine']",287
+495,p53-SLP vaccine,7158,['p53-SLP vaccine'],287
+496,pUMVC3-hIGFBP-2 vaccine,8815,['pUMVC3-hIGFBP-2 vaccine'],287
+497,pegylated liposomal-doxorubicin,7126,"['pegylated liposomal-doxorubicin', 'Doxil', 'ATI-0918', 'CAELYX']",287
+498,rAD-p53,7314,"['rAD-p53', 'Gendicine', 'Genkaxin']",287
+499,radium Ra 223 dichloride,7374,"['radium Ra 223 dichloride', 'Xofigo', 'alpharadin', 'BAY 88-8223']",287
+500,sapacitabine,7207,"['sapacitabine', 'CS-682', 'CYC682']",287
+501,thioureidobutyronitrile,7897,"['thioureidobutyronitrile', 'Kevetrin']",287
+502,trastuzumab emtansine,7252,"['trastuzumab emtansine', 'Kadcyla', 'ado-trastuzumab emtansine', 'T-DM1']",287
+503,trifluridine/tipiracil hydrochloride,7528,"['trifluridine/tipiracil hydrochloride', 'Lonsurf', 'TAS-102']",287
+0,PLX4720,7180,['PLX4720'],291
+0,LY294002,7181,['LY294002'],292
+0,Lenvatinib,6934,"['Lenvatinib', 'Lenvima', 'E7080']",307
+0,Ponatinib,6808,"['Ponatinib', 'Iclusig', 'AP24534']",312
+0,Vemurafenib,6791,"['Vemurafenib', 'Zelboraf', 'PLX4032', 'RO5185426']",327
+0,ABT-700,7182,"['ABT-700', 'h224G11']",330
+0,LY2801653,7147,"['LY2801653', 'Merestinib']",331
+0,VS-5584,7079,"['VS-5584', 'SB-23430']",351
+0,Cobimetinib,7123,"['Cobimetinib', 'Cotellic', 'GDC-0973']",353
+0,LY3023414,7186,['LY3023414'],356
+0,AZ628,7204,"['AZ628', 'AZD-628', 'AZD628']",473
+0,MEDI3617,7214,['MEDI3617'],477
+0,Iniparib,7213,"['Iniparib', 'BSI-201']",478
+0,FANG vaccine,7210,"['FANG vaccine', 'Vigil', 'bi-shRNA-furin/GMCSF-expressing autologous tumor cell vaccine']",479
+0,OC-DC vaccine,7223,['OC-DC vaccine'],483
+0,CNX-774,7652,['CNX-774'],580
+0,Cabozantinib,7115,"['Cabozantinib', 'Cometriq', 'Cabometyx', 'Cabozantinib-s-malate', 'XL184']",587
+0,Sunitinib,1255,"['Sunitinib', 'Sutent', 'SU011248']",590
+0,Apatinib,7099,"['Apatinib', 'YN968D1']",592
+0,Dacomitinib,6893,"['Dacomitinib', 'PF-00299804', 'PF299804']",593
+0,HER2 Vaccine,7254,['HER2 Vaccine'],595
+0,Nutlin-3,7255,"['Nutlin-3', 'Nutlin', 'Nutlin-3a']",598
+0,Dacomitinib,6893,"['Dacomitinib', 'PF-00299804', 'PF299804']",606
+0,TS-1,7256,"['TS-1', 'S-1', 'tegafur-gimeracil-oteracil potassium']",611
+0,MRX34,7153,['MRX34'],617
+0,Sonidegib,7258,"['Sonidegib', 'Odomzo', 'Erismodedgib', 'NVP-LDE225']",691
+0,CCT128930,7261,['CCT128930'],692
+0,AZD5363,6858,['AZD5363'],693
+0,AMG 232,7263,"['AMG 232', 'AMG-232']",698
+0,R3Mab,7270,['R3Mab'],741
+0,R3Mab,7270,['R3Mab'],742
+0,phenethyl isothiocyanate,7265,"['phenethyl isothiocyanate', 'PEITC']",747
+0,PM060184,7267,['PM060184'],748
+0,Ibrutinib,6923,"['Ibrutinib', 'Imbruvica', 'PCI-32765']",750
+0,Ibrutinib,6923,"['Ibrutinib', 'Imbruvica', 'PCI-32765']",751
+0,Dovitinib,6897,"['Dovitinib', 'CHIR-258', 'TKI258']",754
+0,JW67,7939,['JW67'],755
+1,JW74,7940,['JW74'],755
+0,galeterone,7274,"['galeterone', 'TOK-001']",778
+0,AZD7451,7647,['AZD7451'],792
+0,Palbociclib,6979,"['Palbociclib', 'Ibrance', 'PD0332991']",805
+0,SGI-1027,7278,['SGI-1027'],823
+0,GW441756,7279,['GW441756'],824
+0,Ribociclib,6826,"['Ribociclib', 'Kisqali', 'LEE011']",828
+0,SNX-5422,7072,"['SNX-5422', 'PF-04929113']",833
+0,SNX-5422,7072,"['SNX-5422', 'PF-04929113']",834
+0,SAR302503,7017,"['SAR302503', 'Fedratinib', 'TG101348']",836
+1,TG101209,7509,['TG101209'],836
+0,Polysaccharide-K,7282,"['Polysaccharide-K', 'Krestin', 'PSK']",844
+0,STF-62247,7283,['STF-62247'],856
+0,ST2825,7285,['ST2825'],860
+0,Encorafenib,6936,"['Encorafenib', 'LGX818']",862
+0,Refametinib,7003,"['Refametinib', 'BAY86-9766']",863
+0,AT9283,6852,['AT9283'],864
+0,Danusertib,6895,"['Danusertib', 'PHA-739358']",865
+0,Cenisertib,6848,"['Cenisertib', 'AS703569']",866
+0,TAK-901,7286,['TAK-901'],867
+0,PF-03814735,6984,['PF-03814735'],868
+0,SNS-314,7022,['SNS-314'],869
+0,PF-00477736,7287,"['PF-00477736', 'PF-477736']",875
+0,JQ1,7289,['JQ1'],878
+0,MI-63,7290,['MI-63'],879
+0,AGI-6780,7291,['AGI-6780'],881
+0,Taladegib,7293,"['Taladegib', 'LY2940680']",883
+0,RO5520985,7294,"['RO5520985', 'Ang-2-VEGF-A CrossMab', 'Vanucizumab']",884
+0,Linsitinib,6938,"['Linsitinib', 'OSI-906']",887
+0,Taladegib,7293,"['Taladegib', 'LY2940680']",911
+0,CD532,7300,['CD532'],913
+0,CCT137690,7301,['CCT137690'],915
+0,Alvocidib,6834,"['Alvocidib', 'flavopiridol', 'HMR 1275', 'L-868275']",921
+0,Alvocidib,6834,"['Alvocidib', 'flavopiridol', 'HMR 1275', 'L-868275']",922
+0,Erlotinib,520,"['Erlotinib', 'Tarceva', 'CP358774']",943
+1,Gefitinib,310,"['Gefitinib', 'Iressa', 'ZD1839']",943
+0,Uprosertib,6920,"['Uprosertib', 'GSK2141795']",962
+0,SU11274,7202,['SU11274'],968
+0,GSI-18,7311,['GSI-18'],970
+0,Linifanib,6937,"['Linifanib', 'ABT-869', 'AL-39324']",972
+0,Ellipticine,7313,['Ellipticine'],975
+0,MRK-003,7200,['MRK-003'],979
+0,L-685458,7315,"['L-685458', 'L-685,458']",980
+0,Enzastaurin,7316,"['Enzastaurin', 'LY317615']",982
+0,Midostaurin,6949,"['Midostaurin', 'Rydapt', 'CGP 41251', 'PKC412']",985
+0,ONC201,7318,"['ONC201', 'TIC-10', 'TIC10']",989
+0,MLN4924,7319,"['MLN4924', 'MLN-4924', 'pevonedistat', 'TAK-294']",990
+0,Motesanib,6960,"['Motesanib', 'AMG 706']",995
+0,Motesanib,6960,"['Motesanib', 'AMG 706']",996
+0,BGT226,6870,['BGT226'],1000
+0,FTI-277,7317,['FTI-277'],1006
+0,Necitumumab,7068,"['Necitumumab', 'Portrazza', 'IMC-11F8']",1016
+0,Nintedanib,6964,"['Nintedanib', 'Ofev', 'BIBF 1120', 'Vargatef']",1017
+0,CUDC-907,7062,['CUDC-907'],1018
+0,GSK461364,6922,['GSK461364'],1021
+1,HMN-214,7275,['HMN-214'],1021
+0,Olaparib,6971,"['Olaparib', 'Lynparza', 'AZD2281', 'KU-0059436']",1024
+0,Orantinib,6973,"['Orantinib', 'SU6668', 'TSU-68']",1026
+0,PD0166285,7070,['PD0166285'],1039
+0,PKI-179,7075,['PKI-179'],1040
+0,Lestaurtinib,6935,"['Lestaurtinib', 'CEP-701']",1041
+0,Lestaurtinib,6935,"['Lestaurtinib', 'CEP-701']",1042
+0,Lestaurtinib,6935,"['Lestaurtinib', 'CEP-701']",1043
+0,MEHD7945A,6946,['MEHD7945A'],1045
+0,PX-866,6996,"['PX-866', 'Oncothyreon']",1076
+0,Riluzole,7165,"['Riluzole', 'Rilutek']",1079
+0,ZM336372,7321,['ZM336372'],1104
+0,AV-412,7105,"['AV-412', 'MP-412']",1110
+0,XAV939,7322,"['XAV939', 'XAV-939']",1147
+0,interferon gamma ,7323,"['interferon gamma ', 'Actimmune', 'gamma interferon', 'IFN-G', 'recombinant interferon gamma']",1150
+0,Edelfosine,7324,"['Edelfosine', 'ET-18-OCH3']",1157
+0,Edelfosine,7324,"['Edelfosine', 'ET-18-OCH3']",1158
+0,EPZ004777,7325,"['EPZ004777', 'EPZ4777']",1170
+0,UNC0638,7328,['UNC0638'],1183
+0,BRD4770,7329,['BRD4770'],1184
+0,AZD7762,6859,['AZD7762'],1210
+0,Plerixafor,7330,"['Plerixafor', 'Mozobil', 'AMD3100']",1226
+0,Plerixafor,7330,"['Plerixafor', 'Mozobil', 'AMD3100']",1227
+0,UNC1999,7331,['UNC1999'],1237
+0,SGC-CBP30,7336,['SGC-CBP30'],1279
+0,Cyclopamine,7338,['Cyclopamine'],1301
+0,Rilotumumab,6835,"['Rilotumumab', 'AMG102']",1307
+0,Fasudil,7340,"['Fasudil', 'HA-1077']",1328
+0,GANT61,7341,['GANT61'],1336
+0,Dizocilpine,7342,"['Dizocilpine', 'MK-801']",1338
+0,Dizocilpine,7342,"['Dizocilpine', 'MK-801']",1339
+0,PLX8394,7160,['PLX8394'],1371
+0,Bardoxolone methyl,7344,"['Bardoxolone methyl', 'CDDO-Me', 'RTA 402']",1396
+0,Apigenin,7345,"['Apigenin', 'APG']",1400
+0,Apigenin,7345,"['Apigenin', 'APG']",1401
+0,Tanespimycin,7029,"['Tanespimycin', '17-AAG']",1421
+0,Sorafenib,390,"['Sorafenib', 'Nexavar', 'BAY 43-9006']",1436
+0,SAH-p53-8,7346,['SAH-p53-8'],1452
+0,Bortezomib,181,"['Bortezomib', 'Velcade']",1487
+0,Bufalin,7350,['Bufalin'],1489
+0,Dorsomorphin,7351,"['Dorsomorphin', 'Compound C']",1505
+0,Deguelin,7353,['Deguelin'],1524
+0,GNF-5837,7354,['GNF-5837'],1540
+0,JIB-04,7358,['JIB-04'],1583
+0,PFI-2,7359,['PFI-2'],1601
+0,SZL-P1-41,7360,['SZL-P1-41'],1605
+0,RI-1,7362,['RI-1'],1640
+0,NSC-658497,7363,['NSC-658497'],1644
+0,2G8,7365,"['2G8', 'murine TGFRB2 antibody']",1706
+0,Dobutamine,831,['Dobutamine'],1742
+0,ME-344,7372,['ME-344'],1753
+0,Emibetuzumab,6943,"['Emibetuzumab', 'LY2875358']",1762
+0,Abemaciclib,6942,"['Abemaciclib', 'Verzenio', 'LY2835219']",1786
+0,GSK1070916,6916,"['GSK1070916', 'GSK1070916A']",1801
+0,Pacritinib,7378,"['Pacritinib', 'SB1518']",1802
+0,Pacritinib,7378,"['Pacritinib', 'SB1518']",1803
+0,ARQ736,6843,['ARQ736'],1812
+1,RO5212054,7012,"['RO5212054', 'PLX3603']",1812
+0,ARRY-300,7381,"['ARRY-300', 'MEK300']",1813
+1,AZD8330,6861,"['AZD8330', 'ARRY-424704', 'ARRY-704']",1813
+0,RO5126766,7380,"['RO5126766', 'CH5126766']",1814
+0,RO4987655,7010,"['RO4987655', 'CH4987655']",1815
+0,Bafetinib,6863,"['Bafetinib', 'INNO-406', 'NS-187']",1816
+0,Alectinib,6885,"['Alectinib', 'Alecensa', 'CH5424802', 'RO5424802']",1817
+0,GDC-0084,7384,['GDC-0084'],1818
+0,GSK1059615,7473,['GSK1059615'],1819
+1,GSK2126458,6919,['GSK2126458'],1819
+0,Rigosertib,7164,"['Rigosertib', 'Estybon', 'ON 01910.Na', 'SyB L-1101']",1820
+0,TGR-1202,7388,"['TGR-1202', 'RP5264']",1821
+0,XL281,7048,"['XL281', 'BMS-908662']",1822
+0,ZSTK474,7054,['ZSTK474'],1823
+0,GDC-0349 ,7134,['GDC-0349 '],1824
+0,BMS-690514,6879,['BMS-690514'],1825
+0,BMS-690514,6879,['BMS-690514'],1826
+0,Idasanutlin,7389,"['Idasanutlin', 'RG7388']",1827
+0,GDC-0425,7394,"['GDC-0425', 'RG7602']",1828
+1,GDC-0575,7390,"['GDC-0575', 'ARRY-575', 'RG7741']",1828
+2,MK-8776,7393,"['MK-8776', 'SCH900776']",1828
+0,XL-844,7392,['XL-844'],1829
+0,CUDC-101,7124,['CUDC-101'],1830
+0,Icotinib,7064,"['Icotinib', 'BPI-2009', 'Conmana']",1831
+0,XL647,7049,"['XL647', 'KD019', 'Tesevatinib']",1833
+0,S-222611,7166,['S-222611'],1835
+0,Deguelin,7353,['Deguelin'],1836
+0,Rogaratinib,7396,"['Rogaratinib', 'BAY 1163877', 'BAY-1163877', 'BAY1163877']",1837
+0,Binimetinib,6827,"['Binimetinib', 'ARRY-162', 'ARRY-438162', 'MEK162']",1838
+1,Pimasertib,6989,"['Pimasertib', 'AS703026', 'MSC1936369B']",1838
+0,E6201,7128,['E6201'],1840
+0,LY2874455,7398,['LY2874455'],1842
+0,AZD4547,6857,['AZD4547'],1844
+0,HM61713,7434,"['HM61713', 'BI 1482694']",1845
+0,OTX015,7400,"['OTX015', 'MK-8628', 'Y-803']",1848
+0,Brivanib,7113,"['Brivanib', 'BMS-540215']",1856
+0,Brivanib,7113,"['Brivanib', 'BMS-540215']",1857
+0,Cediranib,7120,"['Cediranib', 'AZD-2171', 'Recentin']",1858
+0,LJM716,7401,"['LJM716', 'anti-HER3 monoclonal antibody LJM716']",1859
+0,Famitinib,7063,"['Famitinib', 'SHR1020']",1860
+0,Fruquintinib,7402,"['Fruquintinib', 'HMPL-013']",1861
+0,KD020,7404,['KD020'],1864
+0,rebastinib,7163,"['rebastinib', 'DCC-2036']",1865
+0,BBI608,7413,"['BBI608', 'BB608', 'Napabucasin']",1867
+0,RG7112,7414,"['RG7112', 'RO5045337']",1883
+0,CGM097,7415,"['CGM097', 'NVP-CGM097']",1885
+0,SAR405838,7416,"['SAR405838', 'MI-773', 'MI-77301']",1886
+0,LYS6KAKT1,7418,['LYS6KAKT1'],1906
+0,CGP049090,7420,['CGP049090'],1913
+1,PKF115-584,7419,['PKF115-584'],1913
+0,FH535,7421,['FH535'],1914
+0,ICG-001,7422,['ICG-001'],1915
+0,StAx-35,7423,['StAx-35'],1916
+0,Bosutinib,4738,"['Bosutinib', 'Bosulif', 'SKI-606']",1917
+0,TAE226,7424,['TAE226'],1918
+0,PF-562271,7425,"['PF-562271', 'PF-562,271', 'VS-6062']",1919
+0,Y15,7426,"['Y15', '1,2,4,5-benzenetetraamine tetrahydrochloride']",1920
+0,MF tricyclic,7427,['MF tricyclic'],1922
+0,MF tricyclic,7427,['MF tricyclic'],1923
+0,Celecoxib,474,"['Celecoxib', 'Celebra']",1924
+0,Sulindac,595,"['Sulindac', 'Clinoril']",1927
+0,AEE788,6830,['AEE788'],1957
+0,TAK-285,7432,['TAK-285'],1960
+0,Canertinib,7433,"['Canertinib', 'CI-1033']",1961
+0,Canertinib,7433,"['Canertinib', 'CI-1033']",1962
+0,HM61713,7434,"['HM61713', 'BI 1482694']",1963
+0,Midostaurin,6949,"['Midostaurin', 'Rydapt', 'CGP 41251', 'PKC412']",1964
+0,Masitinib,6944,"['Masitinib', 'AB1010']",1966
+0,OSI-930,7435,['OSI-930'],1967
+0,AG1295,7584,"['AG1295', 'AG-1295']",1969
+1,AG1296,7436,"['AG1296', 'AG-1296']",1969
+0,AG1296,7436,"['AG1296', 'AG-1296']",1970
+0,RO5212054,7012,"['RO5212054', 'PLX3603']",1971
+0,Bevacizumab-awwb,7438,"['Bevacizumab-awwb', 'Mvasi', 'ABP 215']",1976
+0,Marizomib,7440,"['Marizomib', 'NPI-0052']",1977
+0,GDC-0994,7442,['GDC-0994'],1983
+0,ABTL0812,7444,['ABTL0812'],1984
+0,CH5132799,7445,['CH5132799'],1985
+0,Niraparib,6965,"['Niraparib', 'Zejula', 'MK4827']",1986
+0,Rucaparib,7013,"['Rucaparib', 'Rubraca', 'AG014699', 'CO-388', 'PF-01367338']",1987
+0,DS-3078a ,7127,['DS-3078a '],1988
+0,Seliciclib,7208,"['Seliciclib', 'Roscovitine', 'CYC202']",1997
+0,Seliciclib,7208,"['Seliciclib', 'Roscovitine', 'CYC202']",1998
+0,BMS-777607,6881,"['BMS-777607', 'ASLAN002']",2000
+0,Ficlatuzumab,6904,"['Ficlatuzumab', 'AV-299', 'SCH900105']",2003
+0,Onartuzumab,6972,"['Onartuzumab', 'MetMAb', 'RO5490258']",2006
+0,S-49076,7450,['S-49076'],2007
+0,SAR125844,7451,['SAR125844'],2009
+0,Savolitinib,7453,"['Savolitinib', 'AZD6094', 'HMPL-504', 'Volitinib']",2010
+0,PHA-665752,7454,['PHA-665752'],2012
+0,MK2461,6954,['MK2461'],2014
+0,AMG 458,7455,['AMG 458'],2015
+0,ALT-801,7458,['ALT-801'],2040
+0,SML-8-73-1,7460,"['SML-8-73-1', 'SML']",2045
+0,SML-10-70-1 ,7461,['SML-10-70-1 '],2046
+0,Salirasib,7015,"['Salirasib', 'KD032']",2047
+0,Lonafarnib,6939,"['Lonafarnib', 'Sarasar', 'SCH66336']",2048
+1,Tipifarnib,7032,"['Tipifarnib', 'Zarnestra', 'R115777']",2048
+0,OSI-027,6974,['OSI-027'],2049
+0,Ridaforolimus,7007,"['Ridaforolimus', 'AP23573', 'Deforolimus', 'MK-8669']",2057
+0,SF1126,7020,['SF1126'],2058
+0,KU-0063794,7462,['KU-0063794'],2059
+0,Zotarolimus,7463,"['Zotarolimus', 'ABT-578']",2060
+0,GTP-14564,7464,['GTP-14564'],2061
+0,SU11652,7465,['SU11652'],2062
+0,SU11652,7465,['SU11652'],2063
+0,PP30,7467,['PP30'],2064
+1,Torin 1,7472,['Torin 1'],2064
+2,Torkinib,7466,"['Torkinib', 'PP242']",2064
+0,WYE-125132,7468,"['WYE-125132', 'WYE-132']",2065
+0,WAY-600,7471,['WAY-600'],2066
+1,WYE-354,7469,['WYE-354'],2066
+2,WYE-687,7470,['WYE-687'],2066
+0,PI-103,6988,['PI-103'],2067
+0,Torin 2,7474,['Torin 2'],2070
+0,RES-529,7475,"['RES-529', 'P529', 'Palomid 529']",2071
+0,PP-121,7476,['PP-121'],2072
+0,VB-111,7479,['VB-111'],2075
+0,Enzastaurin,7316,"['Enzastaurin', 'LY317615']",2084
+0,Staurosporine,1936,['Staurosporine'],2086
+0,Go 6983,7482,"['Go 6983', 'Go6983']",2087
+0,Go 6983,7482,"['Go 6983', 'Go6983']",2088
+0,GF109203X,7483,['GF109203X'],2090
+0,GF109203X,7483,['GF109203X'],2091
+0,Serdemetan,7484,"['Serdemetan', 'JNJ-26854165']",2107
+0,Tozasertib,7036,"['Tozasertib', 'MK-0457', 'VX-680']",2115
+0,Reversine,7485,['Reversine'],2116
+0,Reversine,7485,['Reversine'],2117
+0,MK-8745,7486,['MK-8745'],2118
+0,JNJ-7706621,7487,['JNJ-7706621'],2119
+0,PHA-680632,7488,"['PHA-680632', 'PHA680632']",2120
+0,MK-5108,7489,"['MK-5108', 'MK5018', 'VX-689']",2121
+0,CYC116,6892,['CYC116'],2122
+0,CCT129202,7490,['CCT129202'],2123
+0,MLN8054,7491,['MLN8054'],2124
+0,Barasertib,6864,"['Barasertib', 'AZD1152']",2125
+0,Pazopanib,4734,"['Pazopanib', 'Votrient', 'GW-786034']",2132
+0,Crenolanib,6889,"['Crenolanib', 'CP-868596']",2134
+0,CP-673451,7493,['CP-673451'],2135
+0,AJI-100,7495,['AJI-100'],2143
+1,AJI-214,7494,['AJI-214'],2143
+0,Ro 31-8220,7496,"['Ro 31-8220', 'Ro 318220', 'Ro-31-8220']",2144
+0,Ro 31-8220,7496,"['Ro 31-8220', 'Ro 318220', 'Ro-31-8220']",2145
+0,Go6976,7497,['Go6976'],2147
+0,Go6976,7497,['Go6976'],2148
+0,Midostaurin,6949,"['Midostaurin', 'Rydapt', 'CGP 41251', 'PKC412']",2150
+0,Bryostatin 1,7498,"['Bryostatin 1', 'NSC 339555']",2151
+0,Aprinocarsen,7499,"['Aprinocarsen', 'ISIS 3521']",2164
+0,Aprinocarsen,7499,"['Aprinocarsen', 'ISIS 3521']",2165
+0,UCN-01,7040,"['UCN-01', '7-hydroxystaurosporine', 'sc-3510']",2166
+0,Crenolanib,6889,"['Crenolanib', 'CP-868596']",2167
+0,CC-122,7500,['CC-122'],2168
+0,CC-292,7501,"['CC-292', 'Spebrutinib', 'AVL-292']",2169
+0,Palifermin,38,"['Palifermin', 'Kepivance', 'FGF-7']",2170
+0,TAE684,7502,"['TAE684', 'NVP-TAE684']",2188
+0,Ipafricept ,7503,"['Ipafricept ', 'Fzd8-Fc', 'OMP-54F28']",2197
+0,Danusertib,6895,"['Danusertib', 'PHA-739358']",2205
+0,Lenvatinib,6934,"['Lenvatinib', 'Lenvima', 'E7080']",2207
+0,PKF118-310,7504,['PKF118-310'],2208
+0,CCT031374,7507,['CCT031374'],2213
+1,CCT036477,7505,['CCT036477'],2213
+2,CCT070535,7506,['CCT070535'],2213
+0,LGH447,7508,"['LGH447', 'LGB321', 'PIM447']",2215
+0,INCB039110,7512,['INCB039110'],2216
+0,iCRT-14,7533,['iCRT-14'],2217
+1,iCRT-3,7510,['iCRT-3'],2217
+0,NC043,7511,['NC043'],2218
+0,MEDI-551,7513,['MEDI-551'],2219
+0,OSU03012,7514,"['OSU03012', 'AR-12', 'OSU-03012']",2220
+0,Galunisertib,7515,"['Galunisertib', 'LY2157299']",2221
+0,BC21,7516,['BC21'],2222
+0,JW55,7517,['JW55'],2223
+0,Pyrvinium,7518,['Pyrvinium'],2226
+0,Saridegib,7519,"['Saridegib', 'IPI-926']",2231
+0,Saridegib,7519,"['Saridegib', 'IPI-926']",2232
+0,Vismodegib,6764,"['Vismodegib', 'Erivedge', 'GDC-0449']",2234
+0,Vismodegib,6764,"['Vismodegib', 'Erivedge', 'GDC-0449']",2235
+0,PF-04449913,7326,"['PF-04449913', 'Glasdegib']",2237
+0,PF-04449913,7326,"['PF-04449913', 'Glasdegib']",2238
+0,PF-5274857,7522,['PF-5274857'],2239
+0,MRT-92,7523,['MRT-92'],2240
+0,Oprozomib,7524,"['Oprozomib', 'ONX 0912']",2243
+0,VSV-IFN-beta,7525,['VSV-IFN-beta'],2244
+0,ADI-PEG 20,7526,['ADI-PEG 20'],2245
+0,TAK-441,7527,['TAK-441'],2250
+0,U0126,7529,['U0126'],2259
+0,CI-1040,6886,"['CI-1040', 'PD-184352', 'PD184352']",2260
+0,BAY1125976,7111,['BAY1125976'],2275
+0,PD-0325901,6977,"['PD-0325901', 'PD-901', 'PD0325901']",2276
+0,AEB071,6829,"['AEB071', 'Sotrastaurin']",2279
+0,BEZ235,6868,"['BEZ235', 'Dactolisib', 'NVP-BEZ235']",2281
+0,Ipatasertib,6909,"['Ipatasertib', 'GDC-0068']",2282
+0,MK2206,6953,"['MK2206', 'MK-2206']",2283
+0,RX-0201,7014,"['RX-0201', 'Archexin']",2285
+0,Triciribine,7037,"['Triciribine', 'API-2', 'VQD-002']",2286
+0,AZD8055,7276,['AZD8055'],2288
+0,Roniciclib,6865,"['Roniciclib', 'BAY1000394']",2289
+0,AT-7867,7530,"['AT-7867', 'AT7687']",2290
+0,A-443654,7531,['A-443654'],2291
+0,iCRT-5,7532,['iCRT-5'],2297
+0,PNU-74654,7534,['PNU-74654'],2298
+0,IWR-1,7535,['IWR-1'],2299
+0,Patritumab,7536,"['Patritumab', 'U3-1287']",2300
+0,AC480,7086,"['AC480', 'BMS-599626']",2309
+0,Tucatinib,6846,"['Tucatinib', 'ARRY-380', 'ONT-380']",2310
+0,MGAH22,6947,"['MGAH22', 'Margetuximab']",2311
+0,MM-111,6956,['MM-111'],2312
+0,Neratinib,6962,"['Neratinib', 'Nerlynx', 'HKI-272', 'PB272']",2313
+0,Poziotinib,7161,"['Poziotinib', 'HM781-36B', 'NOV120101']",2314
+0,ABT-414,7085,['ABT-414'],2351
+0,Asciminib,7539,"['Asciminib', 'ABL001']",2361
+0,Brentuximab vedotin,7541,"['Brentuximab vedotin', 'Adcetris', 'SGN-35']",2362
+0,Everolimus,1530,"['Everolimus', 'Afinitor', 'RAD001', 'Zortress']",2380
+1,Sirolimus,867,"['Sirolimus', 'Rapamune', 'Rapamycin']",2380
+0,Torin 2,7474,['Torin 2'],2382
+0,Abiraterone,4697,"['Abiraterone', 'Zytiga', 'CB7630']",2398
+0,FIIN-1,7543,['FIIN-1'],2410
+0,Bevacizumab,107,"['Bevacizumab', 'Avastin']",2411
+0,SSR128129E,7544,['SSR128129E'],2413
+0,SSR128129E,7544,['SSR128129E'],2414
+0,BLU9931,7545,['BLU9931'],2415
+0,TGX-221,7547,['TGX-221'],2425
+0,TGX-221,7547,['TGX-221'],2426
+0,Tanibirumab,7548,"['Tanibirumab', 'TTAC-0001']",2430
+0,TG100-115,7549,['TG100-115'],2434
+0,TG100-115,7549,['TG100-115'],2435
+0,AS605240,7550,['AS605240'],2436
+0,AS605240,7550,['AS605240'],2437
+0,SGT-53,7551,"['SGT-53', 'transferrin receptor-targeted liposomal p53 cDNA']",2440
+0,CEP-28122,7552,['CEP-28122'],2441
+0,Ensartinib,7044,"['Ensartinib', 'X-396']",2442
+1,X-376,7553,['X-376'],2442
+0,ASP3096,7554,['ASP3096'],2443
+0,Entospletinib  ,7555,"['Entospletinib  ', 'SYK inhibitor GS-9973']",2445
+0,CG0070,7556,"['CG0070', 'Oncolytic adenovirus encoding GM-CSF']",2446
+0,Varlilumab,7557,"['Varlilumab', 'anti-CD27 monoclonal antibody CDX-1127']",2448
+0,Cerdulatinib,7561,"['Cerdulatinib', 'PRT062070', 'PRT2070']",2450
+0,CCT241533,7563,['CCT241533'],2452
+1,PV1019,7562,['PV1019'],2452
+0,VRX0466617,7564,['VRX0466617'],2453
+0,A-1155463,7588,['A-1155463'],2473
+1,A-1331852,7590,['A-1331852'],2473
+2,Navitoclax,6961,"['Navitoclax', 'ABT-263']",2473
+0,ISIS-FGFR4Rx,7566,['ISIS-FGFR4Rx'],2474
+0,XL999,7053,['XL999'],2475
+0,XL999,7053,['XL999'],2476
+0,AZD0424,7565,['AZD0424'],2477
+0,BGP-15,7567,['BGP-15'],2480
+0,BGP-15,7567,['BGP-15'],2481
+0,CEP-9722,7568,['CEP-9722'],2482
+0,CEP-9722,7568,['CEP-9722'],2483
+0,MP-124,7570,['MP-124'],2484
+0,PJ34,7571,['PJ34'],2485
+0,BMS-906024,7574,['BMS-906024'],2503
+0,MEDI0639,7575,"['MEDI0639', 'MEDI-0639']",2504
+0,Brontictuzumab,7069,"['Brontictuzumab', 'Anti-Notch1', 'OMP-52M51']",2506
+0,Tarextumab,7576,"['Tarextumab', 'OMP-59R5']",2507
+0,MK0752,6952,"['MK0752', 'MK-0752']",2508
+0,MK0752,6952,"['MK0752', 'MK-0752']",2509
+0,RO4929097,7009,['RO4929097'],2510
+0,Semagacestat,7577,"['Semagacestat', 'LY450139']",2511
+0,LY411575,7578,['LY411575'],2512
+0,YO-01027,7579,"['YO-01027', 'Dibenzazepine']",2513
+0,Avagacestat,7580,"['Avagacestat', 'BMS-708163']",2514
+1,DAPT,7581,"['DAPT', 'GSI-IX']",2514
+0,DAPT,7581,"['DAPT', 'GSI-IX']",2515
+0,O6-benzylguanine,7582,['O6-benzylguanine'],2535
+0,AGI-5198,7583,['AGI-5198'],2552
+0,AG1295,7584,"['AG1295', 'AG-1295']",2556
+0,AGL2043,7585,"['AGL2043', 'AGL-2043']",2557
+0,Semaxanib,7586,"['Semaxanib', 'SU5416']",2559
+0,Semaxanib,7586,"['Semaxanib', 'SU5416']",2560
+0,Epacadostat,7587,"['Epacadostat', 'INCB024360']",2561
+0,Sabutoclax,7589,"['Sabutoclax', 'BI-97C1']",2563
+0,Obatoclax,6968,"['Obatoclax', 'GX015-070']",2564
+0,Obatoclax,6968,"['Obatoclax', 'GX015-070']",2565
+0,SPC2996,7591,['SPC2996'],2566
+0,PNT2258,7592,['PNT2258'],2567
+0,Lirilumab ,7593,"['Lirilumab ', 'BMS-986015', 'IPH2102']",2570
+0,AP23464,7594,['AP23464'],2591
+0,PD166326,7595,['PD166326'],2592
+0,PD166326,7595,['PD166326'],2593
+0,AP23464,7594,['AP23464'],2594
+0,poly ICLC  ,7596,"['poly ICLC  ', 'Hiltonol']",2595
+0,S-equol  ,7597,['S-equol  '],2596
+0,BAY 1238097 ,7598,['BAY 1238097 '],2597
+0,Oclacitinib,7600,['Oclacitinib'],2601
+0,PD173955,7601,['PD173955'],2602
+0,PD173955,7601,['PD173955'],2603
+0,XI-011,7602,"['XI-011', 'NSC146109']",2604
+0,XI-011,7602,"['XI-011', 'NSC146109']",2605
+0,NSC207895,7603,['NSC207895'],2606
+1,XI-006,7607,['XI-006'],2606
+0,Ki23819,7606,['Ki23819'],2607
+0,SJ-172550,7604,['SJ-172550'],2608
+0,PD180970,7605,['PD180970'],2609
+0,PD180970,7605,['PD180970'],2610
+0,ATSP-7041,7608,['ATSP-7041'],2611
+0,KW-2449,7609,['KW-2449'],2612
+0,Quizartinib,6997,"['Quizartinib', 'AC220']",2613
+0,TCS 359,7610,['TCS 359'],2616
+0,G-749,7611,['G-749'],2617
+0,S-equol  ,7597,['S-equol  '],2622
+0,BAY-853474,7808,['BAY-853474'],2627
+0,PD98059,7612,"['PD98059', 'PD98058']",2631
+0,PD98059,7612,"['PD98059', 'PD98058']",2632
+0,SCH772984,7613,['SCH772984'],2633
+0,6MHP vaccine,7614,['6MHP vaccine'],2636
+0,Saracatinib,7018,"['Saracatinib', 'AZD0530']",2642
+0,B02,7616,['B02'],2655
+0,peginterferon alfa-2b,7617,"['peginterferon alfa-2b', 'Sylatron', 'PEG-IFN']",2656
+0,GANT58,7619,['GANT58'],2658
+0,Cannabidiol,7620,['Cannabidiol'],2664
+0,CRS-207,7621,['CRS-207'],2671
+0,GVAX pancreatic cancer vaccine  ,7622,['GVAX pancreatic cancer vaccine  '],2672
+0,Birinapant  ,7623,"['Birinapant  ', 'TL32711']",2673
+0,Sipuleucel-T,7624,"['Sipuleucel-T', 'Provenge', 'APC 8015']",2674
+0,AZD6918,7627,['AZD6918'],2683
+0,GNF-4256,7628,['GNF-4256'],2684
+0,Milciclib,7629,"['Milciclib', 'PHA-848125AC']",2685
+0,Tenovin-1,7631,['Tenovin-1'],2687
+1,Tenovin-6 ,7630,['Tenovin-6 '],2687
+0,Givinostat,7632,"['Givinostat', 'ITF2357']",2688
+0,MPT0E028,7633,['MPT0E028'],2689
+0,NSC109555,7649,['NSC109555'],2692
+0,ML323,7637,['ML323'],2693
+1,SJB2-043,7686,['SJB2-043'],2693
+0,ML323,7637,['ML323'],2698
+0,EPZ005687,7638,['EPZ005687'],2699
+0,BAY 61-3606,7639,['BAY 61-3606'],2704
+0,Orteronel ,7640,"['Orteronel ', 'TAK-700']",2709
+0,AZ-23,7645,['AZ-23'],2713
+0,AZ64,7646,['AZ64'],2715
+0,BMS-754807,6880,['BMS-754807'],2717
+0,GTx-186,7643,['GTx-186'],2718
+0,HS-345,7644,['HS-345'],2719
+0,C3742,7648,['C3742'],2723
+0,Tazemetostat,7650,"['Tazemetostat', 'E-7438', 'EPZ-6438', 'EPZ6438']",2724
+0,LFM-A13,7651,['LFM-A13'],2726
+0,LFM-A13,7651,['LFM-A13'],2727
+0,LFM-A13,7651,['LFM-A13'],2728
+0,RN486,7653,['RN486'],2729
+0,Tarextumab,7576,"['Tarextumab', 'OMP-59R5']",2730
+0,GDC-0834,7654,['GDC-0834'],2731
+1,HM-71224,7656,['HM-71224'],2731
+2,ONO-4059,7655,"['ONO-4059', 'ONO-GS-4059', 'ONO-WG-307']",2731
+0,GDC-0834,7654,['GDC-0834'],2732
+0,PLS-123,7657,['PLS-123'],2733
+0,CGI1746,7658,['CGI1746'],2734
+0,talimogene laherparepvec ,7659,"['talimogene laherparepvec ', 'OncoVEX GM-CSF']",2737
+0,NY-ESO-1 peptide vaccine,7660,['NY-ESO-1 peptide vaccine'],2738
+0,pTVG-HP plasmid DNA vaccine,7661,['pTVG-HP plasmid DNA vaccine'],2740
+0,Tasquinimod,7662,['Tasquinimod'],2741
+0,Afatinib,6823,"['Afatinib', 'Gilotrif', 'BIBW 2992']",2742
+0,Afatinib,6823,"['Afatinib', 'Gilotrif', 'BIBW 2992']",2743
+0,DZNeP,7664,"['DZNeP', '3-Deazaneplanocin A']",2744
+0,DZNeP,7664,"['DZNeP', '3-Deazaneplanocin A']",2745
+0,EI1,7847,['EI1'],2747
+0,Trabedersen,7666,"['Trabedersen', 'AP 12009']",2756
+0,AP 11014,7667,['AP 11014'],2757
+0,Fresolimumab,7668,"['Fresolimumab', 'GC1008']",2759
+0,SX-007,7709,['SX-007'],2760
+0,belagenpumatucel-L,7669,"['belagenpumatucel-L', 'Lucanix']",2761
+0,LY364947,7670,['LY364947'],2762
+0,LY364947,7670,['LY364947'],2763
+0,LY550410,7671,['LY550410'],2764
+0,LY550410,7671,['LY550410'],2765
+0,LY2109761,7672,['LY2109761'],2766
+0,SB-431542 ,7673,['SB-431542 '],2768
+0,Ki26894,7674,['Ki26894'],2770
+0,Verrucarin A,7675,['Verrucarin A'],2775
+0,NSC124854,7676,['NSC124854'],2778
+0,NSC666715,7677,['NSC666715'],2779
+0,PHA-533533,7678,['PHA-533533'],2782
+0,Dinaciclib,6896,"['Dinaciclib', 'SCH727965']",2783
+1,PHA-533533,7678,['PHA-533533'],2783
+0,MYB vaccine,7679,['MYB vaccine'],2786
+0,Purvalanol A,7680,['Purvalanol A'],2790
+0,Purvalanol A,7680,['Purvalanol A'],2791
+0,SNS-032,7681,"['SNS-032', 'BMS-387032']",2792
+0,SU 9516,7682,['SU 9516'],2793
+0,AT7519,7683,"['AT7519', 'AT7519M']",2794
+0,AZD5438,7684,['AZD5438'],2795
+0,MOXR0916,7685,['MOXR0916'],2796
+0,GSK343,7663,['GSK343'],2802
+0,AR-42 ,7101,"['AR-42 ', 'HDAC42']",2816
+0,GSK2816126,7689,['GSK2816126'],2823
+0,ZK 304709,7690,['ZK 304709'],2842
+0,Dalotuzumab,6894,"['Dalotuzumab', 'h7C10', 'MK-0646']",2844
+0,Bazedoxifene,7691,['Bazedoxifene'],2848
+0,GSK1838705A,7692,['GSK1838705A'],2849
+0,AXL1717,7697,"['AXL1717', 'Picropodophyllin']",2850
+1,Figitumumab,6905,"['Figitumumab', 'CP-751,871']",2850
+2,R1507,6998,['R1507'],2850
+0,AVE1642,7693,"['AVE1642', 'EM164']",2851
+0,AVE1642,7693,"['AVE1642', 'EM164']",2852
+0,NVP-ADW742,7694,"['NVP-ADW742', 'ADW742']",2853
+0,NVP-ADW742,7694,"['NVP-ADW742', 'ADW742']",2854
+0,BMS-536924,6877,['BMS-536924'],2856
+0,GSK1904529A,7695,['GSK1904529A'],2857
+0,PQ401,7696,['PQ401'],2858
+0,Robatumumab,7698,"['Robatumumab', '19D12', 'SCH 717454']",2859
+0,BIIB022,6874,['BIIB022'],2860
+0,Dinaciclib,6896,"['Dinaciclib', 'SCH727965']",2862
+0,SD-208,7700,['SD-208'],2871
+0,SD-093,7701,['SD-093'],2872
+0,SD-093,7701,['SD-093'],2873
+0,Baricitinib,7702,"['Baricitinib', 'LY3009104', 'NCB028050']",2874
+0,Momelotinib,6959,"['Momelotinib', 'CYT387']",2875
+0,GLPG0634,7703,"['GLPG0634', 'Filgotinib']",2876
+0,SM16,7705,['SM16'],2877
+0,ASP015K,7706,['ASP015K'],2878
+0,R333,7707,['R333'],2879
+0,A83-01,7708,['A83-01'],2880
+0,SX-007,7709,['SX-007'],2881
+0,IN-1130,7710,['IN-1130'],2882
+0,IN-1130,7710,['IN-1130'],2883
+0,RG108,7711,['RG108'],2884
+0,Zebularine,2946,"['Zebularine', '1-beta-D-ribofuranosyl-2(1H)-pyrimidinone']",2885
+0,NMS-E973,7712,['NMS-E973'],2905
+0,Onalespib,6851,"['Onalespib', 'AT13387']",2906
+0,Onalespib,6851,"['Onalespib', 'AT13387']",2907
+0,KW-2478,7713,['KW-2478'],2908
+0,P276-00,7714,['P276-00'],2909
+0,Alvespimycin,6833,"['Alvespimycin', '17-DMAG', 'KOS-1022']",2910
+0,SNX-2112,7715,"['SNX-2112', 'PF-04928473']",2911
+0,SNX-2112,7715,"['SNX-2112', 'PF-04928473']",2912
+0,CH5138303,7716,['CH5138303'],2913
+0,BIIB021,7717,['BIIB021'],2914
+0,AUY922,6853,"['AUY922', 'NVP-AUY922']",2915
+0,AUY922,6853,"['AUY922', 'NVP-AUY922']",2916
+0,C086,7718,['C086'],2917
+0,TAS-116,7719,['TAS-116'],2918
+0,WK88-1,7720,['WK88-1'],2919
+0,NXD30001,7721,['NXD30001'],2920
+0,NXD30001,7721,['NXD30001'],2921
+0,PF-4942847,7722,['PF-4942847'],2922
+0,IPI-493,7724,"['IPI-493', '17-AG']",2923
+0,XL888,7052,['XL888'],2924
+0,XL888,7052,['XL888'],2925
+0,HSP990,7725,"['HSP990', 'NVP-HSP990']",2926
+0,peginterferon alfa-2b,7617,"['peginterferon alfa-2b', 'Sylatron', 'PEG-IFN']",2927
+0,GLPG0778,7727,"['GLPG0778', 'Solcitinib', 'GSK2586184']",2928
+1,PF-04965842,7726,['PF-04965842'],2928
+2,PF-06263276,7732,['PF-06263276'],2928
+0,peginterferon alfa-2b,7617,"['peginterferon alfa-2b', 'Sylatron', 'PEG-IFN']",2929
+0,VX-509,7728,"['VX-509', 'Decernotinib']",2930
+0,LY2784544,6941,"['LY2784544', 'Gandotinib']",2931
+0,AZD1480,6856,['AZD1480'],2932
+0,XL019,7729,['XL019'],2933
+0,BMS-911543,7730,['BMS-911543'],2934
+0,NS-018,7731,['NS-018'],2935
+0,NS-018,7731,['NS-018'],2936
+0,Tyrphostin B42,7734,"['Tyrphostin B42', 'AG-490']",2939
+0,Tyrphostin B42,7734,"['Tyrphostin B42', 'AG-490']",2940
+0,WP1066,7735,['WP1066'],2941
+0,WP1066,7735,['WP1066'],2942
+0,NVP-BSK805,7736,['NVP-BSK805'],2943
+0,AZ960,7737,['AZ960'],2944
+0,CEP-33779,7738,['CEP-33779'],2945
+0,Dehydrocrenatidine,7739,['Dehydrocrenatidine'],2951
+0,JTE-052,7740,['JTE-052'],2952
+0,ELR510444,7741,['ELR510444'],2953
+0,ON044580,7742,['ON044580'],2954
+0,LY379196,7743,['LY379196'],2955
+0,LS104,7744,['LS104'],2957
+0,PF-956980,7745,['PF-956980'],2958
+0,ZM39923,7746,"['ZM39923', 'ZM449829']",2960
+0,INCB16562,7747,['INCB16562'],2963
+0,Pyridone 6,7748,"['Pyridone 6', 'CMP6', 'Jak Inhibitor I']",2965
+0,INCB20,7749,['INCB20'],2966
+0,Novobiocin,1039,"['Novobiocin', 'Albamix', 'Antibiotic Pa-93']",2969
+0,VX-11e,7751,['VX-11e'],2974
+0,GW843682X,7752,['GW843682X'],2978
+0,NMS-P937,7753,['NMS-P937'],2979
+0,ON01910,7754,['ON01910'],2980
+0,JANEX-1,7755,"['JANEX-1', 'WHI-P131']",2982
+0,JANEX-1,7755,"['JANEX-1', 'WHI-P131']",2983
+0,NIBR3049,7756,['NIBR3049'],2991
+1,WYE-151650,7757,['WYE-151650'],2991
+0,CH5137291,7760,['CH5137291'],3004
+0,CH5137291,7760,['CH5137291'],3005
+0,Lonaprisan,7761,"['Lonaprisan', 'ZK 230211']",3016
+0,Mifepristone,824,"['Mifepristone', 'Corlux', 'Mifepriston']",3017
+0,BMS-641988,7762,['BMS-641988'],3018
+0,Telapristone,7763,"['Telapristone', 'Proellex', 'CDB-4124']",3019
+0,AZD3514,7766,['AZD3514'],3022
+0,Ketoconazole,1015,"['Ketoconazole', 'Nizoral', 'KCZ', 'Xolegel']",3023
+0,PLX3397,6991,"['PLX3397', 'Pexidartinib']",3025
+0,PLX3397,6991,"['PLX3397', 'Pexidartinib']",3026
+0,PLX3397,6991,"['PLX3397', 'Pexidartinib']",3027
+0,NVP-BVB808,7772,['NVP-BVB808'],3030
+0,MK-4166,7767,['MK-4166'],3032
+0,ORG-31710,7768,['ORG-31710'],3033
+1,ORG-33628,7769,['ORG-33628'],3033
+0,K-7174,7770,['K-7174'],3034
+0,K-7174,7770,['K-7174'],3035
+0,FL442,7771,['FL442'],3036
+0,REGN421,7004,"['REGN421', 'Enoticumab', 'SAR153192']",3066
+0,Nilotinib,4655,"['Nilotinib', 'Tasigna', 'AMN-107']",3068
+0,GW2580,7773,['GW2580'],3069
+0,GW2580,7773,['GW2580'],3070
+0,Sorafenib,390,"['Sorafenib', 'Nexavar', 'BAY 43-9006']",3071
+0,Ki20227,7774,['Ki20227'],3072
+0,MCS110,7775,['MCS110'],3075
+0,JNJ-40346527,7776,['JNJ-40346527'],3076
+0,FPA008,7777,['FPA008'],3077
+0,AMG820,7779,['AMG820'],3079
+0,Emactuzumab,7780,"['Emactuzumab', 'RG7155', 'RO5509554']",3080
+0,BLZ945,7781,['BLZ945'],3081
+0,AC708,7782,['AC708'],3082
+0,LY2510924,7783,['LY2510924'],3083
+0,Ulocuplumab,7784,"['Ulocuplumab', 'BMS-936564', 'MDX1338']",3084
+0,MSX-122,7785,['MSX-122'],3085
+0,BKT140,7786,"['BKT140', 'BL-8040', 'TN14003']",3086
+0,SJA5,7787,['SJA5'],3087
+0,AMD11070,7788,['AMD11070'],3088
+0,ALX-0651,7789,['ALX-0651'],3089
+0,EPZ-5676,7792,"['EPZ-5676', 'pinometostat']",3090
+0,SGC0946,7793,['SGC0946'],3092
+0,AI-10-49,7794,['AI-10-49'],3100
+0,UC-773587,7795,['UC-773587'],3114
+1,UC-857993,7796,['UC-857993'],3114
+0,BIX-01294,7797,['BIX-01294'],3117
+0,MGA271,7798,"['MGA271', 'Enoblituzumab']",3118
+0,Alectinib,6885,"['Alectinib', 'Alecensa', 'CH5424802', 'RO5424802']",3119
+0,Gilteritinib,7799,"['Gilteritinib', 'ASP2215']",3121
+0,Gilteritinib,7799,"['Gilteritinib', 'ASP2215']",3122
+0,IMO-8400,7800,['IMO-8400'],3125
+0,Trichostatin A,7801,"['Trichostatin A', 'TSA']",3126
+0,IMG-2005-5,7802,['IMG-2005-5'],3127
+0,ND-2158,7803,['ND-2158'],3130
+0,ND-2110,7804,['ND-2110'],3131
+0,ND-346,7805,['ND-346'],3132
+0,Phenformin,903,"['Phenformin', 'Beta-Pebg']",3133
+0,Sipuleucel-T,7624,"['Sipuleucel-T', 'Provenge', 'APC 8015']",3139
+0,VE-821,7809,['VE-821'],3169
+0,NU6027,7810,['NU6027'],3171
+0,VX-970,7811,"['VX-970', 'M6620', 'VE-822']",3172
+0,AZ20,7812,['AZ20'],3173
+0,AZD6738,7813,['AZD6738'],3174
+0,RO6895882,7814,"['RO6895882', 'CEA TCB', 'RG7813']",3202
+0,GDC-0919,7816,"['GDC-0919', 'NLG919', 'RG6078']",3203
+0,PG545,7818,['PG545'],3205
+0,Abagovomab,7819,['Abagovomab'],3208
+0,WT1 vaccine,7820,['WT1 vaccine'],3210
+0,GSK3052230,7822,"['GSK3052230', 'FP-1039']",3211
+1,MGFR1877S,7821,"['MGFR1877S', 'RG744']",3211
+0,HD125,7825,['HD125'],3212
+0,Meso-TR3,7826,['Meso-TR3'],3214
+0,MUC16ecto CAR T cells,7827,['MUC16ecto CAR T cells'],3219
+0,Olaparib,6971,"['Olaparib', 'Lynparza', 'AZD2281', 'KU-0059436']",3228
+0,NSC348884,7828,['NSC348884'],3229
+0,OBP-801,7829,"['OBP-801', 'YM753']",3231
+0,OBP-801,7829,"['OBP-801', 'YM753']",3232
+0,TdCyd,7830,"['TdCyd', ""4'-thio-2'-deoxycytidine""]",3233
+0,EKI-285,7834,"['EKI-285', 'CL-387,785', 'CL-387785']",3241
+0,EKI-285,7834,"['EKI-285', 'CL-387,785', 'CL-387785']",3242
+0,anti-EGFR CAR T,7838,['anti-EGFR CAR T'],3244
+0,PT-112,7843,['PT-112'],3245
+0,GSK126,7845,['GSK126'],3263
+0,EPZ011989,7846,['EPZ011989'],3265
+0,Reparixin,7848,['Reparixin'],3272
+0,FPA144,7851,['FPA144'],3278
+0,MFGR1877S,7853,['MFGR1877S'],3280
+0,HER2 sensitized T-cells,7856,['HER2 sensitized T-cells'],3287
+0,HER2 sensitized T-cells,7856,['HER2 sensitized T-cells'],3288
+0,BLU-285,7857,['BLU-285'],3289
+0,11C12,7867,['11C12'],3290
+0,CPI-169,7858,['CPI-169'],3292
+0,AG-14361,7859,['AG-14361'],3293
+0,AG-14361,7859,['AG-14361'],3294
+0,INO-1001,7860,['INO-1001'],3295
+0,INO-1001,7860,['INO-1001'],3296
+0,A-966492,7861,['A-966492'],3297
+0,NU1025,7862,['NU1025'],3298
+0,BGB-290,7863,['BGB-290'],3299
+0,PD173074,7864,['PD173074'],3303
+0,SPP86,7865,['SPP86'],3306
+0,Amrubicin,7866,['Amrubicin'],3308
+0,KB004,7868,['KB004'],3318
+0,AZ6089,7870,"['AZ6089', 'AZ12576089']",3319
+1,AZ8010,7869,"['AZ8010', 'AZ12908010']",3319
+0,AV203,6854,"['AV203', 'AV-203']",3322
+0,Seribantumab,6957,"['Seribantumab', 'MM-121', 'SAR256212']",3323
+0,BMS-871,7871,['BMS-871'],3324
+0,LY3039478,7872,['LY3039478'],3325
+0,BAY1179470,7850,"['BAY1179470', 'BAY 1179470']",3326
+0,ABBV-075,8328,"['ABBV-075', 'Mivebresib']",3344
+0,AZD6482,7058,['AZD6482'],3345
+0,IC87114,8104,"['IC87114', 'IC-87114']",3346
+1,PW12,7873,['PW12'],3346
+2,TGX-155,8103,"['TGX-155', '8-(4-Fluoro-2-methylphenoxy)-2-(4-morpholinyl)-4(1H)-quinolinone', 'TGX155']",3346
+0,TGX-115,7874,['TGX-115'],3347
+0,II-B08,7875,['II-B08'],3348
+0,AS-252424,7876,['AS-252424'],3349
+0,PI-3065,7877,['PI-3065'],3350
+0,YM-024,7879,['YM-024'],3352
+0,NSC-87877,7878,['NSC-87877'],3353
+0,Mogamulizumab ,7880,['Mogamulizumab '],3355
+0,vitespen,7881,"['vitespen', 'Oncophage', 'HSPPC-96']",3356
+0,coxsackievirus A21,7882,"['coxsackievirus A21', 'CAVATAK', 'CVA21']",3357
+0,GR-MD-02,7883,['GR-MD-02'],3358
+0,Indoximod,7884,"['Indoximod', '1-methyl-d-tryptophan', '1-MT', 'D-1MT', 'NLG-8189']",3359
+0,GVAX colorectal cancer vaccine,7885,['GVAX colorectal cancer vaccine'],3360
+0,Icrucumab,7886,"['Icrucumab', 'IMC-18F1']",3361
+0,SPI-112Me,7890,"['SPI-112Me', 'NSC-117199']",3364
+0,Lorlatinib,7074,"['Lorlatinib', 'PF-06463922']",3367
+0,NAX014,7891,['NAX014'],3369
+0,NAX014,7891,['NAX014'],3370
+0,PD173074,7864,['PD173074'],3379
+0,G007-LK,7893,['G007-LK'],3387
+0,Crizotinib,6890,"['Crizotinib', 'Xalkori', 'PF-02341066']",3396
+0,Baicalein,8537,['Baicalein'],3406
+0,Y90 clivatuzumab tetraxetan,7898,"['Y90 clivatuzumab tetraxetan', 'IMMU-107']",3415
+0,Mocetinostat,7899,"['Mocetinostat', 'MGCD0103']",3416
+0,Mocetinostat,7899,"['Mocetinostat', 'MGCD0103']",3417
+0,Chidamide,7900,"['Chidamide', 'CS055', 'HBI-8000']",3418
+0,Quisinostat,7901,"['Quisinostat', 'JNJ-26481585']",3419
+0,Quisinostat,7901,"['Quisinostat', 'JNJ-26481585']",3420
+0,CHR-3996,7902,['CHR-3996'],3421
+0,CDX-301,7904,"['CDX-301', 'Mobista']",3427
+0,OC-L,7905,['OC-L'],3428
+0,sEphB4-HSA,7910,['sEphB4-HSA'],3429
+0,GSK2879552 ,7911,['GSK2879552 '],3430
+0,DCBCI0901,7383,['DCBCI0901'],3453
+0,tirapazamine,7913,"['tirapazamine', 'Tirazone']",3469
+0,PR-104,7914,['PR-104'],3470
+0,SN30000,7915,['SN30000'],3471
+0,LY2780301,6940,['LY2780301'],3473
+0,NMS-P626,7918,['NMS-P626'],3485
+0,IC87114,8104,"['IC87114', 'IC-87114']",3492
+0,GDC-0980,6913,"['GDC-0980', 'Apitolisib']",3508
+0,CC-223,6884,['CC-223'],3513
+0,UCN-01,7040,"['UCN-01', '7-hydroxystaurosporine', 'sc-3510']",3541
+0,UCN-01,7040,"['UCN-01', '7-hydroxystaurosporine', 'sc-3510']",3542
+0,ADXS31-142 ,7919,['ADXS31-142 '],3558
+0,ALT-803,7921,['ALT-803'],3562
+0,RTA 408,7922,['RTA 408'],3563
+1,RTA-408,8218,['RTA-408'],3563
+0,NCDM-32B,7923,['NCDM-32B'],3566
+0,PROSTVAC-F/TRICOM ,7924,['PROSTVAC-F/TRICOM '],3567
+1,PROSTVAC-V/TRICOM,8567,['PROSTVAC-V/TRICOM'],3567
+0,GSK690693,7925,['GSK690693'],3576
+0,Trilaciclib,7926,"['Trilaciclib', 'G1T28']",3584
+0,WZ4002,7927,['WZ4002'],3587
+0,Z-endoxifen HCl,7928,['Z-endoxifen HCl'],3603
+0,GSK2256098,7929,['GSK2256098'],3604
+0,TEW 7197,7908,"['TEW 7197', 'EW-7197', 'TEW-7197']",3611
+0,sEphB4-HSA,7910,['sEphB4-HSA'],3624
+0,Niclosamide,4811,"['Niclosamide', 'Niclocide']",3654
+0,CWP232291,7930,['CWP232291'],3656
+0,MEDI9447,7934,['MEDI9447'],3680
+0,ADXS11-001,7935,"['ADXS11-001', 'Lovaxin C']",3683
+0,Motolimod,7936,"['Motolimod', 'VTX-2337']",3684
+0,AZD5069,7937,['AZD5069'],3685
+0,Nintedanib,6964,"['Nintedanib', 'Ofev', 'BIBF 1120', 'Vargatef']",3686
+0,CCT251455,7947,['CCT251455'],3711
+1,ONCOII,8158,['ONCOII'],3711
+0,CCT196969,7941,['CCT196969'],3714
+1,CCT241161,7942,['CCT241161'],3714
+0,NMS-P715,7943,['NMS-P715'],3716
+0,CWP232228,7944,['CWP232228'],3722
+0,KU-55933,7945,"['KU-55933', 'KU55933']",3723
+0,AZ3146,7946,['AZ3146'],3724
+0,PF-0461903,7958,['PF-0461903'],3751
+0,S3I-201,7951,['S3I-201'],3756
+0,thioureidobutyronitrile,7897,"['thioureidobutyronitrile', 'Kevetrin']",3759
+0,Avelumab,7952,"['Avelumab', 'Bavencio', 'MSB0010718C']",3775
+0,TAK-659,7953,['TAK-659'],3776
+0,Tetrathiomolybdate,7954,['Tetrathiomolybdate'],3777
+0,Dovitinib,6897,"['Dovitinib', 'CHIR-258', 'TKI258']",3788
+0,Dovitinib,6897,"['Dovitinib', 'CHIR-258', 'TKI258']",3789
+0,PHT-427,7955,['PHT-427'],3794
+0,YM155,7956,['YM155'],3803
+0,PF-04880594,7957,['PF-04880594'],3807
+0,GA201,7960,"['GA201', 'RG7160']",3814
+0,KU004,7962,['KU004'],3826
+0,CID1067700,7963,"['CID1067700', 'ML282']",3837
+0,E6201,7128,['E6201'],3838
+0,Orantinib,6973,"['Orantinib', 'SU6668', 'TSU-68']",3861
+0,Quizartinib,6997,"['Quizartinib', 'AC220']",3862
+0,Cediranib,7120,"['Cediranib', 'AZD-2171', 'Recentin']",3863
+0,Lenvatinib,6934,"['Lenvatinib', 'Lenvima', 'E7080']",3865
+0,Tivozanib,7173,"['Tivozanib', 'AV-951']",3866
+0,Vatalanib,7968,"['Vatalanib', 'CGP-79787', 'PTK787', 'ZK 222584']",3867
+0,Vatalanib,7968,"['Vatalanib', 'CGP-79787', 'PTK787', 'ZK 222584']",3868
+0,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",3884
+0,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",3885
+0,inotuzumab ozogamicin,7969,"['inotuzumab ozogamicin', 'Besponsa']",3891
+0,pipendoxifene,7970,"['pipendoxifene', 'ERA 923', 'ERA-923', 'ERA923']",3923
+0,Toca 511,7971,"['Toca 511', 'T5.0002']",3926
+0,Ad.p53-DC vaccine,7087,"['Ad.p53-DC vaccine', 'INGN-225']",3929
+0,Foretinib,6906,"['Foretinib', 'EXEL-2880', 'GSK1363089G', 'XL880']",3959
+1,MK8033,7991,['MK8033'],3959
+0,Vandetanib,4691,"['Vandetanib', 'Caprelsa', 'ZD6474']",3970
+0,Vandetanib,4691,"['Vandetanib', 'Caprelsa', 'ZD6474']",3971
+0,BHA536,8464,['BHA536'],3976
+0,AZD1208,7973,['AZD1208'],3983
+0,Sacituzumab govitecan,7974,['Sacituzumab govitecan'],3993
+0,Farletuzumab,7975,"['Farletuzumab', 'MORAb-003']",4007
+0,IMGN853,7977,"['IMGN853', 'M9346A-sulfo-SPDB-DM4', 'Mirvetuximab Soravtansine']",4008
+1,Vintafolide,7976,"['Vintafolide', 'EC145']",4008
+0,IMGN853,7977,"['IMGN853', 'M9346A-sulfo-SPDB-DM4', 'Mirvetuximab Soravtansine']",4009
+0,BGC 638,7982,"['BGC 638', 'CB300638']",4010
+1,BGC 945,7978,"['BGC 945', 'ONX-0801']",4010
+0,MOv18IgE,7980,['MOv18IgE'],4014
+0,Plevitrexed,7981,"['Plevitrexed', 'BGC 9331', 'ZD9331']",4015
+0,Plevitrexed,7981,"['Plevitrexed', 'BGC 9331', 'ZD9331']",4016
+0,EC0905,7986,['EC0905'],4017
+0,BMS-777607,6881,"['BMS-777607', 'ASLAN002']",4020
+0,SU11274,7202,['SU11274'],4021
+0,AZD3463,7292,['AZD3463'],4022
+1,Ceritinib,6932,"['Ceritinib', 'Zykadia', 'LDK378']",4022
+2,Foretinib,6906,"['Foretinib', 'EXEL-2880', 'GSK1363089G', 'XL880']",4022
+0,Foretinib,6906,"['Foretinib', 'EXEL-2880', 'GSK1363089G', 'XL880']",4023
+0,MK8033,7991,['MK8033'],4024
+0,IMC-41A10 ,7992,['IMC-41A10 '],4026
+0,Zt/f2,7993,['Zt/f2'],4027
+0,Zt/g4-DM1,7994,['Zt/g4-DM1'],4028
+0,Zt/g4,7995,['Zt/g4'],4029
+0,LCRF-0004,7996,['LCRF-0004'],4030
+0,AZD3965,7057,['AZD3965'],4051
+0,Bafetinib,6863,"['Bafetinib', 'INNO-406', 'NS-187']",4053
+0,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",4054
+1,Nilotinib,4655,"['Nilotinib', 'Tasigna', 'AMN-107']",4054
+2,Ponatinib,6808,"['Ponatinib', 'Iclusig', 'AP24534']",4054
+0,LY341495,7998,['LY341495'],4063
+0,LY341495,7998,['LY341495'],4064
+0,MCCK1,8001,['MCCK1'],4065
+0,G305,8003,['G305'],4079
+0,ALW-II-41-27,8004,['ALW-II-41-27'],4082
+0,AT-101,6850,"['AT-101', 'R-(-)-gossypol acetic acid\xa0']",4084
+0,AT-101,6850,"['AT-101', 'R-(-)-gossypol acetic acid\xa0']",4085
+0,BDA-366,8005,['BDA-366'],4086
+0,A-1155905,8013,['A-1155905'],4087
+1,A-1208746,8011,['A-1208746'],4087
+2,A-1210477,8006,['A-1210477'],4087
+3,A-1248767,8012,['A-1248767'],4087
+0,(–)BI97D6,8007,['(–)BI97D6'],4092
+0,BM-1197,8008,['BM-1197'],4093
+0,UMI-77,8009,['UMI-77'],4096
+0,TW-37,8010,['TW-37'],4097
+0,HA14-1,8014,['HA14-1'],4098
+0,HA14-1,8014,['HA14-1'],4099
+0,EPZ-5676,7792,"['EPZ-5676', 'pinometostat']",4102
+0,UNC2025,8015,['UNC2025'],4104
+0,AZD8835,7382,['AZD8835'],4106
+0,JX06,8016,['JX06'],4110
+0,Verteporfin,452,"['Verteporfin', 'Visudyne']",4111
+0,C19,8017,['C19'],4112
+0,KW-2450,6930,['KW-2450'],4114
+0,Ralimetinib,8018,"['Ralimetinib', 'LY2228820']",4115
+0,AZD8186,7108,['AZD8186'],4117
+0,Copanlisib,7112,"['Copanlisib', 'Aliqopa', 'BAY80-6946']",4119
+0,I-CBP112,8019,['I-CBP112'],4120
+0,E7449,6900,['E7449'],4121
+0,TAK-632,8020,['TAK-632'],4126
+0,ABC294640,8021,['ABC294640'],4127
+0,MK-8353,8022,"['MK-8353', 'SCH900353']",4128
+0,AEZS-131,8023,['AEZS-131'],4129
+0,10058-F4,8024,['10058-F4'],4130
+0,10058-F4,8024,['10058-F4'],4131
+0,10058-F4,8024,['10058-F4'],4132
+0,SU5402,8025,['SU5402'],4133
+0,SU5402,8025,['SU5402'],4134
+0,SU5402,8025,['SU5402'],4135
+0,SBI-0640726,8027,"['SBI-0640726', 'SBI-726']",4137
+1,SBI-0640756,8026,"['SBI-0640756', 'SBI-756']",4137
+2,SBI-755199,8029,['SBI-755199'],4137
+0,BI-69A11,8028,['BI-69A11'],4138
+0,GS-5745,8031,['GS-5745'],4141
+0,Epigallocatechin-gallate,8033,['Epigallocatechin-gallate'],4143
+0,Harmine,8032,['Harmine'],4144
+1,INDY,8034,['INDY'],4144
+0,PF-3758309,8035,['PF-3758309'],4151
+0,FRAX597,8036,['FRAX597'],4152
+1,PF-3758309,8035,['PF-3758309'],4152
+0,IPA-3,8037,['IPA-3'],4153
+0,IPA-3,8037,['IPA-3'],4154
+0,FRAX-1063,8038,['FRAX-1063'],4155
+0,EHT5372,8039,['EHT5372'],4160
+0,AZ191,8040,['AZ191'],4162
+0,RO5454948,8041,['RO5454948'],4163
+0,MS417,8042,['MS417'],4172
+1,MS436,8043,['MS436'],4172
+0,MS417,8042,['MS417'],4173
+0,MS436,8043,['MS436'],4174
+0,BMS-936559,8046,"['BMS-936559', 'MDX-1105']",4175
+0,JX-594,8047,['JX-594'],4181
+0,Elotuzumab,8048,"['Elotuzumab', 'Empliciti']",4182
+0,Senexin A,8050,['Senexin A'],4209
+0,IPI-549,8049,['IPI-549'],4210
+0,Senexin B,8051,['Senexin B'],4211
+0,SP600125,8052,['SP600125'],4212
+0,SP600125,8052,['SP600125'],4213
+0,AS601245,8053,['AS601245'],4216
+0,AS601245,8053,['AS601245'],4217
+0,CC-401,8054,['CC-401'],4218
+0,CC-401,8054,['CC-401'],4219
+0,JNK-In-8,8055,['JNK-In-8'],4220
+0,PMED-1,8056,['PMED-1'],4232
+0,Dz13,8057,['Dz13'],4238
+0,Lestaurtinib,6935,"['Lestaurtinib', 'CEP-701']",4252
+0,GW5074,8058,['GW5074'],4257
+0,GW5074,8058,['GW5074'],4258
+0,Nab-Rapamycin,8059,"['Nab-Rapamycin', 'ABI-009']",4266
+0,Camptothecin,8061,"['Camptothecin', '21,22-Secocamptothecin-21-oic acid lactone', 'Camptothecine']",4271
+0,Cryptotanshinone,8067,['Cryptotanshinone'],4300
+0,NSC59984,8062,['NSC59984'],4303
+0,CP-31398,8063,['CP-31398'],4306
+0,NSC319726,8064,['NSC319726'],4308
+0,ReACp53,8065,['ReACp53'],4309
+0,GS-493,8068,['GS-493'],4326
+0,NVP-BHG712,8069,['NVP-BHG712'],4329
+0,Golvatinib,7136,"['Golvatinib', 'E7050']",4337
+0,AZ12489875-002,8070,['AZ12489875-002'],4341
+0,Pazopanib,4734,"['Pazopanib', 'Votrient', 'GW-786034']",4356
+0,YK-4-279,8071,['YK-4-279'],4357
+0,trabectedin,8072,"['trabectedin', 'Yondelis']",4381
+0,BEZ235,6868,"['BEZ235', 'Dactolisib', 'NVP-BEZ235']",4396
+1,ETP-46464,8861,['ETP-46464'],4396
+0,SP600125,8052,['SP600125'],4398
+0,Mps1-IN-1,8073,['Mps1-IN-1'],4400
+1,Mps1-IN-2,8074,['Mps1-IN-2'],4400
+0,GO-203-2C,8075,['GO-203-2C'],4402
+0,Mps-BAY1,8078,['Mps-BAY1'],4417
+1,Mps-BAY2a,8079,['Mps-BAY2a'],4417
+2,Mps-BAY2b,8080,['Mps-BAY2b'],4417
+0,MPS1-IN-3,8081,['MPS1-IN-3'],4420
+0,K00135,8203,['K00135'],4427
+0,Ama-HEA125,8082,['Ama-HEA125'],4431
+0,MPI-0479605,8083,['MPI-0479605'],4435
+0,PF-3837,8085,['PF-3837'],4438
+1,PF-7006 ,8084,['PF-7006 '],4438
+0,NTRC 0066-0,8086,['NTRC 0066-0'],4439
+0,CFI-400936,8087,['CFI-400936'],4447
+1,Reversine,7485,['Reversine'],4447
+0,CFI-401870,8088,['CFI-401870'],4448
+0,Cpd-5,8089,['Cpd-5'],4449
+0,IST5-002,8213,"['IST5-002', 'Stat5-002']",4451
+0,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",4455
+1,XMD16-5,8249,['XMD16-5'],4455
+2,XMD8-87,8248,['XMD8-87'],4455
+0,BX-795,8090,"['BX-795', 'BX795']",4479
+0,G-631,8091,['G-631'],4481
+0,Selenomethionine,8092,['Selenomethionine'],4482
+0,Dasatinib,1241,"['Dasatinib', 'Sprycel', 'BMS-354825']",4485
+0,ME22S,8093,['ME22S'],4488
+0,SKF-96365,8094,"['SKF-96365', 'SKF 96365', 'SKF96365']",4489
+0,SKF-96365,8094,"['SKF-96365', 'SKF 96365', 'SKF96365']",4490
+0,MEDI5117,8095,['MEDI5117'],4491
+1,siltuximab,8096,"['siltuximab', 'Sylvant', 'CNTO 328', 'CNTO328']",4491
+0,siltuximab,8096,"['siltuximab', 'Sylvant', 'CNTO 328', 'CNTO328']",4492
+0,SH4-54,8097,['SH4-54'],4499
+1,SH5-07,8098,['SH5-07'],4499
+0,A3,8099,"['A3', 'TK-A3']",4500
+0,A3,8099,"['A3', 'TK-A3']",4501
+0,R547,8100,['R547'],4503
+0,SPI-001,8101,['SPI-001'],4504
+0,Pimozide,1087,"['Pimozide', 'Neoperidole']",4513
+0,GSK-J4,8120,['GSK-J4'],4524
+0,CLM3,8102,['CLM3'],4527
+0,CLM3,8102,['CLM3'],4539
+0,IC87114,8104,"['IC87114', 'IC-87114']",4540
+0,LQZ-7F,8105,['LQZ-7F'],4545
+0,Mycro3,8106,['Mycro3'],4548
+0,JY-3-094,8108,['JY-3-094'],4549
+1,MYRA-A,8109,['MYRA-A'],4549
+2,NSC308848,8110,['NSC308848'],4549
+3,Quarfloxin,8107,"['Quarfloxin', 'CX-3543']",4549
+0,Amatuximab,8111,"['Amatuximab', 'MORAb-009']",4551
+0,LB-100,8112,['LB-100'],4553
+0,ARQ761,8113,"['ARQ761', 'beta-lapachone']",4554
+0,APTO-253,8114,['APTO-253'],4557
+0,SS1P,8115,['SS1P'],4559
+0,Trodusquemine,8116,"['Trodusquemine', 'Aminosterol-1436', 'MSI-1436', 'MSI1436']",4563
+0,LY2275796,8117,"['LY2275796', 'ISIS 183750']",4564
+0,LY2275796,8117,"['LY2275796', 'ISIS 183750']",4565
+0,ZM447439,8118,"['ZM447439', 'ZM 447439']",4566
+0,ZM447439,8118,"['ZM447439', 'ZM 447439']",4567
+0,OXi4503,8119,['OXi4503'],4568
+0,OXi4503,8119,['OXi4503'],4569
+0,GSK-J4,8120,['GSK-J4'],4570
+0,SKF-96365,8094,"['SKF-96365', 'SKF 96365', 'SKF96365']",4573
+0,Cambinol,8121,['Cambinol'],4581
+0,SGI-1776,8122,['SGI-1776'],4596
+0,ETC-159,8123,['ETC-159'],4598
+0,CEP-8983,8124,['CEP-8983'],4604
+0,CEP-8983,8124,['CEP-8983'],4605
+0,UPF 1069,8125,['UPF 1069'],4606
+0,BSI-401,8126,['BSI-401'],4607
+0,Rovalpituzumab Tesirine,8127,"['Rovalpituzumab Tesirine', 'anti-SC16 ADC SC16LD6.5']",4615
+0,Bavituximab,8128,"['Bavituximab', 'Tarvacin']",4616
+0,Lumretuzumab,8129,"['Lumretuzumab', 'RG7116', 'RO5479599']",4617
+0,AZD2811,8130,['AZD2811'],4618
+0,IT-901,8131,['IT-901'],4622
+0,SH-1242,8132,['SH-1242'],4627
+0,ARS-853,8133,['ARS-853'],4628
+0,PF-05280014,8134,['PF-05280014'],4629
+0,PF-05280014,8134,['PF-05280014'],4630
+0,Tetrahydrouridine,8142,"['Tetrahydrouridine', 'THU']",4631
+0,GLA-SE,8146,['GLA-SE'],4633
+0,L779450,8147,"['L779450', 'L-779,450']",4636
+0,L779450,8147,"['L779450', 'L-779,450']",4637
+0,PRN1109,8501,['PRN1109'],4638
+1,PRN1371,8148,['PRN1371'],4638
+0,ASP5878,8149,['ASP5878'],4639
+0,Anti-CD19 CAR T cells,8150,['Anti-CD19 CAR T cells'],4640
+0,Mesothelin CAR-T cells,8896,['Mesothelin CAR-T cells'],4641
+0,PF-573228,8151,['PF-573228'],4654
+0,Debio 0932,8152,"['Debio 0932', 'CUDC-305']",4655
+0,CPUY201112,8153,['CPUY201112'],4657
+0,PH11,8154,['PH11'],4658
+0,SNX-7081,8155,['SNX-7081'],4659
+0,LLL12,8156,['LLL12'],4664
+0,SNG12,8157,['SNG12'],4666
+0,PHM16,8159,['PHM16'],4667
+0,Glembatumumab vedotin,8160,"['Glembatumumab vedotin', 'CDX-011']",4670
+0,BI 853520,8161,['BI 853520'],4672
+0,Arsenic trioxide,1156,"['Arsenic trioxide', 'Trisenox', 'ATO']",4675
+0,SST0116CL1,8162,['SST0116CL1'],4679
+0,C6-ceramide,8163,['C6-ceramide'],4692
+0,Carnosic acid,8164,['Carnosic acid'],4693
+0,Forskolin,8165,['Forskolin'],4694
+0,Forskolin,8165,['Forskolin'],4695
+0,Fingolimod,6778,"['Fingolimod', 'Gilenya', 'FTY720']",4696
+0,OP449,8166,['OP449'],4697
+0,COG112,8167,['COG112'],4698
+0,LB100,8168,['LB100'],4699
+0,Okadaic acid,8169,['Okadaic acid'],4700
+0,TVB-2640,8170,"['TVB-2640', 'TVB2640']",4702
+0,EZN-2968,8171,"['EZN-2968', 'RO7070179', 'SPC2968']",4703
+0,SGN-LIV1A ,8174,['SGN-LIV1A '],4705
+0,Enadenotucirev,8176,"['Enadenotucirev', 'EnAd']",4706
+0,PF-06459988,8177,['PF-06459988'],4708
+0,LMP400,8178,"['LMP400', 'indotecan', 'NSC 743400']",4709
+0,PV1162,8179,['PV1162'],4710
+0,PV1162,8179,['PV1162'],4711
+0,Z-VAD,8180,['Z-VAD'],4712
+0,Tubastatin A,8181,['Tubastatin A'],4713
+0,GDC-0917,8182,"['GDC-0917', 'CUDC-427']",4714
+0,BIND-014,8183,['BIND-014'],4716
+0,LCL161,8184,['LCL161'],4717
+0,LCL161,8184,['LCL161'],4718
+0,Custirsen,8185,"['Custirsen', 'Antisense Clusterin', 'Antisense TRPM-2', 'OGX-011']",4719
+0,AT-406,8186,"['AT-406', 'Debio1143', 'SM-406']",4721
+0,KU-60019,8188,['KU-60019'],4737
+0,CCT129254,8190,"['CCT129254', 'AT11854']",4738
+0,BAY11-7085,8191,['BAY11-7085'],4744
+0,BX-320,8192,['BX-320'],4745
+1,BX-912,8193,['BX-912'],4745
+0,GSK2334470,8195,['GSK2334470'],4753
+0,PHT-427,7955,['PHT-427'],4754
+0,Sulfatinib,8196,"['Sulfatinib', 'HMPL-012']",4764
+0,Epitinib,8197,"['Epitinib', 'HMPL-813']",4765
+0,TP-3654,8201,"['TP-3654', 'SGI-9481']",4769
+0,SMI-4a,8202,['SMI-4a'],4771
+0,CX-6258,8204,['CX-6258'],4774
+0,Plinabulin,8206,"['Plinabulin', 'NPI-2358']",4775
+0,RRx-001,8207,['RRx-001'],4777
+0,AZD1897,8208,['AZD1897'],4783
+0,SEL24-B489,8209,"['SEL24-B489', 'SEL24']",4788
+0,calcipotriene,8210,"['calcipotriene', 'Dovonex', 'calcipotriol']",4790
+0,Withacnistin,8212,['Withacnistin'],4802
+0,GS-9820 ,7139,"['GS-9820 ', 'Acalisib', 'CAL-120']",4810
+0,SAR260301,7170,['SAR260301'],4811
+0,BP-1-108,8214,['BP-1-108'],4812
+0,ON123300,8215,"['ON123300', '7X']",4821
+0,ON123300,8215,"['ON123300', '7X']",4822
+0,BI 882370,8216,['BI 882370'],4823
+0,AZD6482,7058,['AZD6482'],4824
+0,Imetelstat,8217,"['Imetelstat', 'GRN163L', 'JNJ-63935937']",4825
+0,SAN1GSC,8219,['SAN1GSC'],4829
+0,Crizotinib,6890,"['Crizotinib', 'Xalkori', 'PF-02341066']",4834
+0,GSK2830371,8220,['GSK2830371'],4845
+0,VX15/2503,8221,['VX15/2503'],4854
+0,CCT007093,8222,['CCT007093'],4861
+0,GSK2194069,8223,['GSK2194069'],4863
+0,JNJ-54302833 ,8224,['JNJ-54302833 '],4864
+0,RU-SKI 43,8225,['RU-SKI 43'],4867
+0,AZD8835,7382,['AZD8835'],4877
+0,ALW-II-41-27,8004,['ALW-II-41-27'],4887
+1,HG-6-63-01,8227,['HG-6-63-01'],4887
+2,XMD15-44,8226,['XMD15-44'],4887
+0,RP6530,7386,['RP6530'],4893
+0,E75,8228,"['E75', 'NeuVax', 'nelipepimut-S']",4894
+0,E75,8228,"['E75', 'NeuVax', 'nelipepimut-S']",4895
+0,F14512,8229,['F14512'],4896
+0,DEL-22379,8230,['DEL-22379'],4897
+0,WNT-C59,8231,['WNT-C59'],4905
+0,MLN0905,8232,['MLN0905'],4909
+0,AMG 319 ,7091,['AMG 319 '],4910
+0,DS-7423,6898,['DS-7423'],4912
+0,PF-4989216,7073,['PF-4989216'],4923
+0,PF-4989216,7073,['PF-4989216'],4924
+0,RO3280,8233,['RO3280'],4925
+0,TAK-960,8234,['TAK-960'],4929
+0,PRT062607,8235,"['PRT062607', 'BIIB057', 'P505-15']",4930
+0,Piceatannol,6352,['Piceatannol'],4933
+1,R406,8236,['R406'],4933
+0,R406,8236,['R406'],4934
+0,Piceatannol,6352,['Piceatannol'],4935
+0,PRT318,8237,"['PRT318', 'PRT-060318']",4936
+0,Poloxin,8238,['Poloxin'],4937
+0,MART-1 antigen,8239,['MART-1 antigen'],4938
+0,5-Fluoro-2-deoxycytidine,8240,"['5-Fluoro-2-deoxycytidine', 'FdCyd']",4939
+0,TKM-080301,8241,['TKM-080301'],4948
+0,SBE13,8242,['SBE13'],4953
+0,C61,8243,"['C61', 'C-61']",4954
+0,LY5,8244,['LY5'],4959
+0,Nesvacumab,8245,"['Nesvacumab', 'REGN910']",4961
+0,Bosutinib,4738,"['Bosutinib', 'Bosulif', 'SKI-606']",4964
+0,AIM-100,8246,['AIM-100'],4965
+0,AIM-100,8246,['AIM-100'],4966
+0,PI-88,8247,['PI-88'],4967
+0,TAE684,7502,"['TAE684', 'NVP-TAE684']",4968
+0,HPI-1,8251,['HPI-1'],4990
+0,HPI-1,8251,['HPI-1'],4991
+0,NanoHHI,8252,['NanoHHI'],4992
+0,NanoHHI,8252,['NanoHHI'],4993
+0,SEN-450,8253,"['SEN-450', 'NSC763758', 'SEN450']",4994
+0,SIBI-C1,8254,"['SIBI-C1', 'SEN826']",4995
+0,BGB-324,7635,"['BGB-324', 'BGB324']",5002
+0,TP-0903,8256,['TP-0903'],5003
+0,SPC3042,8257,['SPC3042'],5012
+0,Ex-527,8259,['Ex-527'],5015
+1,Sirtinol,8258,['Sirtinol'],5015
+0,QS11,8260,['QS11'],5018
+0,QS11,8260,['QS11'],5019
+0,Dalantercept  ,7228,"['Dalantercept  ', 'ACE-041', 'ALK1-Fc']",5020
+0,Dalantercept  ,7228,"['Dalantercept  ', 'ACE-041', 'ALK1-Fc']",5021
+0,IMCgp100,8267,"['IMCgp100', 'ImmTAC-gp100']",5025
+0,XL388,8268,['XL388'],5032
+0,AR-mTOR-26,8269,"['AR-mTOR-26', 'AR mTOR 26']",5033
+0,OPB-51602,8270,['OPB-51602'],5034
+0,CC214-1,8272,['CC214-1'],5035
+0,CC214-2,8273,['CC214-2'],5036
+0,Triolimus,8274,['Triolimus'],5037
+0,GNE-317,8275,['GNE-317'],5039
+0,PKI-402,8276,['PKI-402'],5041
+0,X480,8277,['X480'],5043
+0,OPB-31121,8271,['OPB-31121'],5045
+0,FLLL32,8278,['FLLL32'],5066
+0,Ch282-5,8279,['Ch282-5'],5069
+0,KRC-00509,8282,['KRC-00509'],5073
+1,KRC-00715,8281,['KRC-00715'],5073
+0,SKLB646,8283,['SKLB646'],5074
+0,Seribantumab,6957,"['Seribantumab', 'MM-121', 'SAR256212']",5081
+0,YU238259,8284,['YU238259'],5087
+0,ML264,8285,['ML264'],5089
+0,Pan-HER,8286,"['Pan-HER', 'Sym013']",5090
+0,Talniflumate,8288,['Talniflumate'],5098
+0,SW044248,8289,['SW044248'],5101
+0,CTX-1,8290,['CTX-1'],5110
+0,CGP57380,8291,['CGP57380'],5111
+0,CGP57380,8291,['CGP57380'],5112
+0,CGP57380,8291,['CGP57380'],5113
+0,KJ-Pyr-9,8293,['KJ-Pyr-9'],5115
+0,Glabrescione B,8294,"['Glabrescione B', 'GlaB']",5117
+0,dBET1,8296,['dBET1'],5123
+0,THZ1,8297,['THZ1'],5124
+0,Y078-DM1,8298,['Y078-DM1'],5131
+1,Y078-DM4,8299,['Y078-DM4'],5131
+0,POL5551,8300,['POL5551'],5132
+0,ER2,8301,['ER2'],5133
+0,Prodigiosin,8302,['Prodigiosin'],5149
+0,GDC-0623,6910,['GDC-0623'],5155
+0,SA16,8794,['SA16'],5160
+0,CBL0137 ,8304,['CBL0137 '],5164
+0,rAd-hCD40L,8305,"['rAd-hCD40L', 'ISF35', 'rAd.CD40L']",5165
+0,TPX-0005,8306,['TPX-0005'],5176
+0,OTS167,8307,['OTS167'],5177
+0,hexamethylene bisacetamide,8308,"['hexamethylene bisacetamide', 'HMBA']",5180
+0,G1T38,8309,['G1T38'],5183
+0,Voruciclib,6975,"['Voruciclib', 'P1446A-05']",5185
+0,ODM-207,8310,['ODM-207'],5186
+0,PBA2,8311,['PBA2'],5187
+0,TAS-115,8312,['TAS-115'],5188
+0,Panvotinib-401,8313,['Panvotinib-401'],5189
+0,KX2-391,6931,"['KX2-391', 'KX-01']",5190
+0,U3-1784,8314,['U3-1784'],5194
+0,AP32788,8315,['AP32788'],5195
+0,SN-38,8316,['SN-38'],5196
+0,BAY 1436032,8317,['BAY 1436032'],5199
+0,ST7612AA1,8318,['ST7612AA1'],5200
+0,SANT1,8319,['SANT1'],5201
+0,QbG10,8320,"['QbG10', 'CMP-001', 'CYT003']",5213
+0,Venetoclax,7284,"['Venetoclax', 'Venclexta ', 'ABT-199', 'GDC-0199', 'RG7601']",5222
+0,Venetoclax,7284,"['Venetoclax', 'Venclexta ', 'ABT-199', 'GDC-0199', 'RG7601']",5223
+0,eFT508,8321,['eFT508'],5231
+0,YW3-56,8322,['YW3-56'],5232
+0,YW3-56,8322,['YW3-56'],5233
+0,HD105,8323,['HD105'],5258
+0,CHZ868,8324,['CHZ868'],5260
+0,BGB-283,8325,['BGB-283'],5280
+0,BAY1143572,8327,['BAY1143572'],5281
+0,CFI-400945,8329,['CFI-400945'],5283
+0,CDX-0158,8332,"['CDX-0158', 'KTN0158']",5291
+0,VCN-01,8333,['VCN-01'],5296
+0,Nimotuzumab,6963,"['Nimotuzumab', 'Theraloc']",5311
+0,NVP-AEW541,8334,['NVP-AEW541'],5315
+0,AKI603,8336,['AKI603'],5376
+0,AGS-003,8337,['AGS-003'],5380
+0,NGR-TNF,8338,['NGR-TNF'],5382
+0,DT01,8339,['DT01'],5384
+1,Dbait,8340,['Dbait'],5384
+0,Pz-1,8341,['Pz-1'],5385
+0,NSC156529,8342,['NSC156529'],5386
+0,EC-70124,8343,['EC-70124'],5423
+0,PG-S3-001,8344,['PG-S3-001'],5424
+0,XMT-1536,8345,['XMT-1536'],5466
+0,Spliceostatin A,8346,['Spliceostatin A'],5493
+0,UAB30,8347,['UAB30'],5496
+0,AB61,8348,['AB61'],5498
+0,EHop-016,8349,['EHop-016'],5501
+0,Thymoquinone,8350,"['Thymoquinone', 'TQ']",5502
+0,Thymoquinone,8350,"['Thymoquinone', 'TQ']",5503
+0,MN58b,8351,['MN58b'],5504
+0,Trilaciclib,7926,"['Trilaciclib', 'G1T28']",5519
+0,RG7386,8353,['RG7386'],5521
+0,XL147,7168,"['XL147', 'Pilaralisib', 'SAR245408']",5522
+0,Rivaroxaban,4718,"['Rivaroxaban', 'Xarelto', 'BAY 59-7939']",5535
+0,PF4942847,8354,['PF4942847'],5536
+0,17-Demethoxy-reblastatin,8355,"['17-Demethoxy-reblastatin', '17-DR']",5539
+0,Enfortumab vedotin,8356,"['Enfortumab vedotin', 'AGS-22ME']",5571
+0,SLC-0111,8357,"['SLC-0111', 'U-104']",5572
+0,SLC-0111,8357,"['SLC-0111', 'U-104']",5573
+0,Geldanamycin,2329,['Geldanamycin'],5576
+0,Geldanamycin,2329,['Geldanamycin'],5577
+0,BI 885578,8358,['BI 885578'],5673
+0,Resminostat,8360,"['Resminostat', '4SC-201']",5682
+0,4SC-202,8361,['4SC-202'],5685
+0,ACY-957,8364,['ACY-957'],5689
+0,PT2385,8365,['PT2385'],5693
+0,GZD856,8366,['GZD856'],5695
+0,ABT-751,8367,"['ABT-751', 'E7010']",5697
+0,ABT-751,8367,"['ABT-751', 'E7010']",5698
+0,SRT1460,8369,['SRT1460'],5700
+1,SRT1720,8370,['SRT1720'],5700
+2,SRT3025,8371,['SRT3025'],5700
+0,Vedolizumab,8378,"['Vedolizumab', 'Entyvio']",5724
+0,Polatuzumab Vedotin,8382,"['Polatuzumab Vedotin', 'DCDS4501A']",5726
+0,DETD-35,8383,['DETD-35'],5730
+0,MK-4101,8384,['MK-4101'],5731
+0,IMO-2125,8386,['IMO-2125'],5749
+0,Necuparanib,8389,"['Necuparanib', 'M402']",5757
+0,ABT-806,8390,['ABT-806'],5780
+0,Claudiximab,8391,"['Claudiximab', 'IMAB362']",5819
+0,TRX-E-002-1,8392,['TRX-E-002-1'],5826
+0,MYL-1401O,8393,['MYL-1401O'],5830
+0,VRT11E,8430,['VRT11E'],5840
+0,BI 836826,8395,"['BI 836826', 'mAb 37.1']",5863
+0,SB590885,8396,['SB590885'],5866
+0,Demcizumab,7379,"['Demcizumab', 'anti-delta-like 4 monoclonal antibody OMP-21M18', 'OMP-21M18']",5877
+0,Claudiximab,8391,"['Claudiximab', 'IMAB362']",5901
+0,CGP-082996,8397,['CGP-082996'],5910
+0,UM-164,8398,['UM-164'],5940
+0,BIRB-796,8399,['BIRB-796'],5943
+0,JMS-17-2,8400,['JMS-17-2'],5955
+0,ATR-101,8401,['ATR-101'],5962
+0,pTVG-AR ,8402,"['pTVG-AR ', 'MVI-118']",5963
+0,Cirmtuzumab,8404,"['Cirmtuzumab', 'UC-961']",5964
+0,PF-06647263 ,8414,['PF-06647263 '],5967
+0,TAS3681,8418,['TAS3681'],5968
+0,TAS-114,8423,['TAS-114'],5978
+0,mipsagargin,8425,"['mipsagargin', 'G-202']",5979
+0,PF-04136309,8426,['PF-04136309'],5980
+0,CPX-351,8427,['CPX-351'],5981
+0,lapuleucel-T,8429,"['lapuleucel-T', 'Neuvenge', 'APC8024', 'DN24-02']",5991
+0,IMR-1,8431,['IMR-1'],6043
+0,JQEZ5,8432,['JQEZ5'],6049
+0,RVX-208,8433,['RVX-208'],6066
+0,Stattic,8436,['Stattic'],6090
+0,Stattic,8436,['Stattic'],6091
+0,HO-3867,8437,['HO-3867'],6094
+0,INCB054329,7759,['INCB054329'],6115
+0,AFM13,8438,['AFM13'],6119
+0,Demcizumab,7379,"['Demcizumab', 'anti-delta-like 4 monoclonal antibody OMP-21M18', 'OMP-21M18']",6126
+0,Vantictumab,8439,"['Vantictumab', 'anti-Fzd7', 'OMP-18R5']",6127
+0,Ipafricept ,7503,"['Ipafricept ', 'Fzd8-Fc', 'OMP-54F28']",6129
+0,TEN-010,7076,"['TEN-010', 'JQ2', 'RG-6146', 'RO6870810']",6144
+0,AZD9150 ,7733,"['AZD9150 ', 'ISIS-STAT3rx', 'ISIS 481464']",6145
+1,BBI608,7413,"['BBI608', 'BB608', 'Napabucasin']",6145
+0,GMI-1271,8441,['GMI-1271'],6168
+0,Natalizumab,103,"['Natalizumab', 'Tysabri', 'Anti-VLA4']",6172
+0,NRR2Mab,8442,['NRR2Mab'],6173
+0,Pinatuzumab Vedotin,8445,['Pinatuzumab Vedotin'],6184
+0,Volasertib,7043,"['Volasertib', 'BI 6727']",6200
+0,NMS-P118,8447,['NMS-P118'],6203
+0,NMS-P118,8447,['NMS-P118'],6204
+0,BMS-777607,6881,"['BMS-777607', 'ASLAN002']",6207
+1,Bosutinib,4738,"['Bosutinib', 'Bosulif', 'SKI-606']",6207
+2,MGCD265,6948,"['MGCD265', 'Glesatinib']",6207
+0,LMP776,8448,"['LMP776', 'indimitecan', 'NSC 725776']",6218
+0,RI-BPI,8450,['RI-BPI'],6245
+0,K-756,8451,['K-756'],6261
+0,IBR2,8452,['IBR2'],6267
+0,Si306,8453,['Si306'],6269
+0,MitoMet-10,8454,['MitoMet-10'],6271
+0,YLL545,8457,['YLL545'],6308
+0,GS87,8458,['GS87'],6309
+0,BCG solution,8459,"['BCG solution', 'TICE BCG solution', 'Bacillus Calmette-Guerin solution']",6315
+0,C646,8465,['C646'],6332
+0,CPI-455,8466,['CPI-455'],6341
+0,JNJ-61186372,8467,['JNJ-61186372'],6352
+0,Pinatuzumab Vedotin,8445,['Pinatuzumab Vedotin'],6362
+0,RapaLink-1,8468,['RapaLink-1'],6367
+0,CmpdA,8469,['CmpdA'],6383
+0,SHP099,8470,['SHP099'],6394
+0,Poloxin-2,8471,['Poloxin-2'],6403
+0,NP-004255,8472,['NP-004255'],6419
+0,Codrituzumab,8473,['Codrituzumab'],6422
+0,EAI045,8474,['EAI045'],6436
+0,M-COPA,8475,"['M-COPA', 'AMF-26']",6440
+0,BI8622,8477,['BI8622'],6447
+1,BI8626,8478,['BI8626'],6447
+0,SYD985,8479,['SYD985'],6448
+0,CBP501,8480,['CBP501'],6450
+0,CIMAvax-EGF,8481,['CIMAvax-EGF'],6453
+0,RO4927350,8482,['RO4927350'],6459
+0,AM-0687,8483,['AM-0687'],6486
+1,AM-1430,8484,['AM-1430'],6486
+0,SLCB050,8485,['SLCB050'],6487
+0,Pexmetinib,8486,"['Pexmetinib', 'ARRY-614']",6492
+0,Pyr1,8489,['Pyr1'],6500
+0,Hertuzumab-vc-MMAE,8490,['Hertuzumab-vc-MMAE'],6501
+0,Anetumab ravtansine,8492,"['Anetumab ravtansine', 'BAY94-9343']",6512
+0,GDC0879,7206,['GDC0879'],6516
+0,PAC-1,8493,['PAC-1'],6517
+0,PAC-1,8493,['PAC-1'],6518
+0,PLX7904,8494,['PLX7904'],6521
+1,PLX8394,7160,['PLX8394'],6521
+0,MAGE-A3 vaccine,8495,"['MAGE-A3 vaccine', 'GL-0817']",6530
+0,APS-2-79,8496,['APS-2-79'],6534
+0,Oridonin,8497,['Oridonin'],6538
+0,CPI-203,8498,['CPI-203'],6546
+0,WANT3,8499,['WANT3'],6553
+0,PAT-SM6,8500,['PAT-SM6'],6554
+0,PAT-SM6,8500,['PAT-SM6'],6555
+0,SAM486,8502,['SAM486'],6562
+0,MOR209/ES414,8503,['MOR209/ES414'],6564
+0,ADXS31-164,8504,['ADXS31-164'],6565
+0,CT20p,8505,['CT20p'],6569
+0,KPT-9274,8506,['KPT-9274'],6570
+0,ST-11,8507,['ST-11'],6571
+0,PF-4708671,8508,['PF-4708671'],6579
+0,PT2399,8509,['PT2399'],6586
+0,CCT244747,8510,['CCT244747'],6590
+0,CCT244747,8510,['CCT244747'],6591
+0,Ocaratuzumab,8512,"['Ocaratuzumab', 'AME-133v', 'LY2469298']",6594
+0,OM-174,8513,['OM-174'],6595
+0,Otlertuzumab,8514,"['Otlertuzumab', 'TRU-016']",6596
+0,Otlertuzumab,8514,"['Otlertuzumab', 'TRU-016']",6597
+0,p28,8515,['p28'],6598
+0,PX-12,8516,['PX-12'],6599
+0,PX-12,8516,['PX-12'],6600
+0,ID09C3,8517,['ID09C3'],6601
+0,AGS-1C4D4 ,8518,['AGS-1C4D4 '],6603
+0,AGS-PSCA,8519,['AGS-PSCA'],6604
+0,AS1409,8520,['AS1409'],6606
+0,Coltuximab Ravtansine,8521,"['Coltuximab Ravtansine', 'SAR3419']",6607
+0,Coltuximab Ravtansine,8521,"['Coltuximab Ravtansine', 'SAR3419']",6608
+0,Selectikine,8522,"['Selectikine', 'EMD 521873']",6609
+0,SU14813,8523,['SU14813'],6611
+0,SU14813,8523,['SU14813'],6612
+0,TB-403,8524,"['TB-403', 'RG7334', 'RO5323441']",6613
+0,Tefinostat,8525,"['Tefinostat', 'CHR-2845']",6615
+0,Tipifarnib,7032,"['Tipifarnib', 'Zarnestra', 'R115777']",6616
+0,Zibotentan,8526,"['Zibotentan', 'ZD4054']",6618
+0,Zibotentan,8526,"['Zibotentan', 'ZD4054']",6619
+0,MEDI-573,8527,['MEDI-573'],6622
+0,GSK3178022,8528,['GSK3178022'],6625
+0,Prexasertib,7306,"['Prexasertib', 'LY2606368']",6628
+0,CPI-0610,7399,['CPI-0610'],6629
+0,T-3256336 ,8529,['T-3256336 '],6632
+0,AMG 780,8532,['AMG 780'],6651
+0,JTX-2011,8530,"['JTX-2011', 'anti-ICOS', 'ICOS agonist monoclonal antibody', 'JTX2011']",6661
+0,CB-1158,8531,"['CB-1158', 'arginase inhibitor']",6662
+0,Ofatumumab,7203,"['Ofatumumab', 'Arzerra', 'HuMax-CD20']",6668
+0,MEDI-570,8536,['MEDI-570'],6672
+0,Baicalein,8537,['Baicalein'],6673
+0,HM-3,8538,['HM-3'],6675
+0,MX69,8540,['MX69'],6705
+0,NSC126405,8542,['NSC126405'],6710
+0,BPR1J373,8543,['BPR1J373'],6711
+0,KTN0073-IgG1,8545,['KTN0073-IgG1'],6713
+1,KTN0073-IgG2,8544,['KTN0073-IgG2'],6713
+0,SD-7300,8546,['SD-7300'],6722
+0,DSHN,8547,['DSHN'],6747
+0,ML364,8548,['ML364'],6749
+0,ADDA 5,8549,['ADDA 5'],6750
+0,BI-847325,7177,"['BI-847325', 'BI 847325', 'BI847325']",6751
+0,KPT-185,8550,['KPT-185'],6754
+0,KPT-185,8550,['KPT-185'],6755
+0,BAY1125976,7111,['BAY1125976'],6757
+0,FX1,8551,['FX1'],6759
+0,C75,8553,['C75'],6760
+1,EGCG,8552,['EGCG'],6760
+0,23814,8554,['23814'],6764
+0,Debio 0617B,8555,['Debio 0617B'],6765
+0,KTE-C19,8556,"['KTE-C19', 'axicabtagene ciloleucel', 'KTE-C19 CAR']",6768
+0,STA-8666,8558,"['STA-8666', 'PEN-866', 'STA-12-8666']",6776
+0,DS-8201a,8559,['DS-8201a'],6780
+0,TAK-264,8560,"['TAK-264', 'MLN0264']",6783
+0,LF3,8561,['LF3'],6784
+0,SBI-0206965,8562,['SBI-0206965'],6785
+0,AZD2461,7572,['AZD2461'],6793
+0,LY3127804 ,8139,['LY3127804 '],6823
+0,OSI-296,8563,['OSI-296'],6832
+0,S63845,8564,['S63845'],6851
+0,MT1,8566,['MT1'],6900
+0,TASIN-1,8570,['TASIN-1'],6906
+0,IMC-20D7S,8571,['IMC-20D7S'],6907
+0,RK-33,8572,['RK-33'],6908
+0,Aphanin,8573,['Aphanin'],6915
+0,IPH2101,8574,['IPH2101'],6917
+0,BAL101553,8575,['BAL101553'],6923
+0,AZD5153,8576,['AZD5153'],6927
+0,E7090,8577,['E7090'],6928
+0,RN927C,8578,['RN927C'],6932
+0,ASG-5ME,8579,['ASG-5ME'],6935
+0,Vemurafenib,6791,"['Vemurafenib', 'Zelboraf', 'PLX4032', 'RO5185426']",6938
+0,ADH-1,8580,['ADH-1'],6940
+0,DPP-23,8582,['DPP-23'],6975
+0,SGX523,7021,['SGX523'],6981
+0,sonepcizumab,8584,"['sonepcizumab', 'ASONEP', 'LT1009']",7002
+0,Hu5F9-G4,8585,['Hu5F9-G4'],7028
+0,SL0101,8586,['SL0101'],7031
+0,SF1126,7020,['SF1126'],7039
+0,SF1126,7020,['SF1126'],7040
+0,NGI-1,8587,['NGI-1'],7042
+0,Brigatinib,6840,"['Brigatinib', 'Alunbrig', 'AP26113']",7044
+0,CX-5461,8588,['CX-5461'],7057
+0,ONCOS-102,8590,['ONCOS-102'],7098
+0,J591,8591,['J591'],7104
+0,Buthionine sufoximine,8592,"['Buthionine sufoximine', 'BSO']",7133
+0,BGB659,8954,['BGB659'],7141
+0,MRX-2843,8593,['MRX-2843'],7187
+0,enobosarm,8594,"['enobosarm', 'Ostarine', 'GTx-024']",7217
+0,Oraxol ,8595,['Oraxol '],7218
+0,Dacinostat,8596,"['Dacinostat', 'LAQ824']",7223
+0,VLX1570,8597,['VLX1570'],7224
+0,NU7026,8598,['NU7026'],7229
+0,NU7026,8598,['NU7026'],7230
+0,NU7441,8599,['NU7441'],7234
+0,JPH203,8600,"['JPH203', 'KYT-0353']",7236
+0,JPH203,8600,"['JPH203', 'KYT-0353']",7237
+0,ABBV-075,8328,"['ABBV-075', 'Mivebresib']",7243
+0,Tapalumab,8603,['Tapalumab'],7246
+0,CT-707,8604,['CT-707'],7265
+0,SRA737,8605,"['SRA737', 'CCT245737']",7267
+0,EB-VST cells,8602,"['EB-VST cells', 'EBV-CT', 'EBV-specific T cells']",7268
+0,EB-VST cells,8602,"['EB-VST cells', 'EBV-CT', 'EBV-specific T cells']",7269
+0,Utomilumab,8610,"['Utomilumab', 'PF-05082566']",7280
+0,KRAS mutant-specific TIL,8611,"['KRAS mutant-specific TIL', 'KRAS-mutant specific autologous tumor-infiltrating cells']",7358
+0,LDC1267,8612,['LDC1267'],7359
+0,SGI-7079,8613,['SGI-7079'],7360
+0,SGI-7079,8613,['SGI-7079'],7361
+0,NPS-1034,8614,['NPS-1034'],7366
+0,MGCD265,6948,"['MGCD265', 'Glesatinib']",7370
+0,Foretinib,6906,"['Foretinib', 'EXEL-2880', 'GSK1363089G', 'XL880']",7383
+0,Amuvatinib,6839,"['Amuvatinib', 'HPK56', 'MP470']",7384
+0,NHS-IL12,8615,['NHS-IL12'],7461
+0,IRX4204,8617,"['IRX4204', 'AGN194204']",7463
+0,A-dmDT390-bisFv(UCHT1),8618,"['A-dmDT390-bisFv(UCHT1)', 'anti-T cell immunotoxin A-dmDT390-bisFv(UCHT1)', 'Resimmune']",7464
+0,XMU-MP-2,8621,['XMU-MP-2'],7466
+0,CRLX101,7055,['CRLX101'],7475
+0,"CP-724,714",8622,"['CP-724,714']",7476
+0,E-4031,8623,['E-4031'],7480
+0,E-4031,8623,['E-4031'],7481
+0,PDZ1i,8624,['PDZ1i'],7482
+0,Cabozantinib,7115,"['Cabozantinib', 'Cometriq', 'Cabometyx', 'Cabozantinib-s-malate', 'XL184']",7489
+0,GSK3174998,8626,['GSK3174998'],7512
+0,N-Arachidonoyl Dopamine ,8628,"['N-Arachidonoyl Dopamine ', 'NADA']",7517
+0,CCG-203971,8629,['CCG-203971'],7518
+0,BPTES,8630,"['BPTES', 'bis-2-(5-phenylacetamido-1,2,4-thiadiazol-2-yl)ethyl sulfide']",7525
+0,BPTES,8630,"['BPTES', 'bis-2-(5-phenylacetamido-1,2,4-thiadiazol-2-yl)ethyl sulfide']",7526
+0,IRAK1/4,8631,['IRAK1/4'],7540
+0,PF-06647020,8446,"['PF-06647020', 'h6M24-vc0101', 'PTK7-targeted antibody-drug conjugate']",7557
+0,TAE684,7502,"['TAE684', 'NVP-TAE684']",7581
+0,EHT 1864,8640,['EHT 1864'],7584
+0,ARQ 531,8641,['ARQ 531'],7590
+0,Ceritinib,6932,"['Ceritinib', 'Zykadia', 'LDK378']",7592
+0,AZD3463,7292,['AZD3463'],7594
+0,NS1,8642,['NS1'],7600
+0,Aurora Kinase Inhibitor II,8643,"['Aurora Kinase Inhibitor II', 'AI II']",7602
+0,Aurora Kinase Inhibitor II,8643,"['Aurora Kinase Inhibitor II', 'AI II']",7603
+0,M2698,7156,"['M2698', 'MSC2363318A']",7643
+0,GTCpFE,8645,['GTCpFE'],7653
+0,GDC-0326,8647,['GDC-0326'],7679
+0,OTS514,8648,['OTS514'],7683
+1,OTS964,8649,['OTS964'],7683
+0,HTH-01-015,8652,['HTH-01-015'],7717
+1,WZ4003,8651,['WZ4003'],7717
+0,GS-5829,8138,['GS-5829'],7727
+0,bb2121,8653,['bb2121'],7730
+0,SNS-062,8655,['SNS-062'],7737
+0,Denileukin diftitox,8656,"['Denileukin diftitox', 'Ontak', 'DAB389 interleukin-2', 'DAB389-IL2', 'DAB389IL2', 'LY335348']",7743
+0,Denileukin diftitox,8656,"['Denileukin diftitox', 'Ontak', 'DAB389 interleukin-2', 'DAB389-IL2', 'DAB389IL2', 'LY335348']",7744
+0,T-3775440,8657,['T-3775440'],7754
+0,RXC005,8658,"['RXC005', 'REDX08608']",7759
+0,Tucatinib,6846,"['Tucatinib', 'ARRY-380', 'ONT-380']",7781
+0,Balsalazide,1003,"['Balsalazide', 'Carbadox', 'Balsalazida [Spanish]']",7783
+1,Parthenolide,8662,['Parthenolide'],7783
+0,Parthenolide,8662,['Parthenolide'],7795
+0,SYM015,8413,['SYM015'],7828
+0,ABBV-399,7247,['ABBV-399'],7833
+0,TTI-621,8667,"['TTI-621', 'SIRPalpha-Fc']",7888
+0,79-6,8668,['79-6'],7892
+0,DIM-C-pPhCO2Me,8669,['DIM-C-pPhCO2Me'],7907
+0,AZ-TAK1,8671,['AZ-TAK1'],7991
+0,EGFR(V)-EDV-Dox,8665,['EGFR(V)-EDV-Dox'],7997
+0,WEHI-539,8674,['WEHI-539'],8017
+0,NVP-BVU972,8675,['NVP-BVU972'],8018
+0,PF-431396,8676,['PF-431396'],8020
+0,CJM112,8677,['CJM112'],8032
+0,PTC596,8679,['PTC596'],8142
+0,BAY 11-7082,8680,['BAY 11-7082'],8147
+0,KP372-1,8681,['KP372-1'],8149
+0,RVX2135,8682,['RVX2135'],8151
+0,FIIN-2,8683,['FIIN-2'],8159
+0,RU58668,8684,"['RU58668', 'RU 58668']",8170
+0,RU58668,8684,"['RU58668', 'RU 58668']",8171
+0,P10,8685,['P10'],8172
+0,DC/AML Vaccine,8673,['DC/AML Vaccine'],8203
+0,DC/AML Vaccine,8673,['DC/AML Vaccine'],8204
+0,TMU-35435,8687,['TMU-35435'],8223
+0,CG200745,8688,['CG200745'],8224
+0,CG200745,8688,['CG200745'],8225
+0,A-674563,8689,['A-674563'],8226
+0,CRT 0066101,8690,['CRT 0066101'],8228
+0,Tacedinaline,8691,"['Tacedinaline', 'CI-994', 'N-acetyldinaline']",8229
+0,Tacedinaline,8691,"['Tacedinaline', 'CI-994', 'N-acetyldinaline']",8230
+0,PF3644022,8692,['PF3644022'],8232
+0,ARQ 751,8420,['ARQ 751'],8234
+1,ARQ092,6841,"['ARQ092', 'ARQ-092']",8234
+0,Droxinostat,8694,"['Droxinostat', 'NS 41080']",8236
+0,Droxinostat,8694,"['Droxinostat', 'NS 41080']",8237
+0,M344,8695,['M344'],8238
+0,Abexinostat,7197,"['Abexinostat', 'CRA-024781', 'PCI-24781', 'S-78454']",8241
+0,Abexinostat,7197,"['Abexinostat', 'CRA-024781', 'PCI-24781', 'S-78454']",8242
+0,Ricolinostat,7297,"['Ricolinostat', 'ACY-1215']",8243
+0,Citarinostat,8030,"['Citarinostat', 'ACY-241']",8244
+1,Ricolinostat,7297,"['Ricolinostat', 'ACY-1215']",8244
+0,Citarinostat,8030,"['Citarinostat', 'ACY-241']",8245
+0,Belinostat,7194,"['Belinostat', 'Beleodaq', 'NSC726630', 'PX-105684', 'PXD101']",8246
+0,Belinostat,7194,"['Belinostat', 'Beleodaq', 'NSC726630', 'PX-105684', 'PXD101']",8247
+0,Belinostat,7194,"['Belinostat', 'Beleodaq', 'NSC726630', 'PX-105684', 'PXD101']",8248
+0,Cambinol,8121,['Cambinol'],8250
+0,Entinostat,7280,"['Entinostat', 'HDAC inhibitor SNDX-275', 'MS 275']",8255
+0,Entinostat,7280,"['Entinostat', 'HDAC inhibitor SNDX-275', 'MS 275']",8256
+0,Panobinostat,7196,"['Panobinostat', 'Farydak', 'LBH589']",8258
+0,Panobinostat,7196,"['Panobinostat', 'Farydak', 'LBH589']",8259
+0,Panobinostat,7196,"['Panobinostat', 'Farydak', 'LBH589']",8260
+0,Pracinostat,7332,"['Pracinostat', 'SB939']",8261
+0,Romidepsin ,7191,"['Romidepsin ', 'Istodax', 'depsipeptide', 'FK228', 'FR901228', 'NSC 630176']",8262
+0,Romidepsin ,7191,"['Romidepsin ', 'Istodax', 'depsipeptide', 'FK228', 'FR901228', 'NSC 630176']",8263
+0,Romidepsin ,7191,"['Romidepsin ', 'Istodax', 'depsipeptide', 'FK228', 'FR901228', 'NSC 630176']",8264
+0,Afuresertib,6831,"['Afuresertib', 'GSK2110183']",8265
+0,GSK525762,7066,"['GSK525762', 'I-BET762']",8266
+0,Trichostatin A,7801,"['Trichostatin A', 'TSA']",8267
+0,Perifosine,6981,"['Perifosine', 'KRX-0401']",8268
+0,Valproic acid,7192,"['Valproic acid', 'Depakene', 'Depacon']",8269
+0,Valproic acid,7192,"['Valproic acid', 'Depakene', 'Depacon']",8270
+0,Vorinostat,7193,"['Vorinostat', 'Zolinza', 'L-001079038', 'MSK390', 'SAHA']",8271
+0,Vorinostat,7193,"['Vorinostat', 'Zolinza', 'L-001079038', 'MSK390', 'SAHA']",8272
+0,Vorinostat,7193,"['Vorinostat', 'Zolinza', 'L-001079038', 'MSK390', 'SAHA']",8273
+0,NSC23766,8697,['NSC23766'],8295
+0,NSC23766,8697,['NSC23766'],8296
+0,Chiauranib,7373,"['Chiauranib', 'CS2164']",8299
+0,Ad-CEA vaccine,8666,['Ad-CEA vaccine'],8300
+0,Ad-CEA vaccine,8666,['Ad-CEA vaccine'],8301
+0,AMI-408,8698,['AMI-408'],8304
+0,INCB059872,8699,['INCB059872'],8307
+0,NKTR-214,8606,['NKTR-214'],8311
+0,NVP-TNKS656,8700,['NVP-TNKS656'],8313
+0,CT16,8701,['CT16'],8315
+0,AZ1366,8702,['AZ1366'],8317
+0,GDC-0152,8703,['GDC-0152'],8319
+0,Belizatinib,7038,"['Belizatinib', 'TSR-011']",8336
+0,Entrectinib,7264,"['Entrectinib', 'RXDX-101']",8340
+0,Panulisib,7071,"['Panulisib', 'P7170']",8341
+0,DHM25,8707,['DHM25'],8367
+0,MEDI9197,8696,['MEDI9197'],8368
+0,AMG 900,7092,"['AMG 900', 'AMG-900', 'AMG900']",8412
+0,AJI-100,7495,['AJI-100'],8418
+1,AJI-214,7494,['AJI-214'],8418
+0,Alisertib,6832,"['Alisertib', 'MLN8237']",8420
+0,AZD2811,8130,['AZD2811'],8422
+0,Selumetinib,7019,"['Selumetinib', 'ARRY-142886', 'AZD6244']",8453
+0,TAK-733,7027,"['TAK-733', 'TAK733']",8454
+0,Cobimetinib,7123,"['Cobimetinib', 'Cotellic', 'GDC-0973']",8455
+1,Trametinib,6818,"['Trametinib', 'Mekinist', 'GSK1120212']",8455
+0,WX-037,7080,"['WX-037', 'UCB1370037']",8456
+1,WX-554,7176,['WX-554'],8456
+0,GSK690,8709,['GSK690'],8467
+1,RN-1,8708,['RN-1'],8467
+0,Preladenant,8710,"['Preladenant', 'MK-3814', 'SCH420814']",8473
+0,Preladenant,8710,"['Preladenant', 'MK-3814', 'SCH420814']",8474
+0,SL327,8711,"['SL327', 'SL-327']",8529
+0,SL327,8711,"['SL327', 'SL-327']",8530
+0,PRX177561,8712,['PRX177561'],8533
+0,Samalizumab,8714,"['Samalizumab', 'ALXN6000']",8547
+0,BI 836858,8715,['BI 836858'],8548
+0,IsoA,8718,"['IsoA', 'isoforretin A']",8632
+0,NAV-2729,8719,['NAV-2729'],8662
+0,Enzastaurin,7316,"['Enzastaurin', 'LY317615']",8674
+0,Emibetuzumab,6943,"['Emibetuzumab', 'LY2875358']",8681
+0,GDC-0941,6911,"['GDC-0941', 'Pictilisib']",8699
+0,Safingol,7167,"['Safingol', 'Kynacyte', 'Sphinganine']",8724
+0,Valrubicin,7174,"['Valrubicin', 'Valstar', 'AD-32', 'Antibiotic Ad 32']",8725
+0,Valrubicin,7174,"['Valrubicin', 'Valstar', 'AD-32', 'Antibiotic Ad 32']",8726
+0,BRD-7880,8720,['BRD-7880'],8730
+0,Go 6983,7482,"['Go 6983', 'Go6983']",8731
+0,NC-6004,8721,"['NC-6004', 'Nanoplatin']",8738
+0,NC-6004,8721,"['NC-6004', 'Nanoplatin']",8739
+0,TC-A2317,8722,['TC-A2317'],8740
+0,TY-011,8723,['TY-011'],8743
+0,Ro 31-8220,7496,"['Ro 31-8220', 'Ro 318220', 'Ro-31-8220']",8750
+0,Staurosporine,1936,['Staurosporine'],8751
+0,Staurosporine,1936,['Staurosporine'],8752
+0,PQR309,7385,"['PQR309', 'PQR 309']",8761
+0,SAR245409 ,7169,"['SAR245409 ', 'Voxtalisib', 'XL765']",8768
+0,Regorafenib,6803,"['Regorafenib', 'Stivarga', 'BAY 73-4506']",8770
+0,Durvalumab,7245,"['Durvalumab', 'Imfinzi', 'MEDI4736']",8778
+0,Durvalumab,7245,"['Durvalumab', 'Imfinzi', 'MEDI4736']",8779
+0,APR-246,7368,"['APR-246', 'p53 activator APR-246', 'PRIMA-1 analogue APR-246', 'PRIMA-1MET']",8782
+0,BETd-246,8725,['BETd-246'],8792
+0,Motolimod,7936,"['Motolimod', 'VTX-2337']",8793
+0,ACP-319,7997,['ACP-319'],8797
+0,JI-101,6928,['JI-101'],8802
+0,EPI-506,8726,['EPI-506'],8812
+0,EPI-506,8726,['EPI-506'],8813
+0,Tozasertib,7036,"['Tozasertib', 'MK-0457', 'VX-680']",8817
+0,CVX-060,8727,['CVX-060'],8820
+0,CVX-241,8728,['CVX-241'],8821
+0,BLU-554,7965,['BLU-554'],8833
+0,Tocilizumab,4724,"['Tocilizumab', 'Actemra', 'Atlizumab']",8834
+0,Tocilizumab,4724,"['Tocilizumab', 'Actemra', 'Atlizumab']",8835
+0,Sorafenib,390,"['Sorafenib', 'Nexavar', 'BAY 43-9006']",8839
+0,SIM-89,8731,['SIM-89'],8847
+0,ABT-767,8359,['ABT-767'],8850
+0,BAY 1129980,8732,['BAY 1129980'],8854
+0,MBQ-167,8733,['MBQ-167'],8855
+0,LY900009,8734,['LY900009'],8858
+0,E7016,7569,['E7016'],8861
+0,REGN2810,8735,['REGN2810'],8864
+0,3144,8736,['3144'],8866
+0,KDM5-C70,8737,['KDM5-C70'],8868
+0,FK866,8738,['FK866'],8871
+1,GMX1778,8739,['GMX1778'],8871
+0,7RH,8740,['7RH'],8886
+0,SEL120-34A,8741,['SEL120-34A'],8888
+0,Duvelisib,7141,"['Duvelisib', 'INK1197', 'IPI-145']",8909
+0,KPT-8602,8743,['KPT-8602'],8936
+0,AG-120,7273,"['AG-120', 'Ivosidenib']",8938
+0,ADCT-502,8744,['ADCT-502'],8939
+0,AGEN2034,8748,['AGEN2034'],8940
+0,E7046,8749,['E7046'],8941
+0,OMP-313M32,8751,['OMP-313M32'],8942
+0,BAY1436032,8752,['BAY1436032'],8943
+0,SY-1365,8753,['SY-1365'],8945
+0,MVT-1075,8756,['MVT-1075'],8949
+0,JNJ-64007957,8758,"['JNJ-64007957', 'BCMAxCD3']",8950
+0,AMV-564,8761,"['AMV-564', 'AMV564']",8952
+0,AMV-564,8761,"['AMV-564', 'AMV564']",8953
+0,RXDX-106,8760,['RXDX-106'],8954
+0,MVT-5873,8762,['MVT-5873'],8955
+0,OPB-111077,8765,['OPB-111077'],8960
+0,Lefitolimod,8766,"['Lefitolimod', 'MGN1703']",8961
+0,BAY-826,8767,['BAY-826'],8963
+0,KO-947,8768,['KO-947'],8965
+0,IGFBP-2 vaccine,8771,['IGFBP-2 vaccine'],8966
+0,APN401,8772,['APN401'],8967
+0,PET-16,8773,['PET-16'],8968
+0,AVID100,8776,['AVID100'],8969
+0,APG-1252,8778,"['APG-1252', 'BM-1252']",8970
+0,MM-310,8779,['MM-310'],8972
+0,BPM 31510,8780,"['BPM 31510', 'BPM31510']",8974
+0,DCC-3014,8781,['DCC-3014'],8976
+0,TRC102,8787,"['TRC102', 'methoxyamine HCL']",8977
+0,MP7,8788,['MP7'],8978
+0,MCLA-128,8790,['MCLA-128'],8980
+0,TRC694,8791,"['TRC694', 'JNJ-64290694']",8981
+0,CDX-014,8793,['CDX-014'],8982
+0,SEA-CD40,8795,['SEA-CD40'],9004
+0,MOR208,8796,"['MOR208', 'MOR00208', 'XmAb5574']",9006
+0,KITE-585,8799,"['KITE-585', 'Anti-TNFRSF17 CAR T cells']",9007
+0,131I-MIP-1095,8802,['131I-MIP-1095'],9013
+0,Talacotuzumab,8805,"['Talacotuzumab', 'CSL362', 'JNJ-473', 'JNJ-56022473']",9014
+0,AM0010,7615,['AM0010'],9015
+0,LY3200882,8806,['LY3200882'],9016
+0,NLG802,8810,['NLG802'],9017
+0,Indoximod,7884,"['Indoximod', '1-methyl-d-tryptophan', '1-MT', 'D-1MT', 'NLG-8189']",9018
+0,BI 1361849,8812,"['BI 1361849', 'CV9202']",9019
+0,PEN-221,8813,['PEN-221'],9027
+0,V158411,8817,['V158411'],9030
+0,SAR566658,8818,['SAR566658'],9031
+0,APG-115,8819,['APG-115'],9032
+0,ASN003,8820,['ASN003'],9034
+0,AU-011,8821,['AU-011'],9036
+0,HS-10296,8823,['HS-10296'],9038
+0,INCAGN01949,8824,"['INCAGN01949', 'INCAGN1949']",9039
+0,XMT-1522,8826,['XMT-1522'],9048
+0,TG02,8828,"['TG02', 'SB1317']",9049
+0,CCS1477,8830,['CCS1477'],9061
+0,CFI-402257,8831,['CFI-402257'],9063
+0,AFM24,8832,['AFM24'],9065
+0,COM701,8833,"['COM701', 'CGEN-15029', 'COM-701']",9066
+0,CPI-444 ,8145,"['CPI-444 ', 'V81444']",9067
+0,M7824,8834,"['M7824', 'MSB0011359C']",9078
+0,FKB238,8835,['FKB238'],9082
+0,AZ628,7204,"['AZ628', 'AZD-628', 'AZD628']",9083
+0,PK11007,8836,['PK11007'],9084
+0,HuMax-Axl-ADC,8837,['HuMax-Axl-ADC'],9087
+0,RXC004,8838,['RXC004'],9091
+0,SM88,8839,"['SM88', 'SM-88']",9092
+0,UD-017,8840,['UD-017'],9099
+0,NY-ESO-1-c259T,8842,['NY-ESO-1-c259T'],9102
+0,BI 894999,8843,['BI 894999'],9104
+0,EED226,8845,['EED226'],9115
+0,A-395,8846,['A-395'],9122
+0,Elacestrant,8847,"['Elacestrant', 'RAD1901']",9125
+0,JS001,8848,"['JS001', 'JS-001']",9132
+0,JS001,8848,"['JS001', 'JS-001']",9133
+0,M7583,8849,['M7583'],9136
+0,JNJ-42756493,7144,"['JNJ-42756493', 'Erdafitinib']",9140
+0,TAS4464,8852,['TAS4464'],9151
+0,AZ5104,8853,"['AZ5104', 'AZ-5104']",9156
+0,AZ5104,8853,"['AZ5104', 'AZ-5104']",9161
+0,BMS-813160,8854,['BMS-813160'],9165
+0,AdV-tk,8460,"['AdV-tk', 'aglatimagene besadenovec']",9166
+0,Ixazomib,7246,"['Ixazomib', 'Ninlaro', 'MLN9708']",9167
+0,Asparaginase Erwinia chrysanthemi,8857,"['Asparaginase Erwinia chrysanthemi', 'Erwinaze', 'crisantaspase']",9168
+0,Asparaginase Erwinia chrysanthemi,8857,"['Asparaginase Erwinia chrysanthemi', 'Erwinaze', 'crisantaspase']",9169
+0,AZD4785,8858,['AZD4785'],9180
+0,AD80,8859,['AD80'],9183
+0,AD80,8859,['AD80'],9185
+0,LOXO-195,8860,['LOXO-195'],9187
+0,ETP-46464,8861,['ETP-46464'],9204
+0,20G7-D9,8862,['20G7-D9'],9209
+0,20G7-D9,8862,['20G7-D9'],9210
+0,Enasidenib,7889,"['Enasidenib', 'Idhifa', 'AG-221']",9212
+0,CYD-2-11,8863,['CYD-2-11'],9215
+0,KU60648,8874,"['KU60648', 'KU-0060648']",9237
+0,A-770041,8866,['A-770041'],9241
+0,I-BET151,8868,"['I-BET151', 'GSK1210151A']",9248
+0,CT-P6,8869,['CT-P6'],9249
+0,TTC-352,8870,['TTC-352'],9259
+0,C188-9,8871,['C188-9'],9260
+0,BAY1895344,8872,['BAY1895344'],9262
+0,DT-061,8875,"['DT-061', 'SMAP']",9273
+0,KB004,7868,['KB004'],9290
+0,REGN2878-DM1,8876,['REGN2878-DM1'],9291
+0,9F7-F11,8877,['9F7-F11'],9293
+0,JCAR017,8878,['JCAR017'],9301
+0,Tisagenlecleucel,8879,"['Tisagenlecleucel', 'Kymriah', 'CTL019']",9302
+0,Sapanisertib,7232,"['Sapanisertib', 'INK128', 'MLN0128', 'sapanisertib', 'TAK-228']",9306
+0,Basiliximab,8880,"['Basiliximab', 'Simulect']",9394
+0,Basiliximab,8880,"['Basiliximab', 'Simulect']",9395
+0,UCART123,8883,['UCART123'],9431
+0,BPX-601,8884,['BPX-601'],9436
+0,UCART19,8885,['UCART19'],9446
+0,NKR-2 cells,8886,"['NKR-2 cells', 'NKG2D CAR-T cells']",9447
+0,CART19 cells,8887,['CART19 cells'],9451
+0,cIIIA4,8889,['cIIIA4'],9542
+0,EPZ004777,7325,"['EPZ004777', 'EPZ4777']",9547
+1,MI-503,8890,['MI-503'],9547
+0,MI-503,8890,['MI-503'],9548
+0,HER2 CAR-T cells,8891,['HER2 CAR-T cells'],9563
+0,HER2 CAR-T cells,8891,['HER2 CAR-T cells'],9564
+0,S2101,8892,['S2101'],9598
+0,S2101,8892,['S2101'],9599
+0,S2101,8892,['S2101'],9600
+0,HGS1029,8187,"['HGS1029', 'AEG-40826']",9601
+0,DT204,8893,['DT204'],9602
+0,ASTX-660,8894,['ASTX-660'],9603
+0,AIC-47,8895,['AIC-47'],9605
+0,Mesothelin CAR-T cells,8896,['Mesothelin CAR-T cells'],9614
+0,KRIBB11,8901,['KRIBB11'],9632
+0,IHSF115,8902,['IHSF115'],9634
+0,MGD013,8904,['MGD013'],9638
+0,anti-KRAS G12V mTCR cells,8905,['anti-KRAS G12V mTCR cells'],9639
+0,G-TPP,8906,"['G-TPP', 'Gamitrinib-TPP']",9645
+0,Blinatumomab ,7355,"['Blinatumomab ', 'Blincyto', 'anti-CD19/anti-CD3 recombinant bispecific', 'MEDI-538', 'monoclonal antibody MT103']",9652
+0,EPZ030456,8908,['EPZ030456'],9658
+1,EPZ031686,8907,['EPZ031686'],9658
+0,BCI-121,8909,['BCI-121'],9659
+0,SJB3-019A,8910,['SJB3-019A'],9668
+0,Silmitasertib,8911,"['Silmitasertib', 'CX-4945']",9675
+0,Silmitasertib,8911,"['Silmitasertib', 'CX-4945']",9677
+0,anti-OX40 MoAb,8912,"['anti-OX40 MoAb', 'anti-CD134 monoclonal antibody', 'anti-OX40 monoclonal antibody']",9678
+0,PF-06747143,8913,['PF-06747143'],9680
+0,LDN-193189,8914,"['LDN-193189', 'DM3189']",9681
+0,LDN-193189,8914,"['LDN-193189', 'DM3189']",9683
+0,BX-795,8090,"['BX-795', 'BX795']",9686
+0,Anti-CD19 CAR T cells,8150,['Anti-CD19 CAR T cells'],9688
+0,L-NMMA,8915,"['L-NMMA', 'NG-Monomethyl-L-arginine acetate']",9689
+0,EDO-S101,8916,['EDO-S101'],9700
+0,Delanzomib,8917,"['Delanzomib', 'CEP-18770']",9701
+0,Delanzomib,8917,"['Delanzomib', 'CEP-18770']",9702
+0,Tisotumab Vedotin,8918,"['Tisotumab Vedotin', 'HuMax-TF-ADC', 'TF-011-MMAE']",9705
+0,MV-NIS,8919,['MV-NIS'],9752
+0,MV-NIS,8919,['MV-NIS'],9753
+0,Lanreotide Depot,8920,"['Lanreotide Depot', 'Somatuline Depot']",9754
+0,SHR-1210,8923,['SHR-1210'],9759
+0,CS1001,8927,"['CS1001', 'WBP3155']",9760
+1,GLS-010,8925,['GLS-010'],9760
+0,KN035,8926,['KN035'],9761
+0,Prexasertib,7306,"['Prexasertib', 'LY2606368']",9764
+0,PKF118-310,7504,['PKF118-310'],9770
+0,ABBV-221,7837,['ABBV-221'],9794
+0,ISA101b,8928,['ISA101b'],9848
+0,H3B-6545,8929,['H3B-6545'],9849
+0,REGN1979,8930,['REGN1979'],9852
+0,ETBX-011,8931,['ETBX-011'],9859
+0,RU-A1,8932,['RU-A1'],9860
+0,LY2603618,8933,['LY2603618'],9870
+0,CS-11,8937,['CS-11'],9883
+0,MU380,8934,['MU380'],9884
+0,BC2059,8935,['BC2059'],9885
+0,HKT288,8936,['HKT288'],9886
+0,CS-11,8937,['CS-11'],9888
+0,G1T48,8938,['G1T48'],9895
+0,AG-881,7894,"['AG-881', 'AG881', 'Vorasidenib']",9914
+0,iC9/CAR.19/IL15-Transduced CB-NK,8939,['iC9/CAR.19/IL15-Transduced CB-NK'],9932
+0,Rogaratinib,7396,"['Rogaratinib', 'BAY 1163877', 'BAY-1163877', 'BAY1163877']",9936
+0,LY3214996,8491,['LY3214996'],9939
+0,MIW815,8940,"['MIW815', 'ADUS100']",9940
+0,CB-103,8941,['CB-103'],9944
+0,TAS-120,7171,['TAS-120'],9948
+0,SL-801,8943,['SL-801'],9954
+0,RX-5902,8944,['RX-5902'],9955
+0,ALM201,8945,['ALM201'],9966
+0,DS-1205b,8946,['DS-1205b'],9970
+0,Gemtuzumab ozogamicin,6915,"['Gemtuzumab ozogamicin', 'Mylotarg', 'CDP-771', 'CMA-676', 'gemtuzumab', 'WAY-CMA-676']",9977
+0,AMC303,8947,['AMC303'],9980
+0,ZW25,8949,['ZW25'],9992
+0,INU-152,8950,['INU-152'],9993
+0,SB3,8951,['SB3'],9997
+0,ABP 980,8952,['ABP 980'],10002
+0,DKN-01,8953,['DKN-01'],10003
+0,PLX8394,7160,['PLX8394'],10004
+0,ISTH0047,8956,['ISTH0047'],10015
+0,OMP-336B11,8959,"['OMP-336B11', 'GITRL-Fc']",10022
+0,IACS-010759,8960,['IACS-010759'],10023
+0,P-BCMA-101 CAR-T cells,8961,['P-BCMA-101 CAR-T cells'],10031
+0,Ad5-yCD/mutTKSR39rep-hIL12 ,8963,['Ad5-yCD/mutTKSR39rep-hIL12 '],10032
+0,FGF401,7397,['FGF401'],10034
+0,SAR439859,8965,['SAR439859'],10042
+0,BTCT4465A,8967,['BTCT4465A'],10091

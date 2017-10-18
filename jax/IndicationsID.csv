@@ -1,0 +1,540 @@
+,altIds,currentPreferredTerm,definition,id,lastUpdateDateFromDO,name,source
+0,[],,"A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from spindle cells and/or derives_from giant cells. [url:http\://radiology.rsna.org/content/232/2/554.full]",3025,10/03/2017,acinar cell carcinoma,DOID
+0,[],,,12689,10/03/2017,acoustic neuroma,DOID
+0,[],,"A skin melanoma that is characterized by slow growth of a small pigmented spot on the skin with a clearly defined edge, surrounded by normal-appearing skin and occurs on occurs on non hair-bairing surfaces including hands and feet, subungual sites, and fingers or toes. [url:http\://en.wikipedia.org/wiki/Acral_lentiginous_melanoma, url:http\://en.wikipedia.org/wiki/Lentigo, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1352575/]",6367,10/03/2017,acral lentiginous melanoma,DOID
+0,['12621'],,"A leukemia that occurs when a hematopoietic stem cell undergoes malignant transformation into a primitive, undifferentiated cell with abnormal longevity. These lymphocytes (acute lymphocytic leukemia [ALL]) or myeloid cells (acute myelocytic leukemia [AML]) proliferate abnormally, replacing normal marrow tissue and hematopoietic cells and inducing anemia, thrombocytopenia, and granulocytopenia. [url:http\://en.wikipedia.org/wiki/Acute_leukemia, url:http\://www.merck.com/mmpe/sec11/ch142/ch142b.html]",12603,10/03/2017,acute leukemia,DOID
+0,[],,A lymphoblastic leukemia that is characterized by over production of lymphoblasts. [url:http\://www.cancer.gov/dictionary?CdrID=46332],9952,10/03/2017,acute lymphocytic leukemia,DOID
+0,['9208'],,,8864,10/03/2017,acute monocytic leukemia,DOID
+0,"['9118', '9171']",,"A myeloid leukemia that is characterized by the rapid growth of abnormal white blood cells that accumulate in the bone marrow and interfere with the production of normal blood cells. [url:http\://cancergenome.nih.gov/cancersselected/acutemyeloidleukemia, url:http\://en.wikipedia.org/wiki/Acute_myeloid_leukemia, url:http\://www.cancer.gov/dictionary?cdrid=44363]",9119,10/03/2017,acute myeloid leukemia,DOID
+0,[],,"An acute myeloid leukemia characterized by accumulation of promyelocytes in the bone marrow and by a translocation between chromosomes 15 and 17. [url:http\://en.wikipedia.org/wiki/Acute_promyelocytic_leukemia, url:http\://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia]",60318,10/03/2017,acute promyelocytic leukemia,DOID
+0,[],,,5603,10/03/2017,acute T cell leukemia,DOID
+0,[],,"A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma]",299,10/03/2017,adenocarcinoma,DOID
+0,[],,An adrenal cancer that is located_in the cortex (steroid hormone-producing tissue) of the adrenal gland and that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Adrenocortical_carcinoma],3950,10/03/2017,adrenal carcinoma,DOID
+0,['3949'],,,660,10/03/2017,adrenal cortex cancer,DOID
+0,[],,"An adrenal medulla cancer that is characterized by overproduction of adrenaline. [url:http\://en.wikipedia.org/wiki/Adrenal_tumor#Pheochromocytoma, url:http\://en.wikipedia.org/wiki/Pheochromocytoma, url:http\://www.cancer.gov/cancertopics/types/pheochromocytoma]",50892,10/03/2017,adrenal gland pheochromocytoma,DOID
+0,['662'],,An adrenal gland cancer that is located_in the adrenal medulla. [url:http\://en.wikipedia.org/wiki/Adrenal_tumor#Tumors_of_the_Adrenal_Medulla],5719,10/03/2017,adrenal medulla cancer,DOID
+0,[],,An adrenal medulla cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],7379,10/03/2017,adrenal medulla carcinoma,DOID
+0,[],,"An adrenal cortex cancer that forms in the outer layer of tissue of the adrenal gland and that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://cancergenome.nih.gov/cancersselected/AdrenocorticalCarcinoma, url:http\://www.cancer.gov/cancertopics/types/adrenocortical]",3948,10/03/2017,adrenocortical carcinoma,DOID
+0,[],,,4813,10/03/2017,adult brain stem glioma,DOID
+0,[],,,8282,10/03/2017,adult epithelioid sarcoma,DOID
+0,[],,,3516,10/03/2017,adult fibrosarcoma,DOID
+0,[],,,5693,10/03/2017,adult liposarcoma,DOID
+0,[],,,5825,10/03/2017,adult lymphoma,DOID
+0,[],,,6332,10/03/2017,adult malignant hemangiopericytoma,DOID
+0,['7355'],,,3186,10/03/2017,adult oligodendroglioma,DOID
+0,[],,"A T-cell leukemia that results_in abnormal increase of lymphocytes, derives_from T-cells, has_material_basis_in Human T-lymphotropic virus 1, which is transmitted_by sexual contact, transmitted_by contaminated needles used by intravenous-drug users, and transmitted_by breast feeding. The infection results_in_formation_of skin lesions. [url:http\://en.wikipedia.org/wiki/Adult_T-cell_leukemia/lymphoma, url:http\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=14.10d&code=C3184]",50523,10/03/2017,adult T-cell leukemia,DOID
+0,[],,"“An abnormal mass of tissue that usually does not contain cysts or liquid areas. Different types of solid tumors are named for the type of cells that form them. Examples of solid tumors are sarcomas, carcinomas, and lymphomas). ” [url:http://www.cancer.gov/dictionary?cdrid=45301]",10000003,,Advanced Solid Tumor,JAX
+0,[],,,5590,10/03/2017,aggressive digital papillary adenocarcinoma,DOID
+0,['4382'],,,4051,10/03/2017,alveolar rhabdomyosarcoma,DOID
+0,"['5315', '5318']",,A soft tissue cancer that is a slow growing tumor of an unknown origin that effects children and effects young adults. [url:http\://en.wikipedia.org/wiki/Alveolar_soft_part_sarcoma],4239,10/03/2017,alveolar soft part sarcoma,DOID
+0,[],,An ampulla of Vater carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3502,10/03/2017,ampulla of Vater adenocarcinoma,DOID
+0,[],,An ampulla of Vater cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],4932,10/03/2017,ampulla of Vater carcinoma,DOID
+0,[],,A large intestine cancer that is located_in the terminal part of the large intestine. [url:http\://en.wikipedia.org/wiki/Anal_canal],50688,10/03/2017,anal canal cancer,DOID
+0,[],,"An anal canal cancer that derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma, url:http\://www.cancer.org/docroot/CRI/content/CRI_2_4_1X_What_is_anal_cancer_47.asp]",6126,10/03/2017,anal canal carcinoma,DOID
+0,[],,An anal canal cancer that derives_from epithelial squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],7177,10/03/2017,anal canal squamous cell carcinoma,DOID
+0,[],,A anus cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the anus. [url:http\://en.wikipedia.org/wiki/Anal_cancer],4908,10/03/2017,anal carcinoma,DOID
+0,[],,,12239,10/03/2017,anal margin squamous cell carcinoma,DOID
+0,[],,An anal carcinoma that arises near the squamocolumnar junction. [url:http\://en.wikipedia.org/wiki/Anal_cancer],5525,10/03/2017,anal squamous cell carcinoma,DOID
+0,[],,A non-Hodgkin lymphoma involving aberrant T-cells. [url:http\://en.wikipedia.org/wiki/Anaplastic_large-cell_lymphoma#Epidemiology],50744,10/03/2017,anaplastic large cell lymphoma,DOID
+0,"['4508', '267']",,"A malignant Vascular tumor that results_in rapidly proliferating, extensively infiltrating anaplastic cells derives_from blood vessels and derived_from the lining of irregular blood-filled spaces. [url:http\://emedicine.medscape.com/article/276512-overview, url:http\://en.wikipedia.org/wiki/Hemangiosarcoma, url:http\://www.ncbi.nlm.nih.gov/pubmed/23327728]",1816,10/03/2017,angiosarcoma,DOID
+0,['12240'],,A large intestine cancer that is located_in the anus. [url:http\://en.wikipedia.org/wiki/Anus],14110,10/03/2017,anus cancer,DOID
+0,[],,,4934,10/03/2017,apocrine sweat gland cancer,DOID
+0,[],,An appendix carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3608,10/03/2017,appendix adenocarcinoma,DOID
+0,[],,A intestinal cancer that is located_in the appendix. [url:http\://en.wikipedia.org/wiki/Vermiform_appendix],11239,10/03/2017,appendix cancer,DOID
+0,['4861'],,"A malignant glioma that is has_material_basis_in astocyte cells, a type of star-shaped glial cell, located_in the cerebrum. [url:http\://en.wikipedia.org/wiki/Astrocytoma, url:http\://www.cancer.org/Cancer/BrainCNSTumorsinAdults/DetailedGuide/brain-and-spinal-cord-tumors-in-adults-what-are-brain-spinal-tumors]",3069,10/03/2017,astrocytoma,DOID
+0,[],,"A brain cancer that is usually located in the brain, but can occur anywhere in the central nervous system. [url:http\://en.wikipedia.org/wiki/Atypical_teratoid_rhabdoid_tumor]",2129,10/03/2017,atypical teratoid rhabdoid tumor,DOID
+0,[],,A peripheral nervous system neoplasm that is located_in the autonomic nervous system. [url:http\://en.wikipedia.org/wiki/Autonomic_nervous_system],2621,10/03/2017,autonomic nervous system neoplasm,DOID
+0,[],,,9953,10/03/2017,B- and T-cell mixed leukemia,DOID
+0,[],,,60592,10/03/2017,B-cell adult acute lymphocytic leukemia,DOID
+0,[],,A childhood acute lymphoblastic leukemia that has_material_basis in B-cells. [https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.07d&ns=NCI_Thesaurus&code=C9140],80146,10/03/2017,B-cell childhood acute lymphoblastic leukemia,DOID
+0,[],,A non-Hodgkin lymphoma that has_material_basis_in B cells. [url:http\://en.wikipedia.org/wiki/B-cell_lymphoma],707,10/03/2017,B-cell lymphoma,DOID
+0,[],,,4879,10/03/2017,Bartholin's gland adenoid cystic carcinoma,DOID
+0,"['4275', '4276']",,A skin carcinoma affecting basal cells. [url:http\://en.wikipedia.org/wiki/Basal-cell_carcinoma],2513,10/03/2017,basal cell carcinoma,DOID
+0,[],,,5063,10/03/2017,basosquamous carcinoma,DOID
+0,[],,A bile duct carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4896,10/03/2017,bile duct adenocarcinoma,DOID
+0,[],,A bile duct cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://www.cancer.org/docroot/cri/content/cri_2_4_1x_what_is_bile_duct_cancer_69.asp],4897,10/03/2017,bile duct carcinoma,DOID
+0,['8092'],,A gastrointestinal system cancer that results_in malignant growth located_in the gallbladder or located_in the bile duct. [url:http\://en.wikipedia.org/wiki/Biliary_tract_cancer],4607,10/03/2017,biliary tract cancer,DOID
+0,['4609'],,A hepatobiliary benign neoplasm located_in the biliary tract. [url:http\://en.wikipedia.org/wiki/Hepatobiliary_system#Biliary_tract],50625,10/03/2017,biliary tract neoplasm,DOID
+0,[],,A bladder carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3711,10/03/2017,bladder adenocarcinoma,DOID
+0,[],,A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://nci.nih.gov/cancertopics/types/bladder],4007,10/03/2017,bladder carcinoma,DOID
+0,[],,,9053,10/03/2017,bladder carcinoma in situ,DOID
+0,['2141'],,,6933,10/03/2017,bladder transitional cell papilloma,DOID
+0,[],,"A bladder carcinoma that has_material_basis_in transitional cells located_in the lining of the bladder. [url:http\://cancergenome.nih.gov/cancersselected/UrothelialBladderCarcinoma, url:http\://www.cancer.gov/dictionary?cdrid=46629]",4006,10/03/2017,bladder urothelial carcinoma,DOID
+0,['3348'],,"A connective tissue cancer that is located_in bone and is characterized by uncontrolled cellular proliferation that destroys normal bone tissue. [url:http\://www.cancer.gov/cancertopics/factsheet/Sites-Types/bone, url:http\://www.cancer.gov/cancertopics/types/bone, url:http\://www.wrongdiagnosis.com/b/bone_cancer/intro.htm]",184,10/03/2017,bone cancer,DOID
+0,"['6392', '4984']",,A peripheral primitive neuroectodermal tumor that is located_in bone. [url:http\://en.wikipedia.org/wiki/Ewing%27s_sarcoma],3368,10/03/2017,bone Ewing's sarcoma,DOID
+0,[],,A giant cell tumor and bone cancer and bone tissue neoplasm that results_in the presence of multinucleated giant cells (osteoclast-like cell). [url:http\://en.wikipedia.org/wiki/Giant_cell_tumor_of_bone],4305,10/03/2017,bone giant cell tumor,DOID
+0,"['2356', '2761']",,A hematopoietic cancer that derives_from the blood-forming stem cells of the bone marrow. [url:http\://nci.nih.gov/dictionary/?CdrID=430857],4960,10/03/2017,bone marrow cancer,DOID
+0,"['2125', '3543', '911', '6649', '2126']",,A central nervous system cancer that is characterized by the growth of abnormal cells in the tissues of the brain. [url:http\://www.cancer.gov/dictionary?CdrID=387264],1319,10/03/2017,brain cancer,DOID
+0,[],,,7497,10/03/2017,brain ependymoma,DOID
+0,[],,,3073,10/03/2017,brain glioblastoma multiforme,DOID
+0,[],,"A brain cancer that has_material_basis_in glial cells. [url:http\://cancergenome.nih.gov/cancersselected/lowergradeglioma, url:http\://www.cancer.gov/dictionary?CdrID=45700]",60108,10/03/2017,brain glioma,DOID
+0,[],,A brain glioma that has_material_basis_in oligodendrocytes. [url:http\://www.cancer.gov/dictionary?CdrID=46257],3187,10/03/2017,brain oligodendroglioma,DOID
+0,[],,,2132,10/03/2017,brain sarcoma,DOID
+0,[],,,4860,10/03/2017,brain stem astrocytic neoplasm,DOID
+0,"['13974', '4204', '4208']",,,4203,10/03/2017,brain stem cancer,DOID
+0,[],,,4202,10/03/2017,brain stem glioma,DOID
+0,[],,A breast carcinoma that originates in the milk ducts and/or lobules (glandular tissue) of the breast. [url:http\://www.virtualmedicalcentre.com/diseases.asp?did=696],3458,10/03/2017,breast adenocarcinoma,DOID
+0,[],,,4877,10/03/2017,breast adenoid cystic carcinoma,DOID
+0,"['4241', '1648']",,"A thoracic cancer that originates in the mammary gland. [url:http\://en.wikipedia.org/wiki/Breast_cancer, url:http\://en.wikipedia.org/wiki/Mammary, url:http\://www.cancer.gov/cancertopics/types/breast, url:http\://www.nlm.nih.gov/medlineplus/breastcancer.html]",1612,10/03/2017,breast cancer,DOID
+0,[],,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Breast_cancer],3459,10/03/2017,breast carcinoma,DOID
+0,['6800'],,,5592,10/03/2017,breast papillary carcinoma,DOID
+0,[],,"A lung adenocarcinoma characterized by a predominantly lepidic pattern and 5 mm or less invasion in greatest dimension. [url:https\://en.wikipedia.org/wiki/Adenocarcinoma_in_situ_of_the_lung, url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.12d&ns=NCI_Thesaurus&code=C2923, url:https\://www.ncbi.nlm.nih.gov/pubmed/?term=15562552, url:https\://www.ncbi.nlm.nih.gov/pubmed/?term=9498957]",4926,10/03/2017,bronchiolo-alveolar adenocarcinoma,DOID
+0,[],,"A mature B-cell neoplasm of B-cells found in the germinal center. [url:http\://en.wikipedia.org/wiki/Burkitt%27s_lymphoma, url:http\://www.cancer.gov/dictionary?CdrID=45203]",8584,10/03/2017,Burkitt lymphoma,DOID
+0,[],,"A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis. [stedman:rlc, url:http\://en.wikipedia.org/wiki/cancer, url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=cancer]",162,10/03/2017,cancer,DOID
+0,"['6570', '2428']",,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],305,10/03/2017,carcinoma,DOID
+0,"['2610', '1971', '4234']",,"A mixed cell type cancer that has_material_basis_in carcinomatous (epithelial tissue) and sarcomatous (connective tissue) components. [url:http\://en.wikipedia.org/wiki/Mixed_M%C3%BCllerian_tumor, url:http\://www.cancer.gov/Common/PopUps/popDefinition.aspx?id=44003&version=Patient&language=English, url:http\://www.cancer.gov/dictionary/?CdrID=44003]",4236,10/03/2017,carcinosarcoma,DOID
+0,"['0060093', '1318']",,A nervous system cancer that is located_in the central nervous system. [url:http\://en.wikipedia.org/wiki/Central_nervous_system],3620,10/03/2017,central nervous system cancer,DOID
+0,['3233'],,A hematologic cancer that has_material_basis_in lymphoma located_in central nervous system. [url:http\://www.braintumor.org/CNSLymphoma/],3234,10/03/2017,central nervous system lymphoma,DOID
+0,[],,A cervix carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3702,10/03/2017,cervical adenocarcinoma,DOID
+0,[],,,4867,10/03/2017,cervical adenoid cystic carcinoma,DOID
+0,[],,A cervical carcinoma that derives_from squamous cells and gland-like cells. [url:http\://en.wikipedia.org/wiki/Adenosquamous_carcinoma],5636,10/03/2017,cervical adenosquamous carcinoma,DOID
+0,['4361'],,"A female reproductive organ cancer that is located_in the cervix. [url:http\://cancergenome.nih.gov/cancersselected/cervicalcancer, url:http\://en.wikipedia.org/wiki/Cervical_cancer, url:http\://www.cancer.gov/dictionary?CdrID=444973]",4362,10/03/2017,cervical cancer,DOID
+0,[],,"A cervix carcinoma that has_material_basis_in squamous cells of the cervix. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma, url:http\://www.cancer.gov/dictionary?CdrID=752829]",3744,10/03/2017,cervical squamous cell carcinoma,DOID
+0,[],,A cervical cancer that is located_in the cervix uteri or located_in the cervical area and that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Cervical_cancer],2893,10/03/2017,cervix carcinoma,DOID
+0,[],,,6383,10/03/2017,childhood brain stem glioma,DOID
+0,[],,,3675,10/03/2017,childhood kidney neoplasm,DOID
+0,[],,A leukemia that occurs in children. [url:http\://www.nlm.nih.gov/medlineplus/leukemiachildhood.html],7757,10/03/2017,childhood leukemia,DOID
+0,[],,,3869,10/03/2017,childhood medulloblastoma,DOID
+0,['5249'],,"A bile duct adenocarcinoma that has_material_basis_in bile duct epithelial cells. [url:http\://cancergenome.nih.gov/cancersselected/Cholangiocarcinoma, url:http\://en.wikipedia.org/wiki/Cholangiocarcinoma, url:http\://www.cancer.gov/dictionary?CdrID=335064]",4947,10/03/2017,cholangiocarcinoma,DOID
+0,[],,A cell type benign neoplasm that is a cartilaginous tumor encapsulated with a lobular growing pattern. [url:http\://en.wikipedia.org/wiki/Chondroma],2602,10/03/2017,chondroma,DOID
+0,['3370'],,A connective tissue cancer that has_material_basis_in cells derived from transformed cells that produce cartilage. [url:http\://en.wikipedia.org/wiki/Chondrosarcoma],3371,10/03/2017,chondrosarcoma,DOID
+0,[],,A notochordal cancer that derives_from cellular remnants of the notochord. [url:http\://en.wikipedia.org/wiki/Chordoma],3302,10/03/2017,chordoma,DOID
+0,[],,,3594,10/03/2017,choriocarcinoma,DOID
+0,['5647'],,"A choroid plexus cancer that has_material_basis_in epithelial cells of the choroid plexus. [url:http\://en.wikipedia.org/wiki/Carcinoma, url:http\://en.wikipedia.org/wiki/Choroid_plexus_carcinoma, url:http\://www.cancer.gov/dictionary?CdrID=45963]",5648,10/03/2017,choroid plexus carcinoma,DOID
+0,['3661'],,,2626,10/03/2017,choroid plexus papilloma,DOID
+0,[],,"A renal cell carcinoma that has_material_basis_in chromophobe cell that appear pale when viewed under microscope, but that are larger and display different features than clear cells. [url:http\://cancergenome.nih.gov/cancersselected/ChromophobeRenalCellCarcinoma, url:http\://www.cancer.org/acs/groups/cid/documents/webcontent/003107-pdf.pdf, URL:http\://www.omnimedicalsearch.com/conditions-disease/renal-cell-carcinoma-overview-types.html]",4471,10/03/2017,chromophobe renal cell carcinoma,DOID
+0,[],,A leukemia that develops slowly. [url:http\://www.nlm.nih.gov/medlineplus/leukemiaadultchronic.html],1036,10/03/2017,chronic leukemia,DOID
+0,[],,"A lymphoblastic leukemia characterized by over production of B-cells and their accumulation in bone marrow and blood. [url:http\://en.wikipedia.org/wiki/B-cell_chronic_lymphocytic_leukemia, url:http\://www.cancer.gov/dictionary?cdrid=346545]",1040,10/03/2017,chronic lymphocytic leukemia,DOID
+0,"['8551', '8606']",,A myeloid leukemia that is characterized by over production of white blood cells. [url:http\://www.cancer.gov/dictionary?CdrID=46755],8552,10/03/2017,chronic myeloid leukemia,DOID
+0,[],,"A chronic leukemia characterized by monocytosis, increased monocytes in the bone marrow, variable degrees of dysplasia, but an absence of immature granulocytes in the blood. []",80188,10/03/2017,chronic myelomonocytic leukemia,DOID
+0,['4881'],,A sarcoma that is characterized by solid nests and fascicles of tumor cells with clear cytoplasm and prominent nucleoli. It presents as a slow growing mass that especially affects tendons and aponeuroses and it is deeply situated. [url:http\://en.wikipedia.org/wiki/Clear-cell_sarcoma],4233,10/03/2017,clear cell sarcoma,DOID
+0,[],,A chronic lymphocytic leukemia that is characterized by the presence of immature lymphocytes in the blood and bone marrow and/or in the lymph nodes. [url:http\://www.cancer.gov/dictionary?CdrID=641291],6354,10/03/2017,CLL/SLL,DOID
+0,[],,Collecting duct carcinoma is a renal cell carcinoma described as a rare and aggressive type of renal cell carcinoma. The cancerous cells form irregular tubes inside the tumor. Collecting duct carcinoma is more common among young people and unfortunately is diagnosed in most cases when the cancer has metastasized (spread inside the body). [URL:http\://www.omnimedicalsearch.com/conditions-disease/renal-cell-carcinoma-overview-types.html],4464,10/03/2017,collecting duct carcinoma,DOID
+0,[],,A colon carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],234,10/03/2017,colon adenocarcinoma,DOID
+0,[],,A colorectal cancer that is located_in the colon. [url:http\://www.cancer.gov/dictionary?CdrID=44237],219,10/03/2017,colon cancer,DOID
+0,[],,A colon cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],1520,10/03/2017,colon carcinoma,DOID
+0,[],,"A colorectal cancer that derives_from epithelial cells of glandular origin. [url:http\://cancergenome.nih.gov/cancersselected/colorectaladenocarcinoma, url:http\://en.wikipedia.org/wiki/Adenocarcinoma]",50861,10/03/2017,colorectal adenocarcinoma,DOID
+0,[],,A large intestine cancer that is located_in the colon and/or located_in the rectum. [url:http\://www.cancer.gov/dictionary?CdrID=444983],9256,10/03/2017,colorectal cancer,DOID
+0,[],,,8418,10/03/2017,congenital fibrosarcoma,DOID
+0,[],,,3840,10/03/2017,craniopharyngioma,DOID
+0,[],,,4871,10/03/2017,cutaneous adenocystic carcinoma,DOID
+0,[],,A skin carcinoma that is characterized by infiltration of the skin by neoplastic large cells with abundant pale cytoplasm and large nuclei with prominent nucleoli. [url:https\://ncit.nci.nih.gov/ncitbrowser/pages/home.jsf;jsessionid=C48DBFA9A55E2FE31390EDF86D581ABE],3450,10/03/2017,cutaneous Paget's disease,DOID
+0,[],,A non-Hodgkin's lymphoma that has material basis in a mutation of T cells. [url:http\://en.wikipedia.org/wiki/Cutaneous_T-cell_lymphoma],60061,10/03/2017,cutaneous T cell lymphoma,DOID
+0,[],,"A fibrosarcoma that is located_in the dermis laryer of the skin and that begins as a hard nodule and grows slowly. [url:http\://en.wikipedia.org/wiki/Dermatofibrosarcoma_protuberans, url:http\://www.cancer.gov/dictionary?CdrID=44276]",3507,10/03/2017,dermatofibrosarcoma protuberans,DOID
+0,[],,"A B-cell lymphoma that is a cancer of B cells presenting as an aggressive tumour which can arise in virtually any part of the body. [url:http\://en.wikipedia.org/wiki/Diffuse_large_B-cell_lymphoma, url:https\://www.ncbi.nlm.nih.gov/pubmed/28487884]",50745,10/03/2017,diffuse large B-cell lymphoma,DOID
+0,[],,"A chromosomal disease that is characterized by flat-looking facial features and weak muscle tone (hypotonia) in infancy and is caused by trisomy of all or a critical portion of chromosome 21 and is associated with intellectual disability. [url:http\://en.wikipedia.org/wiki/Down_syndrome, url:http\://ghr.nlm.nih.gov/condition/down-syndrome, url:http\://www.nichd.nih.gov/health/topics/down/Pages/default.aspx, url:http\://www.omim.org/entry/190685?search=down%20syndrome&highlight=down%20syndromic%20syndrome]",14250,10/03/2017,Down syndrome,DOID
+0,[],,,60074,10/03/2017,ductal carcinoma in situ,DOID
+0,[],,A duodenum cancer that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],10816,10/03/2017,duodenum adenocarcinoma,DOID
+0,['6072'],,A small intestine cancer that is located_in the beginning section of the small intestine. [url:http\://en.wikipedia.org/wiki/Duodenal_cancer],10021,10/03/2017,duodenum cancer,DOID
+0,[],,,7566,10/03/2017,eccrine porocarcinoma,DOID
+0,[],,"A rhabdomyosarcoma wherein the mesenchymally-derived malignant cells resemble the primitive developing skeletal muscle of the embryo; it occurs most often in the head and neck area or in the genital or urinary organs. [url:http\://en.wikipedia.org/wiki/Embryonal_rhabdomyosarcoma, url:http\://www.cancer.gov/cancertopics/pdq/treatment/childrhabdomyosarcoma/Patient/page1]",3246,10/03/2017,embryonal rhabdomyosarcoma,DOID
+0,[],,An embryonal carcinoma that is located_in the testis. [url:http\://en.wikipedia.org/wiki/Embryonal_carcinoma#Testicular_embryonal_carcinoma],5680,10/03/2017,embryonal testis carcinoma,DOID
+0,[],,,7519,10/03/2017,endocervical carcinoma,DOID
+0,"['5827', '6650']",,An endometrial carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],2870,10/03/2017,endometrial adenocarcinoma,DOID
+0,['5654'],,A uterine cancer that is located_in tissues lining the uterus. [url:http\://www.cancer.gov/dictionary?CdrID=444987],1380,10/03/2017,endometrial cancer,DOID
+0,['3000'],,A endometrial cancer that is located_in the tissue lining the uterus. [url:http\://www.cancer.gov/cancertopics/types/endometrial],2871,10/03/2017,endometrial carcinoma,DOID
+0,[],,,5299,10/03/2017,endometrial clear cell adenocarcinoma,DOID
+0,[],,,4226,10/03/2017,endometrial stromal sarcoma,DOID
+0,[],,,5828,10/03/2017,endometrioid ovary carcinoma,DOID
+0,[],,,4794,10/03/2017,ependymoblastoma,DOID
+0,[],,,8353,10/03/2017,epithelioid malignant peripheral nerve sheath tumor,DOID
+0,[],,,6193,10/03/2017,epithelioid sarcoma,DOID
+0,[],,An esophageal carcinoma that derives_from epithelial cells of the salivary gland. [url:http\://en.wikipedia.org/wiki/Adenoid_cystic_carcinoma],4878,10/03/2017,esophageal adenoid cystic carcinoma,DOID
+0,[],,An esophageal carcinoma that derives_from squamous cells and gland-like cells. [url:http\://en.wikipedia.org/wiki/Adenosquamous_carcinoma],5625,10/03/2017,esophageal adenosquamous carcinoma,DOID
+0,"['10291', '1104', '1102', '10292', '10448']",,"A gastrointestinal system cancer that is located_in the esophagus. [url:http\://cancergenome.nih.gov/cancersselected/stomach-esophagealcancer, url:http\://en.wikipedia.org/wiki/Esophagus]",5041,10/03/2017,esophageal cancer,DOID
+0,[],,A esophageal cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Esophageal_cancer],1107,10/03/2017,esophageal carcinoma,DOID
+0,[],,An esophageal carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4914,10/03/2017,esophagus adenocarcinoma,DOID
+0,[],,An esophageal carcinoma that derives_from epithelial squamous cells located_in the esophagus. [url:http\://www.cancer.gov/cancertopics/types/esophageal],3748,10/03/2017,esophagus squamous cell carcinoma,DOID
+0,[],,"A myeloproliferative neoplasm that is characterized by sustained thrombocytosis in the blood, increased numbers of large, mature megakaryocytes in the bone marrow, and episodes of thrombosis and/or hemorrhage and that results_in the overproduction of platelets. [url:http\://www.webmd.com/a-to-z-guides/thrombocythemia-essential]",2224,10/03/2017,essential thrombocythemia,DOID
+0,[],,,60076,10/03/2017,estrogen-receptor negative breast cancer,DOID
+0,[],,,60075,10/03/2017,estrogen-receptor positive breast cancer,DOID
+0,[],,,2764,10/03/2017,ethmoid sinus adenoid cystic carcinoma,DOID
+0,"['4392', '4390', '0050607', '4980', '4158', '4391']",,"A bone cancer that has_material_basis in neural crest cells derives_from undeveloped, undifferentiated neuroectoderm. [url:http\://en.wikipedia.org/wiki/Primitive_neuroectodermal_tumor, url:http\://www.cancer.gov/dictionary?cdrid=383924]",3369,10/03/2017,Ewing sarcoma,DOID
+0,[],,An adrenal medulla cancer that originate in the ganglia of the sympathetic nervous system and are named based upon the primary anatomical site of origin. [url:http\://en.wikipedia.org/wiki/Pheochromocytoma],50936,10/03/2017,extra-adrenal pheochromocytoma,DOID
+0,[],,,4682,10/03/2017,extrahepatic bile duct carcinoma,DOID
+0,[],,,4232,10/03/2017,extraosseous Ewing's sarcoma,DOID
+0,[],,,3357,10/03/2017,extraosseous osteosarcoma,DOID
+0,[],,A fallopian tube carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3706,10/03/2017,fallopian tube adenocarcinoma,DOID
+0,['1961'],,A female reproductive organ cancer that is located_in fallopian tube. [url:http\://en.wikipedia.org/wiki/Fallopian_tube_cancer],1964,10/03/2017,fallopian tube cancer,DOID
+0,[],,A fallopian tube cancer that is located_in the fallopian tube. [url:http\://www.cancer.gov/dictionary/?CdrID=45687],1963,10/03/2017,fallopian tube carcinoma,DOID
+0,[],,A fallopian tube cancer that is characterized as a mixture of carcinoma and sarcoma and has_material_basis_in epithelial tissue and has_material_basis_in connective tissue. [url:http\://en.wikipedia.org/wiki/Carcinosarcoma],1970,10/03/2017,fallopian tube carcinosarcoma,DOID
+0,[],,,5301,10/03/2017,fallopian tube clear cell adenocarcinoma,DOID
+0,['1972'],,,5831,10/03/2017,fallopian tube endometrioid adenocarcinoma,DOID
+0,[],,,5598,10/03/2017,fallopian tube serous adenocarcinoma,DOID
+0,"['1244', '1281']",,"A reproductive organ cancer that is manifested in the female genitals. This includes organs such as the ovaries, fallopian tubes, uterus, cervix, vagina and vulva. [url:http\://en.wikipedia.org/wiki/Template\:Female_genital_neoplasia, url:http\://www.wrongdiagnosis.com/g/genital_system_cancer/intro.htm]",120,10/03/2017,female reproductive organ cancer,DOID
+0,[],,"An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes. [url:http\://en.wikipedia.org/wiki/Fibrillary_astrocytoma, url:http\://www.braintumour.ca/4877/diffuse-astrocytoma-/-fibrillary-astrocytoma, url:http\://www.cancer.gov/dictionary?CdrID=45602]",6726,10/03/2017,fibrillary astrocytoma,DOID
+0,[],,"A hepatocellular carcinoma characterized microscopically by laminated fibrous layers interspersed between the tumour cells. The polygonal, deeply eosinophilic tumor cells arise in non-cirrhotic livers. [url:http\://www.nejm.org/doi/full/10.1056/NEJMra1001683, url:https\://en.wikipedia.org/wiki/Fibrolamellar_hepatocellular_carcinoma, url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C4131&ns=NCI_Thesaurus, url:https\://rarediseases.info.nih.gov/diseases/9396/fibrolamellar-carcinoma]",5015,10/03/2017,fibrolamellar carcinoma,DOID
+0,"['3509', '156']",,A connective tissue cancer that has_material_basis_in fibrous connective tissue and characterized by the presence of immature proliferating fibroblasts or undifferentiated anaplastic spindle cells in a storiform pattern. [url:http\://en.wikipedia.org/wiki/Fibrosarcoma],3355,10/03/2017,fibrosarcoma,DOID
+0,[],,,4415,10/03/2017,fibrous histiocytoma,DOID
+0,[],,"A B-cell lymphoma that is characterized as an indolent non-Hodgkin's lymphoma and has_material_basis_in follicle center B-cells (centrocytes and centroblasts). [url:http\://en.wikipedia.org/wiki/Follicular_lymphoma, url:http\://www.cancer.gov/dictionary?CdrID=428287]",50873,10/03/2017,follicular lymphoma,DOID
+0,[],,A thyroid carcinoma that has_material_basis_in follicular cells. [url:http\://en.wikipedia.org/wiki/Follicular_thyroid_cancer],3962,10/03/2017,follicular thyroid carcinoma,DOID
+0,[],,A gallbladder carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3500,10/03/2017,gallbladder adenocarcinoma,DOID
+0,"['8090', '8157']",,A biliary tract cancer that is located_in the gallbladder. [url:http\://en.wikipedia.org/wiki/Gallbladder],3121,10/03/2017,gallbladder cancer,DOID
+0,[],,A gallbladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://nci.nih.gov/cancertopics/types/gallbladder/],4948,10/03/2017,gallbladder carcinoma,DOID
+0,"['5607', '5606']",,"A cell type benign neoplasm that has_material_basis_in glial-type cells. [url:http\://en.wikipedia.org/wiki/Ganglioglioma, url:http\://www.stjude.org/stjude/v/index.jsp?vgnextoid=7e0d061585f70110VgnVCM1000001e0215acRCRD]",5078,10/03/2017,ganglioglioma,DOID
+0,[],,,4163,10/03/2017,ganglioneuroblastoma,DOID
+0,[],,,4817,10/03/2017,ganglioneuroma,DOID
+0,[],,A stomach carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3717,10/03/2017,gastric adenocarcinoma,DOID
+0,[],,,5635,10/03/2017,gastric adenosquamous carcinoma,DOID
+0,[],,,6271,10/03/2017,gastric cardia adenocarcinoma,DOID
+0,[],,,6270,10/03/2017,gastric cardia carcinoma,DOID
+0,[],,,4715,10/03/2017,gastric neuroendocrine neoplasm,DOID
+0,[],,,8025,10/03/2017,gastric signet ring cell adenocarcinoma,DOID
+0,[],,,6552,10/03/2017,gastric small cell carcinoma,DOID
+0,[],,,5516,10/03/2017,gastric squamous cell carcinoma,DOID
+0,[],,A neuroendocrine tumor that results_in an overproduction of gastric acid. [url:http\://www.cancer.gov/dictionary?CdrID=44239],5577,10/03/2017,gastrinoma,DOID
+0,[],,,4944,10/03/2017,gastroesophageal junction adenocarcinoma,DOID
+0,[],,"A gastrointestinal system cancer that has_material_basis_in neuroendocrine cells. [url:http\://en.wikipedia.org/wiki/Neuroendocrine_tumor, url:http\://www.cancer.gov/dictionary?CdrID=44904]",50626,10/03/2017,gastrointestinal neuroendocrine tumor,DOID
+0,[],,,9253,10/03/2017,gastrointestinal stromal tumor,DOID
+0,"['4945', '8377']",,An organ system cancer located_in gastrointestinal tract that is manifested in organs of the gastrointestinal system. [url:http\://en.wikipedia.org/wiki/Human_gastrointestinal_tract],3119,10/03/2017,gastrointestinal system cancer,DOID
+0,['2157'],,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from germ cells. [url:http\://en.wikipedia.org/wiki/Germ_cell_tumor],2994,10/03/2017,germ cell cancer,DOID
+0,"['3598', '14071']",,,3590,10/03/2017,gestational trophoblastic neoplasm,DOID
+0,[],,"A glioblastoma multiforme that is characterized by a prevalence of bizarre, multinucleated giant cells. [url:http\://en.wikipedia.org/wiki/Giant-cell_glioblastoma, url:http\://neuro-oncology.oxfordjournals.org/content/11/6/833.full]",3074,10/03/2017,giant cell glioblastoma,DOID
+0,[],,,200,10/03/2017,giant cell tumor,DOID
+0,"['3075', '3080']",,"An astrocytoma characterized by the presence of small areas of necrotizing tissue that is surrounded by anaplastic cells as well as the presence of hyperplastic blood vessels, and that has_material_basis_in abnormally proliferating cells derives_from multiple cell types including astrocytes and oligondroctyes. [url:http\://cancergenome.nih.gov/cancersselected/glioblastomamultiforme, url:http\://en.wikipedia.org/wiki/Glioblastoma_multiforme, url:http\://www.ncbi.nlm.nih.gov/pubmed/20129251, url:http\://www.ncbi.nlm.nih.gov/pubmed/23029035]",3068,10/03/2017,glioblastoma multiforme,DOID
+0,[],,,6128,10/03/2017,gliomatosis cerebri,DOID
+0,[],,,3071,10/03/2017,gliosarcoma,DOID
+0,[],,"An astrocytoma that is characterized by cells with regular, round to oval nuclei. [url:http\://en.wikipedia.org/wiki/Anaplastic_astrocytoma, url:http\://www.abta.org/brain-tumor-information/types-of-tumors/astrocytoma.html, url:http\://www.cancer.gov/dictionary?CdrID=45591]",3078,10/03/2017,grade III astrocytoma,DOID
+0,['5333'],,,2999,10/03/2017,granulosa cell tumor,DOID
+0,[],,A lymphoma that is characterized by having cellular features of both classic Hodgkin's lymphomas and large B-cell Lymphomas. [url:http\://en.wikipedia.org/wiki/Gray_zone_lymphoma],5822,10/03/2017,gray zone lymphoma,DOID
+0,[],,A chronic lymphocytic leukemia that is characterized by over production of B cells (lymphocytes) by the bone marrow where the B cells appear hairy under a microscope. [],285,10/03/2017,hairy cell leukemia,DOID
+0,[],,"An organ system cancer that arises in the head or neck region. This region includes the nasal cavity, sinuses, lips, mouth, salivary glands, throat, or larynx. [url:http\://apps.who.int/bookorders/anglais/detart1.jsp?sesslan=1&codlan=1&codcol=70&codcch=9, url:http\://en.wikipedia.org/wiki/Head_and_neck_cancer, url:http\://www.cancer.gov/cancertopics/factsheet/Sites-Types/head-and-neck, url:http\://www.cancer.gov/dictionary?CdrID=257519, url:http\://www.iarc.fr/en/publications/pdfs-online/pat-gen/bb9/index.php]",11934,10/03/2017,head and neck cancer,DOID
+0,[],,"A head and neck cancer that has_material_basis_in epithelial cells and is located_in the upper aerodigestive tract, including the lip, oral cavity (mouth), nasal cavity, paranasal sinuses, pharynx, and larynx. [url:http\://en.wikipedia.org/wiki/Head_and_neck_cancer, url:http\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=14.09e&code=C35850&ns=NCI_Thesaurus&key=153772862&b=1&n=null, url:http\://www.cancer.gov/cancertopics/factsheet/Sites-Types/head-and-neck]",1542,10/03/2017,head and neck carcinoma,DOID
+0,[],,"A head and neck carcinoma that has_material_basis_in squamous cells that line the moist, mucosal surfaces inside the head and neck. [url:http\://atlasgeneticsoncology.org/Tumors/HeadNeckSCCID5090.html, url:http\://en.wikipedia.org/wiki/Head_and_neck_cancer#Squamous_cell_carcinoma, url:http\://www.cancer.gov/cancertopics/factsheet/Sites-Types/head-and-neck, url:http\://www.cancer.gov/dictionary?CdrID=597171]",5520,10/03/2017,head and neck squamous cell carcinoma,DOID
+0,[],,A cell type benign neoplasm that has_physical_basis_in endothelial cells that line blood vessels and is characterised by increased number of normal or abnormal vessels filled with blood. [url:http\://en.wikipedia.org/wiki/Hemangioma],255,10/03/2017,hemangioma,DOID
+0,['5372'],,A soft tissue cancer that is a soft tissue sarcoma and originates in the pericytes in the walls of capillaries. [url:http\://en.wikipedia.org/wiki/Hemangiopericytoma],264,10/03/2017,hemangiopericytoma,DOID
+0,"['2532', '1034']",,"An immune system cancer located_in the hematological system that is characterized by uncontrolled cellular proliferation in blood, bone marrow and lymph nodes. [url:http\://en.wikipedia.org/wiki/Blood_cancer, url:http\://www.cancer.gov/dictionary/?CdrID=45708]",2531,10/03/2017,hematologic cancer,DOID
+0,[],,,687,10/03/2017,hepatoblastoma,DOID
+0,[],,,50868,10/03/2017,hepatocellular adenoma,DOID
+0,['5005'],,"A liver carcinoma that has_material_basis_in undifferentiated hepatocytes. [url:http\://cancergenome.nih.gov/cancersselected/LiverHepatocellularCarcinoma, url:http\://en.wikipedia.org/wiki/Hepatocellular_carcinoma, url:http\://www.omim.org/entry/114550]",684,10/03/2017,hepatocellular carcinoma,DOID
+0,[],,,60080,10/03/2017,Her2-receptor negative breast cancer,DOID
+0,[],,,60079,10/03/2017,Her2-receptor positive breast cancer,DOID
+0,[],,,3896,10/03/2017,hidradenoma,DOID
+0,[],,A sarcoma and hematologic cancer that derives_from follicular lymphoma. [url:http\://www.springerlink.com/content/h9wrn7p72x26q035/],5621,10/03/2017,histiocytic and dendritic cell cancer,DOID
+0,[],,,4231,10/03/2017,histiocytoma,DOID
+0,['3344'],,"A lymphatic system disease that is characterized by an excessive number of histiocytes. [url:http\://en.wikipedia.org/wiki/Histiocytosis, url:http\://www.nlm.nih.gov/medlineplus/ency/article/000068.htm]",3405,10/03/2017,histiocytosis,DOID
+0,"['8953', '0060059', '8710', '8652', '8685', '8671', '9107', '8715', '8841', '9096']",,A lymphoma that is marked by the presence of a type of cell called the Reed-Sternberg cell. [url:v],8567,10/03/2017,Hodgkin's lymphoma,DOID
+0,[],,,8543,10/03/2017,"Hodgkin's lymphoma, lymphocytic-histiocytic predominance",DOID
+0,"['9160', '8532', '12202']",,A pharynx cancer that is located_in the hypopharynx. [url:http\://en.wikipedia.org/wiki/Hypopharynx],8533,10/03/2017,hypopharynx cancer,DOID
+0,[],,A small intestine cancer that is located_in the ileum. [url:http\://en.wikipedia.org/wiki/Ileum],10153,10/03/2017,ileum cancer,DOID
+0,[],,An organ system cancer located_in the immune system that is characterized by uncontrolled cellular proliferation in organs of the immune system. [url:http\://en.wikipedia.org/wiki/Immune_system],60083,10/03/2017,immune system cancer,DOID
+0,[],,Indication other than cancer,10000005,,Indication other than cancer,JAX
+0,[],,,4660,10/03/2017,indolent systemic mastocytosis,DOID
+0,[],,,50620,10/03/2017,infiltrating renal pelvis transitional cell carcinoma,DOID
+0,[],,,6845,10/03/2017,infiltrating ureter transitional cell carcinoma,DOID
+0,[],,,6263,10/03/2017,inflammatory breast carcinoma,DOID
+0,[],,"A mesenchymal cell neoplasm that has_material_basis_in myofibroblastic cells admixed with inflammatory cells. [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689747/, url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=23091756]",50905,10/03/2017,inflammatory myofibroblastic tumor,DOID
+0,['3903'],,An adenoma that is located_in the pancreas and is characterized by overproduction of insulin. [url:http\://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001424/],3892,10/03/2017,insulinoma,DOID
+0,[],,,4928,10/03/2017,intrahepatic cholangiocarcinoma,DOID
+0,[],,A retinoblastoma that is located_in the eye and has not spread to other parts of the body. [url:http\://www.answers.com/topic/intraocular-retinoblastoma],4653,10/03/2017,intraocular retinoblastoma,DOID
+0,[],,,6477,10/03/2017,invasive bladder transitional cell carcinoma,DOID
+0,['3005'],,,3008,10/03/2017,invasive ductal carcinoma,DOID
+0,[],,,3457,10/03/2017,invasive lobular carcinoma,DOID
+0,['10165'],,"A pancreatic cancer that is located_in the pancreatic islet cells. [url:http\://en.wikipedia.org/wiki/Islets_of_Langerhans, url:http\://en.wikipedia.org/wiki/Neuroendocrine_tumor]",1799,10/03/2017,islet cell tumor,DOID
+0,[],,A jejunal cancer that is located_in the jejunum and has_material_basis_in epithelial tissue that has glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],50926,10/03/2017,jejunal adenocarcinoma,DOID
+0,[],,,3079,10/03/2017,juvenile astrocytoma,DOID
+0,[],,,50458,10/03/2017,juvenile myelomonocytic leukemia,DOID
+0,[],,,6811,10/03/2017,juvenile pilocytic astrocytoma,DOID
+0,"['12776', '12770', '7239', '12767', '12778', '12766', '12777', '12771', '12762', '6480', '12761', '12772', '12768', '12764', '12775', '8631', '12774']",,"A connective tissue cancer that derives_from lymphatic endothelium, and derives_from spindle cells, results_in_formation_of vascular channels that fill with blood cells, has_material_basis_in Human herpesvirus 8 (HHV8). [url:http\://cancerres.aacrjournals.org/content/58/8/1599.full.pdf, url:http\://en.wikipedia.org/wiki/Kaposi%27s_sarcoma]",8632,10/03/2017,Kaposi's sarcoma,DOID
+0,[],,,3149,10/03/2017,keratoacanthoma,DOID
+0,"['3676', '11834']",,A urinary system cancer that is located_in the kidney. [url:http\://en.wikipedia.org/wiki/Kidney_cancer],263,10/03/2017,kidney cancer,DOID
+0,['7745'],,"A kidney sarcoma that has_material_basis_in clear cells that are characterized as cells that look clear when viewed under a microscope. [url:http\://en.wikipedia.org/wiki/Clear-cell_sarcoma_of_the_kidney, url:http\://www.cancer.gov/dictionary?CdrID=44997]",4880,10/03/2017,kidney clear cell sarcoma,DOID
+0,[],,A embryonal cancer that is located in the kidney. [url:http\://www.childrenshospital.org/az/Site1526/mainpageS1526P0.html],3674,10/03/2017,kidney rhabdoid cancer,DOID
+0,[],,,7402,10/03/2017,L-cell glucagon-like peptide producing tumor,DOID
+0,[],,,4870,10/03/2017,lacrimal gland adenoid cystic carcinoma,DOID
+0,[],,,50872,10/03/2017,large cell neuroendocrine carcinoma,DOID
+0,[],,,4869,10/03/2017,laryngeal adenoid cystic carcinoma,DOID
+0,[],,A larynx cancer that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],2600,10/03/2017,laryngeal carcinoma,DOID
+0,[],,A laryngeal carcinoma that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],2876,10/03/2017,laryngeal squamous cell carcinoma,DOID
+0,[],,A respiratory system cancer that is located_in the larynx. [url:http\://en.wikipedia.org/wiki/Larynx],2596,10/03/2017,larynx cancer,DOID
+0,[],,,3752,10/03/2017,larynx verrucous carcinoma,DOID
+0,[],,,5138,10/03/2017,leiomyomatosis,DOID
+0,[],,"A malignant smooth muscle cancer that can arise almost anywhere in the body, but is most common in the uterus, abdomen, or pelvis. [url:http\://www.cancer.gov/dictionary/?CdrID=46027]",1967,10/03/2017,leiomyosarcoma,DOID
+0,['9145'],,"A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells. [url:http\://en.wikipedia.org/wiki/Leukemia, url:http\://www.cancer.gov/dictionary?CdrID=45343]",1240,10/03/2017,leukemia,DOID
+0,"['3154', '9291']",,A cell type benign neoplasm that is composed of lipocytes. [url:http\://en.wikipedia.org/wiki/Benign_tumor],3315,10/03/2017,lipoma,DOID
+0,[],,A lipomatous cancer that arises in fat cells in deep soft tissue retroperitoneum. [url:http\://en.wikipedia.org/wiki/Liposarcoma],3382,10/03/2017,liposarcoma,DOID
+0,"['12300', '269', '919', '915', '7330']",,A gastrointestinal system cancer that is located_in the liver. [url:http\://en.wikipedia.org/wiki/Liver],3571,10/03/2017,liver cancer,DOID
+0,[],,"A liver cancer that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma, url:http\://en.wikipedia.org/wiki/Liver_cancer]",686,10/03/2017,liver carcinoma,DOID
+0,[],,,3010,10/03/2017,lobular neoplasia,DOID
+0,"['4826', '3909']",,"A non-small cell lung carcinoma that derives_from epithelial cells of glandular origin. [url:http\://cancergenome.nih.gov/cancersselected/lungadenocarcinoma, url:http\://en.wikipedia.org/wiki/Adenocarcinoma, url:http\://en.wikipedia.org/wiki/Adenocarcinoma_of_the_lung]",3910,10/03/2017,lung adenocarcinoma,DOID
+0,[],,,4872,10/03/2017,lung adenoid cystic carcinoma,DOID
+0,"['13075', '9881', '1322']",,A respiratory system cancer that is located_in the lung. [url:http\://en.wikipedia.org/wiki/Lung_cancer],1324,10/03/2017,lung cancer,DOID
+0,[],,A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis. [url:https\://merck.com/mmpe/sec05/ch062/ch062b.html],3905,10/03/2017,lung carcinoma,DOID
+0,[],,,4556,10/03/2017,lung large cell carcinoma,DOID
+0,[],,,5588,10/03/2017,lung papillary adenocarcinoma,DOID
+0,[],,A lung cancer that is located_in the lung and that arises from transformed cells of mesenchymal origin. [url:http\://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=26&abstractID=4315],2784,10/03/2017,lung sarcoma,DOID
+0,[],,A lung carcinoma that has_material_basis_in primitive-appearing cells that are smaller than normal cells. [url:http\://en.wikipedia.org/wiki/Small-cell_carcinoma],5409,10/03/2017,lung small cell carcinoma,DOID
+0,[],,"A non-small cell lung carcinoma that has_material_basis_in the squamous cell. [url:http\://cancergenome.nih.gov/cancersselected/lungsquamouscell, url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma, url:http\://en.wikipedia.org/wiki/Squamous_cell_carcinoma_of_the_lung, url:http\://www.cancer.gov/dictionary?CdrID=46595]",3907,10/03/2017,lung squamous cell carcinoma,DOID
+0,[],,"A lymph node cancer that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures of the lymph nodes. These structures are typically filled with a mucous-like material or contain abnormal fibrous membranes. [url:http\://www.cigna.com/healthwellness/hw/medical-topics/adenoid-cystic-carcinoma-nord1109, url:http\://www.oralcancerfoundation.org/facts/rare/ac/]",60219,10/03/2017,lymph node adenoid cystic carcinoma,DOID
+0,[],,An immune system cancer that is located_in the lymphatic system and is characterized by uncontrolled cellular proliferation of lymphoid tissue. [url:http\://en.wikipedia.org/wiki/Lymphatic_system],60073,10/03/2017,lymphatic system cancer,DOID
+0,[],,A leukemia that has_material_basis_in lymphoblasts (immature white blood cells). [url:http\://www.cancer.gov/dictionary?CdrID=616067],1037,10/03/2017,lymphoblastic leukemia,DOID
+0,[],,A lymphoma that has_material_basis_in immature malignant lymphocytes (lymphoblasts) committed to the B-cell or T-cell lineage and located_in primarily lymph nodes or located_in extranodal sites. [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=14.10d&code=C7055],80147,10/03/2017,lymphoblastic lymphoma,DOID
+0,[],,A carcinoma that is a malignant epithelial neoplasm densely infiltrated by lymphoid cells. [url:http\://www.najms.org/resources/PDF++375-376+Lymphoepithelioma+like+carcinoma.pdf],5660,10/03/2017,lymphoepithelioma-like carcinoma,DOID
+0,"['353', '1033']",,"A hematologic cancer that affects lymphocytes that reside in the lymphatic system and in blood-forming organs. [url:http\://en.wikipedia.org/wiki/Lymphoma, url:http\://www.lymphoma.org/site/pp.asp?c=bkLTKaOQLmK8E&b=6300161, url:http\://www.nlm.nih.gov/medlineplus/lymphoma.html]",60058,10/03/2017,lymphoma,DOID
+0,[],,A B-cell lymphocytic neoplasm characterized by an uncontrolled increase of B-cells. [url:http\://en.wikipedia.org/wiki/Lymphoplasmacytic_lymphoma],50747,10/03/2017,lymphoplasmacytic lymphoma,DOID
+0,[],,,5570,10/03/2017,malignant acrospiroma,DOID
+0,['0060107'],,"A malignant glioma that is derived from ependymal cells, a type of glial cell, located_in ventricle lining within the central part of the brain. [url:http\://www.cancer.org/Cancer/BrainCNSTumorsinAdults/DetailedGuide/brain-and-spinal-cord-tumors-in-adults-what-are-brain-spinal-tumors]",5074,10/03/2017,malignant ependymoma,DOID
+0,[],,,1907,10/03/2017,malignant fibroxanthoma,DOID
+0,[],,,2704,10/03/2017,malignant giant cell tumor of the tendon sheath,DOID
+0,['2627'],,A cell type cancer that has_material_basis_in glial cells and is located_in brain or located_in spine. [url:http\://en.wikipedia.org/wiki/Malignant_glioma],3070,10/03/2017,malignant glioma,DOID
+0,[],,,6086,10/03/2017,malignant leptomeningeal tumor,DOID
+0,"['6965', '4487', '7434']",,"A cell type cancer that has_material_basis_in mesothelial tissue. [url:http\://cancergenome.nih.gov/cancersselected/Mesothelioma, url:http\://en.wikipedia.org/wiki/Mesothelioma, url:http\://www.cancer.gov/dictionary?CdrID=44323, url:http\://www.merriam-webster.com/medlineplus/mesothelioma]",1790,10/03/2017,malignant mesothelioma,DOID
+0,[],,A malignant ovarian surface epithelial-stromal neoplasm that has_material_basis_in the surface epithelium of the ovary. [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.12d&ns=NCI_Thesaurus&code=C40026],4217,10/03/2017,malignant ovarian Brenner tumor,DOID
+0,[],,,5940,10/03/2017,malignant peripheral nerve sheath tumor,DOID
+0,['1663'],,,1660,10/03/2017,malignant pineal area germ cell neoplasm,DOID
+0,[],,A pleural cancer that has_material_basis_in mesothelium cells. [url:http\://en.wikipedia.org/wiki/Mesothelioma],7474,10/03/2017,malignant pleural mesothelioma,DOID
+0,[],,,50695,10/03/2017,malignant pleural solitary fibrous tumor,DOID
+0,[],,A melanoma that is most commonly located_in sun-exposed skin and results_in_formation_ of spindle-like shaped cells that have a high recurrence rate even with treatment. [url:http\://www.skincancer.org/ask-the-expert-what-is-spindle-cell-melanoma.html],3162,10/03/2017,malignant spindle cell melanoma,DOID
+0,[],,,7960,10/03/2017,malignant spiradenoma,DOID
+0,[],,,5569,10/03/2017,malignant syringoma,DOID
+0,[],,A non-Hodgkin lymphoma that has_material_basis_in mucosal tissue involved in antibody production. [url:http\://www.cancer.gov/dictionary?CdrID=45774],50909,10/03/2017,MALT lymphoma,DOID
+0,[],,A B-cell lymphocytic neoplasm due to CD5 positive antigen-naive pregerminal center B-cell within the mantle zone that surrounds normal germinal center follicles. [url:http\://en.wikipedia.org/wiki/Mantle_cell_lymphoma],50746,10/03/2017,mantle cell lymphoma,DOID
+0,[],,"A B-cell lymphoma that is characterized by initial formation in the marginal zones of lymph tissue. [url:http\://en.wikipedia.org/wiki/Marginal_zone_B-cell_lymphoma, url:http\://www.cancer.gov/dictionary?CdrID=562554]",50748,10/03/2017,marginal zone B-cell lymphoma,DOID
+0,[],,"A hematologic cancer that has_material_basis_in mast cells. [url:http\://en.wikipedia.org/wiki/Mastocytoma, url:http\://www.cancer.gov/dictionary?CdrID=410729]",3664,10/03/2017,mast cell neoplasm,DOID
+0,[],,A leukemia that results_in an overwhelming number of tissue mast cells located_in peripheral blood. [url:http\://medical-dictionary.thefreedictionary.com/mast+cell+leukemia],9254,10/03/2017,mast-cell leukemia,DOID
+0,[],,,350,10/03/2017,mastocytosis,DOID
+0,[],,,706,10/03/2017,mature B-cell neoplasm,DOID
+0,[],,"A non-Hodgkin lymphoma that has_material_basis_in mature T lymphocytes and natural killer cells. [url:http\://www.cancer.gov/dictionary?CdrID=393800, url:http\://www.cancer.gov/dictionary?CdrID=44062, url:http\://www.ncbi.nlm.nih.gov/pubmed/21919697]",50743,10/03/2017,mature T-cell and NK-cell lymphoma,DOID
+0,[],,,7198,10/03/2017,maxillary sinus adenoid cystic carcinoma,DOID
+0,"['4981', '168', '0060105', '3858']",,"An infratentorial cancer that is located_in the lower part of the brain and is a type of primitive neuroectodermal tumor. [url:http\://en.wikipedia.org/wiki/Medulloblastoma, url:http\://www.cancer.gov/dictionary?CdrID=45780]",50902,10/03/2017,medulloblastoma,DOID
+0,[],,,4790,10/03/2017,medulloepithelioma,DOID
+0,['9009'],,A leukemia that derives_from blood-forming tissue in which megakaryocytes proliferate in the bone marrow and circulate in the blood in large numbers. [url:http\://medical-dictionary.thefreedictionary.com/megakaryocytic+leukemia],8761,10/03/2017,megakaryocytic leukemia,DOID
+0,[],,"A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from melanocytes which are found in skin, the bowel and the eye. [url:http\://en.wikipedia.org/wiki/Melanoma, url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=22123420]",1909,10/03/2017,melanoma,DOID
+0,"['3554', '1137', '3567', '4750']",,A central nervous system cancer that are manifested in the central nervous system and arise from the arachnoid \cap\ cells of the arachnoid villi in the meninges. [url:http\://en.wikipedia.org/wiki/Meningioma],3565,10/03/2017,meningioma,DOID
+0,[],,,7212,10/03/2017,meningothelial meningioma,DOID
+0,[],,,3965,10/03/2017,Merkel cell carcinoma,DOID
+0,[],,,6522,10/03/2017,mixed cell uveal melanoma,DOID
+0,[],,,5076,10/03/2017,mixed glioma,DOID
+0,[],,,7912,10/03/2017,mixed oligodendroglioma-astrocytoma,DOID
+0,['4532'],,"An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, which produce mucin. [url:http\://coloncancer.about.com/od/typesofcancer/a/Mucinous_Tumor.htm, url:http\://medical-dictionary.thefreedictionary.com/mucinous+carcinoma]",3030,10/03/2017,mucinous adenocarcinoma,DOID
+0,[],,"A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue, with a capsulated structure and mucus-producing cells. [url:http\://www.wisegeek.com/what-is-a-mucinous-cystadenocarcinoma.htm]",3603,10/03/2017,mucinous cystadenocarcinoma,DOID
+0,[],,"A melanoma that has_material_basis_in melanocytes located_in mucosal membranes lining the respiratory, gastrointestinal and urogenital tract. [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC3466987/?report=classic]",50929,10/03/2017,mucosal melanoma,DOID
+0,[],,"A myeloid neoplasm that is located_in the plasma cells in bone marrow. [url:http\://en.wikipedia.org/wiki/Multiple_myeloma, url:http\://www.cancer.gov/dictionary?CdrID=411384]",9538,10/03/2017,multiple myeloma,DOID
+0,['0060124'],,An organ system cancer located_in the muscular and skeletal organs and characterized by uncontrolled cellular proliferation of the musculoskeletal organs. [url:http\://en.wikipedia.org/wiki/Musculoskeletal_system#Diseases_and_disorders],60100,10/03/2017,musculoskeletal system cancer,DOID
+0,['8737'],,,8691,10/03/2017,mycosis fungoides,DOID
+0,[],,"A bone marrow cancer that is characterized by under production of white blood cells, red blood cells and platelets. [url:http\://en.wikipedia.org/wiki/Myelodysplastic_syndrome, url:http\://www.cancer.gov/dictionary?CdrID=45266]",50908,10/03/2017,myelodysplastic syndrome,DOID
+0,['6470'],,"A myeloid neoplasm that results_in the overproduction of white blood cells. [url:http\://www.bloodjournal.org/content/114/5/937.long, url:http\://www.cancer.gov/cancertopics/pdq/treatment/mds-mpd/Patient/print]",4972,10/03/2017,myelodysplastic/myeloproliferative neoplasm,DOID
+0,['5737'],,A myeloid neoplasm that is located_in the bone marrow which results_in bone marrow being replaced by fibrous (scar) tissue. [url:http\://en.wikipedia.org/wiki/Myelofibrosis],4971,10/03/2017,myelofibrosis,DOID
+0,"['8879', '9066', '8910', '8878', '9126']",,A leukemia that is located_in myeloid tissue. [url:http\://en.wikipedia.org/wiki/Myeloid_leukemia],8692,10/03/2017,myeloid leukemia,DOID
+0,[],,"A bone marrow cancer that is formed of any one of the bone marrow cells \nbelonging to the granulocytic (neutrophil, eosinophil, basophil), monocytic/macrophage, erythroid, megakaryocytic and mast cell lineages.  [url:https\://www.ncbi.nlm.nih.gov/pubmed/?term=19357394]",70004,10/03/2017,myeloid neoplasm,DOID
+0,"['8682', '8848']",,,8683,10/03/2017,myeloid sarcoma,DOID
+0,['6002'],,"A myeloid neoplasm that is characterized by a group of slow growing blood cancers in which large numbers of abnormal red blood cells, white blood cells, or platelets grow and spread in the bone marrow and the peripheral blood. [url:http\://www.bloodjournal.org/content/114/5/937.long, url:http\://www.cancer.gov/cancertopics/types/myeloproliferative]",2226,10/03/2017,myeloproliferative neoplasm,DOID
+0,[],,A carcinoma that derives_from myoepithelial cells. [url:http\://www.diagnosticpathology.org/content/3/1/7],4838,10/03/2017,myoepithelial carcinoma,DOID
+0,[],,,5861,10/03/2017,myxoid chondrosarcoma,DOID
+0,[],,,5363,10/03/2017,myxoid liposarcoma,DOID
+0,[],,,4136,10/03/2017,myxosarcoma,DOID
+0,[],,A nasal cavity carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4930,10/03/2017,nasal cavity adenocarcinoma,DOID
+0,[],,A respiratory system cancer that is located_in the nasal cavity. [url:http\://en.wikipedia.org/wiki/Nasal_cavity],10811,10/03/2017,nasal cavity cancer,DOID
+0,[],,A nasal cavity cancer that_has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],4931,10/03/2017,nasal cavity carcinoma,DOID
+0,[],,A nasal cavity carcinoma that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],5515,10/03/2017,nasal cavity squamous cell carcinoma,DOID
+0,"['9229', '9144', '8813', '8814', '9057', '9197']",,"A pharynx cancer that is located_in the nasopharynx, the uppermost region of the pharynx or \throat\, where the nasal passages and auditory tubes join the remainder of the upper respiratory tract. [url:http\://en.wikipedia.org/wiki/Nasopharyngeal_carcinoma]",9261,10/03/2017,nasopharynx carcinoma,DOID
+0,[],,,1035,10/03/2017,natural killer cell leukemia,DOID
+0,[],,,7808,10/03/2017,necrotic uveal melanoma,DOID
+0,"['5180', '5177']",,A kidney cancer that affects the kidneys and typically located_in children. [url:http\://en.wikipedia.org/wiki/Wilms%27_tumor],2154,10/03/2017,nephroblastoma,DOID
+0,[],,,3192,10/03/2017,neurilemmoma,DOID
+0,[],,An autonomic nervous system neoplasm that derives_from immature nerve cells. [url:http\://www.cancer.gov/cancertopics/types/neuroblastoma],769,10/03/2017,neuroblastoma,DOID
+0,[],,A carcinoma that derives_from neuroendocrine cells. [url:http\://www.carcinomatype.com/what-is-neuroendocrine-carcinoma.html],1800,10/03/2017,neuroendocrine carcinoma,DOID
+0,[],,"An endocrine gland cancer that has_material_basis_in neuroendocrine cells. [url:http\://en.wikipedia.org/wiki/Neuroendocrine_cell, url:http\://en.wikipedia.org/wiki/Neuroendocrine_tumor, url:http\://www.cancer.gov/dictionary?CdrID=44904]",169,10/03/2017,neuroendocrine tumor,DOID
+0,[],,,962,10/03/2017,neurofibroma,DOID
+0,[],,,3512,10/03/2017,neurofibrosarcoma,DOID
+0,[],,,5193,10/03/2017,nodular ganglioneuroblastoma,DOID
+0,[],,,3873,10/03/2017,nodular medulloblastoma,DOID
+0,[],,"A lymphoma that is characterized as any kind of lymphoma except Hodgkin's lymphoma. [url:http\://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma, url:http\://www.cancer.gov/dictionary?CdrID=45148]",60060,10/03/2017,non-Hodgkin lymphoma,DOID
+0,[],,,6571,10/03/2017,non-invasive bladder urothelial carcinoma,DOID
+0,[],,A lung carcinoma that is characterized as any type of epithelial lung cancer other than small cell lung carcinoma. [url:http\://en.wikipedia.org/wiki/Non-small-cell_lung_carcinoma],3908,10/03/2017,non-small cell lung carcinoma,DOID
+0,[],,"A carcinoma that is characterized by a  BRD4-NUT translocation involving the rearrangement of the bromodomain-containing protein 4 (BRD4) and the gene encoding nuclear protein of the testis (NUT)  at 15q14, BRD4-NUT t(15;19)(q14;q13.1) and arises from midline epithelial structures, most commonly the head, neck, and mediastinum. [url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=21221870, url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=25685583, url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=26378054, url:http\://www.ncbi.nlm.nih.gov/pubmed/?term=26402248, url:https\://en.wikipedia.org/wiki/NUT_midline_carcinoma, url:https\://omim.org/entry/608749, url:https\://omim.org/entry/608963]",60463,10/03/2017,NUT midline carcinoma,DOID
+0,[],,An ocular cancer that has_material_basis_in melanocytes and is located_in the eye. [url:http\://www.cancer.gov/dictionary?CdrID=269467],1752,10/03/2017,ocular melanoma,DOID
+0,[],,,369,10/03/2017,olfactory neuroblastoma,DOID
+0,['3182'],,,3181,10/03/2017,oligodendroglioma,DOID
+0,[],,,4992,10/03/2017,optic nerve glioma,DOID
+0,"['9049', '9055', '8617', '0050627']",,A gastrointestinal system cancer that is located_in the oral cavity. [url:http\://en.wikipedia.org/wiki/Oral_cancer],8618,10/03/2017,oral cavity cancer,DOID
+0,[],,,50610,10/03/2017,oral cavity carcinoma in situ,DOID
+0,[],,An oral cavity cancer that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],50866,10/03/2017,oral squamous cell carcinoma,DOID
+0,['9984'],,"A bone cancer that is located_in the area behind the eye and derives_from the orbit or secondarily derives_from an adjacent source (eyelid, paranasal sinus, or intracranial compartment). It results_in the eye pushing forward causing a bulging of the eye called proptosis. [url:http\://eyecancer.com/Patient/Condition.aspx?nID=19&Category=Orbital+Tumors&Condition=General+Information+About+Orbital+Tumors]",4143,10/03/2017,orbital cancer,DOID
+0,"['9168', '8684', '8851', '8949']",,A pharynx cancer that is located_in the  oropharynx. [url:http\://www.cancer.gov/dictionary?CdrID=446523],8557,10/03/2017,oropharynx cancer,DOID
+0,['183'],,"A bone cancer that is located_in bone that has_material_basis_in cells of mesenchymal origin. [url:http\://en.wikipedia.org/wiki/Osteosarcoma, url:http\://www.cancer.gov/dictionary?cdrid=45395]",3347,10/03/2017,osteosarcoma,DOID
+0,"['2144', '0060070', '9595']",,A female reproductive organ cancer that is located_in the ovary. [url:http\://www.cancer.gov/dictionary?CdrID=445074],2394,10/03/2017,ovarian cancer,DOID
+0,[],,,4001,10/03/2017,ovarian carcinoma,DOID
+0,[],,,6170,10/03/2017,ovarian carcinosarcoma,DOID
+0,[],,,5304,10/03/2017,ovarian clear cell adenocarcinoma,DOID
+0,[],,An ovarian carcinoma that has_material_basis_in cells with clear cytoplasm and glycogen secreting hob nail cells. [url:http\://en.wikipedia.org/wiki/Clear-cell_ovarian_carcinoma],50934,10/03/2017,ovarian clear cell carcinoma,DOID
+0,[],,,7438,10/03/2017,ovarian clear cell cystadenocarcinoma,DOID
+0,['4116'],,An ovary epithelial cancer that has_material_basis_in the endometrium and is located_in the ovary. [url:http\://en.wikipedia.org/wiki/Endometrial_cancer],6212,10/03/2017,ovarian endometrial cancer,DOID
+0,[],,An ovarian cancer that originates in the germ (egg) cells of the ovary. [url:http\://www.cancer.gov/cancertopics/pdq/treatment/ovarian-germ-cell/Patient],2156,10/03/2017,ovarian germ cell cancer,DOID
+0,[],,,3606,10/03/2017,ovarian mucinous adenocarcinoma,DOID
+0,[],,,3604,10/03/2017,ovarian mucinous cystadenocarcinoma,DOID
+0,['3712'],,,6067,10/03/2017,ovarian mucinous neoplasm,DOID
+0,[],,An ovarian carcinoma that has_material_basis_in the lining of the ovary and produces a serum-like fluid. [url:http\://en.wikipedia.org/wiki/Serous_carcinoma],50933,10/03/2017,ovarian serous carcinoma,DOID
+0,[],,"An ovary serous adenocarcinoma that has_material_basis_in glandular epithelium, in which cystic accumulations of retained secretions are formed. [url:http\://cancergenome.nih.gov/cancersselected/ovarian, url:http\://en.wikipedia.org/wiki/Serous_cystadenocarcinoma]",5746,10/03/2017,ovarian serous cystadenocarcinoma,DOID
+0,[],,,5531,10/03/2017,ovarian squamous cell carcinoma,DOID
+0,['7816'],,An ovarian carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],3713,10/03/2017,ovary adenocarcinoma,DOID
+0,[],,"An ovarian cancer that is derives_from ovarian surface epithelium. [url:http\://en.wikipedia.org/wiki/Ovarian_cancer, url:http\://en.wikipedia.org/wiki/Surface_epithelial-stromal_tumor]",2152,10/03/2017,ovary epithelial cancer,DOID
+0,['5745'],,"An ovary adenocarcinoma that derives_from the lining of a cavity that produces a serum-like fluid (a serous cavity). [url:http\://en.wikipedia.org/wiki/Adenocarcinoma, url:http\://en.wikipedia.org/wiki/Serous_carcinoma]",5744,10/03/2017,ovary serous adenocarcinoma,DOID
+0,[],,"A pancreatic adenocarcinoma that has_material_basis_in cells with morphological resemblance to acinar cells and is associated with increased serum lipase. [url:http\://en.wikipedia.org/wiki/Acinar_cell_carcinoma_of_the_pancreas, url:http\://www.pathologyoutlines.com/topic/pancreasacinar.html]",5742,10/03/2017,pancreatic acinar cell adenocarcinoma,DOID
+0,[],,A pancreatic carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4074,10/03/2017,pancreatic adenocarcinoma,DOID
+0,"['14356', '1797', '9859', '3588']",,An endocrine gland cancer located_in the pancreas. [url:http\://en.wikipedia.org/wiki/Pancreatic],1793,10/03/2017,pancreatic cancer,DOID
+0,[],,"A pancreas cancer that derives_from epithelial cells located_in the pancreas. [url:http\://en.wikipedia.org/wiki/Carcinoma, url:http\://www.cancer.gov/cancertopics/types/pancreatic]",4905,10/03/2017,pancreatic carcinoma,DOID
+0,[],,"A pancreatic adenocarcinoma that derives_from pancreatic duct cells. [url:http\://cancergenome.nih.gov/cancersselected/PancreaticDuctalAdenocarcinoma, url:http\://en.wikipedia.org/wiki/Pancreatic_cancer]",3498,10/03/2017,pancreatic ductal adenocarcinoma,DOID
+0,['10023'],,"A pancreatic carcinoma located_in the pancreatic duct. [url:http\://en.wikipedia.org/wiki/Pancreatic_cancer, url:http\://en.wikipedia.org/wiki/Pancreatic_duct]",3587,10/03/2017,pancreatic ductal carcinoma,DOID
+0,[],,An islet cell tumor that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],1798,10/03/2017,pancreatic endocrine carcinoma,DOID
+0,[],,,3847,10/03/2017,papillary craniopharyngioma,DOID
+0,['8063'],,"A renal cell carcinoma that is characterized by the development of multiple, bilateral papillary renal tumors. [url:http\://cancergenome.nih.gov/cancersselected/kidneypapillary, url:http\://www.omim.org/entry/605074, URL:http\://www.omnimedicalsearch.com/conditions-disease/renal-cell-carcinoma-overview-types.html]",4465,10/03/2017,papillary renal cell carcinoma,DOID
+0,[],,"A thyroid carcinoma that is characterized by the small mushroom shape of the tumor which has a stem attached to the epithelial layer. [url:http\://cancergenome.nih.gov/cancersselected/thyroid, url:http\://en.wikipedia.org/wiki/Papillary_thyroid_cancer, url:http\://www.ncbi.nlm.nih.gov/pubmed/21455196]",3969,10/03/2017,papillary thyroid carcinoma,DOID
+0,['1635'],,A cell type benign neoplam that is composed_of epithelial tissue on papillae of vascularized connective tissue. [url:http\://www.merriam-webster.com/medlineplus/papilloma],2615,10/03/2017,papilloma,DOID
+0,[],,,50773,10/03/2017,paraganglioma,DOID
+0,"['2442', '2767', '4689', '1354', '2765']",,A respiratory system cancer that is located_in the paranasal sinuses. [url:http\://www.cancer.gov/cancertopics/pdq/treatment/paranasalsinus/Patient/page1],50619,10/03/2017,paranasal sinus cancer,DOID
+0,"['11006', '1541']",,An endocrine gland cancer located_in the parathyroid glands located in the neck. [url:http\://en.wikipedia.org/wiki/Parathyroid_gland],1540,10/03/2017,parathyroid carcinoma,DOID
+0,[],,"A parotid gland cancer that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures within the affected organ. [url:http\://en.wikipedia.org/wiki/Adenoid_cystic_carcinoma, url:http\://en.wikipedia.org/wiki/Parotid_gland]",50931,10/03/2017,parotid gland adenoid cystic carcinoma,DOID
+0,[],,A salivary gland cancer that is located_in the parotid gland. [url:http\://en.wikipedia.org/wiki/Parotid_gland],9036,10/03/2017,parotid gland cancer,DOID
+0,[],,,5509,10/03/2017,pediatric ependymoma,DOID
+0,[],,"“An abnormal mass of tissue in children that usually does not contain cysts or liquid areas. Different types of solid tumors are named for the type of cells that form them. Examples of solid tumors are sarcomas, carcinomas, and lymphomas).” [url:http://www.cancer.gov/dictionary?cdrid=45301]",10000004,,Pediatric Solid Tumors,JAX
+0,['11614'],,,11615,10/03/2017,penile cancer,DOID
+0,['8008'],,A penis carcinoma that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],5518,10/03/2017,penis squamous cell carcinoma,DOID
+0,[],,A peripheral nervous system neoplasm that is located_in the connective tissue surrounding nerves. [url:http\://en.wikipedia.org/wiki/Malignant_peripheral_nerve_sheath_tumor],3193,10/03/2017,peripheral nerve sheath neoplasm,DOID
+0,[],,A mature T-cell and NK-cell lymphoma includes a group of T-cell lymphomas that develop away from the thymus. [url:http\://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma],50749,10/03/2017,peripheral T-cell lymphoma,DOID
+0,[],,A carcinoma that is located_in the inside of the abdomen. [url:http\://www.cancerhelp.org.uk/about-cancer/cancer-questions/primary-peritoneal-carcinoma],1791,10/03/2017,peritoneal carcinoma,DOID
+0,"['0050874', '7954']",,A peritoneum cancer that develops from cells of the mesothelium and is located_in the peritoneum. [url:http\://en.wikipedia.org/wiki/Mesothelioma],1788,10/03/2017,peritoneal mesothelioma,DOID
+0,[],,,4901,10/03/2017,peritoneal serous adenocarcinoma,DOID
+0,[],,An organ system cancer that is located in the peritoneum. [url:http\://en.wikipedia.org/wiki/Peritoneal_cancer],1725,10/03/2017,peritoneum cancer,DOID
+0,[],,,2643,10/03/2017,perivascular epithelioid cell tumor,DOID
+0,[],,A pharynx cancer that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],50921,10/03/2017,pharynx squamous cell carcinoma,DOID
+0,[],,"An astrocytoma that is characterized by cells that look like fibers when viewed under a microscope and is located_in the brain. [url:http\://en.wikipedia.org/wiki/Pilocytic_astrocytoma, url:http\://www.cancer.gov/dictionary?CdrID=44341]",4851,10/03/2017,pilocytic astrocytoma,DOID
+0,[],,,4845,10/03/2017,pilomyxoid astrocytoma,DOID
+0,"['4859', '1662']",,An endocrine gland located_in the pineal gland located in the brain. [url:http\://en.wikipedia.org/wiki/Pineal_gland],5032,10/03/2017,pineal gland cancer,DOID
+0,[],,"A pineal gland neoplasm located_in the brain. [url:http\://en.wikipedia.org/wiki/Pinealoblastoma, url:http\://www.answers.com/topic/pineoblastoma]",1664,10/03/2017,pineoblastoma,DOID
+0,['5671'],,An endocrine gland cancer located_in the pituitary gland located at the base of the brain. [url:http\://en.wikipedia.org/wiki/Pituitary_gland],1785,10/03/2017,pituitary cancer,DOID
+0,[],,,4916,10/03/2017,pituitary carcinoma,DOID
+0,[],,,2024,10/03/2017,placental choriocarcinoma,DOID
+0,[],,,3596,10/03/2017,placental site trophoblastic tumor,DOID
+0,[],,,6536,10/03/2017,plasma cell neoplasm,DOID
+0,[],,,3721,10/03/2017,plasmacytoma,DOID
+0,[],,,5702,10/03/2017,pleomorphic liposarcoma,DOID
+0,[],,,3250,10/03/2017,pleomorphic rhabdomyosarcoma,DOID
+0,[],,,4852,10/03/2017,pleomorphic xanthoastrocytoma,DOID
+0,[],,,5151,10/03/2017,plexiform neurofibroma,DOID
+0,['6746'],,,6566,10/03/2017,posterior uveal melanoma,DOID
+0,[],,,7230,10/03/2017,postgerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma,DOID
+0,[],,,7061,10/03/2017,precursor B lymphoblastic lymphoma/leukemia,DOID
+0,[],,A lymphoblastic leukemia that has_material_basis_in immature malignant lymphocytes (lymphoblasts) committed to the B-cell or T-cell lineage and located_in bone marrow and located_in peripheral blood. [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=14.10d&code=C7055],5600,10/03/2017,precursor lymphoblastic lymphoma/leukemia,DOID
+0,[],,,5599,10/03/2017,precursor T-lymphoblastic lymphoma/leukemia,DOID
+0,[],,,7936,10/03/2017,precursor T-lymphoblastic lymphoma/leukemia refractory,DOID
+0,[],,,8144,10/03/2017,pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma,DOID
+0,[],,,60077,10/03/2017,progesterone-receptor positive breast cancer,DOID
+0,[],,,5394,10/03/2017,prolactinoma,DOID
+0,[],,,1039,10/03/2017,prolymphocytic leukemia,DOID
+0,[],,"A prostate carcinoma that derives_from epithelial cells of glandular origin. [url:http\://cancergenome.nih.gov/cancersselected/prostatecancer, url:http\://en.wikipedia.org/wiki/Adenocarcinoma, url:http\://en.wikipedia.org/wiki/Prostate_cancer]",2526,10/03/2017,prostate adenocarcinoma,DOID
+0,[],,,4868,10/03/2017,prostate adenoid cystic carcinoma,DOID
+0,['514'],,A male reproductive organ cancer that is located_in the prostate. [url:http\://www.cancer.gov/dictionary?CdrID=445079],10283,10/03/2017,prostate cancer,DOID
+0,[],,A prostate cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],10286,10/03/2017,prostate carcinoma,DOID
+0,[],,,2992,10/03/2017,prostate neuroendocrine neoplasm,DOID
+0,[],,,4011,10/03/2017,prostate transitional cell carcinoma,DOID
+0,[],,,6166,10/03/2017,prostatic urethra urothelial carcinoma,DOID
+0,[],,"An appendix cancer that is characterized by progressive accumulation of mucus-secreting tumor cells within the abdomen and pelvis. [url:http\://en.wikipedia.org/wiki/Pseudomyxoma_peritonei, url:http\://www.cancer.gov/dictionary?CdrID=44256, url:http\://www.ncbi.nlm.nih.gov/pubmed/14567019, url:http\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/843/viewAbstract]",3559,10/03/2017,pseudomyxoma peritonei,DOID
+0,['5721'],,,6658,10/03/2017,pulmonary large cell neuroendocrine carcinoma,DOID
+0,[],,,5410,10/03/2017,pulmonary neuroendocrine tumor,DOID
+0,[],,,1984,10/03/2017,rectal neoplasm,DOID
+0,[],,A rectum cancer that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],1996,10/03/2017,rectum adenocarcinoma,DOID
+0,['1989'],,A colorectal cancer that is located_in the rectum. [url:http\://www.cancer.gov/dictionary?CdrID=529764],1993,10/03/2017,rectum cancer,DOID
+0,[],,"A hematologic cancer that is located_in the blood or bone marrow that doesn't respond to treatment. [url:http\://www.cancer.gov/dictionary/?CdrID=45708, url:http\://www.cancer.gov/templates/db_alpha.aspx?CdrID=45863]",712,10/03/2017,refractory hematologic cancer,DOID
+0,[],,A kidney cancer that derives_from the lining of the proximal convoluted tubule (the very small tubes in the kidney that filter the blood and remove waste products). [url:http\://en.wikipedia.org/wiki/Renal_cell_carcinoma],4451,10/03/2017,renal carcinoma,DOID
+0,[],,"A renal carcinoma that has_material_basis_in the lining of the proximal convoluted renal tubule of the kidney. [url:http\://en.wikipedia.org/wiki/Renal_cell_carcinoma, url:http\://www.cancer.gov/dictionary?CdrID=661352]",4450,10/03/2017,renal cell carcinoma,DOID
+0,[],,"A renal cell carcinoma that has_material_basis_in cells that appear very pale or clear when examined under microscope. [url:http\://cancergenome.nih.gov/cancersselected/kidneyclearcell, url:http\://www.cancer.gov/dictionary?CdrID=45063, URL:http\://www.omnimedicalsearch.com/conditions-disease/renal-cell-carcinoma-overview-types.html]",4467,10/03/2017,renal clear cell carcinoma,DOID
+0,['12343'],,,4919,10/03/2017,renal pelvis carcinoma,DOID
+0,[],,,5974,10/03/2017,renal pelvis transitional cell carcinoma,DOID
+0,[],,,5176,10/03/2017,renal Wilms' tumor,DOID
+0,[],,A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina. [url:http\://www.cancer.gov/cancertopics/types/retinoblastoma],768,10/03/2017,retinoblastoma,DOID
+0,[],,"A childhood kidney neoplasm that is located_in the in the kidney as well as other locations outside the kidneys such as the liver, muscle, heart, lung, soft tissues, skin, the central nervous system. [url:http\://www.cancer.iu.edu/renaltumors/rhabdoid/facts/]",3672,10/03/2017,rhabdoid cancer,DOID
+0,[],,A skeletal muscle cancer that arise from skeletal muscle progenitors. [url:http\://en.wikipedia.org/wiki/Rhabdomyosarcoma],3247,10/03/2017,rhabdomyosarcoma,DOID
+0,[],,A salivary gland carcinoma that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures within the affected organ. These structures are typically filled with a mucous-like material or contain abnormal fibrous membranes. [url:http\://www.cigna.com/healthinfo/nord1109.html],4866,10/03/2017,salivary gland adenoid cystic carcinoma,DOID
+0,"['9148', '8873']",,An oral cavity cancer that is located_in the salivary gland. [url:http\://www.cancer.gov/dictionary?CdrID=446528],8850,10/03/2017,salivary gland cancer,DOID
+0,[],,"A salivary gland cancer that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Salivary_gland_neoplasm, url:http\://www.cancer.gov/dictionary?CdrID=45963]",50904,10/03/2017,salivary gland carcinoma,DOID
+0,['3936'],,"A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from embryonic mesoderm. [url:http\://cancergenome.nih.gov/cancersselected/Sarcoma, url:http\://en.wikipedia.org/wiki/Sarcoma, url:http\://www.cancer.gov/dictionary?CdrID=45562]",1115,10/03/2017,sarcoma,DOID
+0,[],,,7958,10/03/2017,sarcomatoid penile squamous cell carcinoma,DOID
+0,[],,,4473,10/03/2017,sarcomatoid renal cell carcinoma,DOID
+0,[],,,13159,10/03/2017,scrotum squamous cell carcinoma,DOID
+0,[],,,4840,10/03/2017,sebaceous carcinoma,DOID
+0,[],,A male reproductive organ cancer that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],14545,10/03/2017,seminal vesicle adenocarcinoma,DOID
+0,[],,A germinoma that has_material_basis_in cells that make sperm and eggs. [url:http\://www.cancer.gov/dictionary?CdrID=46577],4440,10/03/2017,seminoma,DOID
+0,[],,A cystadenocarcinoma that derives_from epithelial cells originating in glandular tissue forming serous lesions. [url:http\://ukpmc.ac.uk/abstract/MED/16025006],3114,10/03/2017,serous cystadenocarcinoma,DOID
+0,['12293'],,A reproductive organ cancer that is located_in the sex cord-derived tissues of the ovary and testis. [url:http\://en.wikipedia.org/wiki/Sex_cord-gonadal_stromal_tumour],192,10/03/2017,sex cord-gonadal stromal tumor,DOID
+0,[],,,4757,10/03/2017,sex cord-stromal neoplasm,DOID
+0,['8790'],,,8541,10/03/2017,Sezary's disease,DOID
+0,[],,,4304,10/03/2017,signet ring basal cell carcinoma,DOID
+0,[],,An angiosarcoma and hemangioma of skin and malignant skin vascular tumor and sarcoma of skin that is located_in the skin and results_in an enlarged bruise (a blue-black nodule) and an unhealed ulceration. [url:http\://ezinearticles.com/?Symptoms-of-Angiosarcoma&id=2101634],4517,10/03/2017,skin angiosarcoma,DOID
+0,[],,An integumentary system cancer located_in the skin that is the uncontrolled growth of abnormal skin cells. [url:http\://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0002414/],4159,10/03/2017,skin cancer,DOID
+0,[],,A skin cancer that is located_in tissues of the skin and develops from epithelial cells. [url:http\://www.cancer.gov/cancertopics/types/skin],3451,10/03/2017,skin carcinoma,DOID
+0,"['10043', '10051', '0050609', '10046', '10052', '10055', '8922']",,"A skin cancer that has_material_basis_in melanocytes. [url:http\://cancergenome.nih.gov/cancersselected/melanoma, url:http\://en.wikipedia.org/wiki/Melanoma, url:http\://www.cancer.gov/dictionary?CdrID=45135]",8923,10/03/2017,skin melanoma,DOID
+0,[],,A skin carcinoma that has_material_basis_in squamous cells. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma],3151,10/03/2017,skin squamous cell carcinoma,DOID
+0,['7137'],,A carcinoma that is an undifferentiated neoplasm composed of primitive-appearing cells. [url:http\://en.wikipedia.org/wiki/Small_cell_carcinoma],50685,10/03/2017,small cell carcinoma,DOID
+0,[],,,50875,10/03/2017,small cell neuroendocrine carcinoma,DOID
+0,[],,A small intestine carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4906,10/03/2017,small intestine adenocarcinoma,DOID
+0,[],,A small intestine cancer that has_material_basis_in cells of the neuroendocrine system. [url:http\://en.wikipedia.org/wiki/Carcinoid],50925,10/03/2017,small intestine carcinoid neuroendocrine tumor,DOID
+0,[],,A small intestine cancer that develops from epithelial cells and is located_in the small intestine. [url:http\://en.wikipedia.org/wiki/Small_intestine_cancer],4907,10/03/2017,small intestine carcinoma,DOID
+0,[],,A multiple myeloma that is a slow growing type of myeloma in which abnormal plasma cells results_in too much of a single type of monoclonal antibody. [url:http\://www.cancer.gov/dictionary/?CdrID=413932],9551,10/03/2017,smoldering myeloma,DOID
+0,[],,,4430,10/03/2017,somatostatinoma,DOID
+0,[],,A spinal cord glioma that has_material_basis_in cells linking the spinal cord central canal. [url:http\://www.cancer.gov/dictionary?CdrID=46432],5503,10/03/2017,spinal cord ependymoma,DOID
+0,[],,A spinal cancer that is located_in the spinal cord and has_material_basis_in glial cells. [url:http\://www.cancer.gov/dictionary?CdrID=45700],3185,10/03/2017,spinal cord glioma,DOID
+0,[],,A squamous cell carcinoma that is usually composed of the squamous cell type and results in fusiform development of rapidly proliferating cells. [url:http\://medical-dictionary.thefreedictionary.com/spindle+cell+carcinoma],4015,10/03/2017,spindle cell carcinoma,DOID
+0,[],,A sarcoma that results_in cells that are spindle-shaped. They are usually resistant to radiation therapy. [url:http\://medical-dictionary.thefreedictionary.com/spindle+cell+sarcoma],4235,10/03/2017,spindle cell sarcoma,DOID
+0,[],,A marginal zone B-cell lymphocyte located_in the spleen comprised of B-cells in place of white pulp. [url:http\://en.wikipedia.org/wiki/Splenic_marginal_zone_lymphoma],50750,10/03/2017,splenic marginal zone lymphoma,DOID
+0,['5512'],,"A carcinoma that derives_from squamous epithelial cells. [url:http\://en.wikipedia.org/wiki/Squamous_cell_carcinoma, url:http\://www.medicinenet.com/skin_cancer/page2.htm]",1749,10/03/2017,squamous cell carcinoma,DOID
+0,"['4713', '10542', '10543', '10539']",,"A gastrointestinal system cancer that is located_in the stomach. [url:http\://cancergenome.nih.gov/cancersselected/stomach-esophagealcancer, url:http\://en.wikipedia.org/wiki/Stomach]",10534,10/03/2017,stomach cancer,DOID
+0,[],,A stomach cancer that is located_in the stomach. [url:http\://en.wikipedia.org/wiki/Stomach_cancer],5517,10/03/2017,stomach carcinoma,DOID
+0,"['8746', '8993']",,,8747,10/03/2017,subacute myeloid leukemia,DOID
+0,[],,A sublingual gland cancer that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures within the affected organ. [url:http\://en.wikipedia.org/wiki/Adenoid_cystic_carcinoma],50930,10/03/2017,sublingual gland adenoid cystic carcinoma,DOID
+0,[],,A carcinoma of bladder that originates in the epithelial cells (the internal lining) of the bladder wall and is limited to this area. [url:http\://www.malecare.com/new_page_91.htm],7371,10/03/2017,superficial urinary bladder cancer,DOID
+0,[],,,4791,10/03/2017,supratentorial primitive neuroectodermal tumor,DOID
+0,[],,,2095,10/03/2017,sweat gland cancer,DOID
+0,[],,,5667,10/03/2017,sweat gland carcinoma,DOID
+0,[],,"A synovium cancer which develops in the synovial membrane of the joints. [url:http\://en.wikipedia.org/wiki/Synovial_sarcoma, url:http\://www.cancer.gov/dictionary?cdrid=44626]",5485,10/03/2017,synovial sarcoma,DOID
+0,[],,,5602,10/03/2017,T-cell adult acute lymphocytic leukemia,DOID
+0,[],,,715,10/03/2017,T-cell leukemia,DOID
+0,[],,,7089,10/03/2017,tall cell variant papillary carcinoma,DOID
+0,[],,,314,10/03/2017,tenosynovial giant cell tumor,DOID
+0,[],,A germ cell and embryonal cancer that is an encapsulated tumor with tissue or organ components resembling normal derivatives of all three germ layers. [url:http\://en.wikipedia.org/wiki/Teratoma],3307,10/03/2017,teratoma,DOID
+0,"['5554', '12231']",,A male reproductive system cancer that is located_in the testicles. [url:http\://www.cancer.gov/dictionary?CdrID=445090],2998,10/03/2017,testicular cancer,DOID
+0,[],,,12253,10/03/2017,testicular lymphoma,DOID
+0,[],,,5345,10/03/2017,testicular non-seminomatous germ cell cancer,DOID
+0,[],,"A thymus cancer that derives_from epithelial cells. The tumor cells in a thymic carcinoma look very different from the normal cells of the thymus, grow more quickly, and have usually spread to other parts of the body when the cancer is found. [url:http\://www.cancer.gov/cancertopics/pdq/treatment/thymoma/patient/page1]",3284,10/03/2017,thymic carcinoma,DOID
+0,[],,"A thymus cancer that derives_from epithelial cells located_in the thymus. The tumor cells in a thymoma look similar to the normal cells of the thymus, grow slowly, and rarely spread beyond the thymus. [url:http\://cancergenome.nih.gov/cancersselected/Thymoma, url:http\://en.wikipedia.org/wiki/Thymoma, url:http\://www.cancer.gov/cancertopics/pdq/treatment/thymoma/patient/page1]",3275,10/03/2017,thymoma,DOID
+0,['10143'],,An immune system cancer located_in the thymus. [url:http\://en.wikipedia.org/wiki/Thymus],3277,10/03/2017,thymus cancer,DOID
+0,['10008'],,An endocrine gland cancer located_in the thryoid gland located in the neck below the thyroid cartilage. [url:http\://en.wikipedia.org/wiki/Thyroid_gland],1781,10/03/2017,thyroid cancer,DOID
+0,[],,A thyroid cancer that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],3963,10/03/2017,thyroid carcinoma,DOID
+0,[],,,8161,10/03/2017,thyroid Hurthle cell carcinoma,DOID
+0,[],,A follicular thyroid carcinoma that has_material_basis_in parafollicular cells. [url:http\://en.wikipedia.org/wiki/Medullary_thyroid_cancer],3973,10/03/2017,thyroid medullary carcinoma,DOID
+0,[],,A head and neck squamous cell carcinoma that is located_in the tongue. [url:http\://en.wikipedia.org/wiki/Squamous_cell_carcinoma],50865,10/03/2017,tongue squamous cell carcinoma,DOID
+0,[],,,4875,10/03/2017,trachea adenoid cystic carcinoma,DOID
+0,[],,A tracheal cancer that effects the airway that leads from the larynx to the bronchi. [url:http\://nci.nih.gov/dictionary/?CdrID=46623],4876,10/03/2017,trachea carcinoma,DOID
+0,['3995'],,A carcinoma that derives_from transitional epithelial cells. [url:http\://en.wikipedia.org/wiki/Transitional_cell_carcinoma],2671,10/03/2017,transitional cell carcinoma,DOID
+0,[],,,60081,10/03/2017,triple-receptor negative breast cancer,DOID
+0,[],,A germ cell and embryonal cancer that derives_from trophoblastic tissue. [url:http\://en.wikipedia.org/wiki/Trophoblastic_neoplasm],4085,10/03/2017,trophoblastic neoplasm,DOID
+0,[],,An ureter carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4938,10/03/2017,ureter adenocarcinoma,DOID
+0,[],,A urinary system cancer that is located_in the ureter. [url:http\://en.wikipedia.org/wiki/Ureter_cancer],11819,10/03/2017,ureter cancer,DOID
+0,[],,An ureter cancer that is located_in the ureter. [url:http\://www.mayoclinic.org/ureter-cancer/],4939,10/03/2017,ureter carcinoma,DOID
+0,[],,,5539,10/03/2017,ureter squamous cell carcinoma,DOID
+0,[],,,6888,10/03/2017,ureter transitional cell carcinoma,DOID
+0,[],,An urethra cancer that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],4910,10/03/2017,urethra adenocarcinoma,DOID
+0,['737'],,An urinary tract cancer that derives_from the tissues of the urethra. [url:http\://www.cancer.gov/cancertopics/pdq/treatment/urethral/Patient],734,10/03/2017,urethra cancer,DOID
+0,[],,A cancer of urethra that shows squamous cell differentiation. [url:http\://en.wikipedia.org/wiki/Squamous_cell_carcinoma],3750,10/03/2017,urethra squamous cell carcinoma,DOID
+0,[],,An urethra cancer that is characterized by cancer cells forming in the renal pelvis and ureter. [url:http\://cancer.emedtv.com/transitional-cell-carcinoma-%28of-the-ureter-and-renal-pelvis%29/transitional-cell-carcinoma-%28of-the-ureter-and-renal-pelvis%29.html],4013,10/03/2017,urethra transitional cell carcinoma,DOID
+0,['5428'],,An urinary system cancer that results_in malignant growth located_in the urinary bladder. [url:http\://en.wikipedia.org/wiki/Bladder_cancer],11054,10/03/2017,urinary bladder cancer,DOID
+0,[],,"An organ system cancer that is located_in the kidneys, ureteres, bladder or urethra. [url:http\://en.wikipedia.org/wiki/Urinary_system]",3996,10/03/2017,urinary system cancer,DOID
+0,['4363'],,A female reproductive organ cancer that is located_in the uterus. [url:http\://www.cancer.gov/dictionary?CdrID=445094],363,10/03/2017,uterine cancer,DOID
+0,[],,"A uterine body mixed cancer that has_material_basis_in both endometrial carcinoma and sarcoma. [url:http\://cancergenome.nih.gov/cancersselected/UterineCarcinosarcoma, url:http\://en.wikipedia.org/wiki/Carcinosarcoma]",6171,10/03/2017,uterine carcinosarcoma,DOID
+0,[],,An uterine corpus cancer that is located_in the muscles of the uterus or located_in other tissues that support the uterus. [url:http\://www.cancer.gov/cancertopics/pdq/treatment/uterinesarcoma/Patient],5165,10/03/2017,uterine corpus sarcoma,DOID
+0,[],,"A uterine corpus cancer that is characterized histologically by papillae with fibrovascular cores,  marked nuclear atypia, psammoma bodies and cilia. [url:http\://en.wikipedia.org/wiki/Uterine_serous_carcinoma]",5750,10/03/2017,uterine corpus serous adenocarcinoma,DOID
+0,[],,"A uterine benign neoplasm derived from the smooth muscle layer of the uterus. [url:http\://en.wikipedia.org/wiki/Uterine_fibroid, url:http\://www.nlm.nih.gov/medlineplus/uterinefibroids.html]",13223,10/03/2017,uterine fibroid,DOID
+0,[],,A uterine Corpus sarcoma and leiomyosarcoma and uterine Corpus smooth muscle neoplasm that is located_in the smooth muscle of the uterus. [url:http\://en.wikipedia.org/wiki/Leiomyosarcoma],5289,10/03/2017,uterus leiomyosarcoma,DOID
+0,[],,"A uveal cancer that has_material_basis_in uvea pigment cells. [url:http\://cancergenome.nih.gov/cancersselected/UvealMelanoma, url:http\://en.wikipedia.org/wiki/Uveal_melanoma]",6039,10/03/2017,uveal melanoma,DOID
+0,['1902'],,A female reproductive system cancer that is located_in the vagina. [url:http\://www.cancer.gov/dictionary?CdrID=523460],119,10/03/2017,vaginal cancer,DOID
+0,[],,A vaginal cancer that has_material_basis_in epithelial cells. [url:http\://en.wikipedia.org/wiki/Carcinoma],50918,10/03/2017,vaginal carcinoma,DOID
+0,[],,,138,10/03/2017,vaginal squamous tumor,DOID
+0,"['5548', '7020', '7019', '5454', '7392', '3339']",,A cardiovascular cancer that is located_in blood vessels. [url:http\://en.wikipedia.org/wiki/Vascular],175,10/03/2017,vascular cancer,DOID
+0,[],,,5574,10/03/2017,VIPoma,DOID
+0,[],,A vulva carcinoma that derives_from epithelial cells of glandular origin. [url:http\://en.wikipedia.org/wiki/Adenocarcinoma],2098,10/03/2017,vulva adenocarcinoma,DOID
+0,['1282'],,,1245,10/03/2017,vulva cancer,DOID
+0,[],,A vulva cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells. [url:http\://www.cancer.gov/cancertopics/types/vulvar],1294,10/03/2017,vulva carcinoma,DOID
+0,[],,"A vulva carcinoma and has_material_basis_in squamous cells and is located_in the epidermis of the vulvar tissue. [url:http\://en.wikipedia.org/wiki/Squamous-cell_carcinoma, url:http\://en.wikipedia.org/wiki/Vulvar_cancer#Squamous_cell_carcinoma]",2101,10/03/2017,vulva squamous cell carcinoma,DOID
+0,[],,,2093,10/03/2017,vulvar melanoma,DOID
+0,[],,,2072,10/03/2017,vulvar squamous tumor,DOID
+0,[],,"A lymphoplasmacytic lymphoma characterized by the accumulation of monoclonal cells in the bone marrow and peripheral lymphoid tissues, and associated with the production of serum immunoglobulin M (IgM) monoclonal protein. [http://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&data_id=10313, https://www.ncbi.nlm.nih.gov/pubmed/10632755]",60901,10/03/2017,Waldenstroem's macroglobulinemia,DOID

@@ -1,0 +1,260 @@
+id,drugClass
+1,ABL Inhibitor (pan)
+2,ABL1 Inhibitor
+3,ABL2 Inhibitor
+4,Akt Inhibitor (Pan)
+5,AKT Inhibitor (Pan) – ATP competitive
+6,Akt1 Inhibitor
+7,Akt2 Inhibitor
+8,Akt3 Inhibitor
+9,ALK Inhibitor
+10,Antibiotic Antineoplastic
+11,Anticonvulsant Agent
+12,Antidiabetic Agent
+13,Antifungal Agent
+14,Antimicrotubule Agent
+15,Antisense Therapy
+16,ARAF Inhibitor
+17,Aromatase Inhibitor
+18,ATM Inhibitor
+19,ATR Inhibitor
+20,AURK Inhibitor (Pan)
+21,Aurka Inhibitors
+22,Aurkb Inhibitors
+23,Aurkc Inhibitors
+24,AXL Inhibitor
+25,BCL-XL inhibitor
+26,BCL2 Family Inhibitor
+27,BCL2 inhibitor
+240,BCL6 Inhibitor
+28,BCR-ABL Inhibitor
+29,BET  Inhibitor (Pan)
+30,BIRC5 Inhibitor
+31,BRAF Inhibitor
+32,BRD2 Inhibitor
+33,BRD3  Inhibitor
+34,BRD4  Inhibitor
+35,BRD4-NUT Inhibitor
+36,BTK inhibitor
+37,c-MYC Inhibitor
+38,CDK Inhibitor (Pan)
+39,CDK1 Inhibitor
+40,CDK2 Inhibitor
+41,CDK2/4 Inhibitor
+42,CDK4 Inhibitor
+43,CDK4/6 Inhibitor
+44,CDK5 Inhibitor
+45,CDK6 Inhibitor
+46,CDK7 Inhibitor
+47,CDK8 Inhibitor
+48,CDK9 Inhibitor
+49,Chemotherapy - Alkylating
+50,Chemotherapy - Anthracycline
+51,Chemotherapy - Antimetabolite
+52,Chemotherapy - Platinum 
+53,Chemotherapy - Taxane
+54,CHK Inhibitor (Pan)
+55,CHK1 Inhibitor
+56,CHK2 Inhibitor
+57,CRAF Inhibitor
+249,CSF1 Antibody
+58,CSF1 targeted immunotherapy
+241,CSF1R Antibody
+59,CSF1R Inhibitor
+260,CTLA4 Antibody
+60,CTNNB1 Inhibitor
+61,CXCR Antagonist
+62,CXCR4 Inhibitor
+63,DDR1 Inhibitor
+64,DDR2 inhibitor
+66,DLL4 Antibody
+67,DNA_PK Inhibitor
+68,DNMT inhibitor (Pan)
+69,DNMT1 inhibitor
+70,DOT1L Inhibitor
+71,DYRK1A Inhibitor
+72,DYRK1B Inhibitor
+73,EGFR Antibody
+258,EGFR Immune Cell Therapy
+74,EGFR Inhibitor (Pan)
+75,EGFR Inhibitor 1st gen
+76,EGFR Inhibitor 2nd gen
+77,EGFR Inhibitor 3rd gen
+78,EHMT2 Inhibitor
+79,EPHB4 Inhibitor
+80,ERK Inhibitor (pan)
+81,ERK1 Inhibitor
+82,ERK2 Inhibitor
+83,EZH1 inhibitor
+84,EZH2 inhibitor
+85,FAK inhibitor
+86,Farnesyltransferase Inhibitor
+87,FASN Inhibitor
+89,FGFR Inhibitor (Pan)
+90,FGFR1 Inhibitor
+91,FGFR2 Antibody
+92,FGFR2 Inhibitor
+93,FGFR3 Antibody
+94,FGFR3 Inhibitor
+95,FGFR4 Inhibitor
+96,FLT3 Inhibitor
+97,FOLR1-targeted Therapy
+98,FRK Inhibitor
+99,Gamma secretase inhibitor
+100,GLI1/2 inhibitor
+101,GSK-3alpha Inhibitor
+102,GSK-3beta Inhibitor
+103,GSK3 Inhibitor (Pan)
+104,HDAC Inhibitor
+105,HER inhibitor (Pan)
+242,HER2 (ERBB2) Antibody
+250,HER2 (ERBB2) Immune Cell Therapy
+251,HER2 (ERBB2) Vaccine
+106,HER2 Inhibitor
+107,HER2-targeted immunotherapy
+243,HER3 (ERBB3) Antibody
+108,HER3 Inhibitor
+109,HER3-targeted immunotherapy
+252,HGF Antibody
+110,HGF-targeted immunotherapy
+111,Hormone Antineoplastics 
+112,Hormone – Anti-androgens
+113,Hormone – Anti-estrogens
+114,Hormone – Anti-progestins
+115,HRAS Inhibitor
+116,HSP90 Inhibitor
+117,IDH Inhibitor (Pan)
+118,IDH1 Inhibitor
+119,IDH2 Inhibitor
+120,IGF-1R Inhibitor
+121,IGF-targeted immunotherapy
+253,IGF1/2 Antibody
+245,IGF1R Antibody
+122,Immune Checkpoint Inhibitor
+123,IRAK1/4 Inhibitor
+124,IRAK4 Inhibitor
+126,JAK Inhibitor (Pan)
+127,JAK Inhibitor (Pan) – ATP competitive
+128,JAK1 Inhibitor
+129,JAK1 Inhibitor – ATP competitive
+130,JAK2 Inhibitor
+131,JAK2 Inhibitor – ATP competitive
+132,JAK3 Inhibitor
+133,JAK3 Inhibitor – ATP competitive
+134,JNK Inhibitor
+239,KDM1A Inhibitor
+135,KDM4 Inhibitor
+136,KIT Inhibitor
+137,KRAS Inhibitor
+138,LYN Inhibitor
+139,MCL1 Inhibitor
+140,MDM2 Inhibitor
+141,MDM4 inhibitor
+142,MEK inhibitor (Pan)
+143,MEK1 Inhibitor
+144,MEK2 Inhibitor
+145,MEK4 Inhibitor
+146,MEK5 Inhibitor
+244,MET Antibody
+257,MET Immune Cell Therapy
+147,MET Inhibitor
+148,MNK1 Inhibitor
+149,MNK1/2 Inhibitor
+150,MNK2 Inhibitor
+151,MPS1 Inhibitor
+152,mTOR Inhibitor
+153,mTORC1 Inhibitor
+154,mTORC2 Inhibitor
+246,MUC16 Targeted Therapy
+155,MUC16-targeted immunotherapy
+156,NOTCH Inhibitor (Pan)
+158,NOTCH1 Antibody
+159,NOTCH1 Inhibitor
+160,NOTCH2 Antibody
+161,NOTCH2 Inhibitor
+162,NOTCH3 Antibody
+163,NRAS Inhibitor
+164,p38 MAPK Inhibitor (Pan)
+165,p38-alpha Inhibitor
+166,p53 Activator
+167,p53 Gene Therapy
+168,p53 Inhibitor
+169,p53 Vaccine
+170,Pak-I Inhibitor
+171,PARP Inhibitor (Pan)
+172,PARP-1 Inhibitor
+173,PARP-2 Inhibitor
+174,PD-L1/PD-1 antibody
+175,PDGFR Inhibitor (Pan)
+176,PDGFR-alpha Inhibitor
+177,PDGFR-beta Inhibitor
+178,PDGFRA Antibody
+179,PDK-1 Inhibitor
+180,PDPK1 Inhibitor
+181,PI3K Inhibitor (Pan)
+182,PIK3CA inhibitor
+183,PIK3CB inhibitor
+184,PIK3CD inhibitor
+185,PIK3CG inhibitor
+186,PIM Inhibitor (Pan)
+187,PIM1 Inhibitor
+188,PIM3 Inhibitor
+189,PKA Inhibitor
+190,PKC alpha Inhibitor
+191,PKC beta Inhibitor
+192,PKC Inhibitor (Pan)
+193,PLK1 Inhibitor
+194,PP2A Activator
+195,PP2A Inhibitor
+196,PPM1D Inhibitor
+261,RAD51 Inhibitor
+197,RAF Inhibitor (Pan)
+198,RAS Inhibitor (Pan)
+199,RET Inhibitor
+200,RON Inhibitor
+201,ROS1 Inhibitor
+202,S6 Kinase Inhibitor
+203,SHP2 Inhibitor
+204,SIRT1 Activator
+205,SIRT1 Inhibitor
+206,SIRT2 Inhibitor
+207,SIRT3 Inhibitor
+262,SMAC Mimetic
+208,SMO Inhibitor
+263,SMYD3 Inhibitor
+209,SRC Inhibitor
+210,STAT Inhibitor
+211,STAT1 Inhibitor
+212,STAT3 Inhibitor
+213,STAT5 Inhibitor
+214,SYK Inhibitor
+215,Tankyrase Inhibitor
+247,TGFB (Pan) Antibody
+216,TGFB inhibitor
+217,TGFB targeted immunotherapy
+255,TGFB2 Vaccine
+218,TGFBR inhibitor (pan)
+219,TGFBR1 inhibitor
+254,TGFBR2 Antibody
+220,TGFBR2 inhibitor
+221,TIE2 Inhibitor
+222,TNK2 Inhibitor
+223,TOPO Inhibitor (Pan)
+224,TOPO1 inhibitor
+225,TOPO2 inhibitor
+226,Trk Receptor Inhibitor (Pan)
+227,TrkA Receptor Inhibitor
+228,USP1 inhibitor
+248,VEGF Antibody
+229,VEGF-targeted immunotherapy
+230,VEGFR Inhibitor (Pan)
+231,VEGFR1 Inhibitor
+256,VEGFR2 Antibody
+259,VEGFR2 Immune Cell Therapy
+232,VEGFR2 Inhibitor
+233,VEGFR3 Antibody
+234,VEGFR3 Inhibitor
+235,WEE1 Inhibitor
+236,WNT Inhibitor
+238,YAP Inhibitor
+237,YES Inhibitor

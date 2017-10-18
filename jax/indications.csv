@@ -1,0 +1,540 @@
+id,name,source
+3025,acinar cell carcinoma,DOID
+12689,acoustic neuroma,DOID
+6367,acral lentiginous melanoma,DOID
+12603,acute leukemia,DOID
+9952,acute lymphocytic leukemia,DOID
+8864,acute monocytic leukemia,DOID
+9119,acute myeloid leukemia,DOID
+60318,acute promyelocytic leukemia,DOID
+5603,acute T cell leukemia,DOID
+299,adenocarcinoma,DOID
+3950,adrenal carcinoma,DOID
+660,adrenal cortex cancer,DOID
+50892,adrenal gland pheochromocytoma,DOID
+5719,adrenal medulla cancer,DOID
+7379,adrenal medulla carcinoma,DOID
+3948,adrenocortical carcinoma,DOID
+4813,adult brain stem glioma,DOID
+8282,adult epithelioid sarcoma,DOID
+3516,adult fibrosarcoma,DOID
+5693,adult liposarcoma,DOID
+5825,adult lymphoma,DOID
+6332,adult malignant hemangiopericytoma,DOID
+3186,adult oligodendroglioma,DOID
+50523,adult T-cell leukemia,DOID
+10000003,Advanced Solid Tumor,JAX
+5590,aggressive digital papillary adenocarcinoma,DOID
+4051,alveolar rhabdomyosarcoma,DOID
+4239,alveolar soft part sarcoma,DOID
+3502,ampulla of Vater adenocarcinoma,DOID
+4932,ampulla of Vater carcinoma,DOID
+50688,anal canal cancer,DOID
+6126,anal canal carcinoma,DOID
+7177,anal canal squamous cell carcinoma,DOID
+4908,anal carcinoma,DOID
+12239,anal margin squamous cell carcinoma,DOID
+5525,anal squamous cell carcinoma,DOID
+50744,anaplastic large cell lymphoma,DOID
+1816,angiosarcoma,DOID
+14110,anus cancer,DOID
+4934,apocrine sweat gland cancer,DOID
+3608,appendix adenocarcinoma,DOID
+11239,appendix cancer,DOID
+3069,astrocytoma,DOID
+2129,atypical teratoid rhabdoid tumor,DOID
+2621,autonomic nervous system neoplasm,DOID
+9953,B- and T-cell mixed leukemia,DOID
+60592,B-cell adult acute lymphocytic leukemia,DOID
+80146,B-cell childhood acute lymphoblastic leukemia,DOID
+707,B-cell lymphoma,DOID
+4879,Bartholin's gland adenoid cystic carcinoma,DOID
+2513,basal cell carcinoma,DOID
+5063,basosquamous carcinoma,DOID
+4896,bile duct adenocarcinoma,DOID
+4897,bile duct carcinoma,DOID
+4607,biliary tract cancer,DOID
+50625,biliary tract neoplasm,DOID
+3711,bladder adenocarcinoma,DOID
+4007,bladder carcinoma,DOID
+9053,bladder carcinoma in situ,DOID
+6933,bladder transitional cell papilloma,DOID
+4006,bladder urothelial carcinoma,DOID
+184,bone cancer,DOID
+3368,bone Ewing's sarcoma,DOID
+4305,bone giant cell tumor,DOID
+4960,bone marrow cancer,DOID
+1319,brain cancer,DOID
+7497,brain ependymoma,DOID
+3073,brain glioblastoma multiforme,DOID
+60108,brain glioma,DOID
+3187,brain oligodendroglioma,DOID
+2132,brain sarcoma,DOID
+4860,brain stem astrocytic neoplasm,DOID
+4203,brain stem cancer,DOID
+4202,brain stem glioma,DOID
+3458,breast adenocarcinoma,DOID
+4877,breast adenoid cystic carcinoma,DOID
+1612,breast cancer,DOID
+3459,breast carcinoma,DOID
+5592,breast papillary carcinoma,DOID
+4926,bronchiolo-alveolar adenocarcinoma,DOID
+8584,Burkitt lymphoma,DOID
+162,cancer,DOID
+305,carcinoma,DOID
+4236,carcinosarcoma,DOID
+3620,central nervous system cancer,DOID
+3234,central nervous system lymphoma,DOID
+3702,cervical adenocarcinoma,DOID
+4867,cervical adenoid cystic carcinoma,DOID
+5636,cervical adenosquamous carcinoma,DOID
+4362,cervical cancer,DOID
+3744,cervical squamous cell carcinoma,DOID
+2893,cervix carcinoma,DOID
+6383,childhood brain stem glioma,DOID
+3675,childhood kidney neoplasm,DOID
+7757,childhood leukemia,DOID
+3869,childhood medulloblastoma,DOID
+4947,cholangiocarcinoma,DOID
+2602,chondroma,DOID
+3371,chondrosarcoma,DOID
+3302,chordoma,DOID
+3594,choriocarcinoma,DOID
+5648,choroid plexus carcinoma,DOID
+2626,choroid plexus papilloma,DOID
+4471,chromophobe renal cell carcinoma,DOID
+1036,chronic leukemia,DOID
+1040,chronic lymphocytic leukemia,DOID
+8552,chronic myeloid leukemia,DOID
+80188,chronic myelomonocytic leukemia,DOID
+4233,clear cell sarcoma,DOID
+6354,CLL/SLL,DOID
+4464,collecting duct carcinoma,DOID
+234,colon adenocarcinoma,DOID
+219,colon cancer,DOID
+1520,colon carcinoma,DOID
+50861,colorectal adenocarcinoma,DOID
+9256,colorectal cancer,DOID
+8418,congenital fibrosarcoma,DOID
+3840,craniopharyngioma,DOID
+4871,cutaneous adenocystic carcinoma,DOID
+3450,cutaneous Paget's disease,DOID
+60061,cutaneous T cell lymphoma,DOID
+3507,dermatofibrosarcoma protuberans,DOID
+50745,diffuse large B-cell lymphoma,DOID
+14250,Down syndrome,DOID
+60074,ductal carcinoma in situ,DOID
+10816,duodenum adenocarcinoma,DOID
+10021,duodenum cancer,DOID
+7566,eccrine porocarcinoma,DOID
+3246,embryonal rhabdomyosarcoma,DOID
+5680,embryonal testis carcinoma,DOID
+7519,endocervical carcinoma,DOID
+2870,endometrial adenocarcinoma,DOID
+1380,endometrial cancer,DOID
+2871,endometrial carcinoma,DOID
+5299,endometrial clear cell adenocarcinoma,DOID
+4226,endometrial stromal sarcoma,DOID
+5828,endometrioid ovary carcinoma,DOID
+4794,ependymoblastoma,DOID
+8353,epithelioid malignant peripheral nerve sheath tumor,DOID
+6193,epithelioid sarcoma,DOID
+4878,esophageal adenoid cystic carcinoma,DOID
+5625,esophageal adenosquamous carcinoma,DOID
+5041,esophageal cancer,DOID
+1107,esophageal carcinoma,DOID
+4914,esophagus adenocarcinoma,DOID
+3748,esophagus squamous cell carcinoma,DOID
+2224,essential thrombocythemia,DOID
+60076,estrogen-receptor negative breast cancer,DOID
+60075,estrogen-receptor positive breast cancer,DOID
+2764,ethmoid sinus adenoid cystic carcinoma,DOID
+3369,Ewing sarcoma,DOID
+50936,extra-adrenal pheochromocytoma,DOID
+4682,extrahepatic bile duct carcinoma,DOID
+4232,extraosseous Ewing's sarcoma,DOID
+3357,extraosseous osteosarcoma,DOID
+3706,fallopian tube adenocarcinoma,DOID
+1964,fallopian tube cancer,DOID
+1963,fallopian tube carcinoma,DOID
+1970,fallopian tube carcinosarcoma,DOID
+5301,fallopian tube clear cell adenocarcinoma,DOID
+5831,fallopian tube endometrioid adenocarcinoma,DOID
+5598,fallopian tube serous adenocarcinoma,DOID
+120,female reproductive organ cancer,DOID
+6726,fibrillary astrocytoma,DOID
+5015,fibrolamellar carcinoma,DOID
+3355,fibrosarcoma,DOID
+4415,fibrous histiocytoma,DOID
+50873,follicular lymphoma,DOID
+3962,follicular thyroid carcinoma,DOID
+3500,gallbladder adenocarcinoma,DOID
+3121,gallbladder cancer,DOID
+4948,gallbladder carcinoma,DOID
+5078,ganglioglioma,DOID
+4163,ganglioneuroblastoma,DOID
+4817,ganglioneuroma,DOID
+3717,gastric adenocarcinoma,DOID
+5635,gastric adenosquamous carcinoma,DOID
+6271,gastric cardia adenocarcinoma,DOID
+6270,gastric cardia carcinoma,DOID
+4715,gastric neuroendocrine neoplasm,DOID
+8025,gastric signet ring cell adenocarcinoma,DOID
+6552,gastric small cell carcinoma,DOID
+5516,gastric squamous cell carcinoma,DOID
+5577,gastrinoma,DOID
+4944,gastroesophageal junction adenocarcinoma,DOID
+50626,gastrointestinal neuroendocrine tumor,DOID
+9253,gastrointestinal stromal tumor,DOID
+3119,gastrointestinal system cancer,DOID
+2994,germ cell cancer,DOID
+3590,gestational trophoblastic neoplasm,DOID
+3074,giant cell glioblastoma,DOID
+200,giant cell tumor,DOID
+3068,glioblastoma multiforme,DOID
+6128,gliomatosis cerebri,DOID
+3071,gliosarcoma,DOID
+3078,grade III astrocytoma,DOID
+2999,granulosa cell tumor,DOID
+5822,gray zone lymphoma,DOID
+285,hairy cell leukemia,DOID
+11934,head and neck cancer,DOID
+1542,head and neck carcinoma,DOID
+5520,head and neck squamous cell carcinoma,DOID
+255,hemangioma,DOID
+264,hemangiopericytoma,DOID
+2531,hematologic cancer,DOID
+687,hepatoblastoma,DOID
+50868,hepatocellular adenoma,DOID
+684,hepatocellular carcinoma,DOID
+60080,Her2-receptor negative breast cancer,DOID
+60079,Her2-receptor positive breast cancer,DOID
+3896,hidradenoma,DOID
+5621,histiocytic and dendritic cell cancer,DOID
+4231,histiocytoma,DOID
+3405,histiocytosis,DOID
+8567,Hodgkin's lymphoma,DOID
+8543,"Hodgkin's lymphoma, lymphocytic-histiocytic predominance",DOID
+8533,hypopharynx cancer,DOID
+10153,ileum cancer,DOID
+60083,immune system cancer,DOID
+10000005,Indication other than cancer,JAX
+4660,indolent systemic mastocytosis,DOID
+50620,infiltrating renal pelvis transitional cell carcinoma,DOID
+6845,infiltrating ureter transitional cell carcinoma,DOID
+6263,inflammatory breast carcinoma,DOID
+50905,inflammatory myofibroblastic tumor,DOID
+3892,insulinoma,DOID
+4928,intrahepatic cholangiocarcinoma,DOID
+4653,intraocular retinoblastoma,DOID
+6477,invasive bladder transitional cell carcinoma,DOID
+3008,invasive ductal carcinoma,DOID
+3457,invasive lobular carcinoma,DOID
+1799,islet cell tumor,DOID
+50926,jejunal adenocarcinoma,DOID
+3079,juvenile astrocytoma,DOID
+50458,juvenile myelomonocytic leukemia,DOID
+6811,juvenile pilocytic astrocytoma,DOID
+8632,Kaposi's sarcoma,DOID
+3149,keratoacanthoma,DOID
+263,kidney cancer,DOID
+4880,kidney clear cell sarcoma,DOID
+3674,kidney rhabdoid cancer,DOID
+7402,L-cell glucagon-like peptide producing tumor,DOID
+4870,lacrimal gland adenoid cystic carcinoma,DOID
+50872,large cell neuroendocrine carcinoma,DOID
+4869,laryngeal adenoid cystic carcinoma,DOID
+2600,laryngeal carcinoma,DOID
+2876,laryngeal squamous cell carcinoma,DOID
+2596,larynx cancer,DOID
+3752,larynx verrucous carcinoma,DOID
+5138,leiomyomatosis,DOID
+1967,leiomyosarcoma,DOID
+1240,leukemia,DOID
+3315,lipoma,DOID
+3382,liposarcoma,DOID
+3571,liver cancer,DOID
+686,liver carcinoma,DOID
+3010,lobular neoplasia,DOID
+3910,lung adenocarcinoma,DOID
+4872,lung adenoid cystic carcinoma,DOID
+1324,lung cancer,DOID
+3905,lung carcinoma,DOID
+4556,lung large cell carcinoma,DOID
+5588,lung papillary adenocarcinoma,DOID
+2784,lung sarcoma,DOID
+5409,lung small cell carcinoma,DOID
+3907,lung squamous cell carcinoma,DOID
+60219,lymph node adenoid cystic carcinoma,DOID
+60073,lymphatic system cancer,DOID
+1037,lymphoblastic leukemia,DOID
+80147,lymphoblastic lymphoma,DOID
+5660,lymphoepithelioma-like carcinoma,DOID
+60058,lymphoma,DOID
+50747,lymphoplasmacytic lymphoma,DOID
+5570,malignant acrospiroma,DOID
+5074,malignant ependymoma,DOID
+1907,malignant fibroxanthoma,DOID
+2704,malignant giant cell tumor of the tendon sheath,DOID
+3070,malignant glioma,DOID
+6086,malignant leptomeningeal tumor,DOID
+1790,malignant mesothelioma,DOID
+4217,malignant ovarian Brenner tumor,DOID
+5940,malignant peripheral nerve sheath tumor,DOID
+1660,malignant pineal area germ cell neoplasm,DOID
+7474,malignant pleural mesothelioma,DOID
+50695,malignant pleural solitary fibrous tumor,DOID
+3162,malignant spindle cell melanoma,DOID
+7960,malignant spiradenoma,DOID
+5569,malignant syringoma,DOID
+50909,MALT lymphoma,DOID
+50746,mantle cell lymphoma,DOID
+50748,marginal zone B-cell lymphoma,DOID
+3664,mast cell neoplasm,DOID
+9254,mast-cell leukemia,DOID
+350,mastocytosis,DOID
+706,mature B-cell neoplasm,DOID
+50743,mature T-cell and NK-cell lymphoma,DOID
+7198,maxillary sinus adenoid cystic carcinoma,DOID
+50902,medulloblastoma,DOID
+4790,medulloepithelioma,DOID
+8761,megakaryocytic leukemia,DOID
+1909,melanoma,DOID
+3565,meningioma,DOID
+7212,meningothelial meningioma,DOID
+3965,Merkel cell carcinoma,DOID
+6522,mixed cell uveal melanoma,DOID
+5076,mixed glioma,DOID
+7912,mixed oligodendroglioma-astrocytoma,DOID
+3030,mucinous adenocarcinoma,DOID
+3603,mucinous cystadenocarcinoma,DOID
+50929,mucosal melanoma,DOID
+9538,multiple myeloma,DOID
+60100,musculoskeletal system cancer,DOID
+8691,mycosis fungoides,DOID
+50908,myelodysplastic syndrome,DOID
+4972,myelodysplastic/myeloproliferative neoplasm,DOID
+4971,myelofibrosis,DOID
+8692,myeloid leukemia,DOID
+70004,myeloid neoplasm,DOID
+8683,myeloid sarcoma,DOID
+2226,myeloproliferative neoplasm,DOID
+4838,myoepithelial carcinoma,DOID
+5861,myxoid chondrosarcoma,DOID
+5363,myxoid liposarcoma,DOID
+4136,myxosarcoma,DOID
+4930,nasal cavity adenocarcinoma,DOID
+10811,nasal cavity cancer,DOID
+4931,nasal cavity carcinoma,DOID
+5515,nasal cavity squamous cell carcinoma,DOID
+9261,nasopharynx carcinoma,DOID
+1035,natural killer cell leukemia,DOID
+7808,necrotic uveal melanoma,DOID
+2154,nephroblastoma,DOID
+3192,neurilemmoma,DOID
+769,neuroblastoma,DOID
+1800,neuroendocrine carcinoma,DOID
+169,neuroendocrine tumor,DOID
+962,neurofibroma,DOID
+3512,neurofibrosarcoma,DOID
+5193,nodular ganglioneuroblastoma,DOID
+3873,nodular medulloblastoma,DOID
+60060,non-Hodgkin lymphoma,DOID
+6571,non-invasive bladder urothelial carcinoma,DOID
+3908,non-small cell lung carcinoma,DOID
+60463,NUT midline carcinoma,DOID
+1752,ocular melanoma,DOID
+369,olfactory neuroblastoma,DOID
+3181,oligodendroglioma,DOID
+4992,optic nerve glioma,DOID
+8618,oral cavity cancer,DOID
+50610,oral cavity carcinoma in situ,DOID
+50866,oral squamous cell carcinoma,DOID
+4143,orbital cancer,DOID
+8557,oropharynx cancer,DOID
+3347,osteosarcoma,DOID
+2394,ovarian cancer,DOID
+4001,ovarian carcinoma,DOID
+6170,ovarian carcinosarcoma,DOID
+5304,ovarian clear cell adenocarcinoma,DOID
+50934,ovarian clear cell carcinoma,DOID
+7438,ovarian clear cell cystadenocarcinoma,DOID
+6212,ovarian endometrial cancer,DOID
+2156,ovarian germ cell cancer,DOID
+3606,ovarian mucinous adenocarcinoma,DOID
+3604,ovarian mucinous cystadenocarcinoma,DOID
+6067,ovarian mucinous neoplasm,DOID
+50933,ovarian serous carcinoma,DOID
+5746,ovarian serous cystadenocarcinoma,DOID
+5531,ovarian squamous cell carcinoma,DOID
+3713,ovary adenocarcinoma,DOID
+2152,ovary epithelial cancer,DOID
+5744,ovary serous adenocarcinoma,DOID
+5742,pancreatic acinar cell adenocarcinoma,DOID
+4074,pancreatic adenocarcinoma,DOID
+1793,pancreatic cancer,DOID
+4905,pancreatic carcinoma,DOID
+3498,pancreatic ductal adenocarcinoma,DOID
+3587,pancreatic ductal carcinoma,DOID
+1798,pancreatic endocrine carcinoma,DOID
+3847,papillary craniopharyngioma,DOID
+4465,papillary renal cell carcinoma,DOID
+3969,papillary thyroid carcinoma,DOID
+2615,papilloma,DOID
+50773,paraganglioma,DOID
+50619,paranasal sinus cancer,DOID
+1540,parathyroid carcinoma,DOID
+50931,parotid gland adenoid cystic carcinoma,DOID
+9036,parotid gland cancer,DOID
+5509,pediatric ependymoma,DOID
+10000004,Pediatric Solid Tumors,JAX
+11615,penile cancer,DOID
+5518,penis squamous cell carcinoma,DOID
+3193,peripheral nerve sheath neoplasm,DOID
+50749,peripheral T-cell lymphoma,DOID
+1791,peritoneal carcinoma,DOID
+1788,peritoneal mesothelioma,DOID
+4901,peritoneal serous adenocarcinoma,DOID
+1725,peritoneum cancer,DOID
+2643,perivascular epithelioid cell tumor,DOID
+50921,pharynx squamous cell carcinoma,DOID
+4851,pilocytic astrocytoma,DOID
+4845,pilomyxoid astrocytoma,DOID
+5032,pineal gland cancer,DOID
+1664,pineoblastoma,DOID
+1785,pituitary cancer,DOID
+4916,pituitary carcinoma,DOID
+2024,placental choriocarcinoma,DOID
+3596,placental site trophoblastic tumor,DOID
+6536,plasma cell neoplasm,DOID
+3721,plasmacytoma,DOID
+5702,pleomorphic liposarcoma,DOID
+3250,pleomorphic rhabdomyosarcoma,DOID
+4852,pleomorphic xanthoastrocytoma,DOID
+5151,plexiform neurofibroma,DOID
+6566,posterior uveal melanoma,DOID
+7230,postgerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma,DOID
+7061,precursor B lymphoblastic lymphoma/leukemia,DOID
+5600,precursor lymphoblastic lymphoma/leukemia,DOID
+5599,precursor T-lymphoblastic lymphoma/leukemia,DOID
+7936,precursor T-lymphoblastic lymphoma/leukemia refractory,DOID
+8144,pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma,DOID
+60077,progesterone-receptor positive breast cancer,DOID
+5394,prolactinoma,DOID
+1039,prolymphocytic leukemia,DOID
+2526,prostate adenocarcinoma,DOID
+4868,prostate adenoid cystic carcinoma,DOID
+10283,prostate cancer,DOID
+10286,prostate carcinoma,DOID
+2992,prostate neuroendocrine neoplasm,DOID
+4011,prostate transitional cell carcinoma,DOID
+6166,prostatic urethra urothelial carcinoma,DOID
+3559,pseudomyxoma peritonei,DOID
+6658,pulmonary large cell neuroendocrine carcinoma,DOID
+5410,pulmonary neuroendocrine tumor,DOID
+1984,rectal neoplasm,DOID
+1996,rectum adenocarcinoma,DOID
+1993,rectum cancer,DOID
+712,refractory hematologic cancer,DOID
+4451,renal carcinoma,DOID
+4450,renal cell carcinoma,DOID
+4467,renal clear cell carcinoma,DOID
+4919,renal pelvis carcinoma,DOID
+5974,renal pelvis transitional cell carcinoma,DOID
+5176,renal Wilms' tumor,DOID
+768,retinoblastoma,DOID
+3672,rhabdoid cancer,DOID
+3247,rhabdomyosarcoma,DOID
+4866,salivary gland adenoid cystic carcinoma,DOID
+8850,salivary gland cancer,DOID
+50904,salivary gland carcinoma,DOID
+1115,sarcoma,DOID
+7958,sarcomatoid penile squamous cell carcinoma,DOID
+4473,sarcomatoid renal cell carcinoma,DOID
+13159,scrotum squamous cell carcinoma,DOID
+4840,sebaceous carcinoma,DOID
+14545,seminal vesicle adenocarcinoma,DOID
+4440,seminoma,DOID
+3114,serous cystadenocarcinoma,DOID
+192,sex cord-gonadal stromal tumor,DOID
+4757,sex cord-stromal neoplasm,DOID
+8541,Sezary's disease,DOID
+4304,signet ring basal cell carcinoma,DOID
+4517,skin angiosarcoma,DOID
+4159,skin cancer,DOID
+3451,skin carcinoma,DOID
+8923,skin melanoma,DOID
+3151,skin squamous cell carcinoma,DOID
+50685,small cell carcinoma,DOID
+50875,small cell neuroendocrine carcinoma,DOID
+4906,small intestine adenocarcinoma,DOID
+50925,small intestine carcinoid neuroendocrine tumor,DOID
+4907,small intestine carcinoma,DOID
+9551,smoldering myeloma,DOID
+4430,somatostatinoma,DOID
+5503,spinal cord ependymoma,DOID
+3185,spinal cord glioma,DOID
+4015,spindle cell carcinoma,DOID
+4235,spindle cell sarcoma,DOID
+50750,splenic marginal zone lymphoma,DOID
+1749,squamous cell carcinoma,DOID
+10534,stomach cancer,DOID
+5517,stomach carcinoma,DOID
+8747,subacute myeloid leukemia,DOID
+50930,sublingual gland adenoid cystic carcinoma,DOID
+7371,superficial urinary bladder cancer,DOID
+4791,supratentorial primitive neuroectodermal tumor,DOID
+2095,sweat gland cancer,DOID
+5667,sweat gland carcinoma,DOID
+5485,synovial sarcoma,DOID
+5602,T-cell adult acute lymphocytic leukemia,DOID
+715,T-cell leukemia,DOID
+7089,tall cell variant papillary carcinoma,DOID
+314,tenosynovial giant cell tumor,DOID
+3307,teratoma,DOID
+2998,testicular cancer,DOID
+12253,testicular lymphoma,DOID
+5345,testicular non-seminomatous germ cell cancer,DOID
+3284,thymic carcinoma,DOID
+3275,thymoma,DOID
+3277,thymus cancer,DOID
+1781,thyroid cancer,DOID
+3963,thyroid carcinoma,DOID
+8161,thyroid Hurthle cell carcinoma,DOID
+3973,thyroid medullary carcinoma,DOID
+50865,tongue squamous cell carcinoma,DOID
+4875,trachea adenoid cystic carcinoma,DOID
+4876,trachea carcinoma,DOID
+2671,transitional cell carcinoma,DOID
+60081,triple-receptor negative breast cancer,DOID
+4085,trophoblastic neoplasm,DOID
+4938,ureter adenocarcinoma,DOID
+11819,ureter cancer,DOID
+4939,ureter carcinoma,DOID
+5539,ureter squamous cell carcinoma,DOID
+6888,ureter transitional cell carcinoma,DOID
+4910,urethra adenocarcinoma,DOID
+734,urethra cancer,DOID
+3750,urethra squamous cell carcinoma,DOID
+4013,urethra transitional cell carcinoma,DOID
+11054,urinary bladder cancer,DOID
+3996,urinary system cancer,DOID
+363,uterine cancer,DOID
+6171,uterine carcinosarcoma,DOID
+5165,uterine corpus sarcoma,DOID
+5750,uterine corpus serous adenocarcinoma,DOID
+13223,uterine fibroid,DOID
+5289,uterus leiomyosarcoma,DOID
+6039,uveal melanoma,DOID
+119,vaginal cancer,DOID
+50918,vaginal carcinoma,DOID
+138,vaginal squamous tumor,DOID
+175,vascular cancer,DOID
+5574,VIPoma,DOID
+2098,vulva adenocarcinoma,DOID
+1245,vulva cancer,DOID
+1294,vulva carcinoma,DOID
+2101,vulva squamous cell carcinoma,DOID
+2093,vulvar melanoma,DOID
+2072,vulvar squamous tumor,DOID
+60901,Waldenstroem's macroglobulinemia,DOID
