@@ -453,8 +453,9 @@
 7,1853,Anastrozole + Letrozole,1204
 8,4188,Anastrozole + MK2206,1204
 9,4974,Anastrozole + Palbociclib,1204
-10,4490,AZD5363 + Anastrozole,1204
-11,1590,Fulvestrant + Everolimus + Anastrozole,1204
+10,6323,Anastrozole + Palbociclib + Pertuzumab + Trastuzumab,1204
+11,4490,AZD5363 + Anastrozole,1204
+12,1590,Fulvestrant + Everolimus + Anastrozole,1204
 0,4593,Anetumab ravtansine,8492
 1,4617,Anetumab ravtansine + Cisplatin + Pemetrexed,8492
 2,4594,Anetumab ravtansine + Itraconazole,8492
@@ -1238,26 +1239,28 @@
 14,1101,Binimetinib + Encorafenib + Ribociclib,6827
 15,5022,Binimetinib + Everolimus,6827
 16,3247,Binimetinib + FOLFIRI,6827
-17,5838,Binimetinib + Palbociclib,6827
-18,5568,Binimetinib + Pembrolizumab,6827
-19,5730,Binimetinib + PLX3397,6827
-20,5,Binimetinib + Ribociclib,6827
-21,1311,BYL719 + MEK162,6827
-22,4053,GDC-0941 + Binimetinib,6827
-23,2210,Gemcitabine + MEK162 + Oxaliplatin,6827
-24,4052,GSK2636771 + Binimetinib,6827
-25,2214,LGX818 + MEK162 + BGJ398,6827
-26,2215,LGX818 + MEK162 + BKM120,6827
-27,2216,LGX818 + MEK162 + INC280,6827
-28,1114,MEK162 + AEB071,6827
-29,2213,MEK162 + Carboplatin + Pemetrexed,6827
-30,1253,MEK162 + Erlotinib,6827
-31,2217,MEK162 + FOLFOX,6827
-32,2218,MEK162 + Gemcitabine + Cisplatin,6827
-33,2220,MEK162 + Idarubicin + Cytarabine,6827
-34,1430,MEK162 + Imatinib mesylate,6827
-35,2219,MEK162 + Nilotinib,6827
-36,2010,MEK162 + Paclitaxel,6827
+17,6326,Binimetinib + Ipilimumab + Nivolumab,6827
+18,6325,Binimetinib + Nivolumab,6827
+19,5838,Binimetinib + Palbociclib,6827
+20,5568,Binimetinib + Pembrolizumab,6827
+21,5730,Binimetinib + PLX3397,6827
+22,5,Binimetinib + Ribociclib,6827
+23,1311,BYL719 + MEK162,6827
+24,4053,GDC-0941 + Binimetinib,6827
+25,2210,Gemcitabine + MEK162 + Oxaliplatin,6827
+26,4052,GSK2636771 + Binimetinib,6827
+27,2214,LGX818 + MEK162 + BGJ398,6827
+28,2215,LGX818 + MEK162 + BKM120,6827
+29,2216,LGX818 + MEK162 + INC280,6827
+30,1114,MEK162 + AEB071,6827
+31,2213,MEK162 + Carboplatin + Pemetrexed,6827
+32,1253,MEK162 + Erlotinib,6827
+33,2217,MEK162 + FOLFOX,6827
+34,2218,MEK162 + Gemcitabine + Cisplatin,6827
+35,2220,MEK162 + Idarubicin + Cytarabine,6827
+36,1430,MEK162 + Imatinib mesylate,6827
+37,2219,MEK162 + Nilotinib,6827
+38,2010,MEK162 + Paclitaxel,6827
 0,4288,BIRB-796,8399
 1,4289,BIRB-796 + Dasatinib,8399
 2,5614,BIRB-796 + Tozasertib,8399
@@ -1480,11 +1483,12 @@
 3,5055,Brentuximab vedotin + Bendamustine,7541
 4,4169,Brentuximab vedotin + Ceritinib,7541
 5,5056,Brentuximab vedotin + Dacarbazine,7541
-6,4300,Brentuximab vedotin + Ibrutinib,7541
-7,2487,Brentuximab vedotin + Ipilimumab,7541
-8,3264,Brentuximab vedotin + Mocetinostat,7541
-9,3263,Brentuximab vedotin + Nivolumab,7541
-10,3770,Brentuximab vedotin + TGR-1202,7541
+6,6328,Brentuximab vedotin + Dacarbazine + Doxorubicin + Nivolumab + Vinblastine,7541
+7,4300,Brentuximab vedotin + Ibrutinib,7541
+8,2487,Brentuximab vedotin + Ipilimumab,7541
+9,3264,Brentuximab vedotin + Mocetinostat,7541
+10,3263,Brentuximab vedotin + Nivolumab,7541
+11,3770,Brentuximab vedotin + TGR-1202,7541
 0,634,AP26113,6840
 0,996,Brivanib,7113
 0,839,Brontictuzumab,7069
@@ -1494,6 +1498,7 @@
 1,3540,BSI-401 + Oxaliplatin,8126
 0,6305,Atezolizumab + BTCT4465A,8967
 1,6304,BTCT4465A,8967
+0,6336,BTP-114,8974
 0,1862,Bufalin,7350
 0,1206,Busulfan,997
 1,3201,Busulfan + Clofarabine + Fludarabine,997
@@ -1538,20 +1543,21 @@
 0,4770,Abiraterone + cabozantinib,7115
 1,6094,Atezolizumab + Cabozantinib,7115
 2,998,cabozantinib,7115
-3,5066,Cabozantinib + CT-707,7115
-4,2069,cabozantinib + Docetaxel,7115
-5,1255,Cabozantinib + Erlotinib,7115
-6,1965,cabozantinib + Fulvestrant,7115
-7,5064,Cabozantinib + Gefitinib,7115
-8,2070,Cabozantinib + Gemcitabine,7115
-9,2068,Cabozantinib + Ipilimumab + Nivolumab,7115
-10,5412,Cabozantinib + Navitoclax,7115
-11,2067,Cabozantinib + Nivolumab,7115
-12,1236,Cabozantinib + Sunitinib,7115
-13,5490,Cabozantinib + unspecified CTLA4 antibody + unspecified PD-1 antibody,7115
-14,1235,Cabozantinib + Vemurafenib,7115
-15,1985,Panitumumab + cabozantinib,7115
-16,5680,Pembrolizumab + Cabozantinib,7115
+3,6330,Cabozantinib + Carfilzomib + Dexamethasone,7115
+4,5066,Cabozantinib + CT-707,7115
+5,2069,cabozantinib + Docetaxel,7115
+6,1255,Cabozantinib + Erlotinib,7115
+7,1965,cabozantinib + Fulvestrant,7115
+8,5064,Cabozantinib + Gefitinib,7115
+9,2070,Cabozantinib + Gemcitabine,7115
+10,2068,Cabozantinib + Ipilimumab + Nivolumab,7115
+11,5412,Cabozantinib + Navitoclax,7115
+12,2067,Cabozantinib + Nivolumab,7115
+13,1236,Cabozantinib + Sunitinib,7115
+14,5490,Cabozantinib + unspecified CTLA4 antibody + unspecified PD-1 antibody,7115
+15,1235,Cabozantinib + Vemurafenib,7115
+16,1985,Panitumumab + cabozantinib,7115
+17,5680,Pembrolizumab + Cabozantinib,7115
 0,3695,calcipotriene,8210
 0,2889,calcitriol,7817
 0,3528,Cambinol,8121
@@ -1722,116 +1728,125 @@
 85,5054,Carboplatin + Paclitaxel + Pemetrexed + Veliparib,947
 86,6266,Carboplatin + Paclitaxel + PTC596,947
 87,2640,Carboplatin + Paclitaxel + Selinexor,947
-88,2196,Carboplatin + Paclitaxel + Trametinib,947
-89,5274,Carboplatin + Paclitaxel + Veliparib,947
-90,4735,Carboplatin + Palbociclib,947
-91,5265,Carboplatin + Pembrolizumab,947
-92,1602,Carboplatin + Pemetrexed,947
-93,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,947
-94,4843,Carboplatin + STA-8666,947
-95,5341,Carboplatin + Topotecan + Veliparib,947
-96,4870,Carboplatin + Torkinib,947
-97,4566,Carboplatin + Triciribine,947
-98,4253,Carboplatin + VX-970,947
-99,4514,Cediranib + Carboplatin,947
-100,1664,Cediranib + Carboplatin + Paclitaxel,947
-101,1914,Cetuximab + Carboplatin + Fluorouracil,947
-102,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,947
-103,1375,Cisplatin + Etoposide + Paclitaxel + Carboplatin + Erlotinib,947
-104,5241,Cisplatin + Vinorelbine + Gemcitabine + Docetaxel + Pemetrexed + Carboplatin,947
-105,1819,Dasatinib + Paclitaxel + Carboplatin,947
-106,1608,Decitabine + Carboplatin,947
-107,1346,DNIB0600A + Carboplatin,947
-108,1347,DNIB0600A + Carboplatin + Bevacizumab,947
-109,1834,Docetaxel + Carboplatin,947
-110,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,947
-111,1291,Erlotinib + Carboplatin,947
-112,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,947
-113,4785,Gedatolisib + Paclitaxel + Carboplatin,947
-114,1294,Gemcitabine + Bevacizumab + Carboplatin,947
-115,1943,Gemcitabine + Carboplatin + Panitumumab,947
-116,5833,Imatinib + Carboplatin + Paclitaxel,947
-117,5485,INCB024360 + Pembrolizumab + Carboplatin + Paclitaxel,947
-118,5486,INCB024360 + Pembrolizumab + Carboplatin + Pemetrexed,947
-119,1173,Iniparib + doxorubicin + carboplatin,947
-120,1169,Iniparib + Gemcitabine + Carboplatin,947
-121,4400,Ipafricept + Carboplatin + Paclitaxel,947
-122,2477,Lapatinib + Carboplatin + Cisplatin + Paclitaxel,947
-123,2476,Lapatinib + Carboplatin + Paclitaxel,947
-124,5333,LEE011 + Carboplatin + Paclitaxel,947
-125,1885,Lenvatinib + Carboplatin + Paclitaxel,947
-126,2310,Linifanib + Paclitaxel + Carboplatin,947
-127,2134,Mebendazole + Vincristine + Carboplatin + Temozolomide,947
-128,5306,MEDI4736 + Carboplatin + Cisplatin + Etoposide,947
-129,5305,MEDI4736 + Tremelimumab + Carboplatin + Cisplatin + Etoposide,947
-130,2213,MEK162 + Carboplatin + Pemetrexed,947
-131,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,947
-132,1194,MK-1775 + Carboplatin ,947
-133,3800,MK-1775 + Carboplatin + Paclitaxel,947
-134,1694,Motesanib + Carboplatin,947
-135,1489,Nab-paclitaxel + Carboplatin + Bevacizumab,947
-136,1490,Nab-paclitaxel + Carboplatin + Trastuzumab,947
-137,4973,Necitumumab + Gemcitabine + Carboplatin,947
-138,3234,Nintedanib + Carboplatin + Paclitaxel,947
-139,5303,Nivolumab + Carboplatin + Paclitaxel,947
-140,5198,Nivolumab + Etoposide + Ifosfamide + Carboplatin,947
-141,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,947
-142,1371,Onartuzumab + Erlotinib + Paclitaxel + Carboplatin,947
-143,1370,Onartuzumab + Paclitaxel + Carboplatin,947
-144,1190,Oregovomab + Carboplatin + Paclitaxel,947
-145,1124,Paclitaxel + Carboplatin,947
-146,1827,Paclitaxel + Carboplatin + Docetaxel,947
-147,1488,Paclitaxel + Carboplatin + Hydroxychloroquine,947
-148,1381,Paclitaxel + Carboplatin + Metformin,947
-149,1887,Paclitaxel + Carboplatin + Trastuzumab,947
-150,1984,Panitumumab + Abraxane + Carboplatin,947
-151,3202,Panobinostat + Carboplatin + Paclitaxel,947
-152,1714,Pazopanib + Carboplatin + Paclitaxel,947
-153,5435,Pembrolizumab + Etoposide + Carboplatin + Ifosfamide,947
-154,6024,Pemetrexed + PDR001 + Cisplatin + Carboplatin,947
-155,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,947
-156,1726,Ramucirumab + Paclitaxel + Carboplatin,947
-157,5722,REGN2810 + Carboplatin + Docetaxel,947
-158,5720,REGN2810 + Carboplatin + Paclitaxel,947
-159,5721,REGN2810 + Carboplatin + Pemetrexed,947
-160,3428,Sorafenib + Carboplatin + Paclitaxel,947
-161,1905,Trastuzumab + Carboplatin,947
-162,1485,Trastuzumab + Docetaxel + Carboplatin,947
-163,2704,Veliparib + Carboplatin,947
-164,1278,Veliparib + Dinaciclib + carboplatin,947
-165,1209,Vemurafenib + Carboplatin + Paclitaxel ,947
-166,5404,Venetoclax + Rituximab + Ifosfamide + Carboplatin + Etoposide,947
-167,4116,XL147 + Carboplatin,947
-168,3135,XL147 + Carboplatin + Paclitaxel,947
+88,6333,Carboplatin + Paclitaxel + Temsirolimus,947
+89,2196,Carboplatin + Paclitaxel + Trametinib,947
+90,6322,Carboplatin + Paclitaxel + TSR-042,947
+91,5274,Carboplatin + Paclitaxel + Veliparib,947
+92,4735,Carboplatin + Palbociclib,947
+93,5265,Carboplatin + Pembrolizumab,947
+94,1602,Carboplatin + Pemetrexed,947
+95,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,947
+96,4843,Carboplatin + STA-8666,947
+97,5341,Carboplatin + Topotecan + Veliparib,947
+98,4870,Carboplatin + Torkinib,947
+99,4566,Carboplatin + Triciribine,947
+100,4253,Carboplatin + VX-970,947
+101,4514,Cediranib + Carboplatin,947
+102,1664,Cediranib + Carboplatin + Paclitaxel,947
+103,1914,Cetuximab + Carboplatin + Fluorouracil,947
+104,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,947
+105,1375,Cisplatin + Etoposide + Paclitaxel + Carboplatin + Erlotinib,947
+106,5241,Cisplatin + Vinorelbine + Gemcitabine + Docetaxel + Pemetrexed + Carboplatin,947
+107,1819,Dasatinib + Paclitaxel + Carboplatin,947
+108,1608,Decitabine + Carboplatin,947
+109,1346,DNIB0600A + Carboplatin,947
+110,1347,DNIB0600A + Carboplatin + Bevacizumab,947
+111,1834,Docetaxel + Carboplatin,947
+112,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,947
+113,1291,Erlotinib + Carboplatin,947
+114,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,947
+115,4785,Gedatolisib + Paclitaxel + Carboplatin,947
+116,1294,Gemcitabine + Bevacizumab + Carboplatin,947
+117,1943,Gemcitabine + Carboplatin + Panitumumab,947
+118,5833,Imatinib + Carboplatin + Paclitaxel,947
+119,5485,INCB024360 + Pembrolizumab + Carboplatin + Paclitaxel,947
+120,5486,INCB024360 + Pembrolizumab + Carboplatin + Pemetrexed,947
+121,1173,Iniparib + doxorubicin + carboplatin,947
+122,1169,Iniparib + Gemcitabine + Carboplatin,947
+123,4400,Ipafricept + Carboplatin + Paclitaxel,947
+124,2477,Lapatinib + Carboplatin + Cisplatin + Paclitaxel,947
+125,2476,Lapatinib + Carboplatin + Paclitaxel,947
+126,5333,LEE011 + Carboplatin + Paclitaxel,947
+127,1885,Lenvatinib + Carboplatin + Paclitaxel,947
+128,2310,Linifanib + Paclitaxel + Carboplatin,947
+129,2134,Mebendazole + Vincristine + Carboplatin + Temozolomide,947
+130,5306,MEDI4736 + Carboplatin + Cisplatin + Etoposide,947
+131,5305,MEDI4736 + Tremelimumab + Carboplatin + Cisplatin + Etoposide,947
+132,2213,MEK162 + Carboplatin + Pemetrexed,947
+133,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,947
+134,1194,MK-1775 + Carboplatin ,947
+135,3800,MK-1775 + Carboplatin + Paclitaxel,947
+136,1694,Motesanib + Carboplatin,947
+137,1489,Nab-paclitaxel + Carboplatin + Bevacizumab,947
+138,1490,Nab-paclitaxel + Carboplatin + Trastuzumab,947
+139,4973,Necitumumab + Gemcitabine + Carboplatin,947
+140,3234,Nintedanib + Carboplatin + Paclitaxel,947
+141,5303,Nivolumab + Carboplatin + Paclitaxel,947
+142,5198,Nivolumab + Etoposide + Ifosfamide + Carboplatin,947
+143,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,947
+144,1371,Onartuzumab + Erlotinib + Paclitaxel + Carboplatin,947
+145,1370,Onartuzumab + Paclitaxel + Carboplatin,947
+146,1190,Oregovomab + Carboplatin + Paclitaxel,947
+147,1124,Paclitaxel + Carboplatin,947
+148,1827,Paclitaxel + Carboplatin + Docetaxel,947
+149,1488,Paclitaxel + Carboplatin + Hydroxychloroquine,947
+150,1381,Paclitaxel + Carboplatin + Metformin,947
+151,1887,Paclitaxel + Carboplatin + Trastuzumab,947
+152,1984,Panitumumab + Abraxane + Carboplatin,947
+153,3202,Panobinostat + Carboplatin + Paclitaxel,947
+154,1714,Pazopanib + Carboplatin + Paclitaxel,947
+155,5435,Pembrolizumab + Etoposide + Carboplatin + Ifosfamide,947
+156,6024,Pemetrexed + PDR001 + Cisplatin + Carboplatin,947
+157,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,947
+158,1726,Ramucirumab + Paclitaxel + Carboplatin,947
+159,5722,REGN2810 + Carboplatin + Docetaxel,947
+160,5720,REGN2810 + Carboplatin + Paclitaxel,947
+161,5721,REGN2810 + Carboplatin + Pemetrexed,947
+162,3428,Sorafenib + Carboplatin + Paclitaxel,947
+163,1905,Trastuzumab + Carboplatin,947
+164,1485,Trastuzumab + Docetaxel + Carboplatin,947
+165,2704,Veliparib + Carboplatin,947
+166,1278,Veliparib + Dinaciclib + carboplatin,947
+167,1209,Vemurafenib + Carboplatin + Paclitaxel ,947
+168,5404,Venetoclax + Rituximab + Ifosfamide + Carboplatin + Etoposide,947
+169,4116,XL147 + Carboplatin,947
+170,3135,XL147 + Carboplatin + Paclitaxel,947
 0,2121,Bevacizumab + Carboxyamidotriazole Orotate ,7118
 1,999,Carboxyamidotriazole Orotate,7118
 2,1663,Carboxyamidotriazole Orotate + Paclitaxel,7118
 3,1142,CTO + Temozolomide,7118
 0,1839,Afuresertib + Carfilzomib,7299
 1,1625,Bortezomib + Carfilzomib + Clarithromycin,7299
-2,1624,Carfilzomib,7299
-3,4367,Carfilzomib + Dexamethasone + lenalidomide + Panobinostat,7299
-4,6289,Carfilzomib + Dexamethasone + Panobinostat,7299
-5,2463,Carfilzomib + Dexamethasone + Reolysin,7299
-6,2985,Carfilzomib + Dexamethasone + Selinexor,7299
-7,5268,Carfilzomib + Dexamethasone + Venetoclax,7299
-8,6016,Carfilzomib + DT204,7299
-9,6106,Carfilzomib + EDO-S101,7299
-10,5033,Carfilzomib + Elotuzumab + Dexamethasone + lenalidomide,7299
-11,5555,Carfilzomib + Elotuzumab + Dexamethasone + Pomalidomide,7299
-12,3282,Carfilzomib + Ibrutinib,7299
-13,3438,Carfilzomib + Panobinostat,7299
-14,3384,Carfilzomib + Ricolinostat,7299
-15,2351,Carfilzomib + Rituximab,7299
-16,6143,Carfilzomib + Selinexor,7299
-17,5899,Carfilzomib + TG02,7299
-18,4598,Carfilzomib + TGR-1202,7299
+2,6330,Cabozantinib + Carfilzomib + Dexamethasone,7299
+3,1624,Carfilzomib,7299
+4,4367,Carfilzomib + Dexamethasone + lenalidomide + Panobinostat,7299
+5,6289,Carfilzomib + Dexamethasone + Panobinostat,7299
+6,2463,Carfilzomib + Dexamethasone + Reolysin,7299
+7,2985,Carfilzomib + Dexamethasone + Selinexor,7299
+8,5268,Carfilzomib + Dexamethasone + Venetoclax,7299
+9,6016,Carfilzomib + DT204,7299
+10,6106,Carfilzomib + EDO-S101,7299
+11,5033,Carfilzomib + Elotuzumab + Dexamethasone + lenalidomide,7299
+12,5555,Carfilzomib + Elotuzumab + Dexamethasone + Pomalidomide,7299
+13,3282,Carfilzomib + Ibrutinib,7299
+14,3438,Carfilzomib + Panobinostat,7299
+15,3384,Carfilzomib + Ricolinostat,7299
+16,2351,Carfilzomib + Rituximab,7299
+17,6143,Carfilzomib + Selinexor,7299
+18,5899,Carfilzomib + TG02,7299
+19,4598,Carfilzomib + TGR-1202,7299
 0,6258,Basiliximab + 90Y basiliximab + Carmustine + Cytarbine + Etoposide + Melphalan,255
 1,2371,Bevacizumab + Carmustine,255
 2,1811,Carmustine,255
 3,3359,Carmustine + Cytarabine + Etoposide + Melphalan,255
 4,2555,Carmustine + Filgrastim + Plerixafor + Temozolomide,255
 0,3604,Carnosic acid,8164
+0,1243,Bevacizumab + TRC105,7227
+1,1242,Carotuximab,7227
+2,6334,Carotuximab + Nivolumab,7227
+3,2389,Carotuximab + Sorafenib,7227
+4,1335,TRC105 + Axitinib,7227
+5,1431,TRC105 + Pazopanib,7227
 0,5999,CART19 cells,8887
 0,6221,CB-103,8941
 0,4721,CB-1158,8531
@@ -2000,51 +2015,52 @@
 50,5951,Cetuximab + JNJ 38877605,2
 51,1672,Cetuximab + Lapatinib,2
 52,4647,Cetuximab + lenalidomide,2
-53,6309,Cetuximab + Lumretuzumab,2
-54,4559,Cetuximab + Mannitol,2
-55,1840,Cetuximab + Methotrexate,2
-56,5679,Cetuximab + Motolimod,2
-57,3127,Cetuximab + nab-paclitaxel,2
-58,1118,Cetuximab + Neratinib,2
-59,4761,Cetuximab + Nivolumab,2
-60,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,2
-61,2145,Cetuximab + PEGPH20,2
-62,6208,Cetuximab + PLX4720,2
-63,1993,Cetuximab + Prexasertib,2
-64,5661,Cetuximab + Prexasertib + Radiotherapy,2
-65,3790,Cetuximab + Savolitinib,2
-66,4543,Cetuximab + SCH772984,2
-67,4536,Cetuximab + Selumetinib,2
-68,4540,Cetuximab + Selumetinib + Vemurafenib,2
-69,4568,Cetuximab + Sunitinib,2
-70,3505,Cetuximab + Trametinib,2
-71,1413,Cetuximab + Trastuzumab,2
-72,2066,Cetuximab + Urelumab,2
-73,6209,Cetuxmab + Sorafenib,2
-74,1987,Cisplatin + Docetaxel + Cetuximab,2
-75,1997,Cyclophosphamide + Cetuximab,2
-76,1925,Docetaxel + Cetuximab,2
-77,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,2
-78,1959,Ficlatuzumab + Cetuximab,2
-79,2000,Fluorouracil + Cetuximab,2
-80,1618,INC280 + Cetuximab ,2
-81,1920,Irinotecan + Cetuximab + Ramucirumab,2
-82,1919,Irinotecan + Oxaliplatin + Cetuximab,2
-83,2008,LGK974 + LGX818 + Cetuximab,2
-84,1917,LGX818 + Cetuximab + BYL719,2
-85,1929,Nilotinib + Cetuximab,2
-86,1999,Olaparib + Cetuximab,2
-87,1988,Paclitaxel + Cetuximab,2
-88,1705,Palbociclib + Cetuximab,2
-89,1838,Pazopanib + Cetuximab,2
-90,1910,Pembrolizumab + Cetuximab,2
-91,1247,REGN1400 + Cetuximab,2
-92,1305,Regorafenib + Cetuximab,2
-93,1159,Temsirolimus + Bevacizumab + Cetuximab,2
-94,1376,Temsirolimus + Bevacizumab + Valproic Acid + Cetuximab,2
-95,1671,Temsirolimus + Cetuximab,2
-96,1711,Vemurafenib + Cetuximab,2
-97,1331,Vemurafenib + Cetuximab + Irinotecan ,2
+53,6338,Cetuximab + LSN3074753,2
+54,6309,Cetuximab + Lumretuzumab,2
+55,4559,Cetuximab + Mannitol,2
+56,1840,Cetuximab + Methotrexate,2
+57,5679,Cetuximab + Motolimod,2
+58,3127,Cetuximab + nab-paclitaxel,2
+59,1118,Cetuximab + Neratinib,2
+60,4761,Cetuximab + Nivolumab,2
+61,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,2
+62,2145,Cetuximab + PEGPH20,2
+63,6208,Cetuximab + PLX4720,2
+64,1993,Cetuximab + Prexasertib,2
+65,5661,Cetuximab + Prexasertib + Radiotherapy,2
+66,3790,Cetuximab + Savolitinib,2
+67,4543,Cetuximab + SCH772984,2
+68,4536,Cetuximab + Selumetinib,2
+69,4540,Cetuximab + Selumetinib + Vemurafenib,2
+70,4568,Cetuximab + Sunitinib,2
+71,3505,Cetuximab + Trametinib,2
+72,1413,Cetuximab + Trastuzumab,2
+73,2066,Cetuximab + Urelumab,2
+74,6209,Cetuxmab + Sorafenib,2
+75,1987,Cisplatin + Docetaxel + Cetuximab,2
+76,1997,Cyclophosphamide + Cetuximab,2
+77,1925,Docetaxel + Cetuximab,2
+78,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,2
+79,1959,Ficlatuzumab + Cetuximab,2
+80,2000,Fluorouracil + Cetuximab,2
+81,1618,INC280 + Cetuximab ,2
+82,1920,Irinotecan + Cetuximab + Ramucirumab,2
+83,1919,Irinotecan + Oxaliplatin + Cetuximab,2
+84,2008,LGK974 + LGX818 + Cetuximab,2
+85,1917,LGX818 + Cetuximab + BYL719,2
+86,1929,Nilotinib + Cetuximab,2
+87,1999,Olaparib + Cetuximab,2
+88,1988,Paclitaxel + Cetuximab,2
+89,1705,Palbociclib + Cetuximab,2
+90,1838,Pazopanib + Cetuximab,2
+91,1910,Pembrolizumab + Cetuximab,2
+92,1247,REGN1400 + Cetuximab,2
+93,1305,Regorafenib + Cetuximab,2
+94,1159,Temsirolimus + Bevacizumab + Cetuximab,2
+95,1376,Temsirolimus + Bevacizumab + Valproic Acid + Cetuximab,2
+96,1671,Temsirolimus + Cetuximab,2
+97,1711,Vemurafenib + Cetuximab,2
+98,1331,Vemurafenib + Cetuximab + Irinotecan ,2
 0,2825,CFG920,7765
 0,3463,CFI-400936,8087
 0,4029,CFI-400945,8329
@@ -2589,49 +2605,50 @@
 32,2392,Cytarabine + Etoposide,976
 33,3183,Cytarabine + Ficlatuzumab,976
 34,4271,Cytarabine + Filgrastim + Fludarabine,976
-35,2294,Cytarabine + Fludarabine,976
-36,3193,Cytarabine + Fludarabine + Idarubicin,976
-37,3732,Cytarabine + Fludarabine + Leucovorin + Panobinostat,976
-38,3535,Cytarabine + Fludarabine + Prexasertib,976
-39,3182,Cytarabine + GDC-0199,976
-40,1606,Cytarabine + Idarubicin,976
-41,1850,Cytarabine + Idarubicin + Dasatinib,976
-42,3573,Cytarabine + Idarubicin + Ibrutinib,976
-43,4499,Cytarabine + Idarubicin + indoximod,976
-44,3470,Cytarabine + Idarubicin + LY2510924,976
-45,3192,Cytarabine + Idarubicin + Nivolumab,976
-46,2232,Cytarabine + Idarubicin + Sirolimus,976
-47,5959,Cytarabine + Idarubicin + Venetoclax,976
-48,3213,Cytarabine + Idarubicin + Volasertib,976
-49,4395,Cytarabine + Idasanutlin,976
-50,3195,Cytarabine + Methotrexate ,976
-51,2048,Cytarabine + Methotrexate + Ponatinib,976
-52,3216,Cytarabine + Methotrexate + Prednisone,976
-53,6095,Cytarabine + Midostaurin,976
-54,2393,Cytarabine + Mitoxantrone,976
-55,5037,Cytarabine + Mocetinostat,976
-56,3887,Cytarabine + OXi4503,976
-57,5036,Cytarabine + Panobinostat,976
-58,2466,Cytarabine + Pri-724,976
-59,5509,Cytarabine + RN-1,976
-60,4968,Cytarabine + RO6839921,976
-61,5035,Cytarabine + Romidepsin,976
-62,6259,Cytarabine + Ulocuplumab,976
-63,1802,Cytarabine + Vismodegib,976
-64,4506,Cytarabine + Volasertib,976
-65,3174,Dasatinib + Cytarabine,976
-66,1738,Daunorubicin + Cytarabine,976
-67,1739,Daunorubicin + Cytarabine + Decitabine,976
-68,1736,Decitabine + Cytarabine,976
-69,3677,LGH447 + Cytarabine,976
-70,2220,MEK162 + Idarubicin + Cytarabine,976
-71,1792,Metformin + Cytarabine,976
-72,1865,Methotrexate + Cytarabine + Leucovorin,976
-73,1752,Mitoxantrone + Etoposide + Cytarabine,976
-74,1794,Omacetaxine + Cytarabine + Decitabine,976
-75,3176,Pacritinib + Cytarabine,976
-76,5448,Selinexor + Fludarabine phosphate + Cytarabine + Methotrexate + Prednisone,976
-77,2923,Sunitinib + Cytarabine + Daunorubicin,976
+35,6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax,976
+36,2294,Cytarabine + Fludarabine,976
+37,3193,Cytarabine + Fludarabine + Idarubicin,976
+38,3732,Cytarabine + Fludarabine + Leucovorin + Panobinostat,976
+39,3535,Cytarabine + Fludarabine + Prexasertib,976
+40,3182,Cytarabine + GDC-0199,976
+41,1606,Cytarabine + Idarubicin,976
+42,1850,Cytarabine + Idarubicin + Dasatinib,976
+43,3573,Cytarabine + Idarubicin + Ibrutinib,976
+44,4499,Cytarabine + Idarubicin + indoximod,976
+45,3470,Cytarabine + Idarubicin + LY2510924,976
+46,3192,Cytarabine + Idarubicin + Nivolumab,976
+47,2232,Cytarabine + Idarubicin + Sirolimus,976
+48,5959,Cytarabine + Idarubicin + Venetoclax,976
+49,3213,Cytarabine + Idarubicin + Volasertib,976
+50,4395,Cytarabine + Idasanutlin,976
+51,3195,Cytarabine + Methotrexate ,976
+52,2048,Cytarabine + Methotrexate + Ponatinib,976
+53,3216,Cytarabine + Methotrexate + Prednisone,976
+54,6095,Cytarabine + Midostaurin,976
+55,2393,Cytarabine + Mitoxantrone,976
+56,5037,Cytarabine + Mocetinostat,976
+57,3887,Cytarabine + OXi4503,976
+58,5036,Cytarabine + Panobinostat,976
+59,2466,Cytarabine + Pri-724,976
+60,5509,Cytarabine + RN-1,976
+61,4968,Cytarabine + RO6839921,976
+62,5035,Cytarabine + Romidepsin,976
+63,6259,Cytarabine + Ulocuplumab,976
+64,1802,Cytarabine + Vismodegib,976
+65,4506,Cytarabine + Volasertib,976
+66,3174,Dasatinib + Cytarabine,976
+67,1738,Daunorubicin + Cytarabine,976
+68,1739,Daunorubicin + Cytarabine + Decitabine,976
+69,1736,Decitabine + Cytarabine,976
+70,3677,LGH447 + Cytarabine,976
+71,2220,MEK162 + Idarubicin + Cytarabine,976
+72,1792,Metformin + Cytarabine,976
+73,1865,Methotrexate + Cytarabine + Leucovorin,976
+74,1752,Mitoxantrone + Etoposide + Cytarabine,976
+75,1794,Omacetaxine + Cytarabine + Decitabine,976
+76,3176,Pacritinib + Cytarabine,976
+77,5448,Selinexor + Fludarabine phosphate + Cytarabine + Methotrexate + Prednisone,976
+78,2923,Sunitinib + Cytarabine + Daunorubicin,976
 0,5318,ABT-263 + Alpelisib + Dabrafenib + Erlotinib,6819
 1,5317,ABT-263 + CGM097 + Dabrafenib + PF-04217903,6819
 2,5361,Altiratinib + Dabrafenib,6819
@@ -2671,11 +2688,12 @@
 36,1303,Trametinib + Dabrafenib + Navitoclax,6819
 0,5295,Bleomycin + Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,841
 1,5056,Brentuximab vedotin + Dacarbazine,841
-2,1154,Dacarbazine,841
-3,6157,Dacarbazine + Doxorubicin + Pembrolizumab +Vinblastine,841
-4,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,841
-5,1723,Ramucirumab + Dacarbazine,841
-6,1432,Selumetinib + Dacarbazine,841
+2,6328,Brentuximab vedotin + Dacarbazine + Doxorubicin + Nivolumab + Vinblastine,841
+3,1154,Dacarbazine,841
+4,6157,Dacarbazine + Doxorubicin + Pembrolizumab +Vinblastine,841
+5,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,841
+6,1723,Ramucirumab + Dacarbazine,841
+7,1432,Selumetinib + Dacarbazine,841
 0,5038,Cytarabine + Dacinostat,8596
 1,5034,Dacinostat,8596
 0,4009,BMS-754807 + Dacomitinib,6893
@@ -2990,81 +3008,82 @@
 9,5569,Bevacizumab + Doxorubicin + Everolimus,986
 10,5570,Bevacizumab + Doxorubicin + Temsirolimus,986
 11,5295,Bleomycin + Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,986
-12,3529,Cambinol + Doxorubicin,986
-13,1953,Carboplatin + Doxorubicin,986
-14,1927,Cisplatin + Doxorubicin + Cyclophosphamide,986
-15,1851,Cisplatin + Doxorubicin + Cyclophosphamide + Etoposide,986
-16,4714,CPI-0610 + Doxorubicin,986
-17,2046,Cyclophosphamide + Dexamethasone + Doxorubicin + Vincristine ,986
-18,2482,Cyclophosphamide + Doxorubicin + Etoposide + Vincristine ,986
-19,6236,Cyclophosphamide + Doxorubicin + Paclitaxel + MCS110,986
-20,4679,Cyclophosphamide + Doxorubicin + Paclitaxel + Ruxolitinib,986
-21,4248,Cyclophosphamide + Doxorubicin + Prednisone,986
-22,3266,Cyclophosphamide + Doxorubicin + Prednisone + Vincristine ,986
-23,2353,Cyclophosphamide + Doxorubicin + Vincristine ,986
-24,6157,Dacarbazine + Doxorubicin + Pembrolizumab +Vinblastine,986
-25,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,986
-26,3837,Dalantercept + Doxorubicin,986
-27,4685,Dexamethasone + Doxorubicin,986
-28,2952,Dexamethasone + Doxorubicin + Vincristine,986
-29,5019,Dinaciclib + Doxorubicin,986
-30,1902,Docetaxel + Doxorubicin + Cyclophosphamide,986
-31,6040,Docetaxel + Doxorubicin + Pembrolizumab,986
-32,1009,Doxorubicin,986
-33,1473,Doxorubicin + Bevacizumab,986
-34,1977,Doxorubicin + Cyclophosphamide,986
-35,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,986
-36,2292,Doxorubicin + Etoposide + Fludarabine + Vincristine ,986
-37,3212,Doxorubicin + Etoposide + Vincristine ,986
-38,1706,Doxorubicin + Flourouracil + Cyclophosphamide,986
-39,4816,Doxorubicin + FX1,986
-40,3815,Doxorubicin + GSK2830371,986
-41,1472,Doxorubicin + Ifosfamide,986
-42,6292,Doxorubicin + Ifosfamide + Mesna + Olaratumab,986
-43,6311,Doxorubicin + Lurbinectedin,986
-44,6194,Doxorubicin + NU6027,986
-45,5047,Doxorubicin + NU7441,986
-46,4140,Doxorubicin + Olaratumab,986
-47,1904,Doxorubicin + Paclitaxel,986
-48,4690,Doxorubicin + Pembrolizumab,986
-49,6142,Doxorubicin + Prexasertib,986
-50,4112,Doxorubicin + RG7386,986
-51,5179,Doxorubicin + Ribociclib,986
-52,5571,Doxorubicin + Safingol,986
-53,5678,Doxorubicin + Seliciclib,986
-54,3663,Doxorubicin + Sirolimus,986
-55,4577,Doxorubicin + SLCB050,986
-56,2363,Doxorubicin + Sorafenib,986
-57,5688,Doxorubicin + Tozasertib,986
-58,4150,Doxorubicin + Trabectedin,986
-59,3527,Doxorubicin + Vorinostat,986
-60,2211,EPOCH,986
-61,2307,Fludarabine + EPOCH,986
-62,3715,GANT61 + Doxorubicin,986
-63,3299,I-CBP112 + Doxorubicin,986
-64,1173,Iniparib + doxorubicin + carboplatin,986
-65,5350,MEDI4736 + R2-CHOP,986
-66,5349,MEDI4736 + Rituximab + Doxorubicin + Vincristine + Cyclophosphamide + Prednisone,986
-67,3487,MEDI5117 + Doxorubucin,986
-68,4284,MK-1775 + Doxorubicin,986
-69,6257,Obinutuzumab + CHOP,986
-70,1495,Paclitaxel + Doxorubicin + Cyclophosphamide,986
-71,1505,Paclitaxel + Neratinib + Doxorubicin + Cyclophosphamide,986
-72,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,986
-73,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,986
-74,1471,Pazopanib + Doxorubicin + Ifosfamide,986
-75,5122,PLX4720 + Doxorubicin,986
-76,2195,R-CHOP,986
-77,6177,R-CHP,986
-78,3395,R-EPOCH,986
-79,2306,Rituximab + Fludarabine + EPOCH,986
-80,5286,Selinexor + Doxorubicin,986
-81,3501,SPI-001 + Doxorubicin,986
-82,5294,Venetoclax + DA-EPOCH-R,986
-83,1830,Vincristine + Dexamethasone + Pegaspargase + Doxorubicin,986
-84,1433,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide,986
-85,1434,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide + others,986
-86,2670,Vincristine + Doxorubicin + Dactinomycin + Ifosfamide + Etoposide,986
+12,6328,Brentuximab vedotin + Dacarbazine + Doxorubicin + Nivolumab + Vinblastine,986
+13,3529,Cambinol + Doxorubicin,986
+14,1953,Carboplatin + Doxorubicin,986
+15,1927,Cisplatin + Doxorubicin + Cyclophosphamide,986
+16,1851,Cisplatin + Doxorubicin + Cyclophosphamide + Etoposide,986
+17,4714,CPI-0610 + Doxorubicin,986
+18,2046,Cyclophosphamide + Dexamethasone + Doxorubicin + Vincristine ,986
+19,2482,Cyclophosphamide + Doxorubicin + Etoposide + Vincristine ,986
+20,6236,Cyclophosphamide + Doxorubicin + Paclitaxel + MCS110,986
+21,4679,Cyclophosphamide + Doxorubicin + Paclitaxel + Ruxolitinib,986
+22,4248,Cyclophosphamide + Doxorubicin + Prednisone,986
+23,3266,Cyclophosphamide + Doxorubicin + Prednisone + Vincristine ,986
+24,2353,Cyclophosphamide + Doxorubicin + Vincristine ,986
+25,6157,Dacarbazine + Doxorubicin + Pembrolizumab +Vinblastine,986
+26,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,986
+27,3837,Dalantercept + Doxorubicin,986
+28,4685,Dexamethasone + Doxorubicin,986
+29,2952,Dexamethasone + Doxorubicin + Vincristine,986
+30,5019,Dinaciclib + Doxorubicin,986
+31,1902,Docetaxel + Doxorubicin + Cyclophosphamide,986
+32,6040,Docetaxel + Doxorubicin + Pembrolizumab,986
+33,1009,Doxorubicin,986
+34,1473,Doxorubicin + Bevacizumab,986
+35,1977,Doxorubicin + Cyclophosphamide,986
+36,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,986
+37,2292,Doxorubicin + Etoposide + Fludarabine + Vincristine ,986
+38,3212,Doxorubicin + Etoposide + Vincristine ,986
+39,1706,Doxorubicin + Flourouracil + Cyclophosphamide,986
+40,4816,Doxorubicin + FX1,986
+41,3815,Doxorubicin + GSK2830371,986
+42,1472,Doxorubicin + Ifosfamide,986
+43,6292,Doxorubicin + Ifosfamide + Mesna + Olaratumab,986
+44,6311,Doxorubicin + Lurbinectedin,986
+45,6194,Doxorubicin + NU6027,986
+46,5047,Doxorubicin + NU7441,986
+47,4140,Doxorubicin + Olaratumab,986
+48,1904,Doxorubicin + Paclitaxel,986
+49,4690,Doxorubicin + Pembrolizumab,986
+50,6142,Doxorubicin + Prexasertib,986
+51,4112,Doxorubicin + RG7386,986
+52,5179,Doxorubicin + Ribociclib,986
+53,5571,Doxorubicin + Safingol,986
+54,5678,Doxorubicin + Seliciclib,986
+55,3663,Doxorubicin + Sirolimus,986
+56,4577,Doxorubicin + SLCB050,986
+57,2363,Doxorubicin + Sorafenib,986
+58,5688,Doxorubicin + Tozasertib,986
+59,4150,Doxorubicin + Trabectedin,986
+60,3527,Doxorubicin + Vorinostat,986
+61,2211,EPOCH,986
+62,2307,Fludarabine + EPOCH,986
+63,3715,GANT61 + Doxorubicin,986
+64,3299,I-CBP112 + Doxorubicin,986
+65,1173,Iniparib + doxorubicin + carboplatin,986
+66,5350,MEDI4736 + R2-CHOP,986
+67,5349,MEDI4736 + Rituximab + Doxorubicin + Vincristine + Cyclophosphamide + Prednisone,986
+68,3487,MEDI5117 + Doxorubucin,986
+69,4284,MK-1775 + Doxorubicin,986
+70,6257,Obinutuzumab + CHOP,986
+71,1495,Paclitaxel + Doxorubicin + Cyclophosphamide,986
+72,1505,Paclitaxel + Neratinib + Doxorubicin + Cyclophosphamide,986
+73,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,986
+74,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,986
+75,1471,Pazopanib + Doxorubicin + Ifosfamide,986
+76,5122,PLX4720 + Doxorubicin,986
+77,2195,R-CHOP,986
+78,6177,R-CHP,986
+79,3395,R-EPOCH,986
+80,2306,Rituximab + Fludarabine + EPOCH,986
+81,5286,Selinexor + Doxorubicin,986
+82,3501,SPI-001 + Doxorubicin,986
+83,5294,Venetoclax + DA-EPOCH-R,986
+84,1830,Vincristine + Dexamethasone + Pegaspargase + Doxorubicin,986
+85,1433,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide,986
+86,1434,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide + others,986
+87,2670,Vincristine + Doxorubicin + Dactinomycin + Ifosfamide + Etoposide,986
 0,4926,Cisplatin + DPP-23,8582
 1,4925,DPP-23,8582
 0,4280,Cyclophosphamide + DPX-Survivac,8385
@@ -3690,11 +3709,12 @@
 4,4363,Cladribine + Cytarabine + Filgrastim + Mitoxantrone,95
 5,4391,CPX-351 + Cytarabine + Filgrastim + Fludarabine ,95
 6,4271,Cytarabine + Filgrastim + Fludarabine,95
-7,4977,Dexamethasone + Filgrastim + Palifermin + Rituximab,95
-8,3113,Docetaxel + Filgrastim + Prednisone + Ribociclib,95
-9,3222,Etoposide + Filgrastim + Plerixafor,95
-10,1632,Filgrastim,95
-11,3933,Filgrastim + Plerixafor,95
+7,6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax,95
+8,4977,Dexamethasone + Filgrastim + Palifermin + Rituximab,95
+9,3113,Docetaxel + Filgrastim + Prednisone + Ribociclib,95
+10,3222,Etoposide + Filgrastim + Plerixafor,95
+11,1632,Filgrastim,95
+12,3933,Filgrastim + Plerixafor,95
 0,3610,Fingolimod,6778
 1,4857,Fingolimod + Gemcitabine,6778
 2,3739,Fingolimod + Sorafenib,6778
@@ -3726,25 +3746,26 @@
 21,5714,Cyclosporine + Fludarabine phosphate + Mycophenolate mofetil + Sirolimus,1060
 22,3731,Cytarabine + Dasatinib + Fludarabine  + Idarubicin,1060
 23,4271,Cytarabine + Filgrastim + Fludarabine,1060
-24,2294,Cytarabine + Fludarabine,1060
-25,3193,Cytarabine + Fludarabine + Idarubicin,1060
-26,3732,Cytarabine + Fludarabine + Leucovorin + Panobinostat,1060
-27,3535,Cytarabine + Fludarabine + Prexasertib,1060
-28,1821,Dasatinib + Rituximab + Fludarabine,1060
-29,2292,Doxorubicin + Etoposide + Fludarabine + Vincristine ,1060
-30,1166,Fludarabine,1060
-31,2307,Fludarabine + EPOCH,1060
-32,3633,Fludarabine + Ibrutinib,1060
-33,6154,Fludarabine + Ibrutinib + Pembrolizumab,1060
-34,2237,Fludarabine + Melphalan,1060
-35,4550,Fludarabine + Olaparib,1060
-36,1842,Fludarabine + Thiotepa + Cyclophosphamide,1060
-37,5321,HPVSTs + Cyclophosphamide + Fludarabine phosphate + Nivolumab,1060
-38,2185,Ibrutinib + Rituximab + Cyclophosphamide + Fludarabine,1060
-39,5098,KTE-C19 + Fludarabine phosphate + Cyclophosphamide,1060
-40,1847,lenalidomide + Fludarabine + Melphalan,1060
-41,2306,Rituximab + Fludarabine + EPOCH,1060
-42,5448,Selinexor + Fludarabine phosphate + Cytarabine + Methotrexate + Prednisone,1060
+24,6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax,1060
+25,2294,Cytarabine + Fludarabine,1060
+26,3193,Cytarabine + Fludarabine + Idarubicin,1060
+27,3732,Cytarabine + Fludarabine + Leucovorin + Panobinostat,1060
+28,3535,Cytarabine + Fludarabine + Prexasertib,1060
+29,1821,Dasatinib + Rituximab + Fludarabine,1060
+30,2292,Doxorubicin + Etoposide + Fludarabine + Vincristine ,1060
+31,1166,Fludarabine,1060
+32,2307,Fludarabine + EPOCH,1060
+33,3633,Fludarabine + Ibrutinib,1060
+34,6154,Fludarabine + Ibrutinib + Pembrolizumab,1060
+35,2237,Fludarabine + Melphalan,1060
+36,4550,Fludarabine + Olaparib,1060
+37,1842,Fludarabine + Thiotepa + Cyclophosphamide,1060
+38,5321,HPVSTs + Cyclophosphamide + Fludarabine phosphate + Nivolumab,1060
+39,2185,Ibrutinib + Rituximab + Cyclophosphamide + Fludarabine,1060
+40,5098,KTE-C19 + Fludarabine phosphate + Cyclophosphamide,1060
+41,1847,lenalidomide + Fludarabine + Melphalan,1060
+42,2306,Rituximab + Fludarabine + EPOCH,1060
+43,5448,Selinexor + Fludarabine phosphate + Cytarabine + Methotrexate + Prednisone,1060
 0,3169,Flumatinib,7966
 0,5336,Ad-CEA + Bevacizumab + FOLFOX,534
 1,2095,Aflibercept + FOLFIRI,534
@@ -3918,14 +3939,15 @@
 33,5975,Fulvestrant + REGN2878-DM1,936
 34,5068,Fulvestrant + SAR405838,936
 35,5015,Fulvestrant + Selumetinib,936
-36,4854,Fulvestrant + THZ1,936
-37,5184,GDC-0077 + Fulvestrant,936
-38,5074,GS-5829 + Fulvestrant,936
-39,5242,GSK525762 + Fulvestrant,936
-40,6099,JNJ-42756493 + Fulvestrant + Palbociclib,936
-41,1581,MLN0128 + Fulvestrant,936
-42,3290,Trastuzumab + Pertuzumab + Fulvestrant,936
-43,2199,Vistusertib + Fulvestrant,936
+36,6327,Fulvestrant + Seribantumab,936
+37,4854,Fulvestrant + THZ1,936
+38,5184,GDC-0077 + Fulvestrant,936
+39,5074,GS-5829 + Fulvestrant,936
+40,5242,GSK525762 + Fulvestrant,936
+41,6099,JNJ-42756493 + Fulvestrant + Palbociclib,936
+42,1581,MLN0128 + Fulvestrant,936
+43,3290,Trastuzumab + Pertuzumab + Fulvestrant,936
+44,2199,Vistusertib + Fulvestrant,936
 0,4816,Doxorubicin + FX1,8551
 1,4815,FX1,8551
 0,3471,G-631,8091
@@ -4191,61 +4213,62 @@
 106,4412,Gemcitabine + nab-paclitaxel + Vantictumab,433
 107,4342,Gemcitabine + nab-paclitaxel + VS-4718,433
 108,5626,Gemcitabine + NC-6004,433
-109,6297,Gemcitabine + Nivolumab,433
-110,2823,Gemcitabine + ON01910,433
-111,1611,Gemcitabine + Oxaliplatin + Dexamethasone,433
-112,5090,Gemcitabine + Oxaliplatin + Rituximab,433
-113,1478,Gemcitabine + Pazopanib,433
-114,5821,Gemcitabine + Prexasertib,433
-115,2566,Gemcitabine + Pri-724,433
-116,4093,Gemcitabine + Radiotherapy,433
-117,6205,Gemcitabine + Radiotherapy + VX-970,433
-118,5545,Gemcitabine + Refametinib,433
-119,2491,Gemcitabine + Regorafenib,433
-120,2898,Gemcitabine + Ribociclib,433
-121,5070,Gemcitabine + SRA737,433
-122,5442,Gemcitabine + Tacedinaline,433
-123,5148,Gemcitabine + TAK-659,433
-124,1889,Gemcitabine + Trastuzumab,433
-125,1592,Gemcitabine + Trastuzumab + Pertuzumab,433
-126,5484,INCB024360 + Nivolumab + Gemcitabine + nab-paclitaxel,433
-127,1169,Iniparib + Gemcitabine + Carboplatin,433
-128,1499,Lapatinib + Gemcitabine,433
-129,4420,LY2880070 + Gemcitabine,433
-130,4590,LY3214996 + nab-paclitaxel + Gemcitabine,433
-131,3486,MEDI5117 + Cisplatin + Gemcitabine,433
-132,2218,MEK162 + Gemcitabine + Cisplatin,433
-133,3689,Metformin + PEXG,433
-134,1279,MK-1775 + Gemcitabine,433
-135,1249,MM-141 + Abraxane + Gemcitabine,433
-136,4103,MN58b + Gemcitabine,433
-137,1958,MVAp53 + Gemcitabine,433
-138,5713,MVT-5873 + Gemcitabine + nab-paclitaxel,433
-139,1779,Nab-paclitaxel + Gemcitabine,433
-140,1521,navitoclax + gemcitabine ,433
-141,4973,Necitumumab + Gemcitabine + Carboplatin,433
-142,2882,Necitumumab + Gemcitabine + Cisplatin,433
-143,4723,Nintedanib + Gemcitabine + nab-paclitaxel,433
-144,1808,OGX-427 + Gemcitabine,433
-145,5482,Olaratumab + nab-paclitaxel + Gemcitabine,433
-146,3226,Panitumumab + Gemcitabine + Oxaliplatin,433
-147,1510,PD0332991 + Gemcitabine,433
-148,5497,Pembrolizumab + Gemcitabine,433
-149,4904,Pembrolizumab + Paricalcitol + Gemcitabine + nab-paclitaxel,433
-150,1801,Pemetrexed + Gemcitabine,433
-151,3688,PEXG,433
-152,3466,PF-00477736 + Gemcitabine,433
-153,2891,PG545 + Gemcitabine,433
-154,3526,Pimasertib + Gemcitabine,433
-155,3020,Reolysin + Gemcitabine,433
-156,3021,Rigosertib + Gemcitabine,433
-157,2222,Selumetinib + Cisplatin + Gemcitabine,433
-158,4159,SRT1720 + Gemcitabine,433
-159,2689,Tarextumab + Gemcitabine,433
-160,1692,Vandetanib + Gemcitabine,433
-161,4399,Vantictumab + Gemcitabine,433
-162,2938,VEGFR2-169 + Gemcitabine,433
-163,1799,Vismodegib + Gemcitabine + Abraxane,433
+109,6340,Gemcitabine + Nimotuzumab,433
+110,6297,Gemcitabine + Nivolumab,433
+111,2823,Gemcitabine + ON01910,433
+112,1611,Gemcitabine + Oxaliplatin + Dexamethasone,433
+113,5090,Gemcitabine + Oxaliplatin + Rituximab,433
+114,1478,Gemcitabine + Pazopanib,433
+115,5821,Gemcitabine + Prexasertib,433
+116,2566,Gemcitabine + Pri-724,433
+117,4093,Gemcitabine + Radiotherapy,433
+118,6205,Gemcitabine + Radiotherapy + VX-970,433
+119,5545,Gemcitabine + Refametinib,433
+120,2491,Gemcitabine + Regorafenib,433
+121,2898,Gemcitabine + Ribociclib,433
+122,5070,Gemcitabine + SRA737,433
+123,5442,Gemcitabine + Tacedinaline,433
+124,5148,Gemcitabine + TAK-659,433
+125,1889,Gemcitabine + Trastuzumab,433
+126,1592,Gemcitabine + Trastuzumab + Pertuzumab,433
+127,5484,INCB024360 + Nivolumab + Gemcitabine + nab-paclitaxel,433
+128,1169,Iniparib + Gemcitabine + Carboplatin,433
+129,1499,Lapatinib + Gemcitabine,433
+130,4420,LY2880070 + Gemcitabine,433
+131,4590,LY3214996 + nab-paclitaxel + Gemcitabine,433
+132,3486,MEDI5117 + Cisplatin + Gemcitabine,433
+133,2218,MEK162 + Gemcitabine + Cisplatin,433
+134,3689,Metformin + PEXG,433
+135,1279,MK-1775 + Gemcitabine,433
+136,1249,MM-141 + Abraxane + Gemcitabine,433
+137,4103,MN58b + Gemcitabine,433
+138,1958,MVAp53 + Gemcitabine,433
+139,5713,MVT-5873 + Gemcitabine + nab-paclitaxel,433
+140,1779,Nab-paclitaxel + Gemcitabine,433
+141,1521,navitoclax + gemcitabine ,433
+142,4973,Necitumumab + Gemcitabine + Carboplatin,433
+143,2882,Necitumumab + Gemcitabine + Cisplatin,433
+144,4723,Nintedanib + Gemcitabine + nab-paclitaxel,433
+145,1808,OGX-427 + Gemcitabine,433
+146,5482,Olaratumab + nab-paclitaxel + Gemcitabine,433
+147,3226,Panitumumab + Gemcitabine + Oxaliplatin,433
+148,1510,PD0332991 + Gemcitabine,433
+149,5497,Pembrolizumab + Gemcitabine,433
+150,4904,Pembrolizumab + Paricalcitol + Gemcitabine + nab-paclitaxel,433
+151,1801,Pemetrexed + Gemcitabine,433
+152,3688,PEXG,433
+153,3466,PF-00477736 + Gemcitabine,433
+154,2891,PG545 + Gemcitabine,433
+155,3526,Pimasertib + Gemcitabine,433
+156,3020,Reolysin + Gemcitabine,433
+157,3021,Rigosertib + Gemcitabine,433
+158,2222,Selumetinib + Cisplatin + Gemcitabine,433
+159,4159,SRT1720 + Gemcitabine,433
+160,2689,Tarextumab + Gemcitabine,433
+161,1692,Vandetanib + Gemcitabine,433
+162,4399,Vantictumab + Gemcitabine,433
+163,2938,VEGFR2-169 + Gemcitabine,433
+164,1799,Vismodegib + Gemcitabine + Abraxane,433
 0,3685,Arsenic trioxide + Gemtuzumab ozogamicin + Tretinoin,6915
 1,3932,Busulfan + Cyclophosphamide + Gemtuzumab ozogamicin,6915
 2,756,Gemtuzumab ozogamicin,6915
@@ -4526,18 +4549,19 @@
 1,3731,Cytarabine + Dasatinib + Fludarabine  + Idarubicin,1164
 2,3543,Cytarabine + Daunorubicin + Idarubicin,1164
 3,3686,Cytarabine + Dexamethasone + Idarubicin + Mitoxantrone,1164
-4,3193,Cytarabine + Fludarabine + Idarubicin,1164
-5,1606,Cytarabine + Idarubicin,1164
-6,1850,Cytarabine + Idarubicin + Dasatinib,1164
-7,3573,Cytarabine + Idarubicin + Ibrutinib,1164
-8,4499,Cytarabine + Idarubicin + indoximod,1164
-9,3470,Cytarabine + Idarubicin + LY2510924,1164
-10,3192,Cytarabine + Idarubicin + Nivolumab,1164
-11,2232,Cytarabine + Idarubicin + Sirolimus,1164
-12,5959,Cytarabine + Idarubicin + Venetoclax,1164
-13,3213,Cytarabine + Idarubicin + Volasertib,1164
-14,1022,Idarubicin,1164
-15,2220,MEK162 + Idarubicin + Cytarabine,1164
+4,6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax,1164
+5,3193,Cytarabine + Fludarabine + Idarubicin,1164
+6,1606,Cytarabine + Idarubicin,1164
+7,1850,Cytarabine + Idarubicin + Dasatinib,1164
+8,3573,Cytarabine + Idarubicin + Ibrutinib,1164
+9,4499,Cytarabine + Idarubicin + indoximod,1164
+10,3470,Cytarabine + Idarubicin + LY2510924,1164
+11,3192,Cytarabine + Idarubicin + Nivolumab,1164
+12,2232,Cytarabine + Idarubicin + Sirolimus,1164
+13,5959,Cytarabine + Idarubicin + Venetoclax,1164
+14,3213,Cytarabine + Idarubicin + Volasertib,1164
+15,1022,Idarubicin,1164
+16,2220,MEK162 + Idarubicin + Cytarabine,1164
 0,4395,Cytarabine + Idasanutlin,7389
 1,4392,Dexamethasone + Idasanutlin + Ixazomib,7389
 2,3737,GSK2830371 + RG7388,7389
@@ -4720,47 +4744,48 @@
 1,5733,Aldesleukin + Cyclophosphamide + Ipilimumab,6926
 2,1612,Aldesleukin + Ipilimumab,6926
 3,6249,Atezolizumab + Ipilimumab,6926
-4,4613,Blinatumomab + Ipilimumab + Nivolumab,6926
-5,6135,BMS-986226 + Ipilimumab,6926
-6,2487,Brentuximab vedotin + Ipilimumab,6926
-7,2068,Cabozantinib + Ipilimumab + Nivolumab,6926
-8,1926,Cetuximab + Ipilimumab,6926
-9,5209,CX-072 + Ipilimumab,6926
-10,1257,Dabrafenib + Ipilimumab,6926
-11,1258,Dabrafenib + Ipilimumab + Trametinib,6926
-12,5900,Dactinomycin + Ipilimumab + Melphalan,6926
-13,1803,Dasatinib + Ipilimumab,6926
-14,5738,Decitabine + Ipilimumab,6926
-15,5745,Evofosfamide + Ipilimumab,6926
-16,2970,Gemcitabine + Ipilimumab,6926
-17,2003,HF10 + Ipilimumab,6926
-18,4244,IMO-2125 + Ipilimumab,6926
-19,5597,INCAGN01876 + Ipilimumab,6926
-20,5599,INCAGN01876 + Nivolumab + Ipilimumab,6926
-21,6120,INCAGN01949 + Ipilimumab,6926
-22,6121,INCAGN01949 + Ipilimumab + Nivolumab,6926
-23,779,Ipilimumab,6926
-24,1301,Ipilimumab + Bevacizumab,6926
-25,1349,Ipilimumab + Crizotinib,6926
-26,1348,Ipilimumab + Erlotinib,6926
-27,1250,Ipilimumab + Imatinib Mesylate,6926
-28,2992,Ipilimumab + lenalidomide,6926
-29,3058,Ipilimumab + MGA271,6926
-30,2978,Ipilimumab + nab-paclitaxel,6926
-31,4202,Ipilimumab + Nivolumab + Vedolizumab ,6926
-32,2106,Ipilimumab + Pembrolizumab ,6926
-33,4523,Ipilimumab + Radiotherapy,6926
-34,3848,Ipilimumab + SD-101,6926
-35,5741,Ipilumumab + Lefitolimod,6926
-36,1627,Nivolumab + Ipilimumab,6926
-37,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,6926
-38,4895,PROSTVAC-V/F + Ipilimumab,6926
-39,4893,PROSTVAC-V/F + Nivolumab + Ipilimumab,6926
-40,4880,PROSTVAC-V/TRICOM + Ipilimumab,6926
-41,4878,PROSTVAC-V/TRICOM + Nivolumab + Ipilimumab,6926
-42,5640,Rovalpituzumab Tesirine + Nivolumab + Ipilimumab,6926
-43,5800,trabectedin + Ipilimumab + Nivolumab,6926
-44,4769,Yttrium-90 + Nivolumab + Ipilimumab,6926
+4,6326,Binimetinib + Ipilimumab + Nivolumab,6926
+5,4613,Blinatumomab + Ipilimumab + Nivolumab,6926
+6,6135,BMS-986226 + Ipilimumab,6926
+7,2487,Brentuximab vedotin + Ipilimumab,6926
+8,2068,Cabozantinib + Ipilimumab + Nivolumab,6926
+9,1926,Cetuximab + Ipilimumab,6926
+10,5209,CX-072 + Ipilimumab,6926
+11,1257,Dabrafenib + Ipilimumab,6926
+12,1258,Dabrafenib + Ipilimumab + Trametinib,6926
+13,5900,Dactinomycin + Ipilimumab + Melphalan,6926
+14,1803,Dasatinib + Ipilimumab,6926
+15,5738,Decitabine + Ipilimumab,6926
+16,5745,Evofosfamide + Ipilimumab,6926
+17,2970,Gemcitabine + Ipilimumab,6926
+18,2003,HF10 + Ipilimumab,6926
+19,4244,IMO-2125 + Ipilimumab,6926
+20,5597,INCAGN01876 + Ipilimumab,6926
+21,5599,INCAGN01876 + Nivolumab + Ipilimumab,6926
+22,6120,INCAGN01949 + Ipilimumab,6926
+23,6121,INCAGN01949 + Ipilimumab + Nivolumab,6926
+24,779,Ipilimumab,6926
+25,1301,Ipilimumab + Bevacizumab,6926
+26,1349,Ipilimumab + Crizotinib,6926
+27,1348,Ipilimumab + Erlotinib,6926
+28,1250,Ipilimumab + Imatinib Mesylate,6926
+29,2992,Ipilimumab + lenalidomide,6926
+30,3058,Ipilimumab + MGA271,6926
+31,2978,Ipilimumab + nab-paclitaxel,6926
+32,4202,Ipilimumab + Nivolumab + Vedolizumab ,6926
+33,2106,Ipilimumab + Pembrolizumab ,6926
+34,4523,Ipilimumab + Radiotherapy,6926
+35,3848,Ipilimumab + SD-101,6926
+36,5741,Ipilumumab + Lefitolimod,6926
+37,1627,Nivolumab + Ipilimumab,6926
+38,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,6926
+39,4895,PROSTVAC-V/F + Ipilimumab,6926
+40,4893,PROSTVAC-V/F + Nivolumab + Ipilimumab,6926
+41,4880,PROSTVAC-V/TRICOM + Ipilimumab,6926
+42,4878,PROSTVAC-V/TRICOM + Nivolumab + Ipilimumab,6926
+43,5640,Rovalpituzumab Tesirine + Nivolumab + Ipilimumab,6926
+44,5800,trabectedin + Ipilimumab + Nivolumab,6926
+45,4769,Yttrium-90 + Nivolumab + Ipilimumab,6926
 0,5196,IRAK1/4,8631
 0,1426,131I-MIBG + Irinotecan + Vincristine,752
 1,4152,ABT-751 + Bevacizumab + Capecitabine + Irinotecan,752
@@ -4848,6 +4873,8 @@
 1,5134,IRX4204,8617
 0,6147,ISA101b,8928
 1,6148,ISA101b + Utomilumab,8928
+0,6331,Isatuximab,8973
+1,6335,Isatuximab + REGN2810,8973
 0,2536,ISIS-FGFR4Rx,7566
 0,5563,IsoA,8718
 0,3702,IST5-002,8213
@@ -5268,6 +5295,8 @@
 0,5702,LOXO-292,8754
 0,3506,LQZ-7F,8105
 0,2793,LS104,7744
+0,6338,Cetuximab + LSN3074753,8975
+1,6337,LSN3074753,8975
 0,4441,Alpelisib + LSZ 102,8455
 1,4439,LSZ 102,8455
 2,4440,LSZ 102 + Ribociclib,8455
@@ -5672,6 +5701,7 @@
 6,6042,Mocetinostat + Pembrolizumab + SGI-110,7899
 0,2968,Mogamulizumab ,7880
 1,3843,Mogamulizumab + Nivolumab,7880
+2,6332,Mogamulizumab + Utomilumab,7880
 0,2380,Erlotinib + Momelotinib,6959
 1,823,Momelotinib,6959
 2,1860,Momelotinib + Trametinib,6959
@@ -5717,6 +5747,13 @@
 0,2418,MRT-92,7523
 0,5016,MRX-2843,8593
 0,1035,MRX34,7153
+0,6314,MS201408-0005A,8968
+1,6317,MS201408-0005A + MS201408-0005B,8968
+2,6318,MS201408-0005A + MS201408-0005C,8968
+0,6317,MS201408-0005A + MS201408-0005B,8969
+1,6315,MS201408-0005B,8969
+0,6318,MS201408-0005A + MS201408-0005C,8970
+1,6316,MS201408-0005C,8970
 0,4774,GDC-0941 + MS417,8042
 1,3335,MS417,8042
 0,3336,MS436,8043
@@ -5930,9 +5967,10 @@
 1,5449,Bicalutamide + Flutamide + Goserelin + Leuprolide + Nilutamide,655
 2,1506,nilutamide,655
 0,4040,Afatinib + Nimotuzumab,6963
-1,4806,Irinotecan + Nimotuzumab,6963
-2,830,Nimotuzumab,6963
-3,4920,Nimotuzumab + Nivolumab,6963
+1,6340,Gemcitabine + Nimotuzumab,6963
+2,4806,Irinotecan + Nimotuzumab,6963
+3,830,Nimotuzumab,6963
+4,4920,Nimotuzumab + Nivolumab,6963
 0,4498,Bevacizumab + Nintedanib,6964
 1,2589,Capecitabine + Nintedanib,6964
 2,2372,Cisplatin + Docetaxel + Nintedanib,6964
@@ -5953,6 +5991,7 @@
 10,3985,Niraparib + SN-38,6965
 11,5701,Niraparib + SY-1365,6965
 12,1437,Niraparib + Temozolomide,6965
+13,6321,Niraparib + TSR-042,6965
 0,5631,NIS793,8730
 1,5632,NIS793 + PDR001,8730
 0,5447,ABBV-368 + Nivolumab,7235
@@ -5968,117 +6007,122 @@
 10,5837,Axitinib + Nivolumab,7235
 11,3196,Azacitidine + Nivolumab,7235
 12,2111,Bevacizumab + Nivolumab,7235
-13,5295,Bleomycin + Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,7235
-14,4613,Blinatumomab + Ipilimumab + Nivolumab,7235
-15,5903,BMS-813160 + Nivolumab,7235
-16,4535,BMS-986012 + Nivolumab,7235
-17,4197,BMS-986016 + Nivolumab,7235
-18,4924,BMS-986148 + Nivolumab,7235
-19,4195,BMS-986179 + Nivolumab,7235
-20,5629,BMS-986183 + Nivolumab,7235
-21,3569,BMS-986205 + Nivolumab,7235
-22,4888,BMS-986207 + Nivolumab,7235
-23,5552,BMS-986218 + Nivolumab,7235
-24,6136,BMS-986226 + Nivolumab,7235
-25,3263,Brentuximab vedotin + Nivolumab,7235
-26,2068,Cabozantinib + Ipilimumab + Nivolumab,7235
-27,2067,Cabozantinib + Nivolumab,7235
-28,6159,Carboplatin + Nivolumab + Pemetrexed,7235
-29,5053,Carboplatin + Paclitaxel + Pemetrexed + Nivolumab + Veliparib,7235
-30,4722,CB-1158 + Nivolumab,7235
-31,4274,CB-839 + Nivolumab,7235
-32,6186,CBP501 + Cisplatin + Nivolumab,7235
-33,4611,CC-122 + Nivolumab,7235
-34,2565,Ceritinib + Nivolumab,7235
-35,4761,Cetuximab + Nivolumab,7235
-36,4689,Chidamide + Nivolumab,7235
-37,4941,CIMAvax-EGF + Nivolumab,7235
-38,4922,Cisplatin + Etoposide + Nivolumab,7235
-39,4087,Cisplatin + Gemcitabine + nab-paclitaxel + Nivolumab + Paricalcitol,7235
-40,5511,Cisplatin + Gemcitabine + Nivolumab,7235
-41,4760,Cisplatin + Nivolumab,7235
-42,5244,CV301 + Nivolumab,7235
-43,5328,Cyclophosphamide + Fludarabine phosphate + Nivolumab,7235
-44,3192,Cytarabine + Idarubicin + Nivolumab,7235
-45,4754,Dabrafenib + Nivolumab + Trametinib,7235
-46,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,7235
-47,5520,Daratumumab + Nivolumab ,7235
-48,1813,Dasatinib + Nivolumab,7235
-49,5206,DCVax-L + Nivolumab,7235
-50,5910,Decitabine + Nivolumab + Tetrahydrouridine,7235
-51,6118,Dexamethasone + Elotuzumab + Nivolumab + Pomalidomide,7235
-52,5288,Docetaxel + Nivolumab,7235
-53,5078,DS-8273a + Nivolumab,7235
-54,5058,EB-VST cells + Nivolumab,7235
-55,2443,EGF816 + Nivolumab,7235
-56,6117,Elotuzumab + Nivolumab,7235
-57,6114,Entinostat + Nivolumab,7235
-58,3572,FANG vaccine + Nivolumab,7235
-59,6047,Gemcitabine + nab-paclitaxel + Nivolumab,7235
-60,6297,Gemcitabine + Nivolumab,7235
-61,4736,GS-5745 + Nivolumab,7235
-62,6149,HF10 + Nivolumab,7235
-63,5321,HPVSTs + Cyclophosphamide + Fludarabine phosphate + Nivolumab,7235
-64,3198,Ibrutinib + Nivolumab,7235
-65,2444,INC280 + Nivolumab,7235
-66,5598,INCAGN01876 + Nivolumab,7235
-67,5599,INCAGN01876 + Nivolumab + Ipilimumab,7235
-68,6121,INCAGN01949 + Ipilimumab + Nivolumab,7235
-69,6119,INCAGN01949 + Nivolumab,7235
-70,3059,INCB024360 + Nivolumab,7235
-71,5484,INCB024360 + Nivolumab + Gemcitabine + nab-paclitaxel,7235
-72,5483,INCB024360 + Nivolumab + mFOLFOX6,7235
-73,4202,Ipilimumab + Nivolumab + Vedolizumab ,7235
-74,4720,JTX-2011 + Nivolumab,7235
-75,5239,Lenalidomide + Nivolumab,7235
-76,2584,Lirilumab + Nivolumab,7235
-77,5302,Metformin + Nivolumab,7235
-78,4942,MGCD265 + Nivolumab,7235
-79,4943,MGCD516 + Nivolumab,7235
-80,4200,MLN1202 + Nivolumab,7235
-81,4198,MLN2480 + Nivolumab,7235
-82,4944,Mocetinostat + Nivolumab,7235
-83,3843,Mogamulizumab + Nivolumab,7235
-84,4435,MVA-MUC1-IL2 vaccine + Nivolumab,7235
-85,5931,Nab-Rapamycin + Nivolumab,7235
-86,5301,Nelfinavir + Nivolumab,7235
-87,4920,Nimotuzumab + Nivolumab,7235
-88,1312,Nivolumab,7235
-89,5303,Nivolumab + Carboplatin + Paclitaxel,7235
-90,5799,Nivolumab + Cisplatin + Fluorouacil,7235
-91,5198,Nivolumab + Etoposide + Ifosfamide + Carboplatin,7235
-92,1627,Nivolumab + Ipilimumab,7235
-93,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,7235
-94,5128,Nivolumab + Lenalidomide + Dexamethasone,7235
-95,5681,Nivolumab + Pazopanib,7235
-96,4918,Nivolumab + Pembrolizumab,7235
-97,6055,Nivolumab + Pembrolizumab + Trigriluzole,7235
-98,4512,Nivolumab + Plinabulin,7235
-99,5592,Nivolumab + poly ICLC + Rituximab,7235
-100,2626,Nivolumab + Sunitinib,7235
-101,4833,Nivolumab + SYM004,7235
-102,6100,Nivolumab + Tadalafil,7235
-103,4680,Nivolumab + TAK-659,7235
-104,3724,Nivolumab + Temozolomide,7235
-105,4753,Nivolumab + Trametinib,7235
-106,4560,Nivolumab + trifluridine/tipiracil hydrochloride,7235
-107,2567,Nivolumab + Urelumab,7235
-108,4219,Nivolumab + Valproic acid,7235
-109,2526,Nivolumab + Varlilumab,7235
-110,4020,Nivolumab + WT1 vaccine,7235
-111,4837,Nivolumab + X4P-001,7235
-112,5076,NKTR-214 + Nivolumab,7235
-113,4894,PROSTVAC-V/F + Nivolumab,7235
-114,4893,PROSTVAC-V/F + Nivolumab + Ipilimumab,7235
-115,4879,PROSTVAC-V/TRICOM + Nivolumab,7235
-116,4878,PROSTVAC-V/TRICOM + Nivolumab + Ipilimumab,7235
-117,4347,PT2385 + Nivolumab,7235
-118,5641,Rovalpituzumab Tesirine + Nivolumab,7235
-119,5640,Rovalpituzumab Tesirine + Nivolumab + Ipilimumab,7235
-120,5080,Talimogene laherparepvec + Nivolumab,7235
-121,5800,trabectedin + Ipilimumab + Nivolumab,7235
-122,5368,Veliparib + Nivolumab,7235
-123,4769,Yttrium-90 + Nivolumab + Ipilimumab,7235
+13,6326,Binimetinib + Ipilimumab + Nivolumab,7235
+14,6325,Binimetinib + Nivolumab,7235
+15,5295,Bleomycin + Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,7235
+16,4613,Blinatumomab + Ipilimumab + Nivolumab,7235
+17,5903,BMS-813160 + Nivolumab,7235
+18,4535,BMS-986012 + Nivolumab,7235
+19,4197,BMS-986016 + Nivolumab,7235
+20,4924,BMS-986148 + Nivolumab,7235
+21,4195,BMS-986179 + Nivolumab,7235
+22,5629,BMS-986183 + Nivolumab,7235
+23,3569,BMS-986205 + Nivolumab,7235
+24,4888,BMS-986207 + Nivolumab,7235
+25,5552,BMS-986218 + Nivolumab,7235
+26,6136,BMS-986226 + Nivolumab,7235
+27,6328,Brentuximab vedotin + Dacarbazine + Doxorubicin + Nivolumab + Vinblastine,7235
+28,3263,Brentuximab vedotin + Nivolumab,7235
+29,2068,Cabozantinib + Ipilimumab + Nivolumab,7235
+30,2067,Cabozantinib + Nivolumab,7235
+31,6159,Carboplatin + Nivolumab + Pemetrexed,7235
+32,5053,Carboplatin + Paclitaxel + Pemetrexed + Nivolumab + Veliparib,7235
+33,6334,Carotuximab + Nivolumab,7235
+34,4722,CB-1158 + Nivolumab,7235
+35,4274,CB-839 + Nivolumab,7235
+36,6186,CBP501 + Cisplatin + Nivolumab,7235
+37,4611,CC-122 + Nivolumab,7235
+38,2565,Ceritinib + Nivolumab,7235
+39,4761,Cetuximab + Nivolumab,7235
+40,4689,Chidamide + Nivolumab,7235
+41,4941,CIMAvax-EGF + Nivolumab,7235
+42,4922,Cisplatin + Etoposide + Nivolumab,7235
+43,4087,Cisplatin + Gemcitabine + nab-paclitaxel + Nivolumab + Paricalcitol,7235
+44,5511,Cisplatin + Gemcitabine + Nivolumab,7235
+45,4760,Cisplatin + Nivolumab,7235
+46,5244,CV301 + Nivolumab,7235
+47,5328,Cyclophosphamide + Fludarabine phosphate + Nivolumab,7235
+48,3192,Cytarabine + Idarubicin + Nivolumab,7235
+49,4754,Dabrafenib + Nivolumab + Trametinib,7235
+50,5296,Dacarbazine + Doxorubicin + Vinblastine + Nivolumab,7235
+51,5520,Daratumumab + Nivolumab ,7235
+52,1813,Dasatinib + Nivolumab,7235
+53,5206,DCVax-L + Nivolumab,7235
+54,5910,Decitabine + Nivolumab + Tetrahydrouridine,7235
+55,6118,Dexamethasone + Elotuzumab + Nivolumab + Pomalidomide,7235
+56,5288,Docetaxel + Nivolumab,7235
+57,5078,DS-8273a + Nivolumab,7235
+58,5058,EB-VST cells + Nivolumab,7235
+59,2443,EGF816 + Nivolumab,7235
+60,6117,Elotuzumab + Nivolumab,7235
+61,6114,Entinostat + Nivolumab,7235
+62,3572,FANG vaccine + Nivolumab,7235
+63,6047,Gemcitabine + nab-paclitaxel + Nivolumab,7235
+64,6297,Gemcitabine + Nivolumab,7235
+65,4736,GS-5745 + Nivolumab,7235
+66,6149,HF10 + Nivolumab,7235
+67,5321,HPVSTs + Cyclophosphamide + Fludarabine phosphate + Nivolumab,7235
+68,3198,Ibrutinib + Nivolumab,7235
+69,2444,INC280 + Nivolumab,7235
+70,5598,INCAGN01876 + Nivolumab,7235
+71,5599,INCAGN01876 + Nivolumab + Ipilimumab,7235
+72,6121,INCAGN01949 + Ipilimumab + Nivolumab,7235
+73,6119,INCAGN01949 + Nivolumab,7235
+74,3059,INCB024360 + Nivolumab,7235
+75,5484,INCB024360 + Nivolumab + Gemcitabine + nab-paclitaxel,7235
+76,5483,INCB024360 + Nivolumab + mFOLFOX6,7235
+77,4202,Ipilimumab + Nivolumab + Vedolizumab ,7235
+78,4720,JTX-2011 + Nivolumab,7235
+79,5239,Lenalidomide + Nivolumab,7235
+80,2584,Lirilumab + Nivolumab,7235
+81,5302,Metformin + Nivolumab,7235
+82,4942,MGCD265 + Nivolumab,7235
+83,4943,MGCD516 + Nivolumab,7235
+84,4200,MLN1202 + Nivolumab,7235
+85,4198,MLN2480 + Nivolumab,7235
+86,4944,Mocetinostat + Nivolumab,7235
+87,3843,Mogamulizumab + Nivolumab,7235
+88,4435,MVA-MUC1-IL2 vaccine + Nivolumab,7235
+89,5931,Nab-Rapamycin + Nivolumab,7235
+90,5301,Nelfinavir + Nivolumab,7235
+91,4920,Nimotuzumab + Nivolumab,7235
+92,1312,Nivolumab,7235
+93,5303,Nivolumab + Carboplatin + Paclitaxel,7235
+94,5799,Nivolumab + Cisplatin + Fluorouacil,7235
+95,5198,Nivolumab + Etoposide + Ifosfamide + Carboplatin,7235
+96,1627,Nivolumab + Ipilimumab,7235
+97,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,7235
+98,5128,Nivolumab + Lenalidomide + Dexamethasone,7235
+99,5681,Nivolumab + Pazopanib,7235
+100,4918,Nivolumab + Pembrolizumab,7235
+101,6055,Nivolumab + Pembrolizumab + Trigriluzole,7235
+102,4512,Nivolumab + Plinabulin,7235
+103,5592,Nivolumab + poly ICLC + Rituximab,7235
+104,2626,Nivolumab + Sunitinib,7235
+105,4833,Nivolumab + SYM004,7235
+106,6100,Nivolumab + Tadalafil,7235
+107,4680,Nivolumab + TAK-659,7235
+108,3724,Nivolumab + Temozolomide,7235
+109,4753,Nivolumab + Trametinib,7235
+110,4560,Nivolumab + trifluridine/tipiracil hydrochloride,7235
+111,2567,Nivolumab + Urelumab,7235
+112,4219,Nivolumab + Valproic acid,7235
+113,2526,Nivolumab + Varlilumab,7235
+114,4020,Nivolumab + WT1 vaccine,7235
+115,4837,Nivolumab + X4P-001,7235
+116,5076,NKTR-214 + Nivolumab,7235
+117,4894,PROSTVAC-V/F + Nivolumab,7235
+118,4893,PROSTVAC-V/F + Nivolumab + Ipilimumab,7235
+119,4879,PROSTVAC-V/TRICOM + Nivolumab,7235
+120,4878,PROSTVAC-V/TRICOM + Nivolumab + Ipilimumab,7235
+121,4347,PT2385 + Nivolumab,7235
+122,5641,Rovalpituzumab Tesirine + Nivolumab,7235
+123,5640,Rovalpituzumab Tesirine + Nivolumab + Ipilimumab,7235
+124,5080,Talimogene laherparepvec + Nivolumab,7235
+125,5800,trabectedin + Ipilimumab + Nivolumab,7235
+126,5368,Veliparib + Nivolumab,7235
+127,6319,Yttrium-90 + Nivolumab,7235
+128,4769,Yttrium-90 + Nivolumab + Ipilimumab,7235
 0,6031,NIZ985,8897
 1,6032,PDR001 + NIZ985,8897
 0,5998,NKR-2 cells,8886
@@ -6341,27 +6385,27 @@
 1,4995,OSI-027 + SCH772984,6974
 0,4855,OSI-296,8563
 0,2138,OSI-930,7435
-0,660,AZD9291,7059
-1,4502,AZD9291 + JNJ-61186372,7059
-2,2223,AZD9291 + MEDI4736,7059
-3,2994,AZD9291 + MLN0128,7059
-4,1644,AZD9291 + Rifampin,7059
-5,2224,AZD9291 + Savolitinib,7059
-6,1645,AZD9291 + Simvastatin,7059
-7,4366,Bevacizumab + Osimertinib,7059
-8,5935,BKM120 + Osimertinib,7059
-9,4958,Crizotinib + Osimertinib,7059
-10,4946,Dasatinib + Osimertinib,7059
-11,6231,DS-1205b + Osimertinib,7059
-12,5616,Gefitinib + Osimertinib,7059
-13,5936,GSK2334470 + Osimertinib,7059
-14,4777,INCB039110 + Osimertinib,7059
-15,3065,Navitoclax + Osimertinib,7059
-16,4380,Necitumumab + Osimertinib,7059
-17,5939,Osimertinib + Bosutinib + PF-573328,7059
-18,5938,Osimertinib + PF-573328 + Saracatinib,7059
-19,4379,Osimertinib + Ramucirumab,7059
-20,2225,Osimertinib + Selumetinib,7059
+0,4502,AZD9291 + JNJ-61186372,7059
+1,2223,AZD9291 + MEDI4736,7059
+2,2994,AZD9291 + MLN0128,7059
+3,4366,Bevacizumab + Osimertinib,7059
+4,5935,BKM120 + Osimertinib,7059
+5,4958,Crizotinib + Osimertinib,7059
+6,4946,Dasatinib + Osimertinib,7059
+7,6231,DS-1205b + Osimertinib,7059
+8,5616,Gefitinib + Osimertinib,7059
+9,5936,GSK2334470 + Osimertinib,7059
+10,4777,INCB039110 + Osimertinib,7059
+11,3065,Navitoclax + Osimertinib,7059
+12,4380,Necitumumab + Osimertinib,7059
+13,660,Osimertinib,7059
+14,5939,Osimertinib + Bosutinib + PF-573328,7059
+15,5938,Osimertinib + PF-573328 + Saracatinib,7059
+16,4379,Osimertinib + Ramucirumab,7059
+17,1644,Osimertinib + Rifampin,7059
+18,2224,Osimertinib + Savolitinib,7059
+19,2225,Osimertinib + Selumetinib,7059
+20,1645,Osimertinib + Simvastatin,7059
 21,5937,Osimertinib + TAK-632,7059
 0,2408,OSU03012,7514
 0,4744,Ibrutinib + Otlertuzumab,8514
@@ -6500,153 +6544,155 @@
 46,5054,Carboplatin + Paclitaxel + Pemetrexed + Veliparib,1216
 47,6266,Carboplatin + Paclitaxel + PTC596,1216
 48,2640,Carboplatin + Paclitaxel + Selinexor,1216
-49,2196,Carboplatin + Paclitaxel + Trametinib,1216
-50,5274,Carboplatin + Paclitaxel + Veliparib,1216
-51,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,1216
-52,1663,Carboxyamidotriazole Orotate + Paclitaxel,1216
-53,3807,CCT007093 + Paclitaxel,1216
-54,4674,CCT244747 + Radiotherapy + Paclitaxel,1216
-55,1664,Cediranib + Carboplatin + Paclitaxel,1216
-56,1790,Cetuximab + Cisplatin + Paclitaxel,1216
-57,6090,Cetuximab + Cisplatin + Paclitaxel + Radiotherapy,1216
-58,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,1216
-59,4313,Cirmtuzumab + Paclitaxel,1216
-60,1375,Cisplatin + Etoposide + Paclitaxel + Carboplatin + Erlotinib,1216
-61,6083,Cisplatin + Everolimus + Paclitaxel,1216
-62,1812,Cisplatin + Paclitaxel,1216
-63,1451,Cisplatin + Paclitaxel + Bevacizumab + Olaparib ,1216
-64,2208,Cobimetinib + Paclitaxel,1216
-65,1276,Copanlisib + Paclitaxel,1216
-66,5943,Crenolanib + Paclitaxel + Ramucirumab,1216
-67,3442,Crizotinib + Trastuzumab + Paclitaxel,1216
-68,6236,Cyclophosphamide + Doxorubicin + Paclitaxel + MCS110,1216
-69,4679,Cyclophosphamide + Doxorubicin + Paclitaxel + Ruxolitinib,1216
-70,1980,Cyclophosphamide + Paclitaxel,1216
-71,1898,Cyclophosphamide + Paclitaxel + Trastuzumab ,1216
-72,1819,Dasatinib + Paclitaxel + Carboplatin,1216
-73,4385,Demcizumab + Paclitaxel,1216
-74,5581,Dexamethasone + Diphenhydramine + Famotidine + 5FU + Hydroxyurea + Paclitaxel,1216
-75,4912,Dinaciclib + Paclitaxel,1216
-76,6254,DKN-01 + Paclitaxel,1216
-77,2282,Docetaxel + Irinotecan + Paclitaxel,1216
-78,3045,Docetaxel + Paclitaxel,1216
-79,2173,Doxil + Letrozole + Tamoxifen + Paclitaxel,1216
-80,3574,Doxil + Paclitaxel,1216
-81,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,1216
-82,1904,Doxorubicin + Paclitaxel,1216
-83,4249,Emactuzumab + Paclitaxel,1216
-84,3725,Enzalutamide + Paclitaxel,1216
-85,5505,Everolimus + Paclitaxel,1216
-86,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,1216
-87,3541,Galunisertib + Paclitaxel,1216
-88,1579,Ganetespib + Paclitaxel + Trastuzumab,1216
-89,2322,GDC-0032 + Paclitaxel,1216
-90,4785,Gedatolisib + Paclitaxel + Carboplatin,1216
-91,3259,Gemcitabine + Ibrutinib + Paclitaxel,1216
-92,3896,GSK2256098 + Paclitaxel,1216
-93,5833,Imatinib + Carboplatin + Paclitaxel,1216
-94,5485,INCB024360 + Pembrolizumab + Carboplatin + Paclitaxel,1216
-95,1172,Iniparib + Paclitaxel,1216
-96,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,1216
-97,4400,Ipafricept + Carboplatin + Paclitaxel,1216
-98,1588,Ipatasertib + Paclitaxel,1216
-99,5415,JQ1 + Paclitaxel,1216
-100,3978,KX2-391 + Paclitaxel,1216
-101,2477,Lapatinib + Carboplatin + Cisplatin + Paclitaxel,1216
-102,2476,Lapatinib + Carboplatin + Paclitaxel,1216
-103,1410,Lapatinib + Paclitaxel,1216
-104,3642,LCL161 + Paclitaxel,1216
-105,5333,LEE011 + Carboplatin + Paclitaxel,1216
-106,1885,Lenvatinib + Carboplatin + Paclitaxel,1216
-107,4236,Lenvatinib + Paclitaxel,1216
-108,2310,Linifanib + Paclitaxel + Carboplatin,1216
-109,1197,Lurbinectedin + Paclitaxel,1216
-110,1196,Lurbinectedin + Paclitaxel + Bevacizumab,1216
-111,3809,LY2109761 + Paclitaxel,1216
-112,4841,LY411575 + Paclitaxel,1216
-113,3482,MEDI5117 + Paclitaxel,1216
-114,2010,MEK162 + Paclitaxel,1216
-115,3800,MK-1775 + Carboplatin + Paclitaxel,1216
-116,1567,MK-1775 + Paclitaxel,1216
-117,3893,MK2206 + Paclitaxel,1216
-118,2177,MLN2480 + Paclitaxel,1216
-119,1695,Motesanib + Paclitaxel,1216
-120,3453,Mps-BAY1 + Paclitaxel,1216
-121,3454,Mps-BAY2a + Paclitaxel,1216
-122,3452,Mps-BAY2b + Paclitaxel,1216
-123,3491,MRK-003 + Paclitaxel,1216
-124,4263,MYL-1401O + Paclitaxel,1216
-125,5413,Navitoclax + Paclitaxel,1216
-126,5101,Neratinib + Paclitaxel,1216
-127,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,1216
-128,3234,Nintedanib + Carboplatin + Paclitaxel,1216
-129,5303,Nivolumab + Carboplatin + Paclitaxel,1216
-130,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,1216
-131,5414,Nutlin-3 + Paclitaxel,1216
-132,3991,NVP-BSK805 + paclitaxel,1216
-133,4807,Olaparib + Paclitaxel,1216
-134,5264,OMP-305B83 + Paclitaxel,1216
-135,1371,Onartuzumab + Erlotinib + Paclitaxel + Carboplatin,1216
-136,1370,Onartuzumab + Paclitaxel + Carboplatin,1216
-137,5978,ONC201 + Paclitaxel,1216
-138,1190,Oregovomab + Carboplatin + Paclitaxel,1216
-139,1103,Paclitaxel,1216
-140,1124,Paclitaxel + Carboplatin,1216
-141,1827,Paclitaxel + Carboplatin + Docetaxel,1216
-142,1488,Paclitaxel + Carboplatin + Hydroxychloroquine,1216
-143,1381,Paclitaxel + Carboplatin + Metformin,1216
-144,1887,Paclitaxel + Carboplatin + Trastuzumab,1216
-145,1988,Paclitaxel + Cetuximab,1216
-146,1495,Paclitaxel + Doxorubicin + Cyclophosphamide,1216
-147,1125,Paclitaxel + Ifosfamide,1216
-148,3130,Paclitaxel + Lapatinib + Trastuzumab,1216
-149,5731,Paclitaxel + MLN0128 + MLN1117,1216
-150,1505,Paclitaxel + Neratinib + Doxorubicin + Cyclophosphamide,1216
-151,4021,Paclitaxel + Pembrolizumab,1216
-152,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,1216
-153,3808,Paclitaxel + Plicamycin,1216
-154,4433,Paclitaxel + Rebastinib,1216
-155,3206,Paclitaxel + Ribociclib,1216
-156,5605,Paclitaxel + sEphB4-HSA,1216
-157,1620,Paclitaxel + Sonidegib,1216
-158,5867,Paclitaxel + Taladegib,1216
-159,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,1216
-160,1892,Paclitaxel + Trastuzumab + MM-111,1216
-161,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,1216
-162,5874,Paclitaxel + Trastuzumab + TVB-2640,1216
-163,5470,Paclitaxel + trastuzumab emtansine,1216
-164,3054,Paclitaxel + Triciribine,1216
-165,4261,Paclitaxel + TRX-E-002-1,1216
-166,4805,Paclitaxel + TS-1,1216
-167,3743,Paclitaxel + TVB-2640,1216
-168,1995,Panitumumab + Paclitaxel,1216
-169,3202,Panobinostat + Carboplatin + Paclitaxel,1216
-170,1714,Pazopanib + Carboplatin + Paclitaxel,1216
-171,1143,Pazopanib + Paclitaxel,1216
-172,1549,Pertuzumab + Trastuzumab + Paclitaxel,1216
-173,1395,PLX3397 + Paclitaxel,1216
-174,1721,Ramucirumab + Paclitaxel,1216
-175,1726,Ramucirumab + Paclitaxel + Carboplatin,1216
-176,5720,REGN2810 + Carboplatin + Paclitaxel,1216
-177,3032,Ridaforolimus + Paclitaxel,1216
-178,4840,RO4929097 + Paclitaxel,1216
-179,1369,Ruxolitinib + Paclitaxel,1216
-180,1416,Sapitinib + Paclitaxel,1216
-181,4282,Selumetinib + Paclitaxel,1216
-182,3428,Sorafenib + Carboplatin + Paclitaxel,1216
-183,1534,Sorafenib + Cisplatin + Paclitaxel,1216
-184,3828,SPC3042 + Taxol,1216
-185,4157,SRT1460 + Paclitaxel,1216
-186,4158,SRT1720 + Paclitaxel,1216
-187,1668,TAS-119 + Paclitaxel,1216
-188,5493,Trametinib + Paclitaxel,1216
-189,1551,Trastuzumab + Paclitaxel,1216
-190,4398,Vantictumab + Paclitaxel,1216
-191,1209,Vemurafenib + Carboplatin + Paclitaxel ,1216
-192,1973,Vistusertib + Paclitaxel,1216
-193,1983,vorinostat + Paclitaxel,1216
-194,3135,XL147 + Carboplatin + Paclitaxel,1216
-195,4115,XL147 + Paclitaxel,1216
+49,6333,Carboplatin + Paclitaxel + Temsirolimus,1216
+50,2196,Carboplatin + Paclitaxel + Trametinib,1216
+51,6322,Carboplatin + Paclitaxel + TSR-042,1216
+52,5274,Carboplatin + Paclitaxel + Veliparib,1216
+53,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,1216
+54,1663,Carboxyamidotriazole Orotate + Paclitaxel,1216
+55,3807,CCT007093 + Paclitaxel,1216
+56,4674,CCT244747 + Radiotherapy + Paclitaxel,1216
+57,1664,Cediranib + Carboplatin + Paclitaxel,1216
+58,1790,Cetuximab + Cisplatin + Paclitaxel,1216
+59,6090,Cetuximab + Cisplatin + Paclitaxel + Radiotherapy,1216
+60,1921,Cetuximab + Paclitaxel + Carboplatin + Erlotinib,1216
+61,4313,Cirmtuzumab + Paclitaxel,1216
+62,1375,Cisplatin + Etoposide + Paclitaxel + Carboplatin + Erlotinib,1216
+63,6083,Cisplatin + Everolimus + Paclitaxel,1216
+64,1812,Cisplatin + Paclitaxel,1216
+65,1451,Cisplatin + Paclitaxel + Bevacizumab + Olaparib ,1216
+66,2208,Cobimetinib + Paclitaxel,1216
+67,1276,Copanlisib + Paclitaxel,1216
+68,5943,Crenolanib + Paclitaxel + Ramucirumab,1216
+69,3442,Crizotinib + Trastuzumab + Paclitaxel,1216
+70,6236,Cyclophosphamide + Doxorubicin + Paclitaxel + MCS110,1216
+71,4679,Cyclophosphamide + Doxorubicin + Paclitaxel + Ruxolitinib,1216
+72,1980,Cyclophosphamide + Paclitaxel,1216
+73,1898,Cyclophosphamide + Paclitaxel + Trastuzumab ,1216
+74,1819,Dasatinib + Paclitaxel + Carboplatin,1216
+75,4385,Demcizumab + Paclitaxel,1216
+76,5581,Dexamethasone + Diphenhydramine + Famotidine + 5FU + Hydroxyurea + Paclitaxel,1216
+77,4912,Dinaciclib + Paclitaxel,1216
+78,6254,DKN-01 + Paclitaxel,1216
+79,2282,Docetaxel + Irinotecan + Paclitaxel,1216
+80,3045,Docetaxel + Paclitaxel,1216
+81,2173,Doxil + Letrozole + Tamoxifen + Paclitaxel,1216
+82,3574,Doxil + Paclitaxel,1216
+83,5729,Doxorubicin + Cyclophosphamide + Paclitaxel + Carboplatin,1216
+84,1904,Doxorubicin + Paclitaxel,1216
+85,4249,Emactuzumab + Paclitaxel,1216
+86,3725,Enzalutamide + Paclitaxel,1216
+87,5505,Everolimus + Paclitaxel,1216
+88,1924,Everolimus + Paclitaxel + Carboplatin + Cetuximab,1216
+89,3541,Galunisertib + Paclitaxel,1216
+90,1579,Ganetespib + Paclitaxel + Trastuzumab,1216
+91,2322,GDC-0032 + Paclitaxel,1216
+92,4785,Gedatolisib + Paclitaxel + Carboplatin,1216
+93,3259,Gemcitabine + Ibrutinib + Paclitaxel,1216
+94,3896,GSK2256098 + Paclitaxel,1216
+95,5833,Imatinib + Carboplatin + Paclitaxel,1216
+96,5485,INCB024360 + Pembrolizumab + Carboplatin + Paclitaxel,1216
+97,1172,Iniparib + Paclitaxel,1216
+98,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,1216
+99,4400,Ipafricept + Carboplatin + Paclitaxel,1216
+100,1588,Ipatasertib + Paclitaxel,1216
+101,5415,JQ1 + Paclitaxel,1216
+102,3978,KX2-391 + Paclitaxel,1216
+103,2477,Lapatinib + Carboplatin + Cisplatin + Paclitaxel,1216
+104,2476,Lapatinib + Carboplatin + Paclitaxel,1216
+105,1410,Lapatinib + Paclitaxel,1216
+106,3642,LCL161 + Paclitaxel,1216
+107,5333,LEE011 + Carboplatin + Paclitaxel,1216
+108,1885,Lenvatinib + Carboplatin + Paclitaxel,1216
+109,4236,Lenvatinib + Paclitaxel,1216
+110,2310,Linifanib + Paclitaxel + Carboplatin,1216
+111,1197,Lurbinectedin + Paclitaxel,1216
+112,1196,Lurbinectedin + Paclitaxel + Bevacizumab,1216
+113,3809,LY2109761 + Paclitaxel,1216
+114,4841,LY411575 + Paclitaxel,1216
+115,3482,MEDI5117 + Paclitaxel,1216
+116,2010,MEK162 + Paclitaxel,1216
+117,3800,MK-1775 + Carboplatin + Paclitaxel,1216
+118,1567,MK-1775 + Paclitaxel,1216
+119,3893,MK2206 + Paclitaxel,1216
+120,2177,MLN2480 + Paclitaxel,1216
+121,1695,Motesanib + Paclitaxel,1216
+122,3453,Mps-BAY1 + Paclitaxel,1216
+123,3454,Mps-BAY2a + Paclitaxel,1216
+124,3452,Mps-BAY2b + Paclitaxel,1216
+125,3491,MRK-003 + Paclitaxel,1216
+126,4263,MYL-1401O + Paclitaxel,1216
+127,5413,Navitoclax + Paclitaxel,1216
+128,5101,Neratinib + Paclitaxel,1216
+129,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,1216
+130,3234,Nintedanib + Carboplatin + Paclitaxel,1216
+131,5303,Nivolumab + Carboplatin + Paclitaxel,1216
+132,5304,Nivolumab + Ipilimumab + Carboplatin + Paclitaxel,1216
+133,5414,Nutlin-3 + Paclitaxel,1216
+134,3991,NVP-BSK805 + paclitaxel,1216
+135,4807,Olaparib + Paclitaxel,1216
+136,5264,OMP-305B83 + Paclitaxel,1216
+137,1371,Onartuzumab + Erlotinib + Paclitaxel + Carboplatin,1216
+138,1370,Onartuzumab + Paclitaxel + Carboplatin,1216
+139,5978,ONC201 + Paclitaxel,1216
+140,1190,Oregovomab + Carboplatin + Paclitaxel,1216
+141,1103,Paclitaxel,1216
+142,1124,Paclitaxel + Carboplatin,1216
+143,1827,Paclitaxel + Carboplatin + Docetaxel,1216
+144,1488,Paclitaxel + Carboplatin + Hydroxychloroquine,1216
+145,1381,Paclitaxel + Carboplatin + Metformin,1216
+146,1887,Paclitaxel + Carboplatin + Trastuzumab,1216
+147,1988,Paclitaxel + Cetuximab,1216
+148,1495,Paclitaxel + Doxorubicin + Cyclophosphamide,1216
+149,1125,Paclitaxel + Ifosfamide,1216
+150,3130,Paclitaxel + Lapatinib + Trastuzumab,1216
+151,5731,Paclitaxel + MLN0128 + MLN1117,1216
+152,1505,Paclitaxel + Neratinib + Doxorubicin + Cyclophosphamide,1216
+153,4021,Paclitaxel + Pembrolizumab,1216
+154,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,1216
+155,3808,Paclitaxel + Plicamycin,1216
+156,4433,Paclitaxel + Rebastinib,1216
+157,3206,Paclitaxel + Ribociclib,1216
+158,5605,Paclitaxel + sEphB4-HSA,1216
+159,1620,Paclitaxel + Sonidegib,1216
+160,5867,Paclitaxel + Taladegib,1216
+161,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,1216
+162,1892,Paclitaxel + Trastuzumab + MM-111,1216
+163,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,1216
+164,5874,Paclitaxel + Trastuzumab + TVB-2640,1216
+165,5470,Paclitaxel + trastuzumab emtansine,1216
+166,3054,Paclitaxel + Triciribine,1216
+167,4261,Paclitaxel + TRX-E-002-1,1216
+168,4805,Paclitaxel + TS-1,1216
+169,3743,Paclitaxel + TVB-2640,1216
+170,1995,Panitumumab + Paclitaxel,1216
+171,3202,Panobinostat + Carboplatin + Paclitaxel,1216
+172,1714,Pazopanib + Carboplatin + Paclitaxel,1216
+173,1143,Pazopanib + Paclitaxel,1216
+174,1549,Pertuzumab + Trastuzumab + Paclitaxel,1216
+175,1395,PLX3397 + Paclitaxel,1216
+176,1721,Ramucirumab + Paclitaxel,1216
+177,1726,Ramucirumab + Paclitaxel + Carboplatin,1216
+178,5720,REGN2810 + Carboplatin + Paclitaxel,1216
+179,3032,Ridaforolimus + Paclitaxel,1216
+180,4840,RO4929097 + Paclitaxel,1216
+181,1369,Ruxolitinib + Paclitaxel,1216
+182,1416,Sapitinib + Paclitaxel,1216
+183,4282,Selumetinib + Paclitaxel,1216
+184,3428,Sorafenib + Carboplatin + Paclitaxel,1216
+185,1534,Sorafenib + Cisplatin + Paclitaxel,1216
+186,3828,SPC3042 + Taxol,1216
+187,4157,SRT1460 + Paclitaxel,1216
+188,4158,SRT1720 + Paclitaxel,1216
+189,1668,TAS-119 + Paclitaxel,1216
+190,5493,Trametinib + Paclitaxel,1216
+191,1551,Trastuzumab + Paclitaxel,1216
+192,4398,Vantictumab + Paclitaxel,1216
+193,1209,Vemurafenib + Carboplatin + Paclitaxel ,1216
+194,1973,Vistusertib + Paclitaxel,1216
+195,1983,vorinostat + Paclitaxel,1216
+196,3135,XL147 + Carboplatin + Paclitaxel,1216
+197,4115,XL147 + Paclitaxel,1216
 0,3219,Cytarabine + Daunorubicin + Pacritinib,7378
 1,2382,Erlotinib + Pacritinib,7378
 2,3623,Ibrutinib + Pacritinib,7378
@@ -6655,71 +6701,72 @@
 5,3177,Pacritinib + Decitabine,7378
 0,3961,Alvocidib + Palbociclib,6979
 1,4974,Anastrozole + Palbociclib,6979
-2,5334,ARRY-380 + Palbociclib + Letrozole,6979
-3,3754,AZD8835 + Fulvestrant + Palbociclib,6979
-4,3755,AZD8835 + Palbociclib,6979
-5,4294,AZD9496 + Palbociclib,6979
-6,2738,Bazedoxifene + Palbociclib,6979
-7,3252,Bicalutamide + Palbociclib,6979
-8,5838,Binimetinib + Palbociclib,6979
-9,4735,Carboplatin + Palbociclib,6979
-10,4734,Cisplatin + Palbociclib,6979
-11,5594,Copanlisib + Palbociclib + Letrozole,6979
-12,3958,Everolimus + Palbociclib,6979
-13,4597,Exemestane + Everolimus + Palbociclib,6979
-14,3205,Fulvestrant + Palbociclib,6979
-15,5684,Fulvestrant + Palbociclib + Avelumab,6979
-16,3968,Fulvestrant + Palbociclib + GDC-0941,6979
-17,5182,GDC-0077 + Letrozole + Palbociclib,6979
-18,4034,Gedatolisib + Palbociclib,6979
-19,3962,GSK2194069 + Palbociclib,6979
-20,3959,GSK2334470 + Palbociclib,6979
-21,1511,GSK461364 + PD0332991,6979
-22,1514,HMN-214 + PD0332991,6979
-23,1729,ibrutinib + palbociclib,6979
-24,6099,JNJ-42756493 + Fulvestrant + Palbociclib,6979
-25,3042,Lapatinib + Palbociclib,6979
-26,4222,Letrozole + Palbociclib + Pembrolizumab,6979
-27,4756,Letrozole + Palbociclib + Trastuzumab,6979
-28,3955,Linsitinib + Palbociclib,6979
-29,3957,MK2206 + Palbociclib,6979
-30,3112,nab-paclitaxel + Palbociclib,6979
-31,5402,Neratinib + Palbociclib,6979
-32,1512,ON-01910 + PD0332991,6979
-33,850,Palbociclib,6979
-34,1705,Palbociclib + Cetuximab,6979
-35,5637,Palbociclib + Decitabine,6979
-36,5636,Palbociclib + Dexamethasone,6979
-37,1703,Palbociclib + Fluorouracil + Oxaliplatin,6979
-38,3956,Palbociclib + GDC-0941,6979
-39,2922,Palbociclib + Letrozole,6979
-40,3965,Palbociclib + PD173074,6979
-41,3960,Palbociclib + PF-04691502,6979
-42,2016,Palbociclib + Pimasertib,6979
-43,4161,Palbociclib + Quizartinib,6979
-44,6294,Palbociclib + SAR439859,6979
-45,4184,Palbociclib + SGI-1776,6979
-46,4130,Palbociclib + Sirolimus,6979
-47,5638,Palbociclib + Sorafenib,6979
-48,3542,Palbociclib + Tamoxifen,6979
-49,4162,Palbociclib + Tandutinib,6979
-50,3966,Palbociclib + Tanespimycin,6979
-51,4160,Palbociclib + TCS 359,6979
-52,1368,Palbociclib + Trametinib,6979
-53,3041,Palbociclib + Trastuzumab,6979
-54,1730,Palbociclib + Velcade,6979
-55,4129,Palbociclib + Vemurafenib,6979
-56,3963,Palbociclib + Vorinostat,6979
-57,3964,Palbociclib + XAV939,6979
-58,1823,PD-0325901 + Palbociclib,6979
-59,1731,PD-0332991 + T-DM1,6979
-60,1509,PD0332991 + 5-FU,6979
-61,1517,PD0332991 + AZD6244,6979
-62,1520,PD0332991 + AZD8055,6979
-63,1515,PD0332991 + BEZ235,6979
-64,1516,PD0332991 + GDC0980,6979
-65,1510,PD0332991 + Gemcitabine,6979
-66,3208,pipendoxifene + palbociclib,6979
+2,6323,Anastrozole + Palbociclib + Pertuzumab + Trastuzumab,6979
+3,5334,ARRY-380 + Palbociclib + Letrozole,6979
+4,3754,AZD8835 + Fulvestrant + Palbociclib,6979
+5,3755,AZD8835 + Palbociclib,6979
+6,4294,AZD9496 + Palbociclib,6979
+7,2738,Bazedoxifene + Palbociclib,6979
+8,3252,Bicalutamide + Palbociclib,6979
+9,5838,Binimetinib + Palbociclib,6979
+10,4735,Carboplatin + Palbociclib,6979
+11,4734,Cisplatin + Palbociclib,6979
+12,5594,Copanlisib + Palbociclib + Letrozole,6979
+13,3958,Everolimus + Palbociclib,6979
+14,4597,Exemestane + Everolimus + Palbociclib,6979
+15,3205,Fulvestrant + Palbociclib,6979
+16,5684,Fulvestrant + Palbociclib + Avelumab,6979
+17,3968,Fulvestrant + Palbociclib + GDC-0941,6979
+18,5182,GDC-0077 + Letrozole + Palbociclib,6979
+19,4034,Gedatolisib + Palbociclib,6979
+20,3962,GSK2194069 + Palbociclib,6979
+21,3959,GSK2334470 + Palbociclib,6979
+22,1511,GSK461364 + PD0332991,6979
+23,1514,HMN-214 + PD0332991,6979
+24,1729,ibrutinib + palbociclib,6979
+25,6099,JNJ-42756493 + Fulvestrant + Palbociclib,6979
+26,3042,Lapatinib + Palbociclib,6979
+27,4222,Letrozole + Palbociclib + Pembrolizumab,6979
+28,4756,Letrozole + Palbociclib + Trastuzumab,6979
+29,3955,Linsitinib + Palbociclib,6979
+30,3957,MK2206 + Palbociclib,6979
+31,3112,nab-paclitaxel + Palbociclib,6979
+32,5402,Neratinib + Palbociclib,6979
+33,1512,ON-01910 + PD0332991,6979
+34,850,Palbociclib,6979
+35,1705,Palbociclib + Cetuximab,6979
+36,5637,Palbociclib + Decitabine,6979
+37,5636,Palbociclib + Dexamethasone,6979
+38,1703,Palbociclib + Fluorouracil + Oxaliplatin,6979
+39,3956,Palbociclib + GDC-0941,6979
+40,2922,Palbociclib + Letrozole,6979
+41,3965,Palbociclib + PD173074,6979
+42,3960,Palbociclib + PF-04691502,6979
+43,2016,Palbociclib + Pimasertib,6979
+44,4161,Palbociclib + Quizartinib,6979
+45,6294,Palbociclib + SAR439859,6979
+46,4184,Palbociclib + SGI-1776,6979
+47,4130,Palbociclib + Sirolimus,6979
+48,5638,Palbociclib + Sorafenib,6979
+49,3542,Palbociclib + Tamoxifen,6979
+50,4162,Palbociclib + Tandutinib,6979
+51,3966,Palbociclib + Tanespimycin,6979
+52,4160,Palbociclib + TCS 359,6979
+53,1368,Palbociclib + Trametinib,6979
+54,3041,Palbociclib + Trastuzumab,6979
+55,1730,Palbociclib + Velcade,6979
+56,4129,Palbociclib + Vemurafenib,6979
+57,3963,Palbociclib + Vorinostat,6979
+58,3964,Palbociclib + XAV939,6979
+59,1823,PD-0325901 + Palbociclib,6979
+60,1731,PD-0332991 + T-DM1,6979
+61,1509,PD0332991 + 5-FU,6979
+62,1517,PD0332991 + AZD6244,6979
+63,1520,PD0332991 + AZD8055,6979
+64,1515,PD0332991 + BEZ235,6979
+65,1516,PD0332991 + GDC0980,6979
+66,1510,PD0332991 + Gemcitabine,6979
+67,3208,pipendoxifene + palbociclib,6979
 0,4977,Dexamethasone + Filgrastim + Palifermin + Rituximab,38
 1,2373,Palifermin,38
 0,5704,PAN-301-1,8755
@@ -7140,29 +7187,30 @@
 2,4959,Gefitinib + Perifosine,6981
 3,855,Perifosine,6981
 4,2194,Perifosine + Temsirolimus,6981
-0,5600,Atezolizumab + Paclitaxel + Trastuzumab + Pertuzumab,4730
-1,6010,BKM120 + Pertuzumab,4730
-2,1418,BKM120 + Trastuzumab + Pertuzumab,4730
-3,3037,Capcitabine + Cisplatin + Pertuzumab + Trastuzumab,4730
-4,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,4730
-5,3931,Docetaxel + T-DM1 + Pertuzumab,4730
-6,1592,Gemcitabine + Trastuzumab + Pertuzumab,4730
-7,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,4730
-8,5958,Lapatinib + Pertuzumab,4730
-9,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,4730
-10,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,4730
-11,6013,Neratinib + Pertuzumab,4730
-12,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,4730
-13,856,Pertuzumab,4730
-14,5648,Pertuzumab + Tocilizumab + Trastuzumab,4730
-15,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,4730
-16,1978,Pertuzumab + Trastuzumab + Docetaxel,4730
-17,1550,Pertuzumab + Trastuzumab + Fluorouracil + Epirubicin + Cyclophosphamide,4730
-18,1549,Pertuzumab + Trastuzumab + Paclitaxel,4730
-19,1666,Pertuzumab + Trastuzumab + Vinorelbine,4730
-20,1492,T-DM1 + Pertuzumab,4730
-21,1389,Trastuzumab + Pertuzumab,4730
-22,3290,Trastuzumab + Pertuzumab + Fulvestrant,4730
+0,6323,Anastrozole + Palbociclib + Pertuzumab + Trastuzumab,4730
+1,5600,Atezolizumab + Paclitaxel + Trastuzumab + Pertuzumab,4730
+2,6010,BKM120 + Pertuzumab,4730
+3,1418,BKM120 + Trastuzumab + Pertuzumab,4730
+4,3037,Capcitabine + Cisplatin + Pertuzumab + Trastuzumab,4730
+5,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,4730
+6,3931,Docetaxel + T-DM1 + Pertuzumab,4730
+7,1592,Gemcitabine + Trastuzumab + Pertuzumab,4730
+8,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,4730
+9,5958,Lapatinib + Pertuzumab,4730
+10,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,4730
+11,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,4730
+12,6013,Neratinib + Pertuzumab,4730
+13,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,4730
+14,856,Pertuzumab,4730
+15,5648,Pertuzumab + Tocilizumab + Trastuzumab,4730
+16,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,4730
+17,1978,Pertuzumab + Trastuzumab + Docetaxel,4730
+18,1550,Pertuzumab + Trastuzumab + Fluorouracil + Epirubicin + Cyclophosphamide,4730
+19,1549,Pertuzumab + Trastuzumab + Paclitaxel,4730
+20,1666,Pertuzumab + Trastuzumab + Vinorelbine,4730
+21,1492,T-DM1 + Pertuzumab,4730
+22,1389,Trastuzumab + Pertuzumab,4730
+23,3290,Trastuzumab + Pertuzumab + Fulvestrant,4730
 0,5752,PET-16,8773
 1,5911,PET-16 + Vemurafenib,8773
 0,4574,Pexmetinib,8486
@@ -7304,6 +7352,7 @@
 1,4512,Nivolumab + Plinabulin,8206
 2,3678,Plinabulin,8206
 0,2693,PLS-123,7657
+0,6324,PLX2853,8972
 0,5730,Binimetinib + PLX3397,6991
 1,2736,Pembrolizumab + PLX3397,6991
 2,874,PLX3397,6991
@@ -7545,6 +7594,7 @@
 0,5948,A-770041 + R406,8236
 1,3782,R406,8236
 0,3497,R547,8100
+0,6339,R916562,8976
 0,3943,Pembrolizumab + rAd.CD40L,8305
 1,3942,rAd-hCD40L,8305
 0,1680,rAD-p53,7314
@@ -7598,16 +7648,17 @@
 2,1246,REGN1400 + Erlotinib,7189
 0,6151,REGN1979,8930
 1,6152,REGN1979 + REGN2810,8930
-0,6152,REGN1979 + REGN2810,8735
-1,5656,REGN2810,8735
-2,5722,REGN2810 + Carboplatin + Docetaxel,8735
-3,5720,REGN2810 + Carboplatin + Paclitaxel,8735
-4,5721,REGN2810 + Carboplatin + Pemetrexed,8735
-5,5718,REGN2810 + Cyclophosphamide,8735
-6,5719,REGN2810 + Docetaxel,8735
-7,5723,REGN2810 + GM-CSF + Cyclophosphamide,8735
-8,5736,REGN3767 + REGN2810,8735
-9,5934,SAR439459 + REGN2810,8735
+0,6335,Isatuximab + REGN2810,8735
+1,6152,REGN1979 + REGN2810,8735
+2,5656,REGN2810,8735
+3,5722,REGN2810 + Carboplatin + Docetaxel,8735
+4,5720,REGN2810 + Carboplatin + Paclitaxel,8735
+5,5721,REGN2810 + Carboplatin + Pemetrexed,8735
+6,5718,REGN2810 + Cyclophosphamide,8735
+7,5719,REGN2810 + Docetaxel,8735
+8,5723,REGN2810 + GM-CSF + Cyclophosphamide,8735
+9,5736,REGN3767 + REGN2810,8735
+10,5934,SAR439459 + REGN2810,8735
 0,5975,Fulvestrant + REGN2878-DM1,8876
 1,5974,REGN2878-DM1,8876
 0,5735,REGN3767,8764
@@ -7925,9 +7976,9 @@
 8,5010,Saracatinib + Selumetinib,7018
 0,2498,Fluorouracil + Leucovorin + Irinotecan + Oxaliplatin + Saridegib,7519
 1,2414,Saridegib,7519
-0,2224,AZD9291 + Savolitinib,7453
-1,3790,Cetuximab + Savolitinib,7453
-2,5063,Gefitinib + Savolitinib,7453
+0,3790,Cetuximab + Savolitinib,7453
+1,5063,Gefitinib + Savolitinib,7453
+2,2224,Osimertinib + Savolitinib,7453
 3,2161,Savolitinib,7453
 0,2712,SB-431542 ,7673
 0,6242,SB3,8951
@@ -8071,9 +8122,10 @@
 1,5601,PD180970 + Serdemetan,7484
 2,2309,Serdemetan,7484
 0,4141,Exemestane + Seribantumab,6957
-1,3878,Letrozole + Seribantumab,6957
-2,820,Seribantumab,6957
-3,6003,Seribantumab + XL147,6957
+1,6327,Fulvestrant + Seribantumab,6957
+2,3878,Letrozole + Seribantumab,6957
+3,820,Seribantumab,6957
+4,6003,Seribantumab + XL147,6957
 0,915,SF1126,7020
 1,4956,SF1126 + Sorafenib,7020
 0,1771,SGC-CBP30,7336
@@ -8224,61 +8276,61 @@
 7,1793,Bortezomib + Sorafenib + Decitabine   ,390
 8,2366,Bortezomib + Sorafenib + vorinostat,390
 9,6122,Busulfan + Sorafenib + Fludarabine,390
-10,6209,Cetuxmab + Sorafenib,390
-11,5462,Cisplatin + Gemcitabine + Sorafenib,390
-12,2212,Cisplatin + Sorafenib + Tamoxifen,390
-13,2374,Clofarabine + Cytarabine + Sorafenib,390
-14,1864,Crenolanib + Sorafenib,390
-15,5623,CVX-060 + Sorafenib,390
-16,2360,Cyclophosphamide + Sorafenib + Topotecan,390
-17,2364,Dalantercept + Sorafenib,390
-18,2390,Docetaxel + Sorafenib,390
-19,2363,Doxorubicin + Sorafenib,390
-20,2365,Epirubicin + Ifosfamide + Sorafenib,390
-21,4800,Erlotinib + Sorafenib,390
-22,2299,Everolimus + Sorafenib,390
-23,1320,Evofosfamide + Sorafenib,390
-24,3739,Fingolimod + Sorafenib,390
-25,4643,Fluorouracil + Quinacrine + Sorafenib,390
-26,2421,Galunisertib + Sorafenib,390
-27,3376,GW5074 + Sorafenib,390
-28,2413,Ipafricept + Sorafenib,390
-29,4426,Lenalidomide + Sorafenib,390
-30,4982,Metformin + Sorafenib,390
-31,1872,Navitoclax + Sorafenib,390
-32,5638,Palbociclib + Sorafenib,390
-33,1131,Panobinostat + Sorafenib,390
-34,5590,PDR001 + Sorafenib,390
-35,6041,Pembrolizumab + Sorafenib,390
-36,1482,Pemetrexed + Sorafenib,390
-37,1659,Pimasertib + Sorafenib,390
-38,4494,PX-866 + Sorafenib,390
-39,1720,Quinacrine + Sorafenib,390
-40,2221,Refametinib + Sorafenib,390
-41,5275,Regorafenib + Sorafenib,390
-42,1727,Regorafenib + Sorafenib + MK2206,390
-43,4135,Resminostat + Sorafenib,390
-44,1724,Rilutek + Sorafenib,390
-45,3189,Selinexor + Sorafenib,390
-46,4801,Selumetinib + Sorafenib,390
-47,4956,SF1126 + Sorafenib,390
-48,920,Sorafenib,390
-49,1119,Sorafenib + Avastin + Cyclophosphamide,390
-50,1633,Sorafenib + Azacitidine,390
-51,2132,Sorafenib + Bevacizumab + Oxaliplatin,390
-52,1067,Sorafenib + BEZ235,390
-53,2428,Sorafenib + Capecitabine,390
-54,3428,Sorafenib + Carboplatin + Paclitaxel,390
-55,2430,Sorafenib + CC-122,390
-56,2431,Sorafenib + Cisplatin + Docetaxel,390
-57,1534,Sorafenib + Cisplatin + Paclitaxel,390
-58,1086,Sorafenib + Fluorouracil,390
-59,1208,Sorafenib + Hydroxychloroquine,390
-60,1323,Sorafenib + Irinotecan,390
-61,2387,Sorafenib + KD018,390
-62,2388,Sorafenib + Temsirolimus,390
-63,2197,Sorafenib + Trametinib,390
-64,2389,Sorafenib + TRC105,390
+10,2389,Carotuximab + Sorafenib,390
+11,6209,Cetuxmab + Sorafenib,390
+12,5462,Cisplatin + Gemcitabine + Sorafenib,390
+13,2212,Cisplatin + Sorafenib + Tamoxifen,390
+14,2374,Clofarabine + Cytarabine + Sorafenib,390
+15,1864,Crenolanib + Sorafenib,390
+16,5623,CVX-060 + Sorafenib,390
+17,2360,Cyclophosphamide + Sorafenib + Topotecan,390
+18,2364,Dalantercept + Sorafenib,390
+19,2390,Docetaxel + Sorafenib,390
+20,2363,Doxorubicin + Sorafenib,390
+21,2365,Epirubicin + Ifosfamide + Sorafenib,390
+22,4800,Erlotinib + Sorafenib,390
+23,2299,Everolimus + Sorafenib,390
+24,1320,Evofosfamide + Sorafenib,390
+25,3739,Fingolimod + Sorafenib,390
+26,4643,Fluorouracil + Quinacrine + Sorafenib,390
+27,2421,Galunisertib + Sorafenib,390
+28,3376,GW5074 + Sorafenib,390
+29,2413,Ipafricept + Sorafenib,390
+30,4426,Lenalidomide + Sorafenib,390
+31,4982,Metformin + Sorafenib,390
+32,1872,Navitoclax + Sorafenib,390
+33,5638,Palbociclib + Sorafenib,390
+34,1131,Panobinostat + Sorafenib,390
+35,5590,PDR001 + Sorafenib,390
+36,6041,Pembrolizumab + Sorafenib,390
+37,1482,Pemetrexed + Sorafenib,390
+38,1659,Pimasertib + Sorafenib,390
+39,4494,PX-866 + Sorafenib,390
+40,1720,Quinacrine + Sorafenib,390
+41,2221,Refametinib + Sorafenib,390
+42,5275,Regorafenib + Sorafenib,390
+43,1727,Regorafenib + Sorafenib + MK2206,390
+44,4135,Resminostat + Sorafenib,390
+45,1724,Rilutek + Sorafenib,390
+46,3189,Selinexor + Sorafenib,390
+47,4801,Selumetinib + Sorafenib,390
+48,4956,SF1126 + Sorafenib,390
+49,920,Sorafenib,390
+50,1119,Sorafenib + Avastin + Cyclophosphamide,390
+51,1633,Sorafenib + Azacitidine,390
+52,2132,Sorafenib + Bevacizumab + Oxaliplatin,390
+53,1067,Sorafenib + BEZ235,390
+54,2428,Sorafenib + Capecitabine,390
+55,3428,Sorafenib + Carboplatin + Paclitaxel,390
+56,2430,Sorafenib + CC-122,390
+57,2431,Sorafenib + Cisplatin + Docetaxel,390
+58,1534,Sorafenib + Cisplatin + Paclitaxel,390
+59,1086,Sorafenib + Fluorouracil,390
+60,1208,Sorafenib + Hydroxychloroquine,390
+61,1323,Sorafenib + Irinotecan,390
+62,2387,Sorafenib + KD018,390
+63,2388,Sorafenib + Temsirolimus,390
+64,2197,Sorafenib + Trametinib,390
 65,2357,Sorafenib + Vinorelbine,390
 66,2356,Sorafenib + Vorinostat,390
 67,1228,Topotecan + Sorafenib,390
@@ -8544,31 +8596,32 @@
 1,3917,Bevacizumab + Sorafenib + Temsirolimus,4727
 2,1121,Bevacizumab + Temsirolimus + Doxil,4727
 3,3134,Bortezomib + Temsirolimus + Topotecan,4727
-4,2697,Cyclophosphamide + Dasatinib + Temsirolimus,4727
-5,5284,Denileukin diftitox + Temsirolimus,4727
-6,1675,Doxil + Temsirolimus,4727
-7,2302,Hydroxychloroquine + Temsirolimus ,4727
-8,2298,Irinotecan + Temsirolimus + Vincristine,4727
-9,1263,ixabepilone + temsirolimus,4727
-10,4664,MK2206 + Temsirolimus,4727
-11,2194,Perifosine + Temsirolimus,4727
-12,4988,SCH772984 + Temsirolimus,4727
-13,2388,Sorafenib + Temsirolimus,4727
-14,936,Temsirolimus,4727
-15,3133,Temsirolimus + Bevacizumab,4727
-16,1159,Temsirolimus + Bevacizumab + Cetuximab,4727
-17,1376,Temsirolimus + Bevacizumab + Valproic Acid + Cetuximab,4727
-18,1671,Temsirolimus + Cetuximab,4727
-19,1340,Temsirolimus + Erlotinib,4727
-20,2280,Temsirolimus + Lenalidomide,4727
-21,1325,Temsirolimus + Metformin,4727
-22,1527,Temsirolimus + Neratinib,4727
-23,4808,Temsirolimus + Radiotherapy,4727
-24,2492,Temsirolimus + Vinblastine,4727
-25,2263,Temsirolimus + vorinostat,4727
-26,1200,Tivantinib + Temsirolimus,4727
-27,1175,Vemurafenib + Temsirolimus,4727
-28,1434,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide + others,4727
+4,6333,Carboplatin + Paclitaxel + Temsirolimus,4727
+5,2697,Cyclophosphamide + Dasatinib + Temsirolimus,4727
+6,5284,Denileukin diftitox + Temsirolimus,4727
+7,1675,Doxil + Temsirolimus,4727
+8,2302,Hydroxychloroquine + Temsirolimus ,4727
+9,2298,Irinotecan + Temsirolimus + Vincristine,4727
+10,1263,ixabepilone + temsirolimus,4727
+11,4664,MK2206 + Temsirolimus,4727
+12,2194,Perifosine + Temsirolimus,4727
+13,4988,SCH772984 + Temsirolimus,4727
+14,2388,Sorafenib + Temsirolimus,4727
+15,936,Temsirolimus,4727
+16,3133,Temsirolimus + Bevacizumab,4727
+17,1159,Temsirolimus + Bevacizumab + Cetuximab,4727
+18,1376,Temsirolimus + Bevacizumab + Valproic Acid + Cetuximab,4727
+19,1671,Temsirolimus + Cetuximab,4727
+20,1340,Temsirolimus + Erlotinib,4727
+21,2280,Temsirolimus + Lenalidomide,4727
+22,1325,Temsirolimus + Metformin,4727
+23,1527,Temsirolimus + Neratinib,4727
+24,4808,Temsirolimus + Radiotherapy,4727
+25,2492,Temsirolimus + Vinblastine,4727
+26,2263,Temsirolimus + vorinostat,4727
+27,1200,Tivantinib + Temsirolimus,4727
+28,1175,Vemurafenib + Temsirolimus,4727
+29,1434,Vincristine + Doxorubicin + Cyclophosphamide + Ifosfamide + Etoposide + others,4727
 0,6286,Atezolizumab + TEN-010,7076
 1,5957,Daratumumab + TEN-010,7076
 2,6179,Rituximab + TEN-010 + Venetoclax,7076
@@ -8789,92 +8842,93 @@
 2,2259,Abemaciclib + Trastuzumab,71
 3,1106,Afatinib + Trastuzumab,71
 4,5213,ALX148 + Trastuzumab,71
-5,5454,ARQ092 + Trastuzumab,71
-6,3340,ARRY-380 + Capecitabine + Trastuzumab,71
-7,1560,ARRY-380 + Trastuzumab,71
-8,5600,Atezolizumab + Paclitaxel + Trastuzumab + Pertuzumab,71
-9,3250,Atezolizumab + Trastuzumab,71
-10,3441,Bevacizumab + Capecitabine + Oxaliplatin + Trastuzumab,71
-11,1537,BKM120 + Capecitabine + Trastuzumab,71
-12,1417,BKM120 + Trastuzumab,71
-13,1419,BKM120 + Trastuzumab + Lapatinib,71
-14,1418,BKM120 + Trastuzumab + Pertuzumab,71
-15,2059,BYL719 + LJM716 + Trastuzumab,71
-16,3037,Capcitabine + Cisplatin + Pertuzumab + Trastuzumab,71
-17,4945,Capecitabine + Cisplatin + Pembrolizumab + Trastuzumab,71
-18,1899,Capecitabine + Cisplatin + Trastuzumab,71
-19,1559,Capecitabine + Cyclophosphamide + Lapatinib + Trastuzumab,71
-20,1894,Capecitabine + Fluorouracil + Cisplatin + Trastuzumab,71
-21,1409,Capecitabine + Trastuzumab,71
-22,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,71
-23,2064,CDX-3379 + Trastuzumab,71
-24,1413,Cetuximab + Trastuzumab,71
-25,3039,CH5132799 + Trastuzumab,71
-26,3442,Crizotinib + Trastuzumab + Paclitaxel,71
-27,1898,Cyclophosphamide + Paclitaxel + Trastuzumab ,71
-28,5575,Dasatinib + Trastuzumab,71
-29,1882,Docetaxel + Cyclophosphamide + Trastuzumab,71
-30,3129,Docetaxel + Lapatinib + Trastuzumab,71
-31,1542,Entinostat + Lapatinib + Trastuzumab,71
-32,1878,Enzalutamide + Trastuzumab,71
-33,1981,Eribulin + Trastuzumab,71
-34,1591,Everolimus + Letrozole + Trastuzumab,71
-35,4970,Fluorouracil + Leucovorin + Trastuzumab,71
-36,1579,Ganetespib + Paclitaxel + Trastuzumab,71
-37,1889,Gemcitabine + Trastuzumab,71
-38,1592,Gemcitabine + Trastuzumab + Pertuzumab,71
-39,1556,HER-2/neu intracellular domain protein + Trastuzumab ,71
-40,1558,HER-2/neu intracellular domain protein + Trastuzumab + Polysaccharide-K,71
-41,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,71
-42,4756,Letrozole + Palbociclib + Trastuzumab,71
-43,2037,LJM716 + Trastuzumab,71
-44,4218,MEDI4736 + Trastuzumab,71
-45,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,71
-46,1494,MK2206 + Trastuzumab,71
-47,1888,MM-302 + Trastuzumab,71
-48,1490,Nab-paclitaxel + Carboplatin + Trastuzumab,71
-49,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,71
-50,4359,Neratinib + Trastuzumab,71
-51,1887,Paclitaxel + Carboplatin + Trastuzumab,71
-52,3130,Paclitaxel + Lapatinib + Trastuzumab,71
-53,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,71
-54,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,71
-55,1892,Paclitaxel + Trastuzumab + MM-111,71
-56,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,71
-57,5874,Paclitaxel + Trastuzumab + TVB-2640,71
-58,3041,Palbociclib + Trastuzumab,71
-59,1908,Pembrolizumab + Trastuzumab,71
-60,5648,Pertuzumab + Tocilizumab + Trastuzumab,71
-61,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,71
-62,1978,Pertuzumab + Trastuzumab + Docetaxel,71
-63,1550,Pertuzumab + Trastuzumab + Fluorouracil + Epirubicin + Cyclophosphamide,71
-64,1549,Pertuzumab + Trastuzumab + Paclitaxel,71
-65,1666,Pertuzumab + Trastuzumab + Vinorelbine,71
-66,3998,Ramucirumab + Trastuzumab,71
-67,1578,Ruxolitinib + Trastuzumab,71
-68,1979,Sirolimus + Trastuzumab,71
-69,1658,Sunitinib + Trastuzumab,71
-70,947,Trastuzumab,71
-71,1596,Trastuzumab + Bevacizumab,71
-72,1905,Trastuzumab + Carboplatin,71
-73,1485,Trastuzumab + Docetaxel + Carboplatin,71
-74,1893,Trastuzumab + Everolimus,71
-75,1411,Trastuzumab + Everolimus + Vinorelbine,71
-76,3439,Trastuzumab + Fluorouracil + Leucovorin + Oxaliplatin,71
-77,1414,Trastuzumab + Lapatinib,71
-78,1412,Trastuzumab + Oxaliplatin,71
-79,1551,Trastuzumab + Paclitaxel,71
-80,1389,Trastuzumab + Pertuzumab,71
-81,3290,Trastuzumab + Pertuzumab + Fulvestrant,71
-82,1891,Trastuzumab + Sargramostim,71
-83,5471,Trastuzumab + trastuzumab emtansine,71
-84,1408,Trastuzumab + TS-1,71
-85,3034,trastuzumab + varlitinib,71
-86,1415,Trastuzumab + XL147,71
-87,1493,Trebananib + Trastuzumab,71
-88,3888,Tretinoin + Trastuzumab,71
-89,1890,Vinorelbine + Trastuzumab,71
-90,1880,XL647 + Trastuzumab,71
+5,6323,Anastrozole + Palbociclib + Pertuzumab + Trastuzumab,71
+6,5454,ARQ092 + Trastuzumab,71
+7,3340,ARRY-380 + Capecitabine + Trastuzumab,71
+8,1560,ARRY-380 + Trastuzumab,71
+9,5600,Atezolizumab + Paclitaxel + Trastuzumab + Pertuzumab,71
+10,3250,Atezolizumab + Trastuzumab,71
+11,3441,Bevacizumab + Capecitabine + Oxaliplatin + Trastuzumab,71
+12,1537,BKM120 + Capecitabine + Trastuzumab,71
+13,1417,BKM120 + Trastuzumab,71
+14,1419,BKM120 + Trastuzumab + Lapatinib,71
+15,1418,BKM120 + Trastuzumab + Pertuzumab,71
+16,2059,BYL719 + LJM716 + Trastuzumab,71
+17,3037,Capcitabine + Cisplatin + Pertuzumab + Trastuzumab,71
+18,4945,Capecitabine + Cisplatin + Pembrolizumab + Trastuzumab,71
+19,1899,Capecitabine + Cisplatin + Trastuzumab,71
+20,1559,Capecitabine + Cyclophosphamide + Lapatinib + Trastuzumab,71
+21,1894,Capecitabine + Fluorouracil + Cisplatin + Trastuzumab,71
+22,1409,Capecitabine + Trastuzumab,71
+23,4235,Carboplatin + Pertuzumab + Trastuzumab + Paclitaxel,71
+24,2064,CDX-3379 + Trastuzumab,71
+25,1413,Cetuximab + Trastuzumab,71
+26,3039,CH5132799 + Trastuzumab,71
+27,3442,Crizotinib + Trastuzumab + Paclitaxel,71
+28,1898,Cyclophosphamide + Paclitaxel + Trastuzumab ,71
+29,5575,Dasatinib + Trastuzumab,71
+30,1882,Docetaxel + Cyclophosphamide + Trastuzumab,71
+31,3129,Docetaxel + Lapatinib + Trastuzumab,71
+32,1542,Entinostat + Lapatinib + Trastuzumab,71
+33,1878,Enzalutamide + Trastuzumab,71
+34,1981,Eribulin + Trastuzumab,71
+35,1591,Everolimus + Letrozole + Trastuzumab,71
+36,4970,Fluorouracil + Leucovorin + Trastuzumab,71
+37,1579,Ganetespib + Paclitaxel + Trastuzumab,71
+38,1889,Gemcitabine + Trastuzumab,71
+39,1592,Gemcitabine + Trastuzumab + Pertuzumab,71
+40,1556,HER-2/neu intracellular domain protein + Trastuzumab ,71
+41,1558,HER-2/neu intracellular domain protein + Trastuzumab + Polysaccharide-K,71
+42,5548,Interferon gamma + Paclitaxel + Pertuzumab + Trastuzumab,71
+43,4756,Letrozole + Palbociclib + Trastuzumab,71
+44,2037,LJM716 + Trastuzumab,71
+45,4218,MEDI4736 + Trastuzumab,71
+46,6101,Metformin + Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,71
+47,1494,MK2206 + Trastuzumab,71
+48,1888,MM-302 + Trastuzumab,71
+49,1490,Nab-paclitaxel + Carboplatin + Trastuzumab,71
+50,3187,Neratinib + Paclitaxel + Pertuzumab + Trastuzumab,71
+51,4359,Neratinib + Trastuzumab,71
+52,1887,Paclitaxel + Carboplatin + Trastuzumab,71
+53,3130,Paclitaxel + Lapatinib + Trastuzumab,71
+54,5956,Paclitaxel + Pembrolizumab + Pertuzumab + Trastuzumab,71
+55,1503,Paclitaxel + Trastuzumab + Doxorubicin + Cyclophosphamide,71
+56,1892,Paclitaxel + Trastuzumab + MM-111,71
+57,1504,Paclitaxel + Trastuzumab + Neratinib + Doxorubicin + Cyclophosphamide,71
+58,5874,Paclitaxel + Trastuzumab + TVB-2640,71
+59,3041,Palbociclib + Trastuzumab,71
+60,1908,Pembrolizumab + Trastuzumab,71
+61,5648,Pertuzumab + Tocilizumab + Trastuzumab,71
+62,1879,Pertuzumab + Trastuzumab + Carboplatin + Docetaxel,71
+63,1978,Pertuzumab + Trastuzumab + Docetaxel,71
+64,1550,Pertuzumab + Trastuzumab + Fluorouracil + Epirubicin + Cyclophosphamide,71
+65,1549,Pertuzumab + Trastuzumab + Paclitaxel,71
+66,1666,Pertuzumab + Trastuzumab + Vinorelbine,71
+67,3998,Ramucirumab + Trastuzumab,71
+68,1578,Ruxolitinib + Trastuzumab,71
+69,1979,Sirolimus + Trastuzumab,71
+70,1658,Sunitinib + Trastuzumab,71
+71,947,Trastuzumab,71
+72,1596,Trastuzumab + Bevacizumab,71
+73,1905,Trastuzumab + Carboplatin,71
+74,1485,Trastuzumab + Docetaxel + Carboplatin,71
+75,1893,Trastuzumab + Everolimus,71
+76,1411,Trastuzumab + Everolimus + Vinorelbine,71
+77,3439,Trastuzumab + Fluorouracil + Leucovorin + Oxaliplatin,71
+78,1414,Trastuzumab + Lapatinib,71
+79,1412,Trastuzumab + Oxaliplatin,71
+80,1551,Trastuzumab + Paclitaxel,71
+81,1389,Trastuzumab + Pertuzumab,71
+82,3290,Trastuzumab + Pertuzumab + Fulvestrant,71
+83,1891,Trastuzumab + Sargramostim,71
+84,5471,Trastuzumab + trastuzumab emtansine,71
+85,1408,Trastuzumab + TS-1,71
+86,3034,trastuzumab + varlitinib,71
+87,1415,Trastuzumab + XL147,71
+88,1493,Trebananib + Trastuzumab,71
+89,3888,Tretinoin + Trastuzumab,71
+90,1890,Vinorelbine + Trastuzumab,71
+91,1880,XL647 + Trastuzumab,71
 0,1573,ARRY-380 + Trastuzumab emtansine,7252
 1,1575,BYL719 + Trastuzumab emtansine,7252
 2,3930,Docetaxel + T-DM1,7252
@@ -8893,11 +8947,6 @@
 15,3429,Trastuzumab emtansine + Vinorelbine,7252
 0,5768,Temozolomide + TRC102,8787
 1,5767,TRC102,8787
-0,1243,Bevacizumab + TRC105,7227
-1,2389,Sorafenib + TRC105,7227
-2,1242,TRC105,7227
-3,1335,TRC105 + Axitinib,7227
-4,1431,TRC105 + Pazopanib,7227
 0,5770,TRC253,8789
 0,5772,TRC694,8791
 0,5667,Pegylated liposomal-doxorubicin + Trebananib,7222
@@ -8957,6 +9006,9 @@
 1,4527,TAS-114 + TS-1,7256
 2,1408,Trastuzumab + TS-1,7256
 3,1407,TS-1,7256
+0,6322,Carboplatin + Paclitaxel + TSR-042,8971
+1,6321,Niraparib + TSR-042,8971
+2,6320,TSR-042,8971
 0,5960,TTC-352,8870
 0,5338,TTI-621,8667
 0,3635,Tubastatin A,8181
@@ -9019,10 +9071,11 @@
 3,6043,Avelumab + Utomilumab,8610
 4,6288,Cetuximab + Irinotecan + Utomilumab,8610
 5,6148,ISA101b + Utomilumab,8610
-6,6306,Pembrolizumab + Utomilumab,8610
-7,4448,PF-04518600 + Utomilumab,8610
-8,5086,Utomilumab,8610
-9,6111,Utomilumab + Rituximab,8610
+6,6332,Mogamulizumab + Utomilumab,8610
+7,6306,Pembrolizumab + Utomilumab,8610
+8,4448,PF-04518600 + Utomilumab,8610
+9,5086,Utomilumab,8610
+10,6111,Utomilumab + Rituximab,8610
 0,5824,V158411,8817
 0,2921,VAL-083,7844
 0,5172,AdV-tk + Valacyclovir,8625
@@ -9177,43 +9230,44 @@
 7,5268,Carfilzomib + Dexamethasone + Venetoclax,7284
 8,5979,Cerdulatinib + Venetoclax,7284
 9,4171,Cobimetinib + Venetoclax,7284
-10,3182,Cytarabine + GDC-0199,7284
-11,5959,Cytarabine + Idarubicin + Venetoclax,7284
-12,4868,Dasatinib + Venetoclax,7284
-13,4669,Daunorubicin + Venetoclax,7284
-14,6067,G-TPP + Venetoclax,7284
-15,3972,GDC-0199 + Alisertib,7284
-16,1637,GDC-0199 + Azacitidine,7284
-17,1636,GDC-0199 + Decitabine,7284
-18,3624,GDC-0199 + Duvelisib,7284
-19,3392,GDC-0199 + Ibrutinib,7284
-20,3472,GDC-0199 + Ibrutinib + Obinutuzumab,7284
-21,3636,GDC-0199 + Obinutuzumab,7284
-22,3937,GDC-0199 + Rituximab,7284
-23,3973,GDC-0199 + VX-680,7284
-24,5108,GDC-0941 + Venetoclax,7284
-25,5277,GS-5829 + Venetoclax,7284
-26,6189,Ibrutinib + Lenalidomide + Obinutuzumab + Prednisone + Venetoclax,7284
-27,5777,Ibrutinib + Rituximab + Venetoclax,7284
-28,5645,Idasanutlin + Obinutuzumab + Rituximab + Venetoclax,7284
-29,5644,Idasanutlin + Obinutuzumab + Venetoclax,7284
-30,5646,Idasanutlin + Rituximab + Venetoclax,7284
-31,4867,Imatinib + Venetoclax,7284
-32,5133,Lenalidomide + Obinutuzumab + Venetoclax,7284
-33,5785,MOR208 + Venetoclax,7284
-34,6187,Navitoclax + Venetoclax,7284
-35,4707,Nilotinib + Venetoclax,7284
-36,4227,Obinutuzumab + Polatuzumab Vedotin + Venetoclax,7284
-37,4964,ONC201 + Venetoclax,7284
-38,4869,Ponatinib + Venetoclax,7284
-39,6179,Rituximab + TEN-010 + Venetoclax,7284
-40,4172,RO5503781 + Venetoclax,7284
-41,5703,SY-1365 + Venetoclax,7284
-42,4935,Trabectedin + Venetoclax,7284
-43,1562,Venetoclax,7284
-44,5294,Venetoclax + DA-EPOCH-R,7284
-45,5404,Venetoclax + Rituximab + Ifosfamide + Carboplatin + Etoposide,7284
-46,5375,Venetoclax + VX-11e,7284
+10,6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax,7284
+11,3182,Cytarabine + GDC-0199,7284
+12,5959,Cytarabine + Idarubicin + Venetoclax,7284
+13,4868,Dasatinib + Venetoclax,7284
+14,4669,Daunorubicin + Venetoclax,7284
+15,6067,G-TPP + Venetoclax,7284
+16,3972,GDC-0199 + Alisertib,7284
+17,1637,GDC-0199 + Azacitidine,7284
+18,1636,GDC-0199 + Decitabine,7284
+19,3624,GDC-0199 + Duvelisib,7284
+20,3392,GDC-0199 + Ibrutinib,7284
+21,3472,GDC-0199 + Ibrutinib + Obinutuzumab,7284
+22,3636,GDC-0199 + Obinutuzumab,7284
+23,3937,GDC-0199 + Rituximab,7284
+24,3973,GDC-0199 + VX-680,7284
+25,5108,GDC-0941 + Venetoclax,7284
+26,5277,GS-5829 + Venetoclax,7284
+27,6189,Ibrutinib + Lenalidomide + Obinutuzumab + Prednisone + Venetoclax,7284
+28,5777,Ibrutinib + Rituximab + Venetoclax,7284
+29,5645,Idasanutlin + Obinutuzumab + Rituximab + Venetoclax,7284
+30,5644,Idasanutlin + Obinutuzumab + Venetoclax,7284
+31,5646,Idasanutlin + Rituximab + Venetoclax,7284
+32,4867,Imatinib + Venetoclax,7284
+33,5133,Lenalidomide + Obinutuzumab + Venetoclax,7284
+34,5785,MOR208 + Venetoclax,7284
+35,6187,Navitoclax + Venetoclax,7284
+36,4707,Nilotinib + Venetoclax,7284
+37,4227,Obinutuzumab + Polatuzumab Vedotin + Venetoclax,7284
+38,4964,ONC201 + Venetoclax,7284
+39,4869,Ponatinib + Venetoclax,7284
+40,6179,Rituximab + TEN-010 + Venetoclax,7284
+41,4172,RO5503781 + Venetoclax,7284
+42,5703,SY-1365 + Venetoclax,7284
+43,4935,Trabectedin + Venetoclax,7284
+44,1562,Venetoclax,7284
+45,5294,Venetoclax + DA-EPOCH-R,7284
+46,5404,Venetoclax + Rituximab + Ifosfamide + Carboplatin + Etoposide,7284
+47,5375,Venetoclax + VX-11e,7284
 0,2715,Verrucarin A,7675
 1,2719,Verrucarin A + Tamoxifen,7675
 0,3319,Verteporfin,452

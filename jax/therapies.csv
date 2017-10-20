@@ -435,6 +435,7 @@ id,therapyName
 1853,Anastrozole + Letrozole
 4188,Anastrozole + MK2206
 4974,Anastrozole + Palbociclib
+6323,Anastrozole + Palbociclib + Pertuzumab + Trastuzumab
 2591,Andriol
 4593,Anetumab ravtansine
 4617,Anetumab ravtansine + Cisplatin + Pemetrexed
@@ -814,13 +815,9 @@ id,therapyName
 2782,AZD9150 
 3098,AZD9150 + MEDI4736
 4718,AZD9150 + Selumetinib
-660,AZD9291
 4502,AZD9291 + JNJ-61186372
 2223,AZD9291 + MEDI4736
 2994,AZD9291 + MLN0128
-1644,AZD9291 + Rifampin
-2224,AZD9291 + Savolitinib
-1645,AZD9291 + Simvastatin
 2997,AZD9496
 4293,AZD9496 + AZD8835
 4294,AZD9496 + Palbociclib
@@ -1097,6 +1094,8 @@ id,therapyName
 1101,Binimetinib + Encorafenib + Ribociclib
 5022,Binimetinib + Everolimus
 3247,Binimetinib + FOLFIRI
+6326,Binimetinib + Ipilimumab + Nivolumab
+6325,Binimetinib + Nivolumab
 5838,Binimetinib + Palbociclib
 5568,Binimetinib + Pembrolizumab
 5730,Binimetinib + PLX3397
@@ -1290,6 +1289,7 @@ id,therapyName
 5055,Brentuximab vedotin + Bendamustine
 4169,Brentuximab vedotin + Ceritinib
 5056,Brentuximab vedotin + Dacarbazine
+6328,Brentuximab vedotin + Dacarbazine + Doxorubicin + Nivolumab + Vinblastine
 4300,Brentuximab vedotin + Ibrutinib
 2487,Brentuximab vedotin + Ipilimumab
 3264,Brentuximab vedotin + Mocetinostat
@@ -1302,6 +1302,7 @@ id,therapyName
 3539,BSI-401
 3540,BSI-401 + Oxaliplatin
 6304,BTCT4465A
+6336,BTP-114
 1862,Bufalin
 2506,Bupropion
 1206,Busulfan
@@ -1365,6 +1366,7 @@ id,therapyName
 3056,Cabazitaxel + Enzalutamide
 1572,Cabazitaxel + Lapatinib
 998,cabozantinib
+6330,Cabozantinib + Carfilzomib + Dexamethasone
 5066,Cabozantinib + CT-707
 2069,cabozantinib + Docetaxel
 1255,Cabozantinib + Erlotinib
@@ -1475,7 +1477,9 @@ id,therapyName
 5054,Carboplatin + Paclitaxel + Pemetrexed + Veliparib
 6266,Carboplatin + Paclitaxel + PTC596
 2640,Carboplatin + Paclitaxel + Selinexor
+6333,Carboplatin + Paclitaxel + Temsirolimus
 2196,Carboplatin + Paclitaxel + Trametinib
+6322,Carboplatin + Paclitaxel + TSR-042
 5274,Carboplatin + Paclitaxel + Veliparib
 4735,Carboplatin + Palbociclib
 5265,Carboplatin + Pembrolizumab
@@ -1509,6 +1513,9 @@ id,therapyName
 3359,Carmustine + Cytarabine + Etoposide + Melphalan
 2555,Carmustine + Filgrastim + Plerixafor + Temozolomide
 3604,Carnosic acid
+1242,Carotuximab
+6334,Carotuximab + Nivolumab
+2389,Carotuximab + Sorafenib
 5999,CART19 cells
 1901,Carvedilol
 6221,CB-103
@@ -1645,6 +1652,7 @@ id,therapyName
 5951,Cetuximab + JNJ 38877605
 1672,Cetuximab + Lapatinib
 4647,Cetuximab + lenalidomide
+6338,Cetuximab + LSN3074753
 6309,Cetuximab + Lumretuzumab
 4559,Cetuximab + Mannitol
 1840,Cetuximab + Methotrexate
@@ -1981,6 +1989,7 @@ id,therapyName
 2392,Cytarabine + Etoposide
 3183,Cytarabine + Ficlatuzumab
 4271,Cytarabine + Filgrastim + Fludarabine
+6329,Cytarabine + Filgrastim + Fludarabine + Idarubicin + Venetoclax
 2294,Cytarabine + Fludarabine
 3193,Cytarabine + Fludarabine + Idarubicin
 3732,Cytarabine + Fludarabine + Leucovorin + Panobinostat
@@ -2689,6 +2698,7 @@ id,therapyName
 5975,Fulvestrant + REGN2878-DM1
 5068,Fulvestrant + SAR405838
 5015,Fulvestrant + Selumetinib
+6327,Fulvestrant + Seribantumab
 4854,Fulvestrant + THZ1
 4815,FX1
 3471,G-631
@@ -2841,6 +2851,7 @@ id,therapyName
 4412,Gemcitabine + nab-paclitaxel + Vantictumab
 4342,Gemcitabine + nab-paclitaxel + VS-4718
 5626,Gemcitabine + NC-6004
+6340,Gemcitabine + Nimotuzumab
 6297,Gemcitabine + Nivolumab
 2823,Gemcitabine + ON01910
 1611,Gemcitabine + Oxaliplatin + Dexamethasone
@@ -3240,6 +3251,8 @@ id,therapyName
 5134,IRX4204
 6147,ISA101b
 6148,ISA101b + Utomilumab
+6331,Isatuximab
+6335,Isatuximab + REGN2810
 780,ISIS 5132
 1025,ISIS-13650
 2536,ISIS-FGFR4Rx
@@ -3485,6 +3498,7 @@ id,therapyName
 5702,LOXO-292
 3506,LQZ-7F
 2793,LS104
+6337,LSN3074753
 4439,LSZ 102
 4440,LSZ 102 + Ribociclib
 1029,Lucitanib
@@ -3810,6 +3824,7 @@ id,therapyName
 6042,Mocetinostat + Pembrolizumab + SGI-110
 2968,Mogamulizumab 
 3843,Mogamulizumab + Nivolumab
+6332,Mogamulizumab + Utomilumab
 823,Momelotinib
 1860,Momelotinib + Trametinib
 3323,Montelukast
@@ -3846,6 +3861,11 @@ id,therapyName
 2418,MRT-92
 5016,MRX-2843
 1035,MRX34
+6314,MS201408-0005A
+6317,MS201408-0005A + MS201408-0005B
+6318,MS201408-0005A + MS201408-0005C
+6315,MS201408-0005B
+6316,MS201408-0005C
 3335,MS417
 3336,MS436
 5453,MS44
@@ -3966,6 +3986,7 @@ id,therapyName
 3985,Niraparib + SN-38
 5701,Niraparib + SY-1365
 1437,Niraparib + Temozolomide
+6321,Niraparib + TSR-042
 5631,NIS793
 5632,NIS793 + PDR001
 2924,Nitroglycerin
@@ -4164,10 +4185,14 @@ id,therapyName
 4995,OSI-027 + SCH772984
 4855,OSI-296
 2138,OSI-930
+660,Osimertinib
 5939,Osimertinib + Bosutinib + PF-573328
 5938,Osimertinib + PF-573328 + Saracatinib
 4379,Osimertinib + Ramucirumab
+1644,Osimertinib + Rifampin
+2224,Osimertinib + Savolitinib
 2225,Osimertinib + Selumetinib
+1645,Osimertinib + Simvastatin
 5937,Osimertinib + TAK-632
 4306,Ospemifene
 2408,OSU03012
@@ -4515,6 +4540,7 @@ id,therapyName
 1770,Plerixafor + Decitabine
 3678,Plinabulin
 2693,PLS-123
+6324,PLX2853
 874,PLX3397
 1395,PLX3397 + Paclitaxel
 3155,PLX3397 + Sirolimus
@@ -4638,6 +4664,7 @@ id,therapyName
 1465,R3Mab
 3782,R406
 3497,R547
+6339,R916562
 3942,rAd-hCD40L
 1680,rAD-p53
 3841,Radiotherapy
@@ -5029,7 +5056,6 @@ id,therapyName
 2387,Sorafenib + KD018
 2388,Sorafenib + Temsirolimus
 2197,Sorafenib + Trametinib
-2389,Sorafenib + TRC105
 2357,Sorafenib + Vinorelbine
 2356,Sorafenib + Vorinostat
 3366,SP600125
@@ -5263,7 +5289,6 @@ id,therapyName
 1583,Trastuzumab emtansine + Lapatinib
 3429,Trastuzumab emtansine + Vinorelbine
 5767,TRC102
-1242,TRC105
 1335,TRC105 + Axitinib
 1431,TRC105 + Pazopanib
 5770,TRC253
@@ -5294,6 +5319,7 @@ id,therapyName
 3613,TRX518
 1407,TS-1
 949,TSR-011
+6320,TSR-042
 5960,TTC-352
 5338,TTI-621
 3635,Tubastatin A
@@ -5521,6 +5547,7 @@ id,therapyName
 3829,YM155 + Cisplatin
 2550,YO-01027
 4766,Yttrium-90
+6319,Yttrium-90 + Nivolumab
 4769,Yttrium-90 + Nivolumab + Ipilimumab
 3880,YU238259
 4006,YW3-56

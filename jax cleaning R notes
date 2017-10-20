@@ -1,0 +1,15 @@
+cleaning jax variantID
+VariantID$pmid <-paste (VariantID$PMID,VariantID$X13,VariantID$X14,VariantID$X15,VariantID$X16)
+
+
+drops <- c("PMID","X13","X14","X15","X16")
+VariantID[ , !(names(VariantID) %in% drops)]
+
+write.csv(VarID2, file = "VarIDcleaned.csv")
+
+
+Gene_Level_Evidences_Cleaning$pmid <- paste (Gene_Level_Evidences_Cleaning$X15,Gene_Level_Evidences_Cleaning$X16,Gene_Level_Evidences_Cleaning$X17,Gene_Level_Evidences_Cleaning$X18)
+
+drops <- c("X15","X16","X17","X18")
+
+write.csv(Gene_Level_Evidences_Cleaning, file = "GeneLEVELleaned.csv")

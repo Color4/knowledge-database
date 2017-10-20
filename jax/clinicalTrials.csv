@@ -243,6 +243,7 @@ NCT01077544,A Pharmacokinetic (PK) Study of Nilotinib in Pediatric Patients With
 NCT01079780,Irinotecan Hydrochloride and Cetuximab With or Without Ramucirumab in Treating Patients With Advanced Colorectal Cancer With Progressive Disease After Treatment With Bevacizumab-Containing Chemotherapy
 NCT01081808,"Laboratory-Treated Autologous Lymphocytes, Aldesleukin, and Sargramostim (GM-CSF) in Treating Advanced Solid Tumors"
 NCT01083966,Intraarterial Cerebral Infusion of Avastin for Vestibular Schwannoma (Acoustic Neuroma)
+NCT01084252,Phase 1/2 Dose Escalation and Efficacy Study of Anti-CD38 Monoclonal Antibody in Patients With Selected CD38+ Hematological Malignancies
 NCT01087554,Sirolimus or Everolimus or Temsirolimus and Vorinostat in Advanced Cancer
 NCT01087983,Lapatinib With Sirolimus or Metformin
 NCT01088815,Hedgehog Inhibitors for Metastatic Adenocarcinoma of the Pancreas
@@ -2567,6 +2568,7 @@ NCT02331251,Study of Pembrolizumab Plus Chemotherapy in Patients With Advanced C
 NCT02331368,Phase 2 Multi-center Study of Anti-PD-1 During Lymphopenic State After HDT/ASCT for Multiple Myeloma
 NCT02332655,Cannabidiol Expanded Access Study in Medically Refractory Sturge-Weber Syndrome
 NCT02332668,"A Study of Pembrolizumab (MK-3475) in Pediatric Participants With Advanced Melanoma or Advanced, Relapsed, or Refractory PD-L1-Positive Solid Tumors or Lymphoma (MK-3475-051/KEYNOTE-051)"
+NCT02332850,SAR650984 in Combination With Carfilzomib for Treatment of Relapsed or Refractory Multiple Myeloma
 NCT02332889,Phase I/II Decitabine/Vaccine Therapy in Relapsed/Refractory Pediatric High Grade Gliomas/Medulloblastomas/CNS PNETs
 NCT02332902,Everolimus for Treatment of Disfiguring Cutaneous Lesions in Neurofibromatosis1 CRAD001CUS232T
 NCT02332980,A Phase II Study of Anti-PD-1 Antibody (MK-3475) in Relapsed/Refractory Chronic Lymphocytic Leukemia (CLL) and Other Low Grade B Cell Non-Hodgkin Lymphoma
@@ -2835,6 +2837,7 @@ NCT02420795,Study of Oral ONC201 in Patients With Relapsed/Refractory Non-Hodgki
 NCT02420821,A Study of MPDL3280A (Anti-Programmed Death Ligand 1 [PD-L1] Antibody) in Combination With Bevacizumab Versus Sunitinib in Patients With Untreated Advanced Renal Cell Carcinoma
 NCT02420860,Study of Elotuzumab With Lenalidomide as Maintenance After Autologous Stem Cell Transplant (ASCT)
 NCT02420912,"Nivolumab With Ibrutinib for Relapsed, Refractory or High-Risk Untreated Patients With Chronic Lymphocytic Leukemia (CLL)"
+NCT02421354,Study of Nivolumab in Patients With Myelofibrosis
 NCT02421939,A Study of ASP2215 Versus Salvage Chemotherapy in Patients With Relapsed or Refractory Acute Myeloid Leukemia (AML) With FMS-like Tyrosine Kinase (FLT3) Mutation
 NCT02422381,MK-3475 and Gemcitabine in Non-Small Cell Lung Cancer (NSCLC)
 NCT02422589,"A Phase I, Multi-center, Open Label, Drug-drug Interaction Study to Assess the Effect of Ceritinib on the Pharmacokinetics of Warfarin and Midazolam in Patients With ALK-positive Advanced Tumors"
@@ -3711,6 +3714,7 @@ NCT02713529,Safety Study of AMG 820 and Pembrolizumab Combination in Select Adva
 NCT02713828,"Study of Glembatumumab Vedotin in gpNMB-Expressing, Advanced or Metastatic SCC of the Lung"
 NCT02713867,"A Dose Frequency Optimization,Trial of Nivolumab 240 mg Every 2 Weeks vs Nivolumab 480 mg Every 4 Weeks in Subjects With Advanced or Metastatic Non-small Cell Lung Cancer Who Received 4 Months of Nivolumab at 3 mg/kg or 240 mg Every 2 Weeks (CheckMate 384)"
 NCT02714218,"A Study of Two Different Dose Combinations of Nivolumab in Combination With Ipilimumab in Subjects With Previously Untreated, Unresectable or Metastatic Melanoma"
+NCT02715284,"A Phase 1 Dose Escalation and Cohort Expansion Study of TSR-042, an Anti-PD-1 Monoclonal Antibody, in Patients With Advanced Solid Tumors"
 NCT02715531,A Study of the Safety and Tolerability of Atezolizumab Administered in Combination With Bevacizumab and/or Other Treatments in Participants With Solid Tumors
 NCT02716038,"Neoadjuvant MPDL3280A, Nab-paclitaxel and Carboplatin (MAC) in NSCLC"
 NCT02716077,Early FDG PET in Melanoma
@@ -4286,6 +4290,7 @@ NCT02949284,"Androgen Receptor Antagonist ARN-509 With or Without Abiraterone Ac
 NCT02949700,Phase I/II Study OF Metformin in Combination With Cisplatin and Radiation in Head and Neck Squamous Cell Carcinoma
 NCT02949843,Targeted Therapy in Treating Patients With Incurable Non-Small Cell Lung Cancer With Genetic Mutations
 NCT02950038,Study of Ibrutinib Followed by Ibrutinib in Combination With Nivolumab in Non-Small Cell Lung Cancer (NSCLC)
+NCT02950064,A Study to Determine the Safety of BTP-114 for Treatment in Patients With Advanced Solid Tumors With BRCA Mutations
 NCT02950220,Pembrolizumab and Ibrutinib in Treating Patients With Relapsed or Refractory Non-Hodgkin Lymphoma
 NCT02950766,"A Study Combining NeoVax, a Personalized NeoAntigen Cancer Vaccine, With Ipilimumab to Treat High-risk Renal Cell Carcinoma"
 NCT02951156,"Avelumab In Combination Regimens That Include An Immune Agonist, Epigenetic Modulator, CD20 Antagonist and/or Conventional Chemotherapy in Patients With Relapsed or Refractory Diffuse Large B-cell Lymphoma (R/R DLBCL)"
@@ -4850,6 +4855,7 @@ NCT03147287,Palbociclib After CDK and Endocrine Therapy (PACE)
 NCT03147612,Study of the Combination of Low-Intensity Chemotherapy and Ponatinib in Patients With Philadelphia Chromosome (Ph)-Positive and/or BCR-ABL Positive Acute Lymphoblastic Leukemia (ALL)
 NCT03147885,Selinexor Plus Combination Chemotherapy in Treating Patients With Advanced B Cell Non-Hodgkin Lymphoma
 NCT03148275,"Trametinib in Treating Patients With Epithelioid Hemangioendothelioma That Is Metastatic, Locally Advanced, or Cannot Be Removed by Surgery"
+NCT03148327,Astra Zeneca (Immuno Stereotactic Ablative Body Radiotherapy) ISABR Study: Randomized Phase I/II Study of Stereotactic Body Radiotherapy
 NCT03148418,A Study in Participants Previously Enrolled in a Genentech? and/or F. Hoffmann-La Roche Ltd-Sponsored Atezolizumab Study
 NCT03148795,A Study of Talazoparib in Men With DNA Repair Defects and Metastatic Castration-Resistant Prostate Cancer
 NCT03149003,A Study of DSP-7888 Dosing Emulsion in Combination With Bevacizumab in Patients With Recurrent or Progressive Glioblastoma Following Initial Therapy (WIZARD201G)
@@ -5060,10 +5066,11 @@ NCT03238703,"Endocrine Therapy in Treating Patients With HER2 Negative, Low Risk
 NCT03239145,Phase Ib Study to Test the Safety and Potential Synergy of Pembrolizumab (Anti-PD-1) and AMG386 (Angiopoietin-2 (Ang-2) in Patients With Advanced Solid Tumor
 NCT03239340,A Molecular Profiling Study of Patients With EGFR Mutation-positive Locally Advanced or Metastatic NSCLC Treated With Osimertinib
 NCT03240016,Abraxane With Anti-PD1/PDL1 in Cisplatin-ineligible Patients With Advanced Urothelial Cancer
+NCT03240211,Study of Pembrolizumab Combined With Decitabine and Pralatrexate in PTCL and CTCL
 NCT03240861,Genetically Engineered PBMC and PBSC Expressing NY-ESO-1 TCR After a Myeloablative Conditioning Regimen to Treat Patients With Advanced Cancer (NYESO SCT)
 NCT03241173,A Study Exploring the Safety and Efficacy of INCAGN01949 in Combination With Immune Therapies in Advanced or Metastatic Malignancies
 NCT03241745,A Study of Nivolumab in Selected Uterine Cancer Patients
-NCT03241810,Phase 2 Trial of Seribantumab Plus Fulvestrant in Postmenopausal Women With Metastatic Breast Cancer
+NCT03241810,Phase 2 Trial of Seribantumab Plus Fulvestrant in Postmenopausal Women With Metastatic Breast Cancer (SHERBOC)
 NCT03241927,Pembrolizumab Effects on NK Cell Exhaustion in Melanoma (Merck NK-IIT)
 NCT03242915,Pembrolizumab in Combination With Platinum-based Doublet Chemotherapy in Patients With EGFR Mutation and ALK Positive NSCLC (Non-Small Cell Lung Cancer) With Progressive Disease Following Prior Tyrosine Kinase Inhibitors (TKIs)
 NCT03243331,An Initial Safety Study of Gedatolisib Plus PTK7-ADC for Metastatic Triple-negative Breast Cancer
@@ -5180,6 +5187,7 @@ NCT03298984,Ph I Study of Alvocidib and Cytarabine/Duanorubicin (7+3) in Patient
 NCT03299088,Pembrolizumab and Trametinib in Treating Patients With Stage IV Non-Small Cell Lung Cancer and KRAS Gene Mutations
 NCT03299946,Feasibility and Efficacy of Neoadjuvant Cabozantinib Plus Nivolumab (CaboNivo) Followed by Definitive Resection for Patients With Locally Advanced Hepatocellular Carcinoma (HCC)
 NCT03300557,Exemestane in Treating Patients With Complex Atypical Hyperplasia of the Endometrium/Endometrial Intraepithelial Neoplasia or Grade 1 Endometrial Cancer
+NCT03301168,Safety Study of Gene Modified Donor T-cells Following TCR + Alpha Beta Depleted Stem Cell Transplant
 NCT03301896,Phase I/Ib Study of LHC165 Single Agent and in Combination With PDR001 in Patients With Advanced Malignancies
 NCT03302234,Study of Pembrolizumab Given With Ipilimumab or Placebo in Participants With Untreated Metastatic Non-small Cell Lung Cancer (MK-3475-598/KEYNOTE-598)
 NCT03302247,Depletion of Myeloid Derived Suppressor Cells to Enhance Anti PD-1 Therapy
@@ -5189,3 +5197,13 @@ NCT03305445,Nivolumab/Ipilimumab-Primed Immunotransplant for DLBCL
 NCT03306420,First-in-Human Study of MS201408-0005A as Single Agent and in Combinations
 NCT03307603,Yttrium-90 Radioembolization + Nivolumab for Liver + Extra-hepatic Metastases From Colorectal Cancer
 NCT03307785,Study of Niraparib or Carboplatin-Paclitaxel in Combination With TSR-042
+NCT03308942,"Phase 2, Multi-Arm Study of Niraparib Administered Alone and in Combination With PD-1 Inhibitor in Patients With Non-Small Cell Lung Cancer"
+NCT03310541,AZD5363 in Patients With Advanced Solid Tumors Harboring AKT Mutations
+NCT03310567,A Study of Pembrolizumab in Combination With Epacadostat in Women With Recurrent/Metastatic Endometrial Carcinoma
+NCT03310879,A Phase II Study of the CDK4/6 Inhibitor Abemaciclib in Patients With Solid Tumors Harboring Genetic Alterations in Genes Encoding D-type Cyclins or Amplification of CDK4 or CDK6
+NCT03311412,Sym021 (Anti-PD-1) in Patients With Advanced Solid Tumor Malignancies or Lymphomas
+NCT03311958,Molecular Monitoring With Circulating Tumor DNA and Nivolumab Maintenance
+NCT03313778,"Safety, Tolerability, and Immunogenicity of mRNA-4157 Alone in Subjects With Resected Solid Tumors and in Combination With Pembrolizumab in Subjects With Unresectable Solid Tumors"
+NCT03314181,"A Study of Combination Therapy With Venetoclax, Daratumumab and Dexamethasone (With and Without Bortezomib) in Subjects With Relapsed or Refractory Multiple Myeloma"
+NCT03314935,A Phase 1/2 Study of INCB001158 in Combination With Chemotherapy in Subjects With Solid Tumors
+NCT03315026,Siltuximab to Decrease Symptom Burden After Autologous Stem Cell Transplantation for Patients With Multiple Myeloma and AL Amyloidosis

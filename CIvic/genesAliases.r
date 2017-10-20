@@ -17,3 +17,5 @@
 sortedt4 <- t4[order(t4$id) , ]
 
 write.csv(sortedt4, file = "AliasGenes.csv")
+
+[ERROR in row 166] Data too long for column 'variants22_evidence_items_submitted_count' at row 1

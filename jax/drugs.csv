@@ -406,6 +406,7 @@ Id,drugName,terms
 7498,Bryostatin 1,"['Bryostatin 1', 'NSC 339555']"
 8126,BSI-401,['BSI-401']
 8967,BTCT4465A,['BTCT4465A']
+8974,BTP-114,['BTP-114']
 7350,Bufalin,['Bufalin']
 997,Busulfan,"['Busulfan', 'Busulfex', 'Busulphan']"
 8592,Buthionine sufoximine,"['Buthionine sufoximine', 'BSO']"
@@ -438,6 +439,7 @@ Id,drugName,terms
 7299,Carfilzomib,"['Carfilzomib', 'Kyprolis', 'PR-171']"
 255,Carmustine,"['Carmustine', 'Becenun', 'BCNU']"
 8164,Carnosic acid,['Carnosic acid']
+7227,Carotuximab,"['Carotuximab', 'TRC105']"
 8887,CART19 cells,['CART19 cells']
 8941,CB-103,['CB-103']
 8531,CB-1158,"['CB-1158', 'arginase inhibitor']"
@@ -990,6 +992,7 @@ Id,drugName,terms
 752,Irinotecan,"['Irinotecan', 'Camptosar', 'CPT-11']"
 8617,IRX4204,"['IRX4204', 'AGN194204']"
 8928,ISA101b,['ISA101b']
+8973,Isatuximab,"['Isatuximab', 'SAR650984']"
 7566,ISIS-FGFR4Rx,['ISIS-FGFR4Rx']
 8718,IsoA,"['IsoA', 'isoforretin A']"
 8213,IST5-002,"['IST5-002', 'Stat5-002']"
@@ -1054,7 +1057,7 @@ Id,drugName,terms
 8282,KRC-00509,['KRC-00509']
 8281,KRC-00715,['KRC-00715']
 8901,KRIBB11,['KRIBB11']
-8556,KTE-C19,"['KTE-C19', 'axicabtagene ciloleucel', 'KTE-C19 CAR']"
+8556,KTE-C19,"['KTE-C19', 'Yescarta', 'axicabtagene ciloleucel', 'KTE-C19 CAR']"
 8545,KTN0073-IgG1,['KTN0073-IgG1']
 8544,KTN0073-IgG2,['KTN0073-IgG2']
 7462,KU-0063794,['KU-0063794']
@@ -1110,6 +1113,7 @@ Id,drugName,terms
 8754,LOXO-292,['LOXO-292']
 8105,LQZ-7F,['LQZ-7F']
 7744,LS104,['LS104']
+8975,LSN3074753,['LSN3074753']
 8455,LSZ 102,['LSZ 102']
 7145,Lucitanib ,"['Lucitanib ', 'AL3810', 'E-3810']"
 8129,Lumretuzumab,"['Lumretuzumab', 'RG7116', 'RO5479599']"
@@ -1246,7 +1250,7 @@ Id,drugName,terms
 8779,MM-310,['MM-310']
 8351,MN58b,['MN58b']
 7899,Mocetinostat,"['Mocetinostat', 'MGCD0103']"
-7880,Mogamulizumab ,['Mogamulizumab ']
+7880,Mogamulizumab ,"['Mogamulizumab ', 'KW-0761']"
 6959,Momelotinib,"['Momelotinib', 'CYT387']"
 8796,MOR208,"['MOR208', 'MOR00208', 'XmAb5574']"
 8503,MOR209/ES414,['MOR209/ES414']
@@ -1270,6 +1274,9 @@ Id,drugName,terms
 7523,MRT-92,['MRT-92']
 8593,MRX-2843,['MRX-2843']
 7153,MRX34,['MRX34']
+8968,MS201408-0005A,['MS201408-0005A']
+8969,MS201408-0005B,['MS201408-0005B']
+8970,MS201408-0005C,['MS201408-0005C']
 8042,MS417,['MS417']
 8043,MS436,['MS436']
 7154,MSC2015103B,"['MSC2015103B', 'AS703988']"
@@ -1547,6 +1554,7 @@ Id,drugName,terms
 4814,Plicamycin,"['Plicamycin', 'Mithracin', 'Mithramycin']"
 8206,Plinabulin,"['Plinabulin', 'NPI-2358']"
 7657,PLS-123,['PLS-123']
+8972,PLX2853,['PLX2853']
 6991,PLX3397,"['PLX3397', 'Pexidartinib']"
 7180,PLX4720,['PLX4720']
 8421,PLX73086,['PLX73086']
@@ -1622,6 +1630,7 @@ Id,drugName,terms
 7270,R3Mab,['R3Mab']
 8236,R406,['R406']
 8100,R547,['R547']
+8976,R916562,['R916562']
 8305,rAd-hCD40L,"['rAd-hCD40L', 'ISF35', 'rAd.CD40L']"
 7314,rAD-p53,"['rAD-p53', 'Gendicine', 'Genkaxin']"
 7374,radium Ra 223 dichloride,"['radium Ra 223 dichloride', 'Xofigo', 'alpharadin', 'BAY 88-8223']"
@@ -1961,7 +1970,6 @@ Id,drugName,terms
 71,Trastuzumab,"['Trastuzumab', 'Herceptin', 'Anti HER2']"
 7252,trastuzumab emtansine,"['trastuzumab emtansine', 'Kadcyla', 'ado-trastuzumab emtansine', 'T-DM1']"
 8787,TRC102,"['TRC102', 'methoxyamine HCL']"
-7227,TRC105,['TRC105']
 8789,TRC253,"['TRC253', 'JNJ-63576253']"
 8791,TRC694,"['TRC694', 'JNJ-64290694']"
 7222,Trebananib,"['Trebananib', 'AMG 386']"
@@ -1980,6 +1988,7 @@ Id,drugName,terms
 8392,TRX-E-002-1,['TRX-E-002-1']
 8172,TRX518,['TRX518']
 7256,TS-1,"['TS-1', 'S-1', 'tegafur-gimeracil-oteracil potassium']"
+8971,TSR-042,['TSR-042']
 8870,TTC-352,['TTC-352']
 8667,TTI-621,"['TTI-621', 'SIRPalpha-Fc']"
 8181,Tubastatin A,['Tubastatin A']

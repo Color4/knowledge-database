@@ -184,7 +184,7 @@ def getGenesLevelEvidences(idNumber):
     global data
 
     try:
-        response = requests.get("https://ckb.jax.org:443/ckb-api/api/v1/genes/"+str(idNumber)+"/geneLevelEvidences", timeout=1000)
+        response = requests.get("https://ckb.jax.org:443/ckb-api/api/v1/genes/"+str(idNumber)+"/evidence", timeout=1000)
         data = response.json()
        # data= flatten_json(data)
     except ConnectionError as e:    # This is the correct syntax
@@ -961,7 +961,7 @@ def getVariants( keyName):
     #g=(data[['geneVariantDescriptions']])
 
 
-    exit()
+
 
 
 
@@ -1044,19 +1044,19 @@ def getVariants( keyName):
 
 
 
-getClinicalTrials("clinicalTrials" )
-getDrugs("drugs")
+#getClinicalTrials("clinicalTrials" )
+#getDrugs("drugs")
 
 
-getDrugClasses(("drugClasses"))
+#getDrugClasses(("drugClasses"))
 getGenes(("genes"))
-getIndications("indications")
+#getIndications("indications")
 
-getReferences("references")
-getTherapies("therapies")
-getTreatmentApproach("treatmentApproaches")
-getVariants("variants")
-getMolecularProfiles("molecularProfiles")
+#getReferences("references")
+#getTherapies("therapies")
+#getTreatmentApproach("treatmentApproaches")
+#getVariants("variants")
+#getMolecularProfiles("molecularProfiles")
 
 exit()
 
