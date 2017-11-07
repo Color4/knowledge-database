@@ -1,6 +1,7 @@
 library(jsonlite)
-
+library(plyr)
 # data download from http://oncokb.org/#/dataAccess
+# didnt need to use this because it works better in bash using in2csv
 
 # get data and convert to dataframe
 onco_genes <- jsonlite::fromJSON("http://oncokb.org/api/v1/genes")

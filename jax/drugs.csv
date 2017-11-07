@@ -28,6 +28,7 @@ Id,drugName,terms
 7590,A-1331852,['A-1331852']
 8846,A-395,['A-395']
 7531,A-443654,['A-443654']
+8980,A-485,['A-485']
 8689,A-674563,['A-674563']
 8866,A-770041,['A-770041']
 7861,A-966492,['A-966492']
@@ -64,7 +65,7 @@ Id,drugName,terms
 7832,AC0010MA,['AC0010MA']
 7086,AC480,"['AC480', 'BMS-599626']"
 7782,AC708,['AC708']
-7296,Acalabrutinib,"['Acalabrutinib', 'ACP-196']"
+7296,Acalabrutinib,"['Acalabrutinib', 'Calquence', 'ACP-196']"
 7997,ACP-319,['ACP-319']
 8364,ACY-957,['ACY-957']
 8666,Ad-CEA vaccine,['Ad-CEA vaccine']
@@ -143,9 +144,9 @@ Id,drugName,terms
 7455,AMG 458,['AMG 458']
 8957,AMG 596,['AMG 596']
 8532,AMG 780,['AMG 780']
+7779,AMG 820,['AMG 820']
 7092,AMG 900,"['AMG 900', 'AMG-900', 'AMG900']"
 6836,AMG208,['AMG208']
-7779,AMG820,['AMG820']
 8698,AMI-408,['AMI-408']
 8044,AMP-224,['AMP-224']
 7866,Amrubicin,['Amrubicin']
@@ -177,6 +178,7 @@ Id,drugName,terms
 8262,APX005M,"['APX005M', 'EPI-0050']"
 7101,AR-42 ,"['AR-42 ', 'HDAC42']"
 8269,AR-mTOR-26,"['AR-mTOR-26', 'AR mTOR 26']"
+8994,ARGX-110,['ARGX-110']
 7449,ARGX-111,['ARGX-111']
 7823,ARQ 087,['ARQ 087']
 8641,ARQ 531,['ARQ 531']
@@ -477,6 +479,7 @@ Id,drugName,terms
 8332,CDX-0158,"['CDX-0158', 'KTN0158']"
 7904,CDX-301,"['CDX-301', 'Mobista']"
 7410,CDX-3379,"['CDX-3379', 'CDX3379', 'KTN3379', 'MEDI3379']"
+8992,CEBPA-51,['CEBPA-51']
 7120,Cediranib,"['Cediranib', 'AZD-2171', 'Recentin']"
 474,Celecoxib,"['Celecoxib', 'Celebra']"
 6848,Cenisertib,"['Cenisertib', 'AS703569']"
@@ -660,6 +663,7 @@ Id,drugName,terms
 8228,E75,"['E75', 'NeuVax', 'nelipepimut-S']"
 8474,EAI045,['EAI045']
 8602,EB-VST cells,"['EB-VST cells', 'EBV-CT', 'EBV-specific T cells']"
+8986,EBI-907,['EBI-907']
 8343,EC-70124,['EC-70124']
 7988,EC0225,['EC0225']
 7986,EC0905,['EC0905']
@@ -730,6 +734,7 @@ Id,drugName,terms
 7210,FANG vaccine,"['FANG vaccine', 'Vigil', 'bi-shRNA-furin/GMCSF-expressing autologous tumor cell vaccine']"
 7975,Farletuzumab,"['Farletuzumab', 'MORAb-003']"
 7340,Fasudil,"['Fasudil', 'HA-1077']"
+8990,FATE-NK100,['FATE-NK100']
 8589,FAZ053,['FAZ053']
 4681,Fenretinide,"['Fenretinide', '4-HPR', 'fenretinimide', 'McN-R-1967']"
 8261,FF-21101(90Y),['FF-21101(90Y)']
@@ -739,6 +744,7 @@ Id,drugName,terms
 6905,Figitumumab,"['Figitumumab', 'CP-751,871']"
 7543,FIIN-1,['FIIN-1']
 8683,FIIN-2,['FIIN-2']
+8985,Filanesib,"['Filanesib', 'ARRY-520']"
 95,Filgrastim,"['Filgrastim', 'Neupogen', 'G-CSF']"
 6778,Fingolimod,"['Fingolimod', 'Gilenya', 'FTY720']"
 8738,FK866,['FK866']
@@ -762,6 +768,8 @@ Id,drugName,terms
 7668,Fresolimumab,"['Fresolimumab', 'GC1008']"
 7402,Fruquintinib,"['Fruquintinib', 'HMPL-013']"
 8424,FT-2102,['FT-2102']
+8987,FT671,['FT671']
+8988,FT827,['FT827']
 7317,FTI-277,['FTI-277']
 936,Fulvestrant,"['Fulvestrant', 'Faslodex', 'ICI 182,780']"
 8551,FX1,['FX1']
@@ -810,6 +818,7 @@ Id,drugName,terms
 7799,Gilteritinib,"['Gilteritinib', 'ASP2215']"
 7429,Girentuximab,"['Girentuximab', 'Rencarex', 'chimeric monoclonal antibody cG250', 'WX-G250']"
 7632,Givinostat,"['Givinostat', 'ITF2357']"
+8984,GL-ONC1,['GL-ONC1']
 8146,GLA-SE,['GLA-SE']
 8294,Glabrescione B,"['Glabrescione B', 'GlaB']"
 8160,Glembatumumab vedotin,"['Glembatumumab vedotin', 'CDX-011']"
@@ -818,6 +827,8 @@ Id,drugName,terms
 8925,GLS-010,['GLS-010']
 8441,GMI-1271,['GMI-1271']
 8739,GMX1778,['GMX1778']
+8989,GNE-049,['GNE-049']
+8982,GNE-272,['GNE-272']
 8275,GNE-317,['GNE-317']
 7628,GNF-4256,['GNF-4256']
 7354,GNF-5837,['GNF-5837']
@@ -954,6 +965,7 @@ Id,drugName,terms
 7710,IN-1130,['IN-1130']
 8412,INCAGN01876,"['INCAGN01876', 'INCAGN1876']"
 8824,INCAGN01949,"['INCAGN01949', 'INCAGN1949']"
+8977,INCB001158 ,['INCB001158 ']
 6924,INCB028060,['INCB028060']
 7512,INCB039110,['INCB039110']
 7387,INCB040093,['INCB040093']
@@ -1271,6 +1283,7 @@ Id,drugName,terms
 8081,MPS1-IN-3,['MPS1-IN-3']
 7633,MPT0E028,['MPT0E028']
 7200,MRK-003,['MRK-003']
+8978,mRNA-4157 ,['mRNA-4157 ']
 7523,MRT-92,['MRT-92']
 8593,MRX-2843,['MRX-2843']
 7153,MRX34,['MRX34']
@@ -1534,6 +1547,7 @@ Id,drugName,terms
 8159,PHM16,['PHM16']
 7955,PHT-427,['PHT-427']
 6988,PI-103,['PI-103']
+8983,PI-273,['PI-273']
 7877,PI-3065,['PI-3065']
 8247,PI-88,['PI-88']
 6352,Piceatannol,['Piceatannol']
@@ -1650,6 +1664,7 @@ Id,drugName,terms
 8764,REGN3767,"['REGN3767', 'REGN 3767']"
 7004,REGN421,"['REGN421', 'Enoticumab', 'SAR153192']"
 6803,Regorafenib,"['Regorafenib', 'Stivarga', 'BAY 73-4506']"
+8706,Relugolix,"['Relugolix', 'TAK-385']"
 7005,Reolysin,"['Reolysin', 'REOLYSIN', 'pelareorep']"
 7848,Reparixin,['Reparixin']
 7475,RES-529,"['RES-529', 'P529', 'Palomid 529']"
@@ -1724,6 +1739,7 @@ Id,drugName,terms
 7597,S-equol  ,['S-equol  ']
 8892,S2101,['S2101']
 7951,S3I-201,['S3I-201']
+8995,S44563,['S44563']
 8564,S63845,['S63845']
 8794,SA16,['SA16']
 7589,Sabutoclax,"['Sabutoclax', 'BI-97C1']"
@@ -1851,6 +1867,7 @@ Id,drugName,terms
 7544,SSR128129E,['SSR128129E']
 8162,SST0116CL1,['SST0116CL1']
 8507,ST-11,['ST-11']
+8993,ST1926-NP,['ST1926-NP']
 7285,ST2825,['ST2825']
 8318,ST7612AA1,['ST7612AA1']
 8558,STA-8666,"['STA-8666', 'PEN-866', 'STA-12-8666']"
@@ -1873,6 +1890,7 @@ Id,drugName,terms
 8479,SYD985,['SYD985']
 7026,SYM004,"['SYM004', 'Symphogen']"
 8413,SYM015,['SYM015']
+8979,Sym021,['Sym021']
 8664,SYN004,['SYN004']
 7360,SZL-P1-41,['SZL-P1-41']
 8529,T-3256336 ,['T-3256336 ']
@@ -1881,6 +1899,7 @@ Id,drugName,terms
 854,Tacrolimus,"['Tacrolimus', 'Hecoria', 'Advagraf', 'FK-506', 'Prograf']"
 7424,TAE226,['TAE226']
 7502,TAE684,"['TAE684', 'NVP-TAE684']"
+8981,TAK-243,"['TAK-243', 'MLN7243']"
 8560,TAK-264,"['TAK-264', 'MLN0264']"
 7432,TAK-285,['TAK-285']
 7527,TAK-441,['TAK-441']
@@ -1895,6 +1914,7 @@ Id,drugName,terms
 6876,Talazoparib,"['Talazoparib', 'BMN673']"
 7659,talimogene laherparepvec ,"['talimogene laherparepvec ', 'OncoVEX GM-CSF']"
 8288,Talniflumate,['Talniflumate']
+4674,Tamibarotene,"['Tamibarotene', 'Am 80', 'SY-1425']"
 665,Tamoxifen,"['Tamoxifen', 'Nolvadex', 'ICI-46474']"
 7028,Tandutinib,"['Tandutinib', 'CT53518', 'MLN518']"
 7029,Tanespimycin,"['Tanespimycin', '17-AAG']"
@@ -1960,6 +1980,7 @@ Id,drugName,terms
 7466,Torkinib,"['Torkinib', 'PP242']"
 7036,Tozasertib,"['Tozasertib', 'MK-0457', 'VX-680']"
 8256,TP-0903,['TP-0903']
+8991,TP-1287,['TP-1287']
 8201,TP-3654,"['TP-3654', 'SGI-9481']"
 7478,TPI 287,['TPI 287']
 8374,TPIV 200,['TPIV 200']

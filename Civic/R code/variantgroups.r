@@ -1,8 +1,11 @@
 library(dplyr)
 library(tidyr)
+library(readr)
 
-//https://stackoverflow.com/questions/12466493/reshaping-multiple-sets-of-measurement-columns-wide-format-into-single-columns
 
+
+
+/Users/osmansiddiqui/Documents/github/knowledge-database/Civic/R code/variantgroups.r
      t2 <-CivicVarGroups2 %>%
     gather(variable,value,-id,-name,-description) %>%
     mutate(group = parse_number(variable)) %>%

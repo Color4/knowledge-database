@@ -1,260 +1,260 @@
-id,drugClass
-1,ABL Inhibitor (pan)
-2,ABL1 Inhibitor
-3,ABL2 Inhibitor
-4,Akt Inhibitor (Pan)
-5,AKT Inhibitor (Pan) ‰ÛÒ ATP competitive
-6,Akt1 Inhibitor
-7,Akt2 Inhibitor
-8,Akt3 Inhibitor
-9,ALK Inhibitor
-10,Antibiotic Antineoplastic
-11,Anticonvulsant Agent
-12,Antidiabetic Agent
-13,Antifungal Agent
-14,Antimicrotubule Agent
-15,Antisense Therapy
-16,ARAF Inhibitor
-17,Aromatase Inhibitor
-18,ATM Inhibitor
-19,ATR Inhibitor
-20,AURK Inhibitor (Pan)
-21,Aurka Inhibitors
-22,Aurkb Inhibitors
-23,Aurkc Inhibitors
-24,AXL Inhibitor
-25,BCL-XL inhibitor
-26,BCL2 Family Inhibitor
-27,BCL2 inhibitor
-240,BCL6 Inhibitor
-28,BCR-ABL Inhibitor
-29,BET  Inhibitor (Pan)
-30,BIRC5 Inhibitor
-31,BRAF Inhibitor
-32,BRD2 Inhibitor
-33,BRD3  Inhibitor
-34,BRD4  Inhibitor
-35,BRD4-NUT Inhibitor
-36,BTK inhibitor
-37,c-MYC Inhibitor
-38,CDK Inhibitor (Pan)
-39,CDK1 Inhibitor
-40,CDK2 Inhibitor
-41,CDK2/4 Inhibitor
-42,CDK4 Inhibitor
-43,CDK4/6 Inhibitor
-44,CDK5 Inhibitor
-45,CDK6 Inhibitor
-46,CDK7 Inhibitor
-47,CDK8 Inhibitor
-48,CDK9 Inhibitor
-49,Chemotherapy - Alkylating
-50,Chemotherapy - Anthracycline
-51,Chemotherapy - Antimetabolite
-52,Chemotherapy - Platinum 
-53,Chemotherapy - Taxane
-54,CHK Inhibitor (Pan)
-55,CHK1 Inhibitor
-56,CHK2 Inhibitor
-57,CRAF Inhibitor
-249,CSF1 Antibody
-58,CSF1 targeted immunotherapy
-241,CSF1R Antibody
-59,CSF1R Inhibitor
-260,CTLA4 Antibody
-60,CTNNB1 Inhibitor
-61,CXCR Antagonist
-62,CXCR4 Inhibitor
-63,DDR1 Inhibitor
-64,DDR2 inhibitor
-66,DLL4 Antibody
-67,DNA_PK Inhibitor
-68,DNMT inhibitor (Pan)
-69,DNMT1 inhibitor
-70,DOT1L Inhibitor
-71,DYRK1A Inhibitor
-72,DYRK1B Inhibitor
-73,EGFR Antibody
-258,EGFR Immune Cell Therapy
-74,EGFR Inhibitor (Pan)
-75,EGFR Inhibitor 1st gen
-76,EGFR Inhibitor 2nd gen
-77,EGFR Inhibitor 3rd gen
-78,EHMT2 Inhibitor
-79,EPHB4 Inhibitor
-80,ERK Inhibitor (pan)
-81,ERK1 Inhibitor
-82,ERK2 Inhibitor
-83,EZH1 inhibitor
-84,EZH2 inhibitor
-85,FAK inhibitor
-86,Farnesyltransferase Inhibitor
-87,FASN Inhibitor
-89,FGFR Inhibitor (Pan)
-90,FGFR1 Inhibitor
-91,FGFR2 Antibody
-92,FGFR2 Inhibitor
-93,FGFR3 Antibody
-94,FGFR3 Inhibitor
-95,FGFR4 Inhibitor
-96,FLT3 Inhibitor
-97,FOLR1-targeted Therapy
-98,FRK Inhibitor
-99,Gamma secretase inhibitor
-100,GLI1/2 inhibitor
-101,GSK-3alpha Inhibitor
-102,GSK-3beta Inhibitor
-103,GSK3 Inhibitor (Pan)
-104,HDAC Inhibitor
-105,HER inhibitor (Pan)
-242,HER2 (ERBB2) Antibody
-250,HER2 (ERBB2) Immune Cell Therapy
-251,HER2 (ERBB2) Vaccine
-106,HER2 Inhibitor
-107,HER2-targeted immunotherapy
-243,HER3 (ERBB3) Antibody
-108,HER3 Inhibitor
-109,HER3-targeted immunotherapy
-252,HGF Antibody
-110,HGF-targeted immunotherapy
-111,Hormone Antineoplastics 
-112,Hormone ‰ÛÒ Anti-androgens
-113,Hormone ‰ÛÒ Anti-estrogens
-114,Hormone ‰ÛÒ Anti-progestins
-115,HRAS Inhibitor
-116,HSP90 Inhibitor
-117,IDH Inhibitor (Pan)
-118,IDH1 Inhibitor
-119,IDH2 Inhibitor
-120,IGF-1R Inhibitor
-121,IGF-targeted immunotherapy
-253,IGF1/2 Antibody
-245,IGF1R Antibody
-122,Immune Checkpoint Inhibitor
-123,IRAK1/4 Inhibitor
-124,IRAK4 Inhibitor
-126,JAK Inhibitor (Pan)
-127,JAK Inhibitor (Pan) ‰ÛÒ ATP competitive
-128,JAK1 Inhibitor
-129,JAK1 Inhibitor ‰ÛÒ ATP competitive
-130,JAK2 Inhibitor
-131,JAK2 Inhibitor ‰ÛÒ ATP competitive
-132,JAK3 Inhibitor
-133,JAK3 Inhibitor ‰ÛÒ ATP competitive
-134,JNK Inhibitor
-239,KDM1A Inhibitor
-135,KDM4 Inhibitor
-136,KIT Inhibitor
-137,KRAS Inhibitor
-138,LYN Inhibitor
-139,MCL1 Inhibitor
-140,MDM2 Inhibitor
-141,MDM4 inhibitor
-142,MEK inhibitor (Pan)
-143,MEK1 Inhibitor
-144,MEK2 Inhibitor
-145,MEK4 Inhibitor
-146,MEK5 Inhibitor
-244,MET Antibody
-257,MET Immune Cell Therapy
-147,MET Inhibitor
-148,MNK1 Inhibitor
-149,MNK1/2 Inhibitor
-150,MNK2 Inhibitor
-151,MPS1 Inhibitor
-152,mTOR Inhibitor
-153,mTORC1 Inhibitor
-154,mTORC2 Inhibitor
-246,MUC16 Targeted Therapy
-155,MUC16-targeted immunotherapy
-156,NOTCH Inhibitor (Pan)
-158,NOTCH1 Antibody
-159,NOTCH1 Inhibitor
-160,NOTCH2 Antibody
-161,NOTCH2 Inhibitor
-162,NOTCH3 Antibody
-163,NRAS Inhibitor
-164,p38 MAPK Inhibitor (Pan)
-165,p38-alpha Inhibitor
-166,p53 Activator
-167,p53 Gene Therapy
-168,p53 Inhibitor
-169,p53 Vaccine
-170,Pak-I Inhibitor
-171,PARP Inhibitor (Pan)
-172,PARP-1 Inhibitor
-173,PARP-2 Inhibitor
-174,PD-L1/PD-1 antibody
-175,PDGFR Inhibitor (Pan)
-176,PDGFR-alpha Inhibitor
-177,PDGFR-beta Inhibitor
-178,PDGFRA Antibody
-179,PDK-1 Inhibitor
-180,PDPK1 Inhibitor
-181,PI3K Inhibitor (Pan)
-182,PIK3CA inhibitor
-183,PIK3CB inhibitor
-184,PIK3CD inhibitor
-185,PIK3CG inhibitor
-186,PIM Inhibitor (Pan)
-187,PIM1 Inhibitor
-188,PIM3 Inhibitor
-189,PKA Inhibitor
-190,PKC alpha Inhibitor
-191,PKC beta Inhibitor
-192,PKC Inhibitor (Pan)
-193,PLK1 Inhibitor
-194,PP2A Activator
-195,PP2A Inhibitor
-196,PPM1D Inhibitor
-261,RAD51 Inhibitor
-197,RAF Inhibitor (Pan)
-198,RAS Inhibitor (Pan)
-199,RET Inhibitor
-200,RON Inhibitor
-201,ROS1 Inhibitor
-202,S6 Kinase Inhibitor
-203,SHP2 Inhibitor
-204,SIRT1 Activator
-205,SIRT1 Inhibitor
-206,SIRT2 Inhibitor
-207,SIRT3 Inhibitor
-262,SMAC Mimetic
-208,SMO Inhibitor
-263,SMYD3 Inhibitor
-209,SRC Inhibitor
-210,STAT Inhibitor
-211,STAT1 Inhibitor
-212,STAT3 Inhibitor
-213,STAT5 Inhibitor
-214,SYK Inhibitor
-215,Tankyrase Inhibitor
-247,TGFB (Pan) Antibody
-216,TGFB inhibitor
-217,TGFB targeted immunotherapy
-255,TGFB2 Vaccine
-218,TGFBR inhibitor (pan)
-219,TGFBR1 inhibitor
-254,TGFBR2 Antibody
-220,TGFBR2 inhibitor
-221,TIE2 Inhibitor
-222,TNK2 Inhibitor
-223,TOPO Inhibitor (Pan)
-224,TOPO1 inhibitor
-225,TOPO2 inhibitor
-226,Trk Receptor Inhibitor (Pan)
-227,TrkA Receptor Inhibitor
-228,USP1 inhibitor
-248,VEGF Antibody
-229,VEGF-targeted immunotherapy
-230,VEGFR Inhibitor (Pan)
-231,VEGFR1 Inhibitor
-256,VEGFR2 Antibody
-259,VEGFR2 Immune Cell Therapy
-232,VEGFR2 Inhibitor
-233,VEGFR3 Antibody
-234,VEGFR3 Inhibitor
-235,WEE1 Inhibitor
-236,WNT Inhibitor
-238,YAP Inhibitor
-237,YES Inhibitor
+,createDate,drugClass,id
+0,2014-07-16T21:26:04Z,ABL Inhibitor (pan),1
+0,2014-07-16T21:26:04Z,ABL1 Inhibitor,2
+0,2014-07-16T21:26:04Z,ABL2 Inhibitor,3
+0,2014-07-16T21:26:04Z,Akt Inhibitor (Pan),4
+0,2015-06-12T20:36:01Z,AKT Inhibitor (Pan) â€“ ATP competitive,5
+0,2014-07-16T21:26:04Z,Akt1 Inhibitor,6
+0,2014-07-16T21:26:04Z,Akt2 Inhibitor,7
+0,2014-07-16T21:26:04Z,Akt3 Inhibitor,8
+0,2014-07-16T21:26:04Z,ALK Inhibitor,9
+0,2014-07-16T21:26:04Z,Antibiotic Antineoplastic,10
+0,2014-07-16T21:26:04Z,Anticonvulsant Agent,11
+0,2014-07-16T21:26:04Z,Antidiabetic Agent,12
+0,2014-07-16T21:26:04Z,Antifungal Agent,13
+0,2014-07-16T21:26:04Z,Antimicrotubule Agent,14
+0,2014-07-16T21:26:04Z,Antisense Therapy,15
+0,2014-07-16T21:26:04Z,ARAF Inhibitor,16
+0,2014-07-16T21:26:04Z,Aromatase Inhibitor,17
+0,2015-07-07T20:11:43Z,ATM Inhibitor,18
+0,2015-07-07T20:11:43Z,ATR Inhibitor,19
+0,2014-07-16T21:26:04Z,AURK Inhibitor (Pan),20
+0,2014-07-16T21:26:04Z,Aurka Inhibitors,21
+0,2014-07-16T21:26:04Z,Aurkb Inhibitors,22
+0,2014-07-16T21:26:04Z,Aurkc Inhibitors,23
+0,2015-10-21T17:40:39Z,AXL Inhibitor,24
+0,2015-05-11T04:00:00Z,BCL-XL inhibitor,25
+0,2014-07-16T21:26:04Z,BCL2 Family Inhibitor,26
+0,2015-05-11T04:00:00Z,BCL2 inhibitor,27
+0,2017-04-24T14:15:25Z,BCL6 Inhibitor,240
+0,2014-07-16T21:26:04Z,BCR-ABL Inhibitor,28
+0,2014-07-16T21:26:04Z,BET  Inhibitor (Pan),29
+0,2016-05-13T15:39:28Z,BIRC5 Inhibitor,30
+0,2014-07-16T21:26:04Z,BRAF Inhibitor,31
+0,2014-07-16T21:26:04Z,BRD2 Inhibitor,32
+0,2014-07-16T21:26:04Z,BRD3  Inhibitor,33
+0,2014-07-16T21:26:04Z,BRD4  Inhibitor,34
+0,2014-07-16T21:26:04Z,BRD4-NUT Inhibitor,35
+0,2015-04-17T17:29:52Z,BTK inhibitor,36
+0,2014-07-16T21:26:04Z,c-MYC Inhibitor,37
+0,2014-07-16T21:26:04Z,CDK Inhibitor (Pan),38
+0,2014-07-16T21:26:04Z,CDK1 Inhibitor,39
+0,2014-07-16T21:26:04Z,CDK2 Inhibitor,40
+0,2014-07-16T21:26:04Z,CDK2/4 Inhibitor,41
+0,2014-07-16T21:26:04Z,CDK4 Inhibitor,42
+0,2014-07-16T21:26:04Z,CDK4/6 Inhibitor,43
+0,2014-07-16T21:26:04Z,CDK5 Inhibitor,44
+0,2014-07-16T21:26:04Z,CDK6 Inhibitor,45
+0,2014-07-16T21:26:04Z,CDK7 Inhibitor,46
+0,2014-07-16T21:26:04Z,CDK8 Inhibitor,47
+0,2014-07-16T21:26:04Z,CDK9 Inhibitor,48
+0,2014-07-16T21:26:04Z,Chemotherapy - Alkylating,49
+0,2014-07-16T21:26:04Z,Chemotherapy - Anthracycline,50
+0,2014-07-16T21:26:04Z,Chemotherapy - Antimetabolite,51
+0,2014-07-16T21:26:04Z,Chemotherapy - Platinum ,52
+0,2014-07-16T21:26:04Z,Chemotherapy - Taxane,53
+0,2014-07-16T21:26:04Z,CHK Inhibitor (Pan),54
+0,2014-07-16T21:26:04Z,CHK1 Inhibitor,55
+0,2015-02-09T14:18:25Z,CHK2 Inhibitor,56
+0,2014-07-16T21:26:04Z,CRAF Inhibitor,57
+0,2017-07-20T16:32:30Z,CSF1 Antibody,249
+0,2015-06-17T19:25:14Z,CSF1 targeted immunotherapy,58
+0,2017-07-20T16:32:30Z,CSF1R Antibody,241
+0,2015-06-17T19:25:14Z,CSF1R Inhibitor,59
+0,2017-09-14T15:00:26Z,CTLA4 Antibody,260
+0,2014-09-17T20:55:35Z,CTNNB1 Inhibitor,60
+0,2014-07-16T21:26:04Z,CXCR Antagonist,61
+0,2015-06-25T18:06:03Z,CXCR4 Inhibitor,62
+0,2015-12-07T15:27:02Z,DDR1 Inhibitor,63
+0,2015-03-09T15:24:20Z,DDR2 inhibitor,64
+0,2016-05-13T15:39:28Z,DLL4 Antibody,66
+0,2014-07-16T21:26:04Z,DNA_PK Inhibitor,67
+0,2015-05-28T15:06:16Z,DNMT inhibitor (Pan),68
+0,2015-05-28T15:06:16Z,DNMT1 inhibitor,69
+0,2016-02-17T19:36:35Z,DOT1L Inhibitor,70
+0,2015-12-22T18:55:33Z,DYRK1A Inhibitor,71
+0,2015-12-22T18:55:33Z,DYRK1B Inhibitor,72
+0,2014-07-16T21:26:04Z,EGFR Antibody,73
+0,2017-07-20T16:32:30Z,EGFR Immune Cell Therapy,258
+0,2014-07-16T21:26:04Z,EGFR Inhibitor (Pan),74
+0,2014-07-16T21:26:04Z,EGFR Inhibitor 1st gen,75
+0,2014-07-16T21:26:04Z,EGFR Inhibitor 2nd gen,76
+0,2014-07-16T21:26:04Z,EGFR Inhibitor 3rd gen,77
+0,2015-06-25T18:06:03Z,EHMT2 Inhibitor,78
+0,2016-01-14T15:48:26Z,EPHB4 Inhibitor,79
+0,2014-07-16T21:26:04Z,ERK Inhibitor (pan),80
+0,2014-07-16T21:26:04Z,ERK1 Inhibitor,81
+0,2014-07-16T21:26:04Z,ERK2 Inhibitor,82
+0,2015-05-15T13:52:58Z,EZH1 inhibitor,83
+0,2015-05-15T13:52:58Z,EZH2 inhibitor,84
+0,2014-07-16T21:26:04Z,FAK inhibitor,85
+0,2014-07-16T21:26:04Z,Farnesyltransferase Inhibitor,86
+0,2016-11-01T15:10:19Z,FASN Inhibitor,87
+0,2014-07-16T21:26:04Z,FGFR Inhibitor (Pan),89
+0,2014-07-16T21:26:04Z,FGFR1 Inhibitor,90
+0,2015-10-21T17:40:39Z,FGFR2 Antibody,91
+0,2014-07-16T21:26:04Z,FGFR2 Inhibitor,92
+0,2015-07-10T15:35:08Z,FGFR3 Antibody,93
+0,2014-07-16T21:26:04Z,FGFR3 Inhibitor,94
+0,2014-07-16T21:26:04Z,FGFR4 Inhibitor,95
+0,2014-07-16T21:26:04Z,FLT3 Inhibitor,96
+0,2015-12-02T15:32:08Z,FOLR1-targeted Therapy,97
+0,2016-05-13T15:39:28Z,FRK Inhibitor,98
+0,2015-02-02T17:06:04Z,Gamma secretase inhibitor,99
+0,2015-05-11T17:48:57Z,GLI1/2 inhibitor,100
+0,2014-07-16T21:26:04Z,GSK-3alpha Inhibitor,101
+0,2014-07-16T21:26:04Z,GSK-3beta Inhibitor,102
+0,2014-07-16T21:26:04Z,GSK3 Inhibitor (Pan),103
+0,2014-07-16T21:26:04Z,HDAC Inhibitor,104
+0,2015-05-11T17:24:30Z,HER inhibitor (Pan),105
+0,2017-07-20T16:32:30Z,HER2 (ERBB2) Antibody,242
+0,2017-07-20T16:32:30Z,HER2 (ERBB2) Immune Cell Therapy,250
+0,2017-07-20T16:32:30Z,HER2 (ERBB2) Vaccine,251
+0,2014-07-16T21:26:04Z,HER2 Inhibitor,106
+0,2014-07-16T21:26:04Z,HER2-targeted immunotherapy,107
+0,2017-07-20T16:32:30Z,HER3 (ERBB3) Antibody,243
+0,2015-02-11T19:17:46Z,HER3 Inhibitor,108
+0,2015-02-11T19:17:46Z,HER3-targeted immunotherapy,109
+0,2017-07-20T16:32:30Z,HGF Antibody,252
+0,2015-04-17T17:29:52Z,HGF-targeted immunotherapy,110
+0,2014-07-16T21:26:04Z,Hormone Antineoplastics ,111
+0,2015-06-12T20:47:01Z,Hormone â€“ Anti-androgens,112
+0,2015-06-12T20:47:01Z,Hormone â€“ Anti-estrogens,113
+0,2015-06-12T20:36:01Z,Hormone â€“ Anti-progestins,114
+0,2014-07-16T21:26:04Z,HRAS Inhibitor,115
+0,2014-07-16T21:26:04Z,HSP90 Inhibitor,116
+0,2014-07-16T21:26:04Z,IDH Inhibitor (Pan),117
+0,2014-07-16T21:26:04Z,IDH1 Inhibitor,118
+0,2014-07-16T21:26:04Z,IDH2 Inhibitor,119
+0,2014-07-16T21:26:04Z,IGF-1R Inhibitor,120
+0,2015-05-29T20:32:55Z,IGF-targeted immunotherapy,121
+0,2017-07-20T16:32:30Z,IGF1/2 Antibody,253
+0,2017-07-20T16:32:30Z,IGF1R Antibody,245
+0,2016-01-22T21:14:05Z,Immune Checkpoint Inhibitor,122
+0,2015-06-25T18:06:03Z,IRAK1/4 Inhibitor,123
+0,2015-06-25T18:06:03Z,IRAK4 Inhibitor,124
+0,2014-07-16T21:26:04Z,JAK Inhibitor (Pan),126
+0,2015-06-05T17:42:41Z,JAK Inhibitor (Pan) â€“ ATP competitive,127
+0,2014-07-16T21:26:04Z,JAK1 Inhibitor,128
+0,2015-06-05T17:42:41Z,JAK1 Inhibitor â€“ ATP competitive,129
+0,2014-07-16T21:26:04Z,JAK2 Inhibitor,130
+0,2015-06-05T17:42:41Z,JAK2 Inhibitor â€“ ATP competitive,131
+0,2014-07-16T21:26:04Z,JAK3 Inhibitor,132
+0,2015-06-05T17:42:41Z,JAK3 Inhibitor â€“ ATP competitive,133
+0,2014-07-16T21:26:04Z,JNK Inhibitor,134
+0,2017-04-24T14:15:25Z,KDM1A Inhibitor,239
+0,2016-02-04T15:25:01Z,KDM4 Inhibitor,135
+0,2014-07-16T21:26:04Z,KIT Inhibitor,136
+0,2014-07-16T21:26:04Z,KRAS Inhibitor,137
+0,2015-12-10T17:03:14Z,LYN Inhibitor,138
+0,2015-12-10T17:03:14Z,MCL1 Inhibitor,139
+0,2014-09-17T20:55:35Z,MDM2 Inhibitor,140
+0,2015-05-11T17:24:30Z,MDM4 inhibitor,141
+0,2014-07-16T21:26:04Z,MEK inhibitor (Pan),142
+0,2014-07-16T21:26:04Z,MEK1 Inhibitor,143
+0,2014-07-16T21:26:04Z,MEK2 Inhibitor,144
+0,2014-07-16T21:26:04Z,MEK4 Inhibitor,145
+0,2014-07-16T21:26:04Z,MEK5 Inhibitor,146
+0,2017-07-20T16:32:30Z,MET Antibody,244
+0,2017-07-20T16:32:30Z,MET Immune Cell Therapy,257
+0,2014-07-16T21:26:04Z,MET Inhibitor,147
+0,2016-05-13T15:39:28Z,MNK1 Inhibitor,148
+0,2016-05-13T15:39:28Z,MNK1/2 Inhibitor,149
+0,2016-05-13T15:39:28Z,MNK2 Inhibitor,150
+0,2015-10-07T14:01:26Z,MPS1 Inhibitor,151
+0,2014-07-16T21:26:04Z,mTOR Inhibitor,152
+0,2014-07-16T21:26:04Z,mTORC1 Inhibitor,153
+0,2015-03-05T17:16:08Z,mTORC2 Inhibitor,154
+0,2017-07-20T16:32:30Z,MUC16 Targeted Therapy,246
+0,2015-07-10T15:35:08Z,MUC16-targeted immunotherapy,155
+0,2014-07-16T21:26:04Z,NOTCH Inhibitor (Pan),156
+0,2016-07-06T15:33:52Z,NOTCH1 Antibody,158
+0,2014-07-16T21:26:04Z,NOTCH1 Inhibitor,159
+0,2016-07-06T15:33:52Z,NOTCH2 Antibody,160
+0,2014-07-16T21:26:04Z,NOTCH2 Inhibitor,161
+0,2016-07-06T15:33:52Z,NOTCH3 Antibody,162
+0,2014-07-16T21:26:04Z,NRAS Inhibitor,163
+0,2014-07-16T21:26:04Z,p38 MAPK Inhibitor (Pan),164
+0,2014-07-16T21:26:04Z,p38-alpha Inhibitor,165
+0,2014-07-16T21:26:04Z,p53 Activator,166
+0,2015-11-16T20:41:55Z,p53 Gene Therapy,167
+0,2014-07-16T21:26:04Z,p53 Inhibitor,168
+0,2015-11-16T20:51:06Z,p53 Vaccine,169
+0,2015-06-23T14:38:19Z,Pak-I Inhibitor,170
+0,2014-07-16T21:26:04Z,PARP Inhibitor (Pan),171
+0,2014-07-16T21:26:04Z,PARP-1 Inhibitor,172
+0,2014-07-16T21:26:04Z,PARP-2 Inhibitor,173
+0,2015-04-17T17:29:52Z,PD-L1/PD-1 antibody,174
+0,2014-07-16T21:26:04Z,PDGFR Inhibitor (Pan),175
+0,2014-07-16T21:26:04Z,PDGFR-alpha Inhibitor,176
+0,2014-07-16T21:26:04Z,PDGFR-beta Inhibitor,177
+0,2016-11-01T15:10:19Z,PDGFRA Antibody,178
+0,2014-07-16T21:26:04Z,PDK-1 Inhibitor,179
+0,2016-01-22T21:12:49Z,PDPK1 Inhibitor,180
+0,2014-07-16T21:26:04Z,PI3K Inhibitor (Pan),181
+0,2014-07-16T21:26:04Z,PIK3CA inhibitor,182
+0,2014-07-16T21:26:04Z,PIK3CB inhibitor,183
+0,2014-07-16T21:26:04Z,PIK3CD inhibitor,184
+0,2014-07-16T21:26:04Z,PIK3CG inhibitor,185
+0,2015-12-07T15:27:02Z,PIM Inhibitor (Pan),186
+0,2015-12-07T15:27:02Z,PIM1 Inhibitor,187
+0,2015-12-07T15:27:02Z,PIM3 Inhibitor,188
+0,2014-07-16T21:26:04Z,PKA Inhibitor,189
+0,2014-07-16T21:26:04Z,PKC alpha Inhibitor,190
+0,2014-07-16T21:26:04Z,PKC beta Inhibitor,191
+0,2014-07-16T21:26:04Z,PKC Inhibitor (Pan),192
+0,2015-06-05T17:42:41Z,PLK1 Inhibitor,193
+0,2016-02-17T19:36:34Z,PP2A Activator,194
+0,2016-02-17T19:36:35Z,PP2A Inhibitor,195
+0,2016-01-29T21:08:54Z,PPM1D Inhibitor,196
+0,2017-09-14T15:00:26Z,RAD51 Inhibitor,261
+0,2014-07-16T21:26:04Z,RAF Inhibitor (Pan),197
+0,2014-07-16T21:26:04Z,RAS Inhibitor (Pan),198
+0,2014-07-16T21:26:04Z,RET Inhibitor,199
+0,2015-12-02T15:32:07Z,RON Inhibitor,200
+0,2016-11-01T15:10:19Z,ROS1 Inhibitor,201
+0,2014-07-16T21:26:04Z,S6 Kinase Inhibitor,202
+0,2016-01-14T15:48:26Z,SHP2 Inhibitor,203
+0,2016-11-01T15:10:19Z,SIRT1 Activator,204
+0,2016-05-13T15:39:28Z,SIRT1 Inhibitor,205
+0,2016-05-13T15:39:28Z,SIRT2 Inhibitor,206
+0,2016-05-13T15:39:28Z,SIRT3 Inhibitor,207
+0,2017-09-14T15:00:26Z,SMAC Mimetic,262
+0,2014-09-17T20:55:35Z,SMO Inhibitor,208
+0,2017-09-14T15:00:26Z,SMYD3 Inhibitor,263
+0,2014-07-16T21:26:04Z,SRC Inhibitor,209
+0,2014-07-16T21:26:04Z,STAT Inhibitor,210
+0,2014-07-16T21:26:04Z,STAT1 Inhibitor,211
+0,2014-07-16T21:26:04Z,STAT3 Inhibitor,212
+0,2014-07-16T21:26:04Z,STAT5 Inhibitor,213
+0,2015-10-21T17:40:39Z,SYK Inhibitor,214
+0,2015-09-22T17:59:09Z,Tankyrase Inhibitor,215
+0,2017-07-20T16:32:30Z,TGFB (Pan) Antibody,247
+0,2015-05-15T13:52:58Z,TGFB inhibitor,216
+0,2015-05-15T13:52:58Z,TGFB targeted immunotherapy,217
+0,2017-07-20T16:32:30Z,TGFB2 Vaccine,255
+0,2015-05-15T13:52:58Z,TGFBR inhibitor (pan),218
+0,2015-05-15T13:52:58Z,TGFBR1 inhibitor,219
+0,2017-07-20T16:32:30Z,TGFBR2 Antibody,254
+0,2015-05-15T13:52:58Z,TGFBR2 inhibitor,220
+0,2014-07-16T21:26:04Z,TIE2 Inhibitor,221
+0,2016-01-22T21:12:49Z,TNK2 Inhibitor,222
+0,2014-07-16T21:26:04Z,TOPO Inhibitor (Pan),223
+0,2014-07-16T21:26:04Z,TOPO1 inhibitor,224
+0,2014-07-16T21:26:04Z,TOPO2 inhibitor,225
+0,2014-07-16T21:26:04Z,Trk Receptor Inhibitor (Pan),226
+0,2014-07-16T21:26:04Z,TrkA Receptor Inhibitor,227
+0,2015-05-11T17:48:57Z,USP1 inhibitor,228
+0,2017-07-20T16:32:30Z,VEGF Antibody,248
+0,2015-04-17T17:29:52Z,VEGF-targeted immunotherapy,229
+0,2014-07-16T21:26:04Z,VEGFR Inhibitor (Pan),230
+0,2014-07-16T21:26:04Z,VEGFR1 Inhibitor,231
+0,2017-07-20T16:32:30Z,VEGFR2 Antibody,256
+0,2017-07-20T16:32:30Z,VEGFR2 Immune Cell Therapy,259
+0,2014-07-16T21:26:04Z,VEGFR2 Inhibitor,232
+0,2015-10-21T17:40:39Z,VEGFR3 Antibody,233
+0,2014-07-16T21:26:04Z,VEGFR3 Inhibitor,234
+0,2014-07-16T21:26:04Z,WEE1 Inhibitor,235
+0,2014-07-16T21:26:04Z,WNT Inhibitor,236
+0,2017-04-24T14:15:25Z,YAP Inhibitor,238
+0,2014-07-16T21:26:04Z,YES Inhibitor,237

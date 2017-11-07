@@ -112,7 +112,7 @@ def getDrugsEvidencesInfo(idNumber):
     global data
 
     try:
-        response = requests.get("https://ckb.jax.org:443/ckb-api/api/v1/drugs/"+str(idNumber)+"/evidences", timeout=1000)
+        response = requests.get("https://ckb.jax.org:443/ckb-api/api/v1/drugs/"+str(idNumber)+"/evidence", timeout=1000)
         data = response.json()
        # data= flatten_json(data)
     except ConnectionError as e:    # This is the correct syntax
@@ -618,9 +618,9 @@ def getDrugs(keyName):
         #df.to_csv('results.csv')
 
 
-    saveInfotoCsv("DrugsID_Clinical.csv",getDrugsClinicalInfo, 'Drug_id', IDlist)
+    #saveInfotoCsv("DrugsID_Clinical.csv",getDrugsClinicalInfo, 'Drug_id', IDlist)
     saveInfotoCsv("DrugsID_Evidence.csv",getDrugsEvidencesInfo, 'Drug_id', IDlist)
-    saveInfotoCsv("DrugsID_Therapies.csv",getDrugsTherapiesInfo, 'Drug_id', IDlist)
+    #saveInfotoCsv("DrugsID_Therapies.csv",getDrugsTherapiesInfo, 'Drug_id', IDlist)
 
 
 
@@ -1045,11 +1045,11 @@ def getVariants( keyName):
 
 
 #getClinicalTrials("clinicalTrials" )
-#getDrugs("drugs")
+getDrugs("drugs")
 
 
 #getDrugClasses(("drugClasses"))
-getGenes(("genes"))
+#getGenes(("genes"))
 #getIndications("indications")
 
 #getReferences("references")
