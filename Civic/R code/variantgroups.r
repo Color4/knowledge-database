@@ -3,12 +3,12 @@ library(tidyr)
 library(readr)
 
 
+civic_vargroups <- read_csv("~/Documents/github/knowledge-database/Civic/civic_raw_data/civic_vargroups.csv")
 
 
-/Users/osmansiddiqui/Documents/github/knowledge-database/Civic/R code/variantgroups.r
-     t2 <-CivicVarGroups2 %>%
-    gather(variable,value,-id,-name,-description) %>%
-    mutate(group = parse_number(variable)) %>%
+     t2 <-civic_vargroups %>%
+    gather(variable,value,-id,-name,-description, -type) %>%
+    mutate(group = readr::parse_number(variable)) %>%
     mutate(variable =  gsub("\\d","",x = variable)) %>%
       spread(variable,value)
 
