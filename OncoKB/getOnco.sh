@@ -38,3 +38,8 @@ in2csv onco_all_annotated_variants.json >  onco_all_annotated_variants.csv
 
 # delete un-needed json files
 rm *.json
+
+eCollection=( $(cut -d ',' -f1 onco_genes.csv ) )
+for i in  "${eCollection[@]}"; do  curl http://oncokb.org/api/v1/genes/$i/evidences > $i.json; done
+for i in  "${eCollection[@]}"; do in2csv $i.json >  $i.csv; done
+rm *.json

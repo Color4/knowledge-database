@@ -1,0 +1,1150 @@
+cancer,gene,variant,points
+NSCLC,ALK,EML4-ALK Fusion,1
+NSCLC,BRAF,p.V600E,3
+NSCLC,MET,Exon14skipping,1
+NSCLC,MET,Amplification,1
+NSCLC,ROS1,Fusion,1
+Melanoma,BRAF,p.V600E,1
+Melanoma,KIT,p.K642E,1
+Melanoma,BRAF,p.V600K,3
+Colorectal,KRAS,p.G12S,1
+Colorectal,KRAS,p.G12R,1
+Colorectal,PIK3CA,p.Q546R,1
+Colorectal,KRAS,p.G12D,3
+Colorectal,KRAS,p.G12C,1
+Colorectal,KRAS,p.G12A,1
+Colorectal,KRAS,p.A146V,1
+Colorectal,KRAS,p.A146T,1
+Colorectal,BRAF,p.V600E,3
+Colorectal,BRAF,p.G469A,1
+Colorectal,BRAF,p.G466V,1
+Colorectal,AKT1,p.E17K,1
+Colorectal,PIK3CA,p.Q546K,1
+Colorectal,PIK3CA,p.H1047R,1
+Colorectal,PIK3CA,p.H1047L,1
+Colorectal,PIK3CA,p.E545K,1
+Colorectal,PIK3CA,p.E545G,1
+Colorectal,NRAS,p.Q61R,1
+Colorectal,NRAS,p.G12A,1
+Colorectal,KRAS,p.G12V,1
+Colorectal,KRAS,p.G13D,1
+Gastric,ERBB2,Amplification,1
+Gastric,VEGFR2,Expression,1
+GIST,PDGFRA,Mutations,1
+GIST,KIT,Mutations,1
+Breast,ERBB2,Amplification,1
+Ovarian,BRCA1/2,Mutations,1
+Dedifferentiated Liposarcoma,CDK4,Amplification,1
+Thymic Tumor,KIT,Mutations,1
+MTC,RET,p.A883F,1
+MTC,RET,p.M918T,1
+MTC,BRAF,p.V600E,1
+Melanoma,BRAF,Amplification,1
+Melanoma,BRAF,p.D594N,1
+Melanoma,BRAF,p.K601E,1
+Melanoma,BRAF,p.L597Q,1
+Melanoma,BRAF,p.L597S,1
+Melanoma,CCND1,Amplification,1
+Melanoma,CDKN2A,Loss-of-function,1
+Melanoma,KIT,Amplification,1
+Melanoma,KRAS,Amplification,1
+Melanoma,MAP2K1,p.C121S,1
+Melanoma,MAP2K1,p.E203K,1
+Melanoma,MAP2K1,p.P124Q,1
+Melanoma,MAP2K1,p.P124S,1
+Melanoma,MAP2K1,p.Q56P,1
+Melanoma,MAP2K1,p.V60E,1
+Melanoma,NF1,Loss-of-function,1
+Melanoma,NRAS,p.G12A,1
+Melanoma,NRAS,p.G12D,1
+Melanoma,NRAS,p.G12R,1
+Melanoma,NRAS,p.G12V,1
+Melanoma,NRAS,p.G13R,1
+Melanoma,NRAS,p.Q61H,1
+Melanoma,NRAS,p.Q61K,1
+Melanoma,NRAS,p.Q61R,1
+Melanoma,PTEN,Loss,1
+NSCLC,AKT1,Amplification,1
+NSCLC,ALK,Amplification,1
+NSCLC,ARAF,p.S214C,1
+NSCLC,BRAF,Amplification,1
+NSCLC,EGFR,Amplification,1
+NSCLC,ERBB2,Amplification,1
+NSCLC,ERBB2,p.V659E,1
+NSCLC,HRAS,Amplification,1
+NSCLC,KRAS,Amplification,1
+NSCLC,MAP2K1,Amplification,1
+NSCLC,NRAS,Amplification,1
+NSCLC,PIK3CA,Amplification,1
+NSCLC,PIK3CA,p.E81K,1
+NSCLC,PIK3CA,p.E542K,1
+NSCLC,PIK3CA,p.E545K,1
+NSCLC,PIK3CA,p.E545Q,1
+NSCLC,PIK3CA,p.E726K,1
+NSCLC,PIK3CA,p.H1047L,1
+NSCLC,PIK3R1,p.D560N,1
+NSCLC,PIK3R1,Truncating mutations,1
+NSCLC,PTEN,Loss-of-function,1
+Glioma,BRAF,Mutations,1
+Glioma,EGFR,Mutations,1
+NSCLC,CCND1,Amplification,1
+NSCLC,CDK4,Amplification,1
+NSCLC,CDKN2A,Loss-of-function,1
+NSCLC,EGFR,Exon19 deletion,1
+NSCLC,EGFR,p.G719X,1
+NSCLC,EGFR,p.L858R,1
+NSCLC,EGFR,p.L861Q,1
+NSCLC,EGFR,p.S768I,1
+NSCLC,KRAS,Mutations,1
+NSCLC,NF1,Loss-of-function,1
+NSCLC,RB1,Loss-of-function,1
+Colorectal,BRAF,Amplification,1
+NSCLC,EGFR,p.T790M,3
+NSCLC,AKT1,p.E17K,1
+NSCLC,MAP2K1,p.K57N,1
+NSCLC,MAP2K1,p.D67N,1
+NSCLC,MAP2K1,p.Q56P,1
+NSCLC,PIK3CA,p.H1047R,1
+Glioma,IDH1,p.R132C,2
+Colorectal,BRAF,p.D594G,0
+Colorectal,BRAF,p.D594V,0
+Colorectal,BRAF,p.G469E,0
+Colorectal,BRAF,p.G469V,0
+Colorectal,BRAF,p.G596R,0
+Colorectal,KRAS,p.A146P,0
+Colorectal,KRAS,p.G13A,0
+Colorectal,KRAS,p.G13C,0
+Colorectal,KRAS,p.G13R,0
+Colorectal,KRAS,p.G13S,0
+Colorectal,KRAS,p.G13V,0
+Colorectal,KRAS,p.K117N,0
+Colorectal,KRAS,p.Q22K,0
+Colorectal,KRAS,p.Q61H,0
+Colorectal,KRAS,p.Q61K,0
+Colorectal,KRAS,p.Q61L,0
+Colorectal,KRAS,p.Q61P,0
+Colorectal,KRAS,p.Q61R,0
+Colorectal,NRAS,p.G12C,0
+Colorectal,NRAS,p.G12D,0
+Colorectal,NRAS,p.G12S,0
+Colorectal,NRAS,p.G12V,0
+Colorectal,NRAS,p.Q61K,0
+Colorectal,PIK3CA,p.D549N,0
+Colorectal,PIK3CA,p.E542K,0
+Colorectal,PIK3CA,p.E545Q,0
+Colorectal,PIK3CA,p.E545V,0
+Colorectal,PIK3CA,p.Q546E,0
+Colorectal,PIK3CA,p.Q546L,0
+Colorectal,PIK3CA,p.Q546P,0
+Colorectal,PTEN,p.R159S,0
+Colorectal,PTEN,p.R233*,0
+Colorectal,SMAD4,p.D351H,0
+Colorectal,SMAD4,p.D351N,0
+Colorectal,SMAD4,p.D355E,0
+Colorectal,SMAD4,p.D537Y,0
+Colorectal,SMAD4,p.E330A,0
+Colorectal,SMAD4,p.R361C,0
+Colorectal,SMAD4,p.R361H,0
+Colorectal,SMAD4,p.R361S,0
+Glioma,IDH1,p.R132H,0
+Melanoma,BRAF,p.D594E,0
+Melanoma,BRAF,p.D594G,0
+Melanoma,BRAF,p.D594H,0
+Melanoma,BRAF,p.D594V,0
+Melanoma,BRAF,p.L597R,0
+Melanoma,BRAF,p.L597V,0
+Melanoma,BRAF,p.V600D,0
+Melanoma,BRAF,p.V600G,0
+Melanoma,BRAF,p.V600M,0
+Melanoma,BRAF,p.V600R,0
+Melanoma,CTNNB1,p.S37F,0
+Melanoma,CTNNB1,p.S37Y,0
+Melanoma,CTNNB1,p.S45F,0
+Melanoma,CTNNB1,p.S45P,0
+Melanoma,CTNNB1,p.S45Y,0
+Melanoma,GNA12,p.R183C,0
+Melanoma,GNA13,p.Q209L,0
+Melanoma,GNA14,p.Q209P,0
+Melanoma,GNAQ,p.Q209L,0
+Melanoma,GNAQ,p.Q209P,0
+Melanoma,GNAQ,p.Q209R,0
+Melanoma,GNAQ,p.R183Q,0
+Melanoma,KIT,p.D816H,0
+Melanoma,KIT,p.L576P,0
+Melanoma,KIT,p.V559A,0
+Melanoma,KIT,p.V559D,0
+Melanoma,KIT,p.W557R,0
+Melanoma,MAP2K1,p.F53L,0
+Melanoma,MAP2K1,p.I111S,0
+Melanoma,MAP2K1,p.N382H,0
+Melanoma,MAP2K1,p.P124L,0
+Melanoma,MAP2K1,p.P264S,0
+Melanoma,NRAS,p.G12C,0
+Melanoma,NRAS,p.G12S,0
+Melanoma,NRAS,p.G13A,0
+Melanoma,NRAS,p.G13C,0
+Melanoma,NRAS,p.G13D,0
+Melanoma,NRAS,p.G13V,0
+Melanoma,NRAS,p.Q61E,0
+Melanoma,NRAS,p.Q61L,0
+Melanoma,NRAS,p.Q61P,0
+Myeloid neoplasm,ASXL1,p.G643fs,0
+Myeloid neoplasm,ASXL1,p.G645Vfs*58,0
+Myeloid neoplasm,ASXL1,p.R143*,0
+Myeloid neoplasm,ASXL1,p.R693*,0
+Myeloid neoplasm,BCOR,p.A172fs,0
+Myeloid neoplasm,BCOR,p.S214*,0
+Myeloid neoplasm,BRAF,p.A598T,0
+Myeloid neoplasm,BRAF,p.A598V,0
+Myeloid neoplasm,BRAF,p.A598_T599insV,0
+Myeloid neoplasm,BRAF,p.A728V,0
+Myeloid neoplasm,BRAF,p.D594A,0
+Myeloid neoplasm,BRAF,p.D594E,0
+Myeloid neoplasm,BRAF,p.D594G,0
+Myeloid neoplasm,BRAF,p.D594H,0
+Myeloid neoplasm,BRAF,p.D594N,0
+Myeloid neoplasm,BRAF,p.D594V,0
+Myeloid neoplasm,BRAF,p.D594Y,0
+Myeloid neoplasm,BRAF,p.E275K,0
+Myeloid neoplasm,BRAF,p.E501G,0
+Myeloid neoplasm,BRAF,p.E501K,0
+Myeloid neoplasm,BRAF,p.E586K,0
+Myeloid neoplasm,BRAF,p.F468C,0
+Myeloid neoplasm,BRAF,p.F595L,0
+Myeloid neoplasm,BRAF,p.G464E,0
+Myeloid neoplasm,BRAF,p.G464R,0
+Myeloid neoplasm,BRAF,p.G464V,0
+Myeloid neoplasm,BRAF,p.G466A,0
+Myeloid neoplasm,BRAF,p.G466E,0
+Myeloid neoplasm,BRAF,p.G466R,0
+Myeloid neoplasm,BRAF,p.G466V,0
+Myeloid neoplasm,BRAF,p.G469A,0
+Myeloid neoplasm,BRAF,p.G469del,0
+Myeloid neoplasm,BRAF,p.G469E,0
+Myeloid neoplasm,BRAF,p.G469L,0
+Myeloid neoplasm,BRAF,p.G469R,0
+Myeloid neoplasm,BRAF,p.G469S,0
+Myeloid neoplasm,BRAF,p.G469V,0
+Myeloid neoplasm,BRAF,p.G478C,0
+Myeloid neoplasm,BRAF,p.G596fs*2,0
+Myeloid neoplasm,BRAF,p.G596R,0
+Myeloid neoplasm,BRAF,p.G596V,0
+Myeloid neoplasm,BRAF,p.I463S,0
+Myeloid neoplasm,BRAF,p.inact mut,0
+Myeloid neoplasm,BRAF,p.K482M,0
+Myeloid neoplasm,BRAF,p.K483M,0
+Myeloid neoplasm,BRAF,p.K499E,0
+Myeloid neoplasm,BRAF,p.K601E,0
+Myeloid neoplasm,BRAF,p.K601I,0
+Myeloid neoplasm,BRAF,p.K601N,0
+Myeloid neoplasm,BRAF,p.K601Q,0
+Myeloid neoplasm,BRAF,p.K601T,0
+Myeloid neoplasm,BRAF,p.L485Y,0
+Myeloid neoplasm,BRAF,p.L485_P490del,0
+Myeloid neoplasm,BRAF,p.L485_P490delinsF,0
+Myeloid neoplasm,BRAF,p.L485_P490delinsY,0
+Myeloid neoplasm,BRAF,p.L485_Q494del,0
+Myeloid neoplasm,BRAF,p.L505H,0
+Myeloid neoplasm,BRAF,p.L597P,0
+Myeloid neoplasm,BRAF,p.L597Q,0
+Myeloid neoplasm,BRAF,p.L597R,0
+Myeloid neoplasm,BRAF,p.L597S,0
+Myeloid neoplasm,BRAF,p.L597V,0
+Myeloid neoplasm,BRAF,p.N486_P490del,0
+Myeloid neoplasm,BRAF,p.N581D,0
+Myeloid neoplasm,BRAF,p.N581S,0
+Myeloid neoplasm,BRAF,p.P403fs,0
+Myeloid neoplasm,BRAF,p.P490_Q494del,0
+Myeloid neoplasm,BRAF,p.Q257R,0
+Myeloid neoplasm,BRAF,p.R347*,0
+Myeloid neoplasm,BRAF,p.R462I,0
+Myeloid neoplasm,BRAF,p.R506_K507insVLR,0
+Myeloid neoplasm,BRAF,p.R509H,0
+Myeloid neoplasm,BRAF,p.R603*,0
+Myeloid neoplasm,BRAF,p.S467A,0
+Myeloid neoplasm,BRAF,p.T241P,0
+Myeloid neoplasm,BRAF,p.T488_P492del,0
+Myeloid neoplasm,BRAF,p.T488_Q493delinsK,0
+Myeloid neoplasm,BRAF,p.T529I,0
+Myeloid neoplasm,BRAF,p.T529M,0
+Myeloid neoplasm,BRAF,p.T529N,0
+Myeloid neoplasm,BRAF,p.T599dup,0
+Myeloid neoplasm,BRAF,p.T599I,0
+Myeloid neoplasm,BRAF,p.T599R,0
+Myeloid neoplasm,BRAF,p.T599_V600insDFGLAT,0
+Myeloid neoplasm,BRAF,p.T599_V600insEAT,0
+Myeloid neoplasm,BRAF,p.T599_V600insETT,0
+Myeloid neoplasm,BRAF,p.T599_V600insT,0
+Myeloid neoplasm,BRAF,p.T599_V600insTT,0
+Myeloid neoplasm,BRAF,p.V471F,0
+Myeloid neoplasm,BRAF,p.V487_P492delinsA,0
+Myeloid neoplasm,BRAF,p.V600A,0
+Myeloid neoplasm,BRAF,p.V600D,0
+Myeloid neoplasm,BRAF,p.V600delinsYM,0
+Myeloid neoplasm,BRAF,p.V600E,0
+Myeloid neoplasm,BRAF,p.V600fs*11,0
+Myeloid neoplasm,BRAF,p.V600G,0
+Myeloid neoplasm,BRAF,p.V600K,0
+Myeloid neoplasm,BRAF,p.V600L,0
+Myeloid neoplasm,BRAF,p.V600M,0
+Myeloid neoplasm,BRAF,p.V600Q,0
+Myeloid neoplasm,BRAF,p.V600R,0
+Myeloid neoplasm,BRAF,p.V600X,0
+Myeloid neoplasm,BRAF,p.V600_K601delinsE,0
+Myeloid neoplasm,BRAF,p.W450*,0
+Myeloid neoplasm,BRAF,p.W531C,0
+Myeloid neoplasm,BRAF,p.Y472C,0
+Myeloid neoplasm,CALR,p.L367fs*46,0
+Myeloid neoplasm,CBL,del,0
+Myeloid neoplasm,CBL,p.C379A,0
+Myeloid neoplasm,CBL,p.C381A,0
+Myeloid neoplasm,CBL,p.C381R,0
+Myeloid neoplasm,CBL,p.C384G,0
+Myeloid neoplasm,CBL,p.C384R,0
+Myeloid neoplasm,CBL,p.C396R,0
+Myeloid neoplasm,CBL,p.E366_K382del,0
+Myeloid neoplasm,CBL,p.G375P,0
+Myeloid neoplasm,CBL,p.H398Q,0
+Myeloid neoplasm,CBL,p.H398Y,0
+Myeloid neoplasm,CBL,p.I383L,0
+Myeloid neoplasm,CBL,p.K382E,0
+Myeloid neoplasm,CBL,p.L399P,0
+Myeloid neoplasm,CBL,p.L399V,0
+Myeloid neoplasm,CBL,p.M374V,0
+Myeloid neoplasm,CBL,p.P395A,0
+Myeloid neoplasm,CBL,p.P417A,0
+Myeloid neoplasm,CBL,p.P428L,0
+Myeloid neoplasm,CBL,p.Q249E,0
+Myeloid neoplasm,CBL,p.Q365_E366insSK,0
+Myeloid neoplasm,CBL,p.Q367K,0
+Myeloid neoplasm,CBL,p.Q367P,0
+Myeloid neoplasm,CBL,p.R420*,0
+Myeloid neoplasm,CBL,p.R420P,0
+Myeloid neoplasm,CBL,p.R420Q,0
+Myeloid neoplasm,CBL,p.S376F,0
+Myeloid neoplasm,CBL,p.V391I,0
+Myeloid neoplasm,CBL,p.V430M,0
+Myeloid neoplasm,CBL,p.W802*,0
+Myeloid neoplasm,CBL,p.Y368C,0
+Myeloid neoplasm,CBL,p.Y371C,0
+Myeloid neoplasm,CBL,p.Y371H,0
+Myeloid neoplasm,CBL,p.Y371S,0
+Myeloid neoplasm,CEBPA,p.A111Rfs*59,0
+Myeloid neoplasm,CEBPA,p.A44Pfs*63,0
+Myeloid neoplasm,CEBPA,p.E59*,0
+Myeloid neoplasm,CEBPA,p.P23Rfs*137,0
+Myeloid neoplasm,CEBPA,p.P46Lfs*114,0
+Myeloid neoplasm,CEBPA,p.Q312*,0
+Myeloid neoplasm,CEBPA,p.R142Sfs*27,0
+Myeloid neoplasm,CEBPA,p.R142Tfs*27,0
+Myeloid neoplasm,CEBPA,p.R286Pfs*35,0
+Myeloid neoplasm,CEBPA,p.Y67*,0
+Myeloid neoplasm,CSF1R,p.D802V,0
+Myeloid neoplasm,CSF1R,p.G413S,0
+Myeloid neoplasm,CSF1R,p.H362R,0
+Myeloid neoplasm,CSF1R,p.L301S,0
+Myeloid neoplasm,CSF1R,p.W575*,0
+Myeloid neoplasm,CSF1R,p.Y571D,0
+Myeloid neoplasm,CSF3R,act mut,0
+Myeloid neoplasm,CSF3R,p.D771fs,0
+Myeloid neoplasm,CSF3R,p.E331*,0
+Myeloid neoplasm,CSF3R,p.H436Mfs*12,0
+Myeloid neoplasm,CSF3R,p.inact mut,0
+Myeloid neoplasm,CSF3R,p.Q110*,0
+Myeloid neoplasm,CSF3R,p.Q741*,0
+Myeloid neoplasm,CSF3R,p.Q75*,0
+Myeloid neoplasm,CSF3R,p.S469Afs*22,0
+Myeloid neoplasm,CSF3R,p.S469Qfs*5,0
+Myeloid neoplasm,CSF3R,p.S783fs,0
+Myeloid neoplasm,CSF3R,p.T615A,0
+Myeloid neoplasm,CSF3R,p.T618I,0
+Myeloid neoplasm,CSF3R,p.T640N,0
+Myeloid neoplasm,CSF3R,p.W279*,0
+Myeloid neoplasm,CSF3R,p.Y752*,0
+Myeloid neoplasm,DNMT3A,p.D876G,0
+Myeloid neoplasm,DNMT3A,p.E240*,0
+Myeloid neoplasm,DNMT3A,p.E477*,0
+Myeloid neoplasm,DNMT3A,p.E505*,0
+Myeloid neoplasm,DNMT3A,p.F731fs,0
+Myeloid neoplasm,DNMT3A,p.F751fs,0
+Myeloid neoplasm,DNMT3A,p.G590fs,0
+Myeloid neoplasm,DNMT3A,p.H873A,0
+Myeloid neoplasm,DNMT3A,p.H873R,0
+Myeloid neoplasm,DNMT3A,p.inact mut,0
+Myeloid neoplasm,DNMT3A,p.L723fs,0
+Myeloid neoplasm,DNMT3A,p.N879A,0
+Myeloid neoplasm,DNMT3A,p.Q304A,0
+Myeloid neoplasm,DNMT3A,p.Q515*,0
+Myeloid neoplasm,DNMT3A,p.Q606*,0
+Myeloid neoplasm,DNMT3A,p.Q615*,0
+Myeloid neoplasm,DNMT3A,p.R580A,0
+Myeloid neoplasm,DNMT3A,p.R598*,0
+Myeloid neoplasm,DNMT3A,p.R729W,0
+Myeloid neoplasm,DNMT3A,p.R736H,0
+Myeloid neoplasm,DNMT3A,p.R771L,0
+Myeloid neoplasm,DNMT3A,p.R882C,0
+Myeloid neoplasm,DNMT3A,p.R882H,0
+Myeloid neoplasm,DNMT3A,p.R885A,0
+Myeloid neoplasm,DNMT3A,p.W860A,0
+Myeloid neoplasm,DNMT3A,p.Y436*,0
+Myeloid neoplasm,DNMT3A,p.Y793*,0
+Myeloid neoplasm,ETV6,p.L341fs,0
+Myeloid neoplasm,ETV6,p.P214L,0
+Myeloid neoplasm,ETV6,p.R399C,0
+Myeloid neoplasm,ETV6,p.S203fs,0
+Myeloid neoplasm,EZH2,p.A677G,0
+Myeloid neoplasm,EZH2,p.A682G,0
+Myeloid neoplasm,EZH2,p.A687V,0
+Myeloid neoplasm,EZH2,p.A692V,0
+Myeloid neoplasm,EZH2,p.C534fs,0
+Myeloid neoplasm,EZH2,p.C571Y,0
+Myeloid neoplasm,EZH2,p.C576W,0
+Myeloid neoplasm,EZH2,p.E162*,0
+Myeloid neoplasm,EZH2,p.E246*,0
+Myeloid neoplasm,EZH2,p.E396*,0
+Myeloid neoplasm,EZH2,p.E59*,0
+Myeloid neoplasm,EZH2,p.H530N,0
+Myeloid neoplasm,EZH2,p.H689A,0
+Myeloid neoplasm,EZH2,p.I109K,0
+Myeloid neoplasm,EZH2,p.K639E,0
+Myeloid neoplasm,EZH2,p.N152fs*15,0
+Myeloid neoplasm,EZH2,p.Q539*,0
+Myeloid neoplasm,EZH2,p.R216Q,0
+Myeloid neoplasm,EZH2,p.R583*,0
+Myeloid neoplasm,EZH2,p.R690C,0
+Myeloid neoplasm,EZH2,p.S21A,0
+Myeloid neoplasm,EZH2,p.S21D,0
+Myeloid neoplasm,EZH2,p.S556*,0
+Myeloid neoplasm,EZH2,p.V626M,0
+Myeloid neoplasm,EZH2,p.W60*,0
+Myeloid neoplasm,EZH2,p.Y111D,0
+Myeloid neoplasm,EZH2,p.Y111N,0
+Myeloid neoplasm,EZH2,p.Y641C,0
+Myeloid neoplasm,EZH2,p.Y641F,0
+Myeloid neoplasm,EZH2,p.Y641H,0
+Myeloid neoplasm,EZH2,p.Y641N,0
+Myeloid neoplasm,EZH2,p.Y641S,0
+Myeloid neoplasm,EZH2,p.Y641X,0
+Myeloid neoplasm,EZH2,p.Y646C,0
+Myeloid neoplasm,EZH2,p.Y646F,0
+Myeloid neoplasm,EZH2,p.Y646H,0
+Myeloid neoplasm,EZH2,p.Y646N,0
+Myeloid neoplasm,EZH2,p.Y646S,0
+Myeloid neoplasm,FBXW7,p.E369*,0
+Myeloid neoplasm,FBXW7,p.G423*,0
+Myeloid neoplasm,FBXW7,p.G499Vfs*25,0
+Myeloid neoplasm,FBXW7,p.H420Y,0
+Myeloid neoplasm,FBXW7,p.H460R,0
+Myeloid neoplasm,FBXW7,p.I347M,0
+Myeloid neoplasm,FBXW7,p.I435fs*9,0
+Myeloid neoplasm,FBXW7,p.K11R,0
+Myeloid neoplasm,FBXW7,p.K299fs,0
+Myeloid neoplasm,FBXW7,p.K444fs*32,0
+Myeloid neoplasm,FBXW7,p.M83*,0
+Myeloid neoplasm,FBXW7,p.Q47*,0
+Myeloid neoplasm,FBXW7,p.R222*,0
+Myeloid neoplasm,FBXW7,p.R224*,0
+Myeloid neoplasm,FBXW7,p.R278*,0
+Myeloid neoplasm,FBXW7,p.R367*,0
+Myeloid neoplasm,FBXW7,p.R393*,0
+Myeloid neoplasm,FBXW7,p.R465C,0
+Myeloid neoplasm,FBXW7,p.R465H,0
+Myeloid neoplasm,FBXW7,p.R465L,0
+Myeloid neoplasm,FBXW7,p.R465P,0
+Myeloid neoplasm,FBXW7,p.R465Y,0
+Myeloid neoplasm,FBXW7,p.R473fs,0
+Myeloid neoplasm,FBXW7,p.R473fs*25,0
+Myeloid neoplasm,FBXW7,p.R473fs*4,0
+Myeloid neoplasm,FBXW7,p.R479*,0
+Myeloid neoplasm,FBXW7,p.R479G,0
+Myeloid neoplasm,FBXW7,p.R479H,0
+Myeloid neoplasm,FBXW7,p.R479L,0
+Myeloid neoplasm,FBXW7,p.R479P,0
+Myeloid neoplasm,FBXW7,p.R479Q,0
+Myeloid neoplasm,FBXW7,p.R505C,0
+Myeloid neoplasm,FBXW7,p.R505L,0
+Myeloid neoplasm,FBXW7,p.R658*,0
+Myeloid neoplasm,FBXW7,p.R658Q,0
+Myeloid neoplasm,FBXW7,p.R689Q,0
+Myeloid neoplasm,FBXW7,p.S227A,0
+Myeloid neoplasm,FBXW7,p.S282*,0
+Myeloid neoplasm,FBXW7,p.S462Y,0
+Myeloid neoplasm,FBXW7,p.T15_G16insP,0
+Myeloid neoplasm,FBXW7,p.T165fs,0
+Myeloid neoplasm,FBXW7,p.W237*,0
+Myeloid neoplasm,FBXW7,p.W244*,0
+Myeloid neoplasm,FBXW7,p.W486*,0
+Myeloid neoplasm,FLT3,exon 14 ins,0
+Myeloid neoplasm,FLT3,p.A627T,0
+Myeloid neoplasm,FLT3,p.A680fs*13,0
+Myeloid neoplasm,FLT3,p.A680V,0
+Myeloid neoplasm,FLT3,p.C184*,0
+Myeloid neoplasm,FLT3,p.D324N,0
+Myeloid neoplasm,FLT3,p.D600_L601insDFREYEYD,0
+Myeloid neoplasm,FLT3,p.D600_L601insFREYEYD,0
+Myeloid neoplasm,FLT3,p.D698N,0
+Myeloid neoplasm,FLT3,p.D835A,0
+Myeloid neoplasm,FLT3,p.D835del,0
+Myeloid neoplasm,FLT3,p.D835E,0
+Myeloid neoplasm,FLT3,p.D835F,0
+Myeloid neoplasm,FLT3,p.D835G,0
+Myeloid neoplasm,FLT3,p.D835H,0
+Myeloid neoplasm,FLT3,p.D835N,0
+Myeloid neoplasm,FLT3,p.D835V,0
+Myeloid neoplasm,FLT3,p.D835X,0
+Myeloid neoplasm,FLT3,p.D835Y,0
+Myeloid neoplasm,FLT3,p.D839A,0
+Myeloid neoplasm,FLT3,p.D839G,0
+Myeloid neoplasm,FLT3,p.D839H,0
+Myeloid neoplasm,FLT3,p.D839N,0
+Myeloid neoplasm,FLT3,p.E140*,0
+Myeloid neoplasm,FLT3,p.E236*,0
+Myeloid neoplasm,FLT3,p.E366*,0
+Myeloid neoplasm,FLT3,p.E598_Y599insDVDFREYE,0
+Myeloid neoplasm,FLT3,p.E598_Y599insGLVQVTGSSDNEYFYVDFREYE,0
+Myeloid neoplasm,FLT3,p.E608fs*26,0
+Myeloid neoplasm,FLT3,p.E611fs*23,0
+Myeloid neoplasm,FLT3,p.E612_F613insGYVDFREYEYDLKWEFRPRENLEF,0
+Myeloid neoplasm,FLT3,p.F590G,0
+Myeloid neoplasm,FLT3,p.F594L,0
+Myeloid neoplasm,FLT3,p.F594_R595insSDNEYFYVDF,0
+Myeloid neoplasm,FLT3,p.F612fs*22,0
+Myeloid neoplasm,FLT3,p.F691L,0
+Myeloid neoplasm,FLT3,p.G831E,0
+Myeloid neoplasm,FLT3,p.G846R,0
+Myeloid neoplasm,FLT3,p.I836del,0
+Myeloid neoplasm,FLT3,p.I867S,0
+Myeloid neoplasm,FLT3,p.K438fs*64,0
+Myeloid neoplasm,FLT3,p.K602_W603insYEYDLK,0
+Myeloid neoplasm,FLT3,p.K868N,0
+Myeloid neoplasm,FLT3,p.L601_K602insREYEYDL,0
+Myeloid neoplasm,FLT3,p.L610fs*24,0
+Myeloid neoplasm,FLT3,p.L611_E612insCSSDNEYFYVDFREYEYDLKWEFPRENL,0
+Myeloid neoplasm,FLT3,p.M737I,0
+Myeloid neoplasm,FLT3,p.N587fs*24,0
+Myeloid neoplasm,FLT3,p.N609fs*25,0
+Myeloid neoplasm,FLT3,p.N676D,0
+Myeloid neoplasm,FLT3,p.N676K,0
+Myeloid neoplasm,FLT3,p.N676S,0
+Myeloid neoplasm,FLT3,p.N841I,0
+Myeloid neoplasm,FLT3,p.N841K,0
+Myeloid neoplasm,FLT3,p.R607fs*27,0
+Myeloid neoplasm,FLT3,p.R834Q,0
+Myeloid neoplasm,FLT3,p.R845G,0
+Myeloid neoplasm,FLT3,p.S451F,0
+Myeloid neoplasm,FLT3,p.S840_N841insGS,0
+Myeloid neoplasm,FLT3,p.S985fs,0
+Myeloid neoplasm,FLT3,p.T167A,0
+Myeloid neoplasm,FLT3,p.T820A,0
+Myeloid neoplasm,FLT3,p.V194M,0
+Myeloid neoplasm,FLT3,p.V579A,0
+Myeloid neoplasm,FLT3,p.V579fs*3,0
+Myeloid neoplasm,FLT3,p.V581*,0
+Myeloid neoplasm,FLT3,p.V581fs*6,0
+Myeloid neoplasm,FLT3,p.V592A,0
+Myeloid neoplasm,FLT3,p.V592G,0
+Myeloid neoplasm,FLT3,p.W603_E604insDREYEYDLKW,0
+Myeloid neoplasm,FLT3,p.Y364H,0
+Myeloid neoplasm,FLT3,p.Y572C,0
+Myeloid neoplasm,FLT3,p.Y591D,0
+Myeloid neoplasm,FLT3,p.Y599F,0
+Myeloid neoplasm,FLT3,p.Y599_D600insEYEYEYEY,0
+Myeloid neoplasm,FLT3,p.Y599_D600insGLYVDFREYEY,0
+Myeloid neoplasm,FLT3,p.Y599_D600insPAPQIMSTSTLISENMNIA,0
+Myeloid neoplasm,FLT3,p.Y599_D600insSTDNEYFYVDFREYEY,0
+Myeloid neoplasm,FLT3,p.Y842C,0
+Myeloid neoplasm,FLT3,p.Y842H,0
+Myeloid neoplasm,FLT3,p.Y842S,0
+Myeloid neoplasm,GATA2,p.G200fs*18,0
+Myeloid neoplasm,GATA2,p.H25Pfs*159,0
+Myeloid neoplasm,GATA2,p.R86Afs*33,0
+Myeloid neoplasm,GATA2,p.T354M,0
+Myeloid neoplasm,IDH1,p.E190K,0
+Myeloid neoplasm,IDH1,p.G123R,0
+Myeloid neoplasm,IDH1,p.G289fs,0
+Myeloid neoplasm,IDH1,p.G70D,0
+Myeloid neoplasm,IDH1,p.G97D,0
+Myeloid neoplasm,IDH1,p.H133Q,0
+Myeloid neoplasm,IDH1,p.I130M,0
+Myeloid neoplasm,IDH1,p.I5fs*13,0
+Myeloid neoplasm,IDH1,p.I99M,0
+Myeloid neoplasm,IDH1,p.Q277*,0
+Myeloid neoplasm,IDH1,p.R100*,0
+Myeloid neoplasm,IDH1,p.R100A,0
+Myeloid neoplasm,IDH1,p.R100Q,0
+Myeloid neoplasm,IDH1,p.R132C,0
+Myeloid neoplasm,IDH1,p.R132G,0
+Myeloid neoplasm,IDH1,p.R132H,0
+Myeloid neoplasm,IDH1,p.R132L,0
+Myeloid neoplasm,IDH1,p.R132S,0
+Myeloid neoplasm,IDH1,p.R132V,0
+Myeloid neoplasm,IDH1,p.R132X,0
+Myeloid neoplasm,IDH1,p.R49C,0
+Myeloid neoplasm,IDH1,p.V178I,0
+Myeloid neoplasm,IDH1,p.V294M,0
+Myeloid neoplasm,IDH1,p.V71I,0
+Myeloid neoplasm,IDH1,p.Y139D,0
+Myeloid neoplasm,IDH2,p.A416V,0
+Myeloid neoplasm,IDH2,p.A47V,0
+Myeloid neoplasm,IDH2,p.E208*,0
+Myeloid neoplasm,IDH2,p.E268D,0
+Myeloid neoplasm,IDH2,p.F394I,0
+Myeloid neoplasm,IDH2,p.F394V,0
+Myeloid neoplasm,IDH2,p.G137E,0
+Myeloid neoplasm,IDH2,p.G145fs,0
+Myeloid neoplasm,IDH2,p.I139F,0
+Myeloid neoplasm,IDH2,p.R140L,0
+Myeloid neoplasm,IDH2,p.R140Q,0
+Myeloid neoplasm,IDH2,p.R140W,0
+Myeloid neoplasm,IDH2,p.R140X,0
+Myeloid neoplasm,IDH2,p.R172G,0
+Myeloid neoplasm,IDH2,p.R172K,0
+Myeloid neoplasm,IDH2,p.R172M,0
+Myeloid neoplasm,IDH2,p.R172S,0
+Myeloid neoplasm,IDH2,p.R172W,0
+Myeloid neoplasm,IDH2,p.R172X,0
+Myeloid neoplasm,IDH2,p.T146fs*15,0
+Myeloid neoplasm,IDH2,p.T331M,0
+Myeloid neoplasm,IDH2,p.V294M,0
+Myeloid neoplasm,IDH2,p.W244*,0
+Myeloid neoplasm,JAK2,p.C618R,0
+Myeloid neoplasm,JAK2,p.E177*,0
+Myeloid neoplasm,JAK2,p.E274*,0
+Myeloid neoplasm,JAK2,p.E386*,0
+Myeloid neoplasm,JAK2,p.E818*,0
+Myeloid neoplasm,JAK2,p.E846D,0
+Myeloid neoplasm,JAK2,p.E864K,0
+Myeloid neoplasm,JAK2,p.E890*,0
+Myeloid neoplasm,JAK2,p.E985K,0
+Myeloid neoplasm,JAK2,p.E987D,0
+Myeloid neoplasm,JAK2,p.F537_K539delinsL,0
+Myeloid neoplasm,JAK2,p.G571S,0
+Myeloid neoplasm,JAK2,p.G614fs*29,0
+Myeloid neoplasm,JAK2,p.G831R,0
+Myeloid neoplasm,JAK2,p.G935R,0
+Myeloid neoplasm,JAK2,p.I960V,0
+Myeloid neoplasm,JAK2,p.K539L,0
+Myeloid neoplasm,JAK2,p.L609fs*34,0
+Myeloid neoplasm,JAK2,p.L611fs*32,0
+Myeloid neoplasm,JAK2,p.M535I,0
+Myeloid neoplasm,JAK2,p.M929I,0
+Myeloid neoplasm,JAK2,p.N542_E543del,0
+Myeloid neoplasm,JAK2,p.N612fs*31,0
+Myeloid neoplasm,JAK2,p.N909K,0
+Myeloid neoplasm,JAK2,p.P1057S,0
+Myeloid neoplasm,JAK2,p.P132A,0
+Myeloid neoplasm,JAK2,p.R1127K,0
+Myeloid neoplasm,JAK2,p.R426*,0
+Myeloid neoplasm,JAK2,p.R443*,0
+Myeloid neoplasm,JAK2,p.R683*,0
+Myeloid neoplasm,JAK2,p.R683G,0
+Myeloid neoplasm,JAK2,p.R683K,0
+Myeloid neoplasm,JAK2,p.R683S,0
+Myeloid neoplasm,JAK2,p.R867Q,0
+Myeloid neoplasm,JAK2,p.R938L,0
+Myeloid neoplasm,JAK2,p.R975G,0
+Myeloid neoplasm,JAK2,p.S358*,0
+Myeloid neoplasm,JAK2,p.T875N,0
+Myeloid neoplasm,JAK2,p.V617F,0
+Myeloid neoplasm,JAK2,p.V881A,0
+Myeloid neoplasm,JAK2,p.V881fs,0
+Myeloid neoplasm,JAK2,p.Y613fs*30,0
+Myeloid neoplasm,JAK2,p.Y918H,0
+Myeloid neoplasm,JAK2,p.Y931C,0
+Myeloid neoplasm,KIT,act mut,0
+Myeloid neoplasm,KIT,missense,0
+Myeloid neoplasm,KIT,p.A502_Y503dup,0
+Myeloid neoplasm,KIT,p.A502_Y503insSA,0
+Myeloid neoplasm,KIT,p.A829P,0
+Myeloid neoplasm,KIT,p.C443Y,0
+Myeloid neoplasm,KIT,p.D419del,0
+Myeloid neoplasm,KIT,p.D52N,0
+Myeloid neoplasm,KIT,p.D572A,0
+Myeloid neoplasm,KIT,p.D579del,0
+Myeloid neoplasm,KIT,p.D60N,0
+Myeloid neoplasm,KIT,p.D816A,0
+Myeloid neoplasm,KIT,p.D816E,0
+Myeloid neoplasm,KIT,p.D816F,0
+Myeloid neoplasm,KIT,p.D816G,0
+Myeloid neoplasm,KIT,p.D816I,0
+Myeloid neoplasm,KIT,p.D816N,0
+Myeloid neoplasm,KIT,p.D816V,0
+Myeloid neoplasm,KIT,p.D816Y,0
+Myeloid neoplasm,KIT,p.D820A,0
+Myeloid neoplasm,KIT,p.D820E,0
+Myeloid neoplasm,KIT,p.D820G,0
+Myeloid neoplasm,KIT,p.D820H,0
+Myeloid neoplasm,KIT,p.D820N,0
+Myeloid neoplasm,KIT,p.D820V,0
+Myeloid neoplasm,KIT,p.D820Y,0
+Myeloid neoplasm,KIT,p.E228*,0
+Myeloid neoplasm,KIT,p.E249*,0
+Myeloid neoplasm,KIT,p.E306*,0
+Myeloid neoplasm,KIT,p.E490*,0
+Myeloid neoplasm,KIT,p.E490K,0
+Myeloid neoplasm,KIT,p.E554_K558del,0
+Myeloid neoplasm,KIT,p.E561fs,0
+Myeloid neoplasm,KIT,p.E695*,0
+Myeloid neoplasm,KIT,p.E839K,0
+Myeloid neoplasm,KIT,p.F522C,0
+Myeloid neoplasm,KIT,p.G565*,0
+Myeloid neoplasm,KIT,p.G812V,0
+Myeloid neoplasm,KIT,p.H697Y,0
+Myeloid neoplasm,KIT,p.I563_L576del,0
+Myeloid neoplasm,KIT,p.I571_L576del,0
+Myeloid neoplasm,KIT,p.K509I,0
+Myeloid neoplasm,KIT,p.K550_K558del,0
+Myeloid neoplasm,KIT,p.K550_V559del,0
+Myeloid neoplasm,KIT,p.K550_W557del,0
+Myeloid neoplasm,KIT,p.K558*,0
+Myeloid neoplasm,KIT,p.K558delinsNP,0
+Myeloid neoplasm,KIT,p.K558_E562del,0
+Myeloid neoplasm,KIT,p.K558_N564del,0
+Myeloid neoplasm,KIT,p.K558_V559del,0
+Myeloid neoplasm,KIT,p.K558_V560del,0
+Myeloid neoplasm,KIT,p.K642E,0
+Myeloid neoplasm,KIT,p.L416fs,0
+Myeloid neoplasm,KIT,p.L576del,0
+Myeloid neoplasm,KIT,p.L576P,0
+Myeloid neoplasm,KIT,p.M551_E554del,0
+Myeloid neoplasm,KIT,p.M551_W557del,0
+Myeloid neoplasm,KIT,p.M552_E554del,0
+Myeloid neoplasm,KIT,p.M552_K558del,0
+Myeloid neoplasm,KIT,p.M552_Q556del,0
+Myeloid neoplasm,KIT,p.M552_W557del,0
+Myeloid neoplasm,KIT,p.M552_Y553del,0
+Myeloid neoplasm,KIT,p.N320fs*6,0
+Myeloid neoplasm,KIT,p.N505I,0
+Myeloid neoplasm,KIT,p.N564_L576del,0
+Myeloid neoplasm,KIT,p.N564_Y578del,0
+Myeloid neoplasm,KIT,p.N655K,0
+Myeloid neoplasm,KIT,p.N822I,0
+Myeloid neoplasm,KIT,p.N822K,0
+Myeloid neoplasm,KIT,p.N822Y,0
+Myeloid neoplasm,KIT,p.p.D816H,0
+Myeloid neoplasm,KIT,p.P551_V555del,0
+Myeloid neoplasm,KIT,p.P551_W557delinsL,0
+Myeloid neoplasm,KIT,p.P577_D579del,0
+Myeloid neoplasm,KIT,p.P754fs,0
+Myeloid neoplasm,KIT,p.Q556_K558del,0
+Myeloid neoplasm,KIT,p.Q556_V560del,0
+Myeloid neoplasm,KIT,p.R634W,0
+Myeloid neoplasm,KIT,p.R796G,0
+Myeloid neoplasm,KIT,p.S197*,0
+Myeloid neoplasm,KIT,p.S476I,0
+Myeloid neoplasm,KIT,p.S501_A502insSAY,0
+Myeloid neoplasm,KIT,p.T417_D419delinsI,0
+Myeloid neoplasm,KIT,p.T417_D419delinsRA,0
+Myeloid neoplasm,KIT,p.T417_D419delinsY,0
+Myeloid neoplasm,KIT,p.T417_Y418delinsH,0
+Myeloid neoplasm,KIT,p.T670I,0
+Myeloid neoplasm,KIT,p.V530I,0
+Myeloid neoplasm,KIT,p.V555_E562del,0
+Myeloid neoplasm,KIT,p.V555_I571del,0
+Myeloid neoplasm,KIT,p.V555_K558del,0
+Myeloid neoplasm,KIT,p.V555_P573del,0
+Myeloid neoplasm,KIT,p.V555_Q556del,0
+Myeloid neoplasm,KIT,p.V555_V559del,0
+Myeloid neoplasm,KIT,p.V555_V560del,0
+Myeloid neoplasm,KIT,p.V556_L576del,0
+Myeloid neoplasm,KIT,p.V556_V560del,0
+Myeloid neoplasm,KIT,p.V559A,0
+Myeloid neoplasm,KIT,p.V559D,0
+Myeloid neoplasm,KIT,p.V559del,0
+Myeloid neoplasm,KIT,p.V559fs,0
+Myeloid neoplasm,KIT,p.V559G,0
+Myeloid neoplasm,KIT,p.V559I,0
+Myeloid neoplasm,KIT,p.V559K,0
+Myeloid neoplasm,KIT,p.V559_E561del,0
+Myeloid neoplasm,KIT,p.V559_G565del,0
+Myeloid neoplasm,KIT,p.V559_V560del,0
+Myeloid neoplasm,KIT,p.V560A,0
+Myeloid neoplasm,KIT,p.V560D,0
+Myeloid neoplasm,KIT,p.V560del,0
+Myeloid neoplasm,KIT,p.V560E,0
+Myeloid neoplasm,KIT,p.V560G,0
+Myeloid neoplasm,KIT,p.V560_L576del,0
+Myeloid neoplasm,KIT,p.V560_Y578del,0
+Myeloid neoplasm,KIT,p.V569_L576del,0
+Myeloid neoplasm,KIT,p.V654A,0
+Myeloid neoplasm,KIT,p.V825A,0
+Myeloid neoplasm,KIT,p.W557C,0
+Myeloid neoplasm,KIT,p.W557del,0
+Myeloid neoplasm,KIT,p.W557G,0
+Myeloid neoplasm,KIT,p.W557R,0
+Myeloid neoplasm,KIT,p.W557S,0
+Myeloid neoplasm,KIT,p.W557_E561del,0
+Myeloid neoplasm,KIT,p.W557_K558del,0
+Myeloid neoplasm,KIT,p.W557_V559del,0
+Myeloid neoplasm,KIT,p.W557_V560del,0
+Myeloid neoplasm,KIT,p.W582*,0
+Myeloid neoplasm,KIT,p.Y418_D419delinsG,0
+Myeloid neoplasm,KIT,p.Y418_D419delinsS,0
+Myeloid neoplasm,KIT,p.Y503_F504insAY,0
+Myeloid neoplasm,KIT,p.Y553N,0
+Myeloid neoplasm,KIT,p.Y553_K558del,0
+Myeloid neoplasm,KIT,p.Y553_Q556del,0
+Myeloid neoplasm,KIT,p.Y553_W557del,0
+Myeloid neoplasm,KIT,p.Y568_T574del,0
+Myeloid neoplasm,KIT,p.Y570_L576del,0
+Myeloid neoplasm,KIT,p.Y578C,0
+Myeloid neoplasm,KIT,p.Y578_D579del,0
+Myeloid neoplasm,KIT,p.Y823D,0
+Myeloid neoplasm,KIT,p.Y823N,0
+Myeloid neoplasm,KMT2A,KMT2A - AFF1,0
+Myeloid neoplasm,KMT2A,KMT2A - MLLT1,0
+Myeloid neoplasm,KMT2A,KMT2A - MLLT10,0
+Myeloid neoplasm,KMT2A,KMT2A - MLLT3,0
+Myeloid neoplasm,KMT2A,p.E1361*,0
+Myeloid neoplasm,KMT2A,p.E1472*,0
+Myeloid neoplasm,KMT2A,p.R1064*,0
+Myeloid neoplasm,KMT2A,p.R1151*,0
+Myeloid neoplasm,KMT2A,p.R2379*,0
+Myeloid neoplasm,KMT2A,p.R2656*,0
+Myeloid neoplasm,KMT2A,p.R407*,0
+Myeloid neoplasm,KMT2A,p.R652*,0
+Myeloid neoplasm,KRAS,p.A146P,0
+Myeloid neoplasm,KRAS,p.A146T,0
+Myeloid neoplasm,KRAS,p.A146V,0
+Myeloid neoplasm,KRAS,p.A59G,0
+Myeloid neoplasm,KRAS,p.C118S,0
+Myeloid neoplasm,KRAS,p.D119N,0
+Myeloid neoplasm,KRAS,p.D153V,0
+Myeloid neoplasm,KRAS,p.D33E,0
+Myeloid neoplasm,KRAS,p.E31K,0
+Myeloid neoplasm,KRAS,p.E62K,0
+Myeloid neoplasm,KRAS,p.E63K,0
+Myeloid neoplasm,KRAS,p.E76fs*9,0
+Myeloid neoplasm,KRAS,p.E98*,0
+Myeloid neoplasm,KRAS,p.F156L,0
+Myeloid neoplasm,KRAS,p.F28L,0
+Myeloid neoplasm,KRAS,p.G10dup,0
+Myeloid neoplasm,KRAS,p.G12A,0
+Myeloid neoplasm,KRAS,p.G12C,0
+Myeloid neoplasm,KRAS,p.G12D,0
+Myeloid neoplasm,KRAS,p.G12E,0
+Myeloid neoplasm,KRAS,p.G12F,0
+Myeloid neoplasm,KRAS,p.G12fs*3,0
+Myeloid neoplasm,KRAS,p.G12I,0
+Myeloid neoplasm,KRAS,p.G12L,0
+Myeloid neoplasm,KRAS,p.G12N,0
+Myeloid neoplasm,KRAS,p.G12R,0
+Myeloid neoplasm,KRAS,p.G12S,0
+Myeloid neoplasm,KRAS,p.G12V,0
+Myeloid neoplasm,KRAS,p.G12W,0
+Myeloid neoplasm,KRAS,p.G12X,0
+Myeloid neoplasm,KRAS,p.G12Y,0
+Myeloid neoplasm,KRAS,p.G13A,0
+Myeloid neoplasm,KRAS,p.G13C,0
+Myeloid neoplasm,KRAS,p.G13D,0
+Myeloid neoplasm,KRAS,p.G13E,0
+Myeloid neoplasm,KRAS,p.G13R,0
+Myeloid neoplasm,KRAS,p.G13S,0
+Myeloid neoplasm,KRAS,p.G13V,0
+Myeloid neoplasm,KRAS,p.G13X,0
+Myeloid neoplasm,KRAS,p.G60E,0
+Myeloid neoplasm,KRAS,p.G60R,0
+Myeloid neoplasm,KRAS,p.I24N,0
+Myeloid neoplasm,KRAS,p.K117N,0
+Myeloid neoplasm,KRAS,p.K147E,0
+Myeloid neoplasm,KRAS,p.K5N,0
+Myeloid neoplasm,KRAS,p.K88*,0
+Myeloid neoplasm,KRAS,p.L19F,0
+Myeloid neoplasm,KRAS,p.N116H,0
+Myeloid neoplasm,KRAS,p.N116S,0
+Myeloid neoplasm,KRAS,p.P34L,0
+Myeloid neoplasm,KRAS,p.P34R,0
+Myeloid neoplasm,KRAS,p.Q22*,0
+Myeloid neoplasm,KRAS,p.Q22E,0
+Myeloid neoplasm,KRAS,p.Q22K,0
+Myeloid neoplasm,KRAS,p.Q22R,0
+Myeloid neoplasm,KRAS,p.Q61A,0
+Myeloid neoplasm,KRAS,p.Q61E,0
+Myeloid neoplasm,KRAS,p.Q61H,0
+Myeloid neoplasm,KRAS,p.Q61K,0
+Myeloid neoplasm,KRAS,p.Q61L,0
+Myeloid neoplasm,KRAS,p.Q61P,0
+Myeloid neoplasm,KRAS,p.Q61R,0
+Myeloid neoplasm,KRAS,p.Q61X,0
+Myeloid neoplasm,KRAS,p.R164Q,0
+Myeloid neoplasm,KRAS,p.T58I,0
+Myeloid neoplasm,KRAS,p.T74P,0
+Myeloid neoplasm,KRAS,p.V14I,0
+Myeloid neoplasm,KRAS,p.V14L,0
+Myeloid neoplasm,KRAS,p.V41I,0
+Myeloid neoplasm,KRAS,p.Y32S,0
+Myeloid neoplasm,KRAS,p.Y40A,0
+Myeloid neoplasm,KRAS,p.Y71H,0
+Myeloid neoplasm,MPL,p.E230G,0
+Myeloid neoplasm,MPL,p.F126fs,0
+Myeloid neoplasm,MPL,p.P106L,0
+Myeloid neoplasm,MPL,p.R321W,0
+Myeloid neoplasm,MPL,p.S204F,0
+Myeloid neoplasm,MPL,p.S204P,0
+Myeloid neoplasm,MPL,p.S232*,0
+Myeloid neoplasm,MPL,p.S505N,0
+Myeloid neoplasm,MPL,p.T119I,0
+Myeloid neoplasm,MPL,p.T487A,0
+Myeloid neoplasm,MPL,p.V114M,0
+Myeloid neoplasm,MPL,p.V285E,0
+Myeloid neoplasm,MPL,p.W515A,0
+Myeloid neoplasm,MPL,p.W515C,0
+Myeloid neoplasm,MPL,p.W515D,0
+Myeloid neoplasm,MPL,p.W515E,0
+Myeloid neoplasm,MPL,p.W515F,0
+Myeloid neoplasm,MPL,p.W515G,0
+Myeloid neoplasm,MPL,p.W515H,0
+Myeloid neoplasm,MPL,p.W515I,0
+Myeloid neoplasm,MPL,p.W515K,0
+Myeloid neoplasm,MPL,p.W515L,0
+Myeloid neoplasm,MPL,p.W515M,0
+Myeloid neoplasm,MPL,p.W515N,0
+Myeloid neoplasm,MPL,p.W515P,0
+Myeloid neoplasm,MPL,p.W515Q,0
+Myeloid neoplasm,MPL,p.W515R,0
+Myeloid neoplasm,MPL,p.W515S,0
+Myeloid neoplasm,MPL,p.W515T,0
+Myeloid neoplasm,MPL,p.W515V,0
+Myeloid neoplasm,MPL,p.W515Y,0
+Myeloid neoplasm,MPL,p.W515_F517del,0
+Myeloid neoplasm,MPL,p.W515_P518del,0
+Myeloid neoplasm,MPL,p.Y591D,0
+Myeloid neoplasm,NPM1,exon12,0
+Myeloid neoplasm,NPM1,NPM1 - ALK,0
+Myeloid neoplasm,NPM1,p.K263R,0
+Myeloid neoplasm,NPM1,p.V156fs*6,0
+Myeloid neoplasm,NPM1,p.W288Cfs*12,0
+Myeloid neoplasm,NPM1,p.W288fs,0
+Myeloid neoplasm,NPM1,p.W288fs*12,0
+Myeloid neoplasm,NPM1,p.W288Lfs*12,0
+Myeloid neoplasm,NRAS,p.A146T,0
+Myeloid neoplasm,NRAS,p.E63K,0
+Myeloid neoplasm,NRAS,p.G12A,0
+Myeloid neoplasm,NRAS,p.G12C,0
+Myeloid neoplasm,NRAS,p.G12D,0
+Myeloid neoplasm,NRAS,p.G12N,0
+Myeloid neoplasm,NRAS,p.G12P,0
+Myeloid neoplasm,NRAS,p.G12R,0
+Myeloid neoplasm,NRAS,p.G12S,0
+Myeloid neoplasm,NRAS,p.G12V,0
+Myeloid neoplasm,NRAS,p.G12X,0
+Myeloid neoplasm,NRAS,p.G12Y,0
+Myeloid neoplasm,NRAS,p.G13A,0
+Myeloid neoplasm,NRAS,p.G13C,0
+Myeloid neoplasm,NRAS,p.G13D,0
+Myeloid neoplasm,NRAS,p.G13R,0
+Myeloid neoplasm,NRAS,p.G13S,0
+Myeloid neoplasm,NRAS,p.G13V,0
+Myeloid neoplasm,NRAS,p.G13X,0
+Myeloid neoplasm,NRAS,p.G60E,0
+Myeloid neoplasm,NRAS,p.P34L,0
+Myeloid neoplasm,NRAS,p.Q61E,0
+Myeloid neoplasm,NRAS,p.Q61H,0
+Myeloid neoplasm,NRAS,p.Q61K,0
+Myeloid neoplasm,NRAS,p.Q61L,0
+Myeloid neoplasm,NRAS,p.Q61P,0
+Myeloid neoplasm,NRAS,p.Q61R,0
+Myeloid neoplasm,NRAS,p.Q61X,0
+Myeloid neoplasm,NRAS,p.S65C,0
+Myeloid neoplasm,NRAS,p.T50I,0
+Myeloid neoplasm,NRAS,p.T58I,0
+Myeloid neoplasm,NRAS,p.Y64D,0
+Myeloid neoplasm,PHF6,p.D264*,0
+Myeloid neoplasm,PHF6,p.E139*,0
+Myeloid neoplasm,PHF6,p.E68*,0
+Myeloid neoplasm,PHF6,p.M1?,0
+Myeloid neoplasm,PHF6,p.N23Kfs*2,0
+Myeloid neoplasm,PHF6,p.R274*,0
+Myeloid neoplasm,PHF6,p.S2*,0
+Myeloid neoplasm,PTPN11,act mut,0
+Myeloid neoplasm,PTPN11,p.A461T,0
+Myeloid neoplasm,PTPN11,p.A72D,0
+Myeloid neoplasm,PTPN11,p.A72S,0
+Myeloid neoplasm,PTPN11,p.A72V,0
+Myeloid neoplasm,PTPN11,p.D106A,0
+Myeloid neoplasm,PTPN11,p.D61N,0
+Myeloid neoplasm,PTPN11,p.D61Y,0
+Myeloid neoplasm,PTPN11,p.E69K,0
+Myeloid neoplasm,PTPN11,p.E76A,0
+Myeloid neoplasm,PTPN11,p.E76G,0
+Myeloid neoplasm,PTPN11,p.E76K,0
+Myeloid neoplasm,PTPN11,p.F71I,0
+Myeloid neoplasm,PTPN11,p.G503V,0
+Myeloid neoplasm,PTPN11,p.G60R,0
+Myeloid neoplasm,PTPN11,p.I282V,0
+Myeloid neoplasm,PTPN11,p.M504V,0
+Myeloid neoplasm,PTPN11,p.N308D,0
+Myeloid neoplasm,PTPN11,p.N58S,0
+Myeloid neoplasm,PTPN11,p.Q79R,0
+Myeloid neoplasm,PTPN11,p.R498W,0
+Myeloid neoplasm,PTPN11,p.T468M,0
+Myeloid neoplasm,PTPN11,p.T507K,0
+Myeloid neoplasm,PTPN11,p.T73I,0
+Myeloid neoplasm,PTPN11,p.V45L,0
+Myeloid neoplasm,PTPN11,p.Y279C,0
+Myeloid neoplasm,PTPN11,p.Y62C,0
+Myeloid neoplasm,PTPN11,p.Y63C,0
+Myeloid neoplasm,RUNX1,p.D317N,0
+Myeloid neoplasm,RUNX1,p.G42R,0
+Myeloid neoplasm,RUNX1,p.K83Q,0
+Myeloid neoplasm,RUNX1,p.M439L,0
+Myeloid neoplasm,RUNX1,p.R139*,0
+Myeloid neoplasm,RUNX1,p.R142Kfs*44,0
+Myeloid neoplasm,RUNX1,p.R166*,0
+Myeloid neoplasm,RUNX1,p.R174*,0
+Myeloid neoplasm,RUNX1,p.R178*,0
+Myeloid neoplasm,RUNX1,p.R293*,0
+Myeloid neoplasm,RUNX1,p.R307Afs*266,0
+Myeloid neoplasm,RUNX1,p.R349Hfs*221,0
+Myeloid neoplasm,RUNX1,p.S114P,0
+Myeloid neoplasm,RUNX1,p.S191Afs*4,0
+Myeloid neoplasm,RUNX1,p.S249Tfs*322,0
+Myeloid neoplasm,RUNX1,p.S257Dfs*22,0
+Myeloid neoplasm,RUNX1,p.S287Cfs*285,0
+Myeloid neoplasm,RUNX1,p.S295*,0
+Myeloid neoplasm,RUNX1,p.S295Ffs*278,0
+Myeloid neoplasm,RUNX1,p.S70fs,0
+Myeloid neoplasm,RUNX1,p.S9*,0
+Myeloid neoplasm,RUNX1,p.T121*,0
+Myeloid neoplasm,RUNX1,p.T121Mfs*6,0
+Myeloid neoplasm,RUNX1,p.T187Pfs*23,0
+Myeloid neoplasm,RUNX1,p.T219Hfs*15,0
+Myeloid neoplasm,RUNX1,p.V105*,0
+Myeloid neoplasm,RUNX1,p.V269Qfs*13,0
+Myeloid neoplasm,RUNX1,p.V425G,0
+Myeloid neoplasm,RUNX1,p.W252*,0
+Myeloid neoplasm,RUNX1,p.W279*,0
+Myeloid neoplasm,RUNX1,p.W79*,0
+Myeloid neoplasm,RUNX1,p.Y113*,0
+Myeloid neoplasm,RUNX1,p.Y260*,0
+Myeloid neoplasm,SETBP1,p.D868N,0
+Myeloid neoplasm,SETBP1,p.E520*,0
+Myeloid neoplasm,SETBP1,p.G870S,0
+Myeloid neoplasm,SETBP1,p.I871T,0
+Myeloid neoplasm,SETBP1,p.R544*,0
+Myeloid neoplasm,SETBP1,p.W222*,0
+Myeloid neoplasm,SF3B1,p.E17*,0
+Myeloid neoplasm,SF3B1,p.E622D,0
+Myeloid neoplasm,SF3B1,p.G241*,0
+Myeloid neoplasm,SF3B1,p.G330*,0
+Myeloid neoplasm,SF3B1,p.G742D,0
+Myeloid neoplasm,SF3B1,p.G83*,0
+Myeloid neoplasm,SF3B1,p.H662Q,0
+Myeloid neoplasm,SF3B1,p.K666N,0
+Myeloid neoplasm,SF3B1,p.K666R,0
+Myeloid neoplasm,SF3B1,p.K666T,0
+Myeloid neoplasm,SF3B1,p.K700E,0
+Myeloid neoplasm,SF3B1,p.K700R,0
+Myeloid neoplasm,SF3B1,p.R16*,0
+Myeloid neoplasm,SF3B1,p.R318*,0
+Myeloid neoplasm,SF3B1,p.S336*,0
+Myeloid neoplasm,SF3B1,p.T434A,0
+Myeloid neoplasm,SRSF2,p.M1?,0
+Myeloid neoplasm,STAG2,p.D193N,0
+Myeloid neoplasm,STAG2,p.N357fs,0
+Myeloid neoplasm,STAG2,p.Q593*,0
+Myeloid neoplasm,STAG2,p.R110*,0
+Myeloid neoplasm,STAG2,p.R216*,0
+Myeloid neoplasm,STAG2,p.R259*,0
+Myeloid neoplasm,STAG2,p.R604*,0
+Myeloid neoplasm,STAG2,p.R614*,0
+Myeloid neoplasm,STAG2,p.S653*,0
+Myeloid neoplasm,STAG2,p.T626fs,0
+Myeloid neoplasm,STAG2,p.W102*,0
+Myeloid neoplasm,STAG2,p.Y636*,0
+Myeloid neoplasm,TET2,p.C1193W,0
+Myeloid neoplasm,TET2,p.D1143fs,0
+Myeloid neoplasm,TET2,p.H1881Q,0
+Myeloid neoplasm,TET2,p.H1881R,0
+Myeloid neoplasm,TET2,p.H1904R,0
+Myeloid neoplasm,TET2,p.I1762V,0
+Myeloid neoplasm,TET2,p.I1873T,0
+Myeloid neoplasm,TET2,p.I812fs,0
+Myeloid neoplasm,TET2,p.K1171fs,0
+Myeloid neoplasm,TET2,p.K67fs,0
+Myeloid neoplasm,TET2,p.M1293A,0
+Myeloid neoplasm,TET2,p.N1387A,0
+Myeloid neoplasm,TET2,p.Q1389*,0
+Myeloid neoplasm,TET2,p.Q876*,0
+Myeloid neoplasm,TET2,p.R1261G,0
+Myeloid neoplasm,TET2,p.R1262A,0
+Myeloid neoplasm,TET2,p.R1896M,0
+Myeloid neoplasm,TET2,p.R1896S,0
+Myeloid neoplasm,TET2,p.S1290A,0
+Myeloid neoplasm,TET2,p.S1303N,0
+Myeloid neoplasm,TET2,p.S1369*,0
+Myeloid neoplasm,TET2,p.W1291R,0
+Myeloid neoplasm,TET2,p.W1291_N1296delinsGGSGGS,0
+Myeloid neoplasm,TET2,p.Y1294A,0
+Myeloid neoplasm,TET2,p.Y1295A,0
+Myeloid neoplasm,TET2,p.Y1902A,0
+Myeloid neoplasm,TP53,p.C141S,0
+Myeloid neoplasm,TP53,p.C229R,0
+Myeloid neoplasm,TP53,p.C238Y,0
+Myeloid neoplasm,TP53,p.D324A,0
+Myeloid neoplasm,TP53,p.D324H,0
+Myeloid neoplasm,TP53,p.D324N,0
+Myeloid neoplasm,TP53,p.D324Y,0
+Myeloid neoplasm,TP53,p.H168N,0
+Myeloid neoplasm,TP53,p.K164N,0
+Myeloid neoplasm,TP53,p.K305N,0
+Myeloid neoplasm,TP53,p.K320E,0
+Myeloid neoplasm,TP53,p.P278A,0
+Myeloid neoplasm,TP53,p.P72R,0
+Myeloid neoplasm,TP53,p.R335H,0
+Myeloid neoplasm,TP53,p.S215fs,0
+Myeloid neoplasm,TP53,p.S240R,0
+Myeloid neoplasm,TP53,p.T102A,0
+Myeloid neoplasm,TP53,p.T125A,0
+Myeloid neoplasm,TP53,p.V272L,0
+Myeloid neoplasm,TP53,p.W53*,0
+Myeloid neoplasm,TP53,p.Y103*,0
+Myeloid neoplasm,TP53,p.Y327L,0
+Myeloid neoplasm,U2AF1,p.I24T,0
+Myeloid neoplasm,U2AF1,p.Q157P,0
+Myeloid neoplasm,U2AF1,p.Q157R,0
+Myeloid neoplasm,U2AF1,p.S34F,0
+Myeloid neoplasm,U2AF1,p.S34Y,0
+Myeloid neoplasm,ZRSR2,p.R126*,0
+Myeloid neoplasm,ZRSR2,p.S43*,0
+Myeloid neoplasm,ZRSR2,p.W153*,0
+NSCLC,ALK,p.C1156Y,0
+NSCLC,ALK,p.G1202R,0
+NSCLC,ALK,p.G1269A,0
+NSCLC,ALK,p.L1152R,0
+NSCLC,ALK,p.L1196M,0
+NSCLC,ALK,p.S1206Y,0
+NSCLC,BRAF,p.G466V,0
+NSCLC,BRAF,p.G469A,0
+NSCLC,BRAF,p.G469L,0
+NSCLC,BRAF,p.Y472C,0
+NSCLC,DDR2,p.S768R,0
+NSCLC,EGFR,p.A763_Y764insFQEA,0
+NSCLC,EGFR,p.A767_S768insTLA,0
+NSCLC,EGFR,p.D770>GY,0
+NSCLC,EGFR,p.D770_N771insG,0
+NSCLC,EGFR,p.D770_N771insNPG,0
+NSCLC,EGFR,p.D770_N771insSVD,0
+NSCLC,EGFR,p.G719A,0
+NSCLC,EGFR,p.G719C,0
+NSCLC,EGFR,p.G719S,0
+NSCLC,EGFR,p.H773_V774insH,0
+NSCLC,EGFR,p.H773_V774insNPH,0
+NSCLC,EGFR,p.V769_D770insASV,0
+NSCLC,EML4,Fusion,0
+NSCLC,KRAS,p.G12C,0
+NSCLC,KRAS,p.G12D,0
+NSCLC,KRAS,p.G12S,0
+NSCLC,KRAS,p.G12V,0
+NSCLC,KRAS,p.G13C,0
+NSCLC,KRAS,p.G13D,0
+NSCLC,KRAS,p.G13S,0
+NSCLC,NRAS,p.G12A,0
+NSCLC,NRAS,p.G12C,0
+NSCLC,NRAS,p.G12D,0
+NSCLC,NRAS,p.G12R,0
+NSCLC,NRAS,p.G12S,0
+NSCLC,NRAS,p.Q61H,0
+NSCLC,NRAS,p.Q61K,0
+NSCLC,NRAS,p.Q61L,0
+NSCLC,NRAS,p.Q61R,0
